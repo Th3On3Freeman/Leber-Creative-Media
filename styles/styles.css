@@ -1,0 +1,12 @@
+/*General Classes*/
+
+
+/* .deactiveSect - For hiding content */
+.deactiveSect
+{
+    display: none;
+}
+
+/* .activeSect - For checking content that should be showing */
+.activeSect
+{}
