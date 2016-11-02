@@ -1,10 +1,10 @@
-/*Videography Section*/
-#videography
+/*Duplicate Green Sections*/
+#videography, #popSpectrum 
 {
     background: #18BC9C;
 }
 
-#videography .container .row .col-lg-12 h2
+#videography .container .row .col-lg-12 h2, #popSpectrum .container .row .col-lg-12 h2
 {
     color: white;
 }

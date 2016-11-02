@@ -14,7 +14,7 @@
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Leber Creative Media"/>
         <meta property="og:description" name="description" content="Web Developer - Video Editor" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/thumbnail.PNG">
+        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/thumbnail.jpg">
         <meta property="og:image:height" content="1083">
         <meta property="og:image:width" content="1920">
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/">
@@ -65,6 +65,9 @@
                         <li class="page-scroll">
                             <a href="#blog">Blog</a>
                         </li>
+                        <li class="page-scroll">
+                            <a href="#contact">Contact</a>
+                        </li>
                     </ul>
                 </div>
                 <!-- /.navbar-collapse -->
@@ -87,7 +90,7 @@
                         <div class="intro-text">
                             <span class="name">Leber Creative Media</span>
                             <hr class="star-light">
-                            <span class="skills">Web Developer - Video Editor</span>
+                            <span class="skills">Video Editor - Web Developer</span>
                         </div>
                     </div>
                 </div>
@@ -111,7 +114,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/featureFilms.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/feature-films.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -121,9 +124,11 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/shortFilms.PNG" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/short-films.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
+                </div>
+                <div class="row">
                     <div class="col-sm-6 portfolio-item">
                         <a href="#filmModal3" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -131,7 +136,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/trailers.PNG" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/trailers.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -141,7 +146,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/demoReelsTEST.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/demo-reels.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>
@@ -165,7 +170,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/weddings.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/weddings.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -175,7 +180,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/commercials.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/commercials.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>
@@ -192,34 +197,115 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#filmModal1" class="portfolio-link" data-toggle="modal">
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="#musicVideosModal1" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/amvTEST.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/AMV.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="#musicVideosModal2" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/live-action.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <!--
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#musicVideosModal3" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/images/filmedTEST.png" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    -->
+                </div>
+            </div>
+        </section>
+        
+        <!--Pop Spectrum-->
+        <section id="popSpectrum" class="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>Pop Spectrum</h2>
+                        <hr class="star-light">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="#popSpectrumModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/reviews.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="#popSpectrumModal2" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/reactions.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!--Blog-->
+        <section id="blog" class="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2>Blog</h2>
+                        <hr class="star-primary">
+                        <h3>Best of Television</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="#blogModal1" class="portfolio-link" data-toggle="modal">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2013.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#filmModal2" class="portfolio-link" data-toggle="modal">
+                        <a href="#blogModal2" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/liveActionTEST.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2014.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                     <div class="col-sm-4 portfolio-item">
-                        <a href="#filmModal3" class="portfolio-link" data-toggle="modal">
+                        <a href="#blogModal3" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/filmedTEST.png" class="img-responsive" alt="">
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2015.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>
