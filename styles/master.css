@@ -1,0 +1,24 @@
+/*Styles*/
+
+/*Bootstrap CSS*/
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+
+/*Freelancer Theme*/
+
+    /*Primary CSS*/
+    @import url("../includes/Bootstrap Themes/Freelancer/css/freelancer.min.css");
+        
+    /*Font Awesome CSS*/
+    @import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+    /*Font: Montserrat*/
+    @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700");
+    /*Font: Lato*/
+    @import url("https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic");
+
+/*Social Icons CSS*/
+@import url("../includes/Bootstrap Plugins/Social Icons/bootstrap-social.css");
+
+/*Personal CSS*/
+@import url("../styles/styles.css");
+@import url("../styles/freelancerThemeModified.css");

@@ -1,0 +1,26 @@
+@media(min-width:768px) {
+    #wrapper {
+        padding-left: 0;
+    }
+    
+    #wrapper.toggled {
+        padding-left: 250px;
+    }
+    
+    #sidebar-wrapper {
+        width: 0;
+    }
+    
+    #wrapper.toggled #sidebar-wrapper {
+        width: 250px;
+    }
+    
+    #page-content-wrapper {
+        position: absolute;
+    }
+    
+    #wrapper.toggled #page-content-wrapper {
+        position: absolute;
+        margin-right: -250px;
+    }
+}

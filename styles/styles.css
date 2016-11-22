@@ -10,3 +10,86 @@
 /* .activeSect - For checking content that should be showing */
 .activeSect
 {}
+
+/* .pillContainer - Styling for pill container*/
+.pillContainer
+{
+    text-align:center;
+}
+.pillContainer ul.nav-pills 
+{ 
+    display:inline-block; 
+}
+.pillContainer li 
+{ 
+    display:inline; 
+}
+.pillContainer a 
+{ 
+    float:left; 
+}
+/* IE6 */
+* html .centered-pills ul.nav-pills 
+{ 
+    display:inline; 
+} 
+/* IE7 */
+*+html .centered-pills ul.nav-pills { 
+    display:inline; 
+} 
+
+/* .sidebarTrigger - Styling for sidebar trigger button*/
+.sidebarTrigger
+{
+    padding-bottom: 12px;
+}
+
+/* .navbar-sidebar-fix - Styling for the navbar for every page except home*/
+.navbar-sidebar-fix
+{
+    padding-right: 0;
+    padding-left: 0;
+    max-height: 340px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 0;
+    border-radius: 0;
+    top: 0;
+    border-width: 0 0 1px;
+}
+@media (max-device-width: 480px) and (orientation: landscape) 
+{
+    .navbar-sidebar-fix
+    {
+        max-height: 200px;
+    }
+}
+
+/*.imdb - Social Media Icon - IMDB*/
+.imdb, .www
+{
+    display: inline;
+    padding: 9px 1px 12px 2px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+@media (min-device-width: 481px) and (orientation: landscape)
+{
+    /*.mediaDesc - Description of Media*/
+    .mediaDesc
+    {
+        margin-top: 10px;
+        text-align: justify;
+    }
+    
+    /*imageWrapStyle - Styling for images that will have text wrapping*/
+    .imageWrapStyle
+    {
+        margin-right: 10px;
+        margin-bottom: 0px;
+        float: left;
+    }
+}

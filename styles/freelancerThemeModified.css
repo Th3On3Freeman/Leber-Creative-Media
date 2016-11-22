@@ -1,0 +1,37 @@
+/*Duplicate Green Sections*/
+#videography, #popSpectrum 
+{
+    background: #18BC9C;
+}
+#videography .container .row .col-lg-12 h2, #popSpectrum .container .row .col-lg-12 h2
+{
+    color: white;
+}
+
+.tab-content .tab-pane .skills
+{
+    font-size: 1.75em; 
+    font-weight: 800; 
+}
+
+@media (max-device-width: 480px)
+{
+    .tab-content .tab-pane .skills
+    {
+        font-size: 2.25em;
+        margin-bottom: 20px;
+    }
+}
+
+.selectedRow
+{
+    background-color: #18BC9C;
+}
+
+/*
+.indentedRows
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+*/
