@@ -37,8 +37,9 @@
     <body id="page-top" class="index">
         
         <?php
-            //Mobile Test
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/includes/Mobile_Test/mobileTest.php");
+            //Config File
+            require_once ("http://".$_SERVER["SERVER_NAME"]."/config.php");
+        
             //Navigation Bar
             require_once ("http://".$_SERVER["SERVER_NAME"]."/nav/filmNav.php");
         ?>
