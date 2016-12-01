@@ -23,5 +23,5 @@
 <!--Personal CSS-->
 <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/styles.css" rel="stylesheet">
 
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/freelancerThemeModified.css" rel="stylesheet">
+<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/freelancerThemeModified.css?d=<?php echo time(); ?>" rel="stylesheet">
 

@@ -14,17 +14,17 @@
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Short Films"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.jpg">
+        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/short-films/thumbnail.jpg">
         <meta property="og:image:height" content="450">
         <meta property="og:image:width" content="800">
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/short-films/thumbnail.PNG" />
 
         <?php
             //Styles
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/styles/styles.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/styles/styles.php");
         ?>
         
         <!--Hover Dropdown CSS-->
@@ -39,14 +39,15 @@
         <?php
             //Mobile Test
             require_once ("http://".$_SERVER["SERVER_NAME"]."/includes/Mobile_Test/mobileTest.php");
-            //Navigation Bar
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/nav/filmNav.php");
+            //Navigation (Film)
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
         ?>
             
             <header>
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
+
                             <div class="intro-text">
                                 <span class="name">Short Films</span>
                                 <hr class="star-light">
@@ -118,9 +119,12 @@
 
         <?php
             //Scripts
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/scripts/scripts.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/scripts/scripts.php");
         ?>
-        
+        <script>
+            //Highlight nav row
+            $("#sfRow").addClass("selectedRow");
+        </script>
     </body>
     
 </html>

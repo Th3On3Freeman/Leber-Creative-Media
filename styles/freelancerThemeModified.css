@@ -28,10 +28,12 @@
     background-color: #18BC9C;
 }
 
-/*
-.indentedRows
+.navbar-fixed-top .navbar-collapse
 {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    max-height: none;
 }
-*/
+
+.subIndent
+{
+    margin-left: 50px;
+}

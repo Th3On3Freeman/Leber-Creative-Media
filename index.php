@@ -22,13 +22,11 @@
         <meta property="fb:app_id" content="APPID"/>
         <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/thumbnail.PNG" />
 
-        <!--
-        <link href="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/styles/master.css" rel="stylesheet">
-        -->
         <?php
         
             //Styles
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/styles/styles.php");
+            //require_once ("http://".$_SERVER["SERVER_NAME"]."/styles/styles.php");
+            require_once ($_SERVER['DOCUMENT_ROOT']."/styles/styles.php");
         ?>
     </head>
     
@@ -160,7 +158,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php" class="portfolio-link">
+                        <a href="#filmModal3" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -406,7 +404,8 @@
         
         <?php
             //Scripts
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/scripts/scripts.php");
+            //require_once ("http://".$_SERVER["SERVER_NAME"]."/scripts/scripts.php");
+            require_once ($_SERVER['DOCUMENT_ROOT']."/scripts/scripts.php");
         ?>
         
             <!--<p>A subsidiary of Leber Creative LLC</p>-->
