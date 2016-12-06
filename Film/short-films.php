@@ -14,13 +14,13 @@
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Short Films"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/short-films/thumbnail.jpg">
+        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.jpg">
         <meta property="og:image:height" content="450">
         <meta property="og:image:width" content="800">
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/short-films/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.PNG" />
 
         <?php
             //Styles
@@ -56,8 +56,8 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#brotherConflict" class="btn btn-default">A Brother's Conflict</a></li>
-                                    <li><a data-toggle="pill" href="#blackDove" class="btn btn-default">The Book & The Black Dove</a></li>
+                                    <li><a data-toggle="pill" href="#brotherConflict" class="btn btn-default">A Brother's Conflict (2011)</a></li>
+                                    <li><a data-toggle="pill" href="#blackDove" class="btn btn-default">The Book & The Black Dove (2012)</a></li>
                                 </ul>
                             </div>
                                 <br>
@@ -81,7 +81,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>A Brother's Conflict</h2>
+                                            <h2>A Brother's Conflict (2011)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor</span>
                                             
@@ -103,7 +103,7 @@
                                         <br>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h2>The Book & The Black Dove</h2>
+                                            <h2>The Book & The Black Dove (2012)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor</span>
                                             

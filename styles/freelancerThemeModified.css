@@ -37,3 +37,58 @@
 {
     margin-left: 50px;
 }
+
+.list-group
+{
+    max-height: 400px;
+    overflow-y: scroll;
+    background-color: #AAB1B9;
+}
+
+.list-group-item
+{
+    color: black;
+    height: 68px;
+    background-color: #bfc5ca;
+}
+
+.list-group-item:hover
+{
+    background-color: #6b7784;
+    cursor: pointer;
+}
+
+/*Tablet and Phone*/
+@media (max-device-width: 1024px)
+{  
+    .list-group
+    {
+        max-height: 200px;
+    }
+    
+    list-group-item
+    {
+        height: 68px;
+    }
+}
+
+.list-group-item a
+{
+    color: black; 
+    text-decoration: none;
+}
+
+.list-group-item a p
+{
+    line-height: 2;
+}
+
+/*Phone*/
+@media (max-device-width: 360px) and (orientation: portrait)
+{
+    .list-group-item a p
+    {
+        font-size: 16px;
+        line-height: 2.7;
+    }
+}

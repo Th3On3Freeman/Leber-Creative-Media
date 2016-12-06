@@ -14,13 +14,13 @@
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Feature Films"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/feature-films/thumbnail.jpg">
+        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/feature-films/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/feature-films/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/feature-films/thumbnail.PNG" />
 
         <?php
             //Styles
@@ -57,8 +57,8 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#tta" class="btn btn-default">The Tailor's Apprentice</a></li>
-                                    <li><a data-toggle="pill" href="#miami" class="btn btn-default">MIA-mi</a></li>
+                                    <li><a data-toggle="pill" href="#tta" class="btn btn-default">The Tailor's Apprentice (2014)</a></li>
+                                    <li><a data-toggle="pill" href="#miami" class="btn btn-default">MIA-mi (2015)</a></li>
                                 </ul>
                             </div>
                                 <br>
@@ -82,7 +82,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>The Tailor's Apprentice</h2>
+                                            <h2>The Tailor's Apprentice (2014)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor - Casting Assistant</span>
                                             
@@ -90,36 +90,11 @@
                                         </div>
                                     </div>
                                         <br>
-                                    <p>Follow The Tailor's Apprentice on these media platforms:</p>
                                     
-                                    <!--Official Website-->
-                                    <div class="www">
-                                        <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.tailorsapprentice.com/" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/www.png) no-repeat 0 0;">
-                                        </a>
-                                    </div>
-                                    
-                                    <!--Facebook-->
-                                    <a class="btn btn-social-icon btn-lg btn-facebook" target="_blank" href="https://www.facebook.com/TailorsApprentice/?fref=ts">
-                                        <span class="fa fa-facebook"></span>
-                                    </a>
-                                    
-                                    <!--IMDB-->
-                                    <div class="imdb">
-                                        <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/title/tt2195998/?ref_=fn_al_tt_1" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/imdb.png) no-repeat 0 0;">
-                                        </a>
-                                    </div>
-                                    
-                                    
-                                    <!--LinkedIn-->
-                                    <a class="btn btn-social-icon btn-lg btn-linkedin" target="_blank" href="https://www.linkedin.com/company/10660400?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A10660400%2Cidx%3A2-1-2%2CtarId%3A1478818329383%2Ctas%3ABespoke%20Pictures">
-                                        <span class="fa fa-linkedin"></span>
-                                    </a>
-                                    
-                                    <!--Vimeo-->
-                                    <a class="btn btn-social-icon btn-lg btn-vimeo" target="_blank" href="https://vimeo.com/jefflehman">
-                                        <span class="fa fa-vimeo"></span>
-                                    </a>
-                                    
+                                    <?php
+                                        //The Tailor's Apprentice Social Links
+                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/tta.php");
+                                    ?>
                                     
                                 </div>
                                 <div id="miami" class="tab-pane fade">
@@ -136,7 +111,7 @@
                                         <br>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h2>MIA-mi</h2>
+                                            <h2>MIA-mi (2015)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Assistant Editor</span>
                                             
@@ -144,46 +119,11 @@
                                         </div>
                                     </div>
                                         <br>
-                                    <p>Follow MIA-mi on these media platforms:</p>
                                     
-                                    <!--Official Website-->
-                                    <div class="www">
-                                        <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.mia-mi.com/" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/www.png) no-repeat 0 0;">
-                                        </a>
-                                    </div>
-                                    
-                                    
-                                    
-                                    <!--Facebook-->
-                                    <a class="btn btn-social-icon btn-lg btn-facebook" target="_blank" href="https://www.facebook.com/MiAmiMovie/?fref=ts">
-                                        <span class="fa fa-facebook"></span>
-                                    </a>
-                                    
-                                    <!--Google Plus-->
-                                    <a class="btn btn-social-icon btn-lg btn-google" target="_blank" href="https://plus.google.com/113900561514350471636">
-                                        <span class="fa fa-google"></span>
-                                    </a>
-                                    
-                                    <!--IMDB-->
-                                    <div class="imdb">
-                                        <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/title/tt3512652/?ref_=nm_knf_t2" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/imdb.png) no-repeat 0 0;">
-                                        </a>
-                                    </div>
-                                    
-                                    <!--Tumblr-->
-                                    <a class="btn btn-social-icon btn-lg btn-tumblr" target="_blank" href="http://miamimovie.tumblr.com/">
-                                        <span class="fa fa-tumblr"></span>
-                                    </a>
-
-                                    <!--Twitter-->
-                                    <a class="btn btn-social-icon btn-lg btn-twitter" target="_blank" href="https://twitter.com/MIAmiMovie">
-                                        <span class="fa fa-twitter"></span>
-                                    </a>
-                                    
-                                    <!--Vimeo-->
-                                    <a class="btn btn-social-icon btn-lg btn-vimeo" target="_blank" href="https://vimeo.com/miamimovie">
-                                        <span class="fa fa-vimeo"></span>
-                                    </a>
+                                    <?php
+                                        //MIA-mi Social Links
+                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
+                                    ?>
                                     
                                 </div>
                             </div>

@@ -26,10 +26,10 @@
                                       <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">- Short Films</a>
                                     </li>
                                     <li id="tRow" class="menu-item subIndent">
-                                      <a href="#">- Trailers</a>
+                                      <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php">- Trailers</a>
                                     </li>
                                     <li id="drRow" class="menu-item subIndent">
-                                      <a href="#">- Demo Reels</a>
+                                      <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">- Demo Reels</a>
                                     </li>
                                       
                                 <?php        
@@ -48,10 +48,10 @@
                                         <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">Short Films</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="#">Trailers</a>
+                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php">Trailers</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="#">Demo Reels</a>
+                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">Demo Reels</a>
                                     </li>
                                 </ul>
                             </li>   

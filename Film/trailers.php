@@ -1,6 +1,6 @@
-<!--Leber Creative Media - SHORT FILMS
+<!--Leber Creative Media - FEATURE FILMS
     Author: Michael A. Leber
-    Date: 11/16/16 -->
+    Date: 11/4/16 -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -17,14 +17,14 @@
         <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php">
+        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
         <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.PNG" />
 
         <?php
             //Styles
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/styles/styles.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/styles/styles.php");
         ?>
         
         <!--Hover Dropdown CSS-->
@@ -35,28 +35,30 @@
     </head>
     
     <body id="page-top" class="index">
-
+        
         <?php
             //Mobile Test
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/includes/Mobile_Test/mobileTest.php");
-            //Navigation Bar
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/nav/filmNav.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+        
+            //Navigation (Film)
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
         ?>
             
             <header>
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
+
                             <div class="intro-text">
-                                <span class="name">Short Films</span>
+                                <span class="name">Trailers</span>
                                 <hr class="star-light">
                             </div>         
                             
                             <div class="pillContainer">
                                 <ul class="nav nav-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#brotherConflict" class="btn btn-default">A Brother's Conflict</a></li>
-                                    <li><a data-toggle="pill" href="#blackDove" class="btn btn-default">The Book & The Black Dove</a></li>
+                                    <li><a data-toggle="pill" href="#miamiPromoTeaser" class="btn btn-default">MIA-mi Promo Teaser (2014)</a></li>
+                                    <li><a data-toggle="pill" href="#miamiTeaserTrailer" class="btn btn-default">MIA-mi Teaser Trailer (2015)</a></li>
                                 </ul>
                             </div>
                                 <br>
@@ -64,14 +66,14 @@
                                 <div id="intro" class="tab-pane fade in active">
                                     <h2>Introduction</h2>
                                     <hr class="star-light">
-                                    <p>When I first got involved with the Film department at the University of Central Florida, I attended a Meet and Greet event where people could meet up and coming student directors for a chance to work on their projects. One of the directors I talked to (<i>Rohan Khublall</i>) offered me the chance to be an editor on a couple of short films with him.</p>
+                                    <p>Throughout my time working as an assistant editor on MIA-mi, I was given the opportunity to edit multiple trailers for the film. These were a rewarding experience that gave me the opportunity to experiment and build new skills.</p>
                                 </div>
-                                <div id="brotherConflict" class="tab-pane fade">
+                                <div id="miamiPromoTeaser" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/192634827"></iframe>
+                                                <iframe src="//player.vimeo.com/video/96714779"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -80,21 +82,28 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>A Brother's Conflict</h2>
+                                            <h2>MIA-mi Promo Teaser (2015)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor</span>
                                             
-                                            <p class="mediaDesc">This was the first film I ever edited, which made it an interesting experience. I had never collaborated with a director before, so working in tandem with him throughout the creative process was a rewarding chance for me to learn how to construct scenes that followed the original script, but also find the little moments that occurred during the filming process that weren't necessarily part of the original plan.</p>
+                                            <p class="mediaDesc">When I first began working on MIA-mi, our director <i>Yesenia Lima</i> gave me a chance to prove myself by having me edit a short teaser promotional video for her film. This was made in order to give an idea of the character of the city of Miami.</p>
                                         </div>
                                     </div>
+                                        <br>
+                                    
+                                    <?php
+                                        //MIA-mi Social Links
+                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
+                                    ?>
+                                    
                                 </div>
-                                <div id="blackDove" class="tab-pane fade">
+                                <div id="miamiTeaserTrailer" class="tab-pane fade">
                                     
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/192630228"></iframe>
+                                                <iframe src="//player.vimeo.com/video/119817822"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -102,13 +111,19 @@
                                         <br>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h2>The Book & The Black Dove</h2>
+                                            <h2>MIA-mi Teaser Trailer (2015)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor</span>
                                             
-                                            <p class="mediaDesc">The second time I worked with <i>Rohan Khublall</i> we already had a rapport, so we were able to dive right in. This film presented a lot of interesting challenges, such as having to find ideal performances from the actors in some scenes. This script was more ambitious than the previous one, and a big part of the editing process involved building tension and then releasing it afterwards in the correct way.</p>
+                                            <p class="mediaDesc">While working on an Assembly Cut of the film MIA-mi, I was given the opportunity to edit a proper teaser trailer for the film. I went through various iterations of this trailer, both incorporating footage from the short film that was made before the film, and the film itself. It was interesting to have to look at the film as a whole and try to pick out key moments to both draw the audience in, and at the same time making sure to give moments to each of the primary characters.</p>
                                         </div>
                                     </div>
+                                        <br>
+                                    <?php
+                                        //MIA-mi Social Links
+                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
+                                    ?>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -118,8 +133,13 @@
 
         <?php
             //Scripts
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/scripts/scripts.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/scripts/scripts.php");
         ?>
+        <script>
+            //Highlight nav row
+            $("#tRow").addClass("selectedRow");
+        </script>
+        
         
     </body>
     
