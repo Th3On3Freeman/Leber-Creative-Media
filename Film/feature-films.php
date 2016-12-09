@@ -55,16 +55,16 @@
                             </div>         
                             
                             <div class="pillContainer">
-                                <ul class="nav nav-pills">
-                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#tta" class="btn btn-default">The Tailor's Apprentice (2014)</a></li>
-                                    <li><a data-toggle="pill" href="#miami" class="btn btn-default">MIA-mi (2015)</a></li>
+                                <ul class="nav nav-pills center-pills">
+                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li><a data-toggle="pill" href="#tta" class="btn btn-default pillTabs">The Tailor's Apprentice</a></li>
+                                    <li><a data-toggle="pill" href="#miami" class="btn btn-default pillTabs">MIA-mi</a></li>
                                 </ul>
                             </div>
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>Introduction</h2>
+                                    <h2>About</h2>
                                     <hr class="star-light">
                                     <p>During my time as a student at the University of Central Florida (UCF), I had the pleasure of working with the UCF Film community on two feature films. Both were directed by graduate students working on their Masters of Fine Arts (MFA) degrees. Currently these are the two largest projects I have worked on yet.</p>
                                 </div>

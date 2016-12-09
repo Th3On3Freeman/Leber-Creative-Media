@@ -55,16 +55,16 @@
                             </div>         
                             
                             <div class="pillContainer">
-                                <ul class="nav nav-pills">
-                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#miamiPromoTeaser" class="btn btn-default">MIA-mi Promo Teaser (2014)</a></li>
-                                    <li><a data-toggle="pill" href="#miamiTeaserTrailer" class="btn btn-default">MIA-mi Teaser Trailer (2015)</a></li>
+                                <ul class="nav nav-pills center-pills">
+                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li><a data-toggle="pill" href="#miamiPromoTeaser" class="btn btn-default pillTabs">MIA-mi Promo Teaser</a></li>
+                                    <li><a data-toggle="pill" href="#miamiTeaserTrailer" class="btn btn-default pillTabs">MIA-mi Teaser Trailer</a></li>
                                 </ul>
                             </div>
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>Introduction</h2>
+                                    <h2>About</h2>
                                     <hr class="star-light">
                                     <p>Throughout my time working as an assistant editor on MIA-mi, I was given the opportunity to edit multiple trailers for the film. These were a rewarding experience that gave me the opportunity to experiment and build new skills.</p>
                                 </div>

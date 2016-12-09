@@ -23,6 +23,8 @@
 .pillContainer
 {
     text-align:center;
+    margin-left: auto; 
+    margin-right: auto;
 }
 .pillContainer ul.nav-pills 
 { 
@@ -105,3 +107,25 @@
 ::-webkit-scrollbar-thumb:window-inactive {
 	background: rgba(44, 62, 80, 0.6);
 }
+
+.pillTabs
+{
+    width: 300px;
+}
+
+@media (max-device-width: 640px)
+{
+    .center-pills
+    {
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex !important;
+        flex-direction: column;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        -webkit-box-align: center;.
+        align-items: center;
+        height: 100%;
+    }
+}
+

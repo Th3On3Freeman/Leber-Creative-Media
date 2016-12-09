@@ -54,16 +54,16 @@
                             </div>         
                             
                             <div class="pillContainer">
-                                <ul class="nav nav-pills">
-                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#brotherConflict" class="btn btn-default">A Brother's Conflict (2011)</a></li>
-                                    <li><a data-toggle="pill" href="#blackDove" class="btn btn-default">The Book & The Black Dove (2012)</a></li>
+                                <ul class="nav nav-pills center-pills">
+                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li><a data-toggle="pill" href="#brotherConflict" class="btn btn-default pillTabs">A Brother's Conflict</a></li>
+                                    <li><a data-toggle="pill" href="#blackDove" class="btn btn-default pillTabs">The Book & The Black Dove</a></li>
                                 </ul>
                             </div>
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>Introduction</h2>
+                                    <h2>About</h2>
                                     <hr class="star-light">
                                     <p>When I first got involved with the Film department at the University of Central Florida, I attended a Meet and Greet event where people could meet up and coming student directors for a chance to work on their projects. One of the directors I talked to (<i>Rohan Khublall</i>) offered me the chance to be an editor on a couple of short films with him.</p>
                                 </div>

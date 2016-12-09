@@ -55,17 +55,16 @@
                             </div>         
                             
                             <div class="pillContainer">
-                                <ul class="nav nav-pills">
-                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default">Intro</a></li>
-                                    <li><a data-toggle="pill" href="#bAnderson" class="btn btn-default">Barry Anderson (2016)</a></li>
-                                    <li><a data-toggle="pill" href="#mLeber14" class="btn btn-default">Michael Leber (2014)</a></li>
-                                    <li><a data-toggle="pill" href="#mLeber11" class="btn btn-default">Michael Leber (2011)</a></li>
+                                <ul class="nav nav-pills center-pills">
+                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li><a data-toggle="pill" href="#bAnderson" class="btn btn-default pillTabs">Make Up Effects</a></li>
+                                    <li><a data-toggle="pill" href="#mLeber" class="btn btn-default pillTabs">Video Editing</a></li>
                                 </ul>
                             </div>
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>Introduction</h2>
+                                    <h2>About</h2>
                                     <hr class="star-light">
                                     <p>Over the years, I've created several demo reels to showcase my work to potential clients. I have also recently begun making demo reels to showcase other people's work as well.</p>
                                 </div>
@@ -83,7 +82,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Barry Anderson (2016)</h2>
+                                            <h2>Make-up Effects: Barry Anderson (2016)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Song: In the House - In a Heartbeat (John Murphy) </span>
                                             
@@ -108,8 +107,9 @@
                                         </div>
                                     </div>      
                                 </div>
-                                <div id="mLeber14" class="tab-pane fade">
+                                <div id="mLeber" class="tab-pane fade">
                                     
+                                    <!--Demo Reel 2014-->
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
@@ -122,7 +122,7 @@
                                         <br>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h2>Michael Leber (2014)</h2>
+                                            <h2>Video Editing - Michael Leber (2014)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Song: Dov's Goodbye (Matt Bukaty)</span>
                                             
@@ -142,9 +142,8 @@
                                             </ul>
                                         </div>
                                     </div>
-                                </div>
-                                <div id="mLeber11" class="tab-pane fade">
                                     
+                                    <!--Demo Reel 2011-->
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
@@ -157,7 +156,7 @@
                                         <br>
                                     <div class="row">
                                         <div class="col-lg-12">
-                                            <h2>Michael Leber (2011)</h2>
+                                            <h2>Video Editing - Michael Leber (2011)</h2>
                                             <hr class="star-light">
                                             <span class="skills">Song: Freedom Fighters (Two Steps From Hell)</span>
                                             
