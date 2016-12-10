@@ -192,7 +192,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#videographyModal1" class="portfolio-link">
+                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
