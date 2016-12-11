@@ -114,7 +114,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/106132665"></iframe>
+                                                <iframe src="//player.vimeo.com/video/106132665?quality=720p"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -126,16 +126,16 @@
                                             <hr class="star-light">
                                             <span class="skills">Song: Dov's Goodbye (Matt Bukaty)</span>
                                             
-                                            <p class="mediaDesc">After having worked on several short films, and a feature film, I decided it was time to make a proper demo reel featuring my work. Unfortunately, since the footage for <b>The Tailor's Apprentice</b> hasn't been made publicly available yet, I've had to make do with footage from the trailer. In order to accomodate this limitation, and since I wanted to use dialogue from the film, I decided to structure the reel around the the music used in the trailer for The Tailor's Apprentice. This resulted in a mixture of the trailer audio, and the correlating song from the soundtrack.</p>
+                                            <p class="mediaDesc">After having worked on several short films, and a feature film, I decided it was time to make a proper demo reel featuring my work. Unfortunately, since the footage for <b>The Tailor's Apprentice</b> hasn't been made publicly available yet, I've had to make do with footage from an older version of the trailer. In order to accomodate this limitation, and since I wanted to use dialogue from the film, I decided to structure the reel around the the music used in the trailer for The Tailor's Apprentice. This resulted in a mixture of the trailer audio, and the correlating song from the soundtrack.</p>
                                             
                                             <p>This demo reel features footage from: </p>
                                             
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt3512652/?ref_=nm_knf_t2" target="_blank"><p class="list-group-item-text">MIA-mi (2015)</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt2195998/?ref_=nm_knf_t1" target="_blank"><p class="list-group-item-text">The Tailor's Apprentice (2014)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Wedding: Phil & Laurel (2014)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Seaway (2014)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Wedding: John & Gretchen</p></a></li>
+                                                <li class="list-group-item"><a href="https://vimeo.com/195050184" target="_blank"><p class="list-group-item-text">Wedding: Phil & Laurel (2014)</p></a></li>
+                                                <li class="list-group-item"><a href="#"><p class="list-group-item-text">Seaway (2014)</p></a></li>
+                                                <li class="list-group-item"><a href="https://vimeo.com/194995594" target="_blank"><p class="list-group-item-text">Wedding: John & Gretchen</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=stgnvkLCNEk" target="_blank"><p class="list-group-item-text">Bsteps Revolution (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/192630228" target="_blank"><p class="list-group-item-text">The Book & The Black Dove (2012)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/192634827" target="_blank"><p class="list-group-item-text">A Brother's Conflict (2011)</p></a></li>
@@ -148,7 +148,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//www.youtube.com/embed/dRQNOTuDvxU?rel=0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
+                                                <iframe src="//www.youtube.com/embed/dRQNOTuDvxU" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -165,8 +165,8 @@
                                             <p>This demo reel features footage from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Fight the Power (2011)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Mock-up Lost Trailer (2010)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Nv6-kAzraUg" target="_blank"><p class="list-group-item-text">Fight the Power (2011)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.dailymotion.com/video/xcnrng_epic-lost-trailer-v3_shortfilms" target="_blank"><p class="list-group-item-text">Mock-up Lost Trailer (2010)</p></a></li>
                                                 <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Accidentally in Love (2006)</p></a></li>
                                                 <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2006)</p></a></li>
                                             </ul>

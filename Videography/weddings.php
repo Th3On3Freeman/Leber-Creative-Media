@@ -74,7 +74,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/195050184"></iframe>
+                                                <iframe src="//player.vimeo.com/video/195050184?quality=720p"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -94,7 +94,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//www.youtube.com/embed/OVm87RGMml4" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
+                                                <div id="proposalVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -137,7 +137,7 @@
             //Highlight nav row
             $("#ffRow").addClass("selectedRow");
         </script>
-        
+        <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Videography/weddings/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
         
     </body>
     

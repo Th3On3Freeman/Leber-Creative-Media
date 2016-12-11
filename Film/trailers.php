@@ -73,7 +73,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/96714779"></iframe>
+                                                <iframe src="//player.vimeo.com/video/96714779?quality=720p"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -103,7 +103,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <iframe src="//player.vimeo.com/video/119817822"></iframe>
+                                                <iframe src="//player.vimeo.com/video/119817822?quality=720p"></iframe>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
