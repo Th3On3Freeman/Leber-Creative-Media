@@ -9,8 +9,7 @@
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Leber Creative Media</title>
+
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Leber Creative Media"/>
         <meta property="og:description" name="description" content="Web Developer - Video Editor" />
@@ -202,7 +201,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#videographyModal2" class="portfolio-link">
+                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>

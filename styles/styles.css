@@ -67,6 +67,14 @@
     text-indent: 50px;
 }
 
+@media (max-device-width: 480px)
+{
+    .mediaDesc
+    {
+        text-indent: 0;
+    }
+}
+
 @media (min-device-width: 481px) and (orientation: landscape)
 {
     /*.mediaDesc - Description of Media*/
@@ -129,3 +137,7 @@
     }
 }
 
+.mainText
+{
+    text-align: left;
+}

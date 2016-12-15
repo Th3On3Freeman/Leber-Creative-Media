@@ -1,6 +1,6 @@
-<!--Leber Creative Media - FEATURE FILMS
+<!--Leber Creative Media - WEDDINGS
     Author: Michael A. Leber
-    Date: 11/4/16 -->
+    Date: 12/9/16 -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,8 +9,7 @@
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Leber Creative Media</title>
+
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Weddings"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
@@ -20,7 +19,7 @@
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Videography/weddings/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Videography/weddings/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -135,7 +134,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#ffRow").addClass("selectedRow");
+            $("#wRow").addClass("selectedRow");
         </script>
         <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Videography/weddings/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
         

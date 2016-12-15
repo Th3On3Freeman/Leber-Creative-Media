@@ -1,6 +1,6 @@
-<!--Leber Creative Media - FEATURE FILMS
+<!--Leber Creative Media - DEMO REELS
     Author: Michael A. Leber
-    Date: 11/4/16 -->
+    Date: 12/6/16 -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,8 +9,7 @@
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Leber Creative Media</title>
+
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Demo Reels"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
@@ -20,7 +19,7 @@
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.jpg" />
 
         <?php
             //Styles

@@ -9,8 +9,7 @@
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Leber Creative Media</title>
+
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Short Films"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
@@ -20,7 +19,7 @@
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.jpg" />
 
         <?php
             //Styles

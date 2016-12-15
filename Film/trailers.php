@@ -1,6 +1,6 @@
-<!--Leber Creative Media - FEATURE FILMS
+<!--Leber Creative Media - TRAILERS
     Author: Michael A. Leber
-    Date: 11/4/16 -->
+    Date: 11/26/16 -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -9,8 +9,7 @@
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
-        <title>Leber Creative Media</title>
+
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Trailers"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
