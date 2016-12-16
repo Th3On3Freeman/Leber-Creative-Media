@@ -3,18 +3,18 @@
 {
     background: #18BC9C;
 }
-#videography .container .row .col-lg-12 h2, #popSpectrum .container .row .col-lg-12 h2, .tvEntryOdd .container .row .col-lg-12 .intro-text h2, .tvEntryOdd .container .row .col-lg-12 .intro-text .skills, .tvEntryOdd .container .row .col-lg-12 .intro-text .mainText
+#videography .container .row .col-lg-12 h2, #popSpectrum .container .row .col-lg-12 h2, .tvEntryOdd .container .row .col-lg-12 .intro-text h2, .tvEntryOdd .container .row .col-lg-12 .intro-text .skills, .tvEntryOdd .container .row .col-lg-12 .intro-text .mainText, .tvEntryOdd .container .row .col-lg-12 .intro-text .centerText
 {
     color: white;
 }
 
-.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a
+.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a, .yellowLinks .container .row .col-lg-12 .tab-content a
 {
     color: yellow;
     text-decoration: none;
 }
 
-.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a:hover
+.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a:hover,  .yellowLinks .container .row .col-lg-12 .tab-content a:hover
 {
     border-bottom: .1em solid yellow;
 }

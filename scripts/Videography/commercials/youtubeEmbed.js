@@ -7,19 +7,34 @@ var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);  
   
 // 2. This function creates an <iframe> (and YouTube player) after the API code downloads.  
-var player;  
+var paradisePools, bSteps;  
 function onYouTubeIframeAPIReady(id) {  
-    player = new YT.Player('bStepsVideo', {  
+
+    paradisePools = new YT.Player('ppVideo', {  
+               height: '1280',  
+               width: '720',  
+               videoId: 'DpySlOshjjo',  
+               events: {  
+                   'onReady': onPlayerReadyPP  
+               }  
+    });  
+    
+    bSteps = new YT.Player('bStepsVideo', {  
         height: '1280',  
         width: '720',  
         videoId: 'stgnvkLCNEk',  
         events: {  
-            'onReady': onPlayerReady  
+            'onReady': onPlayerReadyBS  
         }  
     });  
 }  
   
 // 3. The API will call this function when the video player is ready.  
-function onPlayerReady(event) {  
-    player.setPlaybackQuality('hd720'); // Here we set the quality (yay!)    
+function onPlayerReadyPP(event) {  
+    paradisePools.setPlaybackQuality('hd720');
+}  
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyBS(event) {  
+    bSteps.setPlaybackQuality('hd720'); 
 }  

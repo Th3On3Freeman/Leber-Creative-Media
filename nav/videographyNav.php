@@ -22,17 +22,12 @@
                             <li class="menu-item">  
                               <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#videography">Videography</span></a>
                             </li>
+                            <li id="aRow" class="menu-item subIndent">
+                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php">- Advertising</a>
+                            </li>
                             <li id="wRow" class="menu-item subIndent">
                               <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php">- Weddings</a>
                             </li>
-                            <li id="cmRow" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php">- Commercials</a>
-                            </li>
-                            <!--
-                            <li id="cpRow" class="menu-item subIndent">
-                                <a href="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Videography/companyProjects.php">- Company Projects</a>
-                            </li>
-                            -->
                         <?php        
                             } //end if
                             else
@@ -43,16 +38,11 @@
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#videography">Videography</span></a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
+                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php">Advertising</a>
+                                    </li>
+                                    <li class="menu-item submenu">
                                         <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php">Weddings</a>
                                     </li>
-                                    <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php">Commercials</a>
-                                    </li>
-                                    <!--
-                                    <li class="menu-item submenu">
-                                        <a href="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Videography/companyProjects.php">Company Projects</a>
-                                    </li>
-                                    -->
                                 </ul>
                             </li>   
                         <?php

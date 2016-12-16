@@ -178,6 +178,72 @@
                         </div>
                     </section>
                     
+                    <!--Honorable Mention-Luke Cage-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt3322314/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/luke-cage.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>Luke Cage</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Netflix</span>
+                                        <p class="mainText">As the Netflix Marvel slate continues to grow, the next Defender enters the ring and the world is more welcome for it. <a href="http://www.imdb.com/name/nm1591496/" target="_blank">Mike Colter</a> may have already been introduced in last year's stellar <i>Jessica Jones</i>, but that was only through Jessica's point of view. In <i>Luke Cage</i> is where we really learn about his way of life, and more specifically <b>Harlem</b>.</p>
+                                        
+                                        <p class="mainText"><b>Hell's Kitchen</b> may have been the setting of <i>Daredevil</i> and <i>Jessica Jones</i>, but it was mainly just a reference point. Harlem feels like an actual character in this show, from the way that people talk about it, down to the community that lives in it. Colter is serviceable enough for the lead role, but the soul of Harlem really lies in the supporting cast.</p>
+                                        
+                                        <p class="mainText">Specifically, I'm talking about <a href="http://www.imdb.com/name/nm0991810/" target="_blank">Mahershala Ali</a> and <a href="http://www.imdb.com/name/nm0005569/" target="_blank">Alfre Woodard</a>. Ali has a magnetic presence throughout most of the first season, as the owner of <b>Harlem's Paradise</b>, a front for the local mob. Meanwhile, Woodard's political presence is a huge part of what makes the city of Harlem sing, and her role only gets more interesting as the season progresses.</p>
+                                        
+                                        <p class="mainText">Executive Producer <a href="http://www.imdb.com/name/nm1854539/" target="_blank">Cheo Hodari Coker</a> uses music in an interesting way throughout the season, punctuating action beats and utilizing the club's locale to showcase the singers just as much as our hero. It's an interesting mix of standard comic book fare with the culture of this side of New York.</p>
+                                        
+                                        <p class="mainText">Unfortunately, the second half of the season doesn't fare quite as well. Once Ali's Cottonmouth plays his role during the season, a new villain is introduced that just isn't nearly as engaging. Woodard's Mariah continues to build her character throughout the season in interesting ways, but is sidelined for a more traditional confrontation that is disappointing mainly because the actor playing the new villain just isn't that engaging. However, the ending of the season sets up an intriguing future storyline that I just wish had played out this year instead.</p>
+                                        
+                                        <p class="mainText">Overall, what you have here is a flawed first season that has a lot of good ideas in place, but just spent a little too long getting there. <a href="http://www.imdb.com/name/nm1395855/" target="_blank">Simone Missick</a> and <a href="http://www.imdb.com/name/nm0744331/" target="_blank">Theo Rossi</a> round out the cast nicely, with both having the potential to step forward in the coming seasons.</p>
+                                        
+                                        <p class="centerText"><b><i>Always Forward, Forward Always</i></b></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--Honorable Mention-It's Always Sunny in Philadelphia-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt0472954/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/its-always-sunny-in-philadelphia.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>It's Always Sunny in Philadelphia</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">FXX</span>
+                                        <p class="mainText">Sunny is starting to show it's age. Going into it's 11th season, this cast just isn't putting out quite as many great episodes per year as they used to. While there are some clear highlights, such as <i>Mac & Dennis Move to the Suburbs</i> and <i>Being Frank</i> (primarily for it's inventiveness), most of the rest of this season is filled with jokes that don't hit as well as they should, and a disappointing two-part finale.</p>
+                                        
+                                        <p class="mainText">Hopefully the Gang gets back on the wagon next time.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
                 </div>
                 
                 <div class="tab-pane fade top20">
@@ -255,7 +321,7 @@
         //1-The Path (Hulu)
         //2-Orphan Black (BBC America)
         //3-American Horror Story (FX)
-        4-Luke Cage (Netflix)
+        //4-Luke Cage (Netflix)
         5-Fear The Walking Dead (AMC)
         6-It's Always Sunny in Philadelphia (FXX)
         7-Designated Survivor (ABC)

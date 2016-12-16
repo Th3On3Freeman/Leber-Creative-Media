@@ -191,16 +191,6 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php" class="portfolio-link">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    <i class="fa fa-search-plus fa-3x"></i>
-                                </div>
-                            </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/weddings.jpg" class="img-responsive" alt="">
-                        </a>
-                    </div>
-                    <div class="col-sm-6 portfolio-item">
                         <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
@@ -208,6 +198,16 @@
                                 </div>
                             </div>
                             <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/commercials.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php" class="portfolio-link">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/weddings.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>

@@ -11,7 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
-        <meta property="og:title" content="Commercials"/>
+        <meta property="og:title" content="Advertising"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
         <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Videography/commercials/thumbnail.jpg">
         <meta property="og:image:height" content="451">
@@ -43,20 +43,21 @@
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/videographyNav.php");
         ?>
             
-            <header>
+            <header class="yellowLinks">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Commercials</span>
+                                <span class="name">Advertising</span>
                                 <hr class="star-light">
                             </div>         
                             
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
-                                    <li><a data-toggle="pill" href="#bs" class="btn btn-default pillTabs">bSteps: The Revolution</a></li>
+                                    <li><a data-toggle="pill" href="#pp" class="btn btn-default pillTabs">Paradise Pools</a></li>
+                                    <li><a data-toggle="pill" href="#bs" class="btn btn-default pillTabs">bSteps</a></li>
                                 </ul>
                             </div>
                                 <br>
@@ -65,6 +66,31 @@
                                     <h2>About</h2>
                                     <hr class="star-light">
                                     <p>One of the most common uses for a camera is promotion and advertisement. Every successful business needs a voice and what better way to grab someone's attention than with a commercial? These are the projects that I've worked on in order to enhance and bring a brand into the public eye.</p>
+                                </div>
+                                <div id="pp" class="tab-pane fade">
+                                    
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="ppVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            <h2>Paradise Pools Timelapse Remaster (2016)</h2>
+                                            <hr class="star-light">
+                                            <span class="skills">Credit: Editor</span>
+                                            
+                                            <p class="mediaDesc">During the course of my time doing freelance web development, I've become fairly well acquainted with <a href="http://adam-taylor.com/" target="_blank">Adam Taylor</a>, founder of <a href="https://www.mywebsitespot.com/" target="_blank">MyWebsiteSpot</a>, which I regularly have done freelance development for. So when he learned of my interest and experience in video editing, he introduced me to one of his clients: <a href="http://www.paradisepoolsbydesign.com/" target="_blank">Paradise Pools By Design</a> and I was given the opportunity to redo and fix a promotional timelapse video that was previously compiled from still images by another company.</p>
+
+                                            <p class="mediaDesc">After discussing changes with the client, I made significant changes to the video, shortening it drastically because it was far too long for their purposes, as well as tightening up some slow segments, merging audio segments to maintain flow and incorporating graphic design elements made by another developer at MyWebsiteSpot.</p>
+                                            
+                                        </div>
+                                    </div>
                                 </div>
                                 <div id="bs" class="tab-pane fade">
                                     
@@ -106,7 +132,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#cmRow").addClass("selectedRow");
+            $("#aRow").addClass("selectedRow");
         </script>
         <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Videography/commercials/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
         
