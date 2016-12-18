@@ -19,7 +19,7 @@
         <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.jpg" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/demo-reels/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -27,7 +27,7 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css" rel="stylesheet">
+        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
         <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
         
@@ -91,17 +91,17 @@
                                             
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=WNwhUJQi7pM" target="_blank"><p class="list-group-item-text">Busch Gardens Howl-O-Scream (2015)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt2966874/?ref_=fn_al_tt_1" target="_blank"><p class="list-group-item-text">Fiend Fatale (2013)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1850418/?ref_=nv_sr_1" target="_blank"><p class="list-group-item-text">To Write Love on Her Arms (2012)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1568802/?ref_=nv_sr_1" target="_blank"><p class="list-group-item-text">As Night Falls (2010)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0427327/?ref_=nv_sr_2" target="_blank"><p class="list-group-item-text">Hairspray (2007)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0263488/?ref_=nv_sr_2" target="_blank"><p class="list-group-item-text">Jeepers Creepers (2001)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0246124/?ref_=nv_sr_2" target="_blank"><p class="list-group-item-text">Oliver Twisted (2000)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0113175/?ref_=nv_sr_1" target="_blank"><p class="list-group-item-text">The Girl with the Hungry Eyes (1995)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0107612/?ref_=nv_sr_1" target="_blank"><p class="list-group-item-text">Mr. Nanny (1993)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0099440/?ref_=nv_sr_2" target="_blank"><p class="list-group-item-text">The Disturbance (1990)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0096340/?ref_=nv_sr_2" target="_blank"><p class="list-group-item-text">The Unholy (1988)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0088993/?ref_=nv_sr_1" target="_blank"><p class="list-group-item-text">Day of the Dead (1985)</p></a></li>  
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt2966874/" target="_blank"><p class="list-group-item-text">Fiend Fatale (2013)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1850418/" target="_blank"><p class="list-group-item-text">To Write Love on Her Arms (2012)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1568802/" target="_blank"><p class="list-group-item-text">As Night Falls (2010)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0427327/" target="_blank"><p class="list-group-item-text">Hairspray (2007)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0263488/" target="_blank"><p class="list-group-item-text">Jeepers Creepers (2001)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0246124/" target="_blank"><p class="list-group-item-text">Oliver Twisted (2000)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0113175/" target="_blank"><p class="list-group-item-text">The Girl with the Hungry Eyes (1995)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0107612/" target="_blank"><p class="list-group-item-text">Mr. Nanny (1993)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0099440/" target="_blank"><p class="list-group-item-text">The Disturbance (1990)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0096340/" target="_blank"><p class="list-group-item-text">The Unholy (1988)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0088993/" target="_blank"><p class="list-group-item-text">Day of the Dead (1985)</p></a></li>  
                                             </ul>
                                         </div>
                                     </div>      
@@ -130,8 +130,8 @@
                                             <p>This demo reel features footage from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt3512652/?ref_=nm_knf_t2" target="_blank"><p class="list-group-item-text">MIA-mi (2015)</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt2195998/?ref_=nm_knf_t1" target="_blank"><p class="list-group-item-text">The Tailor's Apprentice (2014)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt3512652/" target="_blank"><p class="list-group-item-text">MIA-mi (2015)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt2195998/" target="_blank"><p class="list-group-item-text">The Tailor's Apprentice (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/195050184" target="_blank"><p class="list-group-item-text">Wedding: Phil & Laurel (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="#"><p class="list-group-item-text">Seaway (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/194995594" target="_blank"><p class="list-group-item-text">Wedding: John & Gretchen</p></a></li>
@@ -184,7 +184,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#tRow").addClass("selectedRow");
+            $("#drRow").addClass("selectedRow");
         </script>
         
         

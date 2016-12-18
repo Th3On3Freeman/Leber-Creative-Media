@@ -141,3 +141,8 @@
 {
     text-align: left;
 }
+
+.fullWidthDropdown
+{
+    width: 100%;   
+}

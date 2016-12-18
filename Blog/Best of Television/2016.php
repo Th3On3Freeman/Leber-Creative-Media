@@ -178,38 +178,28 @@
                         </div>
                     </section>
                     
-                    <!--Honorable Mention-Luke Cage-->
-                    <section class="portfolio tvEntry tvEntryOdd">
+                    <!--Honorable Mention-Broad City-->
+                    <section class="portfolio tvEntryOdd">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt3322314/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2578560/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/luke-cage.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/broad-city.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
                                     <div class="intro-text">
-                                        <h2>Luke Cage</h2>
+                                        <h2>Broad City</h2>
                                         <hr class="star-light">
-                                        <span class="skills">Netflix</span>
-                                        <p class="mainText">As the Netflix Marvel slate continues to grow, the next Defender enters the ring and the world is more welcome for it. <a href="http://www.imdb.com/name/nm1591496/" target="_blank">Mike Colter</a> may have already been introduced in last year's stellar <i>Jessica Jones</i>, but that was only through Jessica's point of view. In <i>Luke Cage</i> is where we really learn about his way of life, and more specifically <b>Harlem</b>.</p>
+                                        <span class="skills">Comedy Central</span>
+                                        <p class="mainText"><i>Broad City</i> stars two of the strangest, charming and relatable (can I say that as a man?) women in the current television landscape, and continues to stroll along despite dipping in the ratings this year. <a href="http://www.imdb.com/name/nm3434305/" target="_blank">Abbi Jacobson</a> continues to portray one of the most awkward people on television while <a href="http://www.imdb.com/name/nm4477261/" target="_blank">Ilana Glazer's</a> expressions and reactions are still some of the funniest to hit the small screen.</p>
                                         
-                                        <p class="mainText"><b>Hell's Kitchen</b> may have been the setting of <i>Daredevil</i> and <i>Jessica Jones</i>, but it was mainly just a reference point. Harlem feels like an actual character in this show, from the way that people talk about it, down to the community that lives in it. Colter is serviceable enough for the lead role, but the soul of Harlem really lies in the supporting cast.</p>
-                                        
-                                        <p class="mainText">Specifically, I'm talking about <a href="http://www.imdb.com/name/nm0991810/" target="_blank">Mahershala Ali</a> and <a href="http://www.imdb.com/name/nm0005569/" target="_blank">Alfre Woodard</a>. Ali has a magnetic presence throughout most of the first season, as the owner of <b>Harlem's Paradise</b>, a front for the local mob. Meanwhile, Woodard's political presence is a huge part of what makes the city of Harlem sing, and her role only gets more interesting as the season progresses.</p>
-                                        
-                                        <p class="mainText">Executive Producer <a href="http://www.imdb.com/name/nm1854539/" target="_blank">Cheo Hodari Coker</a> uses music in an interesting way throughout the season, punctuating action beats and utilizing the club's locale to showcase the singers just as much as our hero. It's an interesting mix of standard comic book fare with the culture of this side of New York.</p>
-                                        
-                                        <p class="mainText">Unfortunately, the second half of the season doesn't fare quite as well. Once Ali's Cottonmouth plays his role during the season, a new villain is introduced that just isn't nearly as engaging. Woodard's Mariah continues to build her character throughout the season in interesting ways, but is sidelined for a more traditional confrontation that is disappointing mainly because the actor playing the new villain just isn't that engaging. However, the ending of the season sets up an intriguing future storyline that I just wish had played out this year instead.</p>
-                                        
-                                        <p class="mainText">Overall, what you have here is a flawed first season that has a lot of good ideas in place, but just spent a little too long getting there. <a href="http://www.imdb.com/name/nm1395855/" target="_blank">Simone Missick</a> and <a href="http://www.imdb.com/name/nm0744331/" target="_blank">Theo Rossi</a> round out the cast nicely, with both having the potential to step forward in the coming seasons.</p>
-                                        
-                                        <p class="centerText"><b><i>Always Forward, Forward Always</i></b></p>
+                                        <p class="mainText">While some of these episodes aren't as strong as previous years, the writing is still on point and any episode featuring <a href="http://www.imdb.com/name/nm2868110/" target="_blank">Hannibal Buress</a> is always guaranteed to have a good line.</p>
                                     </div>
                                 </div>
                             </div>
@@ -238,6 +228,75 @@
                                         <p class="mainText">Sunny is starting to show it's age. Going into it's 11th season, this cast just isn't putting out quite as many great episodes per year as they used to. While there are some clear highlights, such as <i>Mac & Dennis Move to the Suburbs</i> and <i>Being Frank</i> (primarily for it's inventiveness), most of the rest of this season is filled with jokes that don't hit as well as they should, and a disappointing two-part finale.</p>
                                         
                                         <p class="mainText">Hopefully the Gang gets back on the wagon next time.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--Honorable Mention-Fear the Walking Dead-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt3743822/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/fear-the-walking-dead.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>Fear the Walking Dead</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">AMC</span>
+                                        
+                                        <p class="centerText"><i>Disclaimer: I have only seen up through Season 2, Episode 12: Pillar of Salt.</i></p>
+                                        
+                                        <p class="mainText">Man this show's a mess. There was a lot of potential for Season 2 to catapult the series into something interesting after the prequel nature that was present in Season 1 was ditched in favor of a journey on the Abigail - the open ocean!</p>
+                                        
+                                        <p class="mainText">Instead, after one waterlogged zombie encounter, a squandered pirate storyline and a retread on what may have well been Herschel's Farm the show sacrificed one of it's most interesting characters and sent everyone to Mexico. Okay so maybe this is how the show would differentiate itself, opting for an ethnic flavor with some new locales. Look, a hotel!</p>
+                                        
+                                        <p class="mainText">Look, not everything has been terrible. Chris and Travis' ongoing rodeo has been fairly interesting and <i>Grotesque</i> is one of the better solo outings this show has attempted so far. But so much of the rest of this show has been done before and done <i>far</i> better. Give <a href="http://www.imdb.com/name/nm0225332/" target="_blank">Kim Dickens</a> something more interesting to do than just worry about her children. Give us a reason to <i>Fear the Walking Dead</i>.</p>
+
+                                        <p class="mainText">And for God's sake if you're going to rip <a href="http://www.imdb.com/name/nm1486317/" target="_blank">Alycia Debnam-Carey</a> out of <i>The 100</i> for this, give her some better material.</p>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--Honorable Mention-Designated Survivor-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt0472954/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/designated-survivor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>Designated Survivor</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">FXX</span>
+                                        
+                                        <p class="centerText"><i>Disclaimer: I have only seen up through Season 1, Episode 4: The Enemy.</i></p>
+                                        
+                                        <p class="centerText"><a href="http://www.jackbauerfacts.com/" target="_blank">Jack Bauer's on television again!</a></p>
+                                        
+                                        <p class="centerText">Wait, that's not Jack Bauer, that's the president? So you're telling me he's not going to be in <a href="http://www.imdb.com/title/tt5345490/" target="_blank">24: Legacy</a>?</p>
+                                        
+                                        <p class="centerText"><a href="https://www.youtube.com/watch?v=4gCWXyLkMD0" target="_blank">DAMN IT!</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -274,35 +333,48 @@
                             </div>
                         </div>
                     </section>
-                    <!--The Top 20-19. Broad City-->
-                    <section class="portfolio tvEntryOdd">
+                    
+                    <!--The Top 20-19. Luke Cage-->
+                    <section class="portfolio tvEntry tvEntryOdd">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2578560/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt3322314/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/broad-city.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/luke-cage.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
                                     <div class="intro-text">
-                                        <h2>19. Broad City</h2>
+                                        <h2>19. Luke Cage</h2>
                                         <hr class="star-light">
-                                        <span class="skills">Comedy Central</span>
-                                        <p class="mainText"><i>Broad City</i> stars two of the strangest, charming and relatable (can I say that as a man?) women in the current television landscape, and continues to stroll along despite dipping in the ratings this year. <a href="http://www.imdb.com/name/nm3434305/" target="_blank">Abbi Jacobson</a> continues to portray one of the most awkward people on television while <a href="http://www.imdb.com/name/nm4477261/" target="_blank">Ilana Glazer's</a> expressions and reactions are still some of the funniest to hit the small screen.</p>
+                                        <span class="skills">Netflix</span>
+                                        <p class="mainText">As the Netflix Marvel slate continues to grow, the next Defender enters the ring and the world is more welcome for it. <a href="http://www.imdb.com/name/nm1591496/" target="_blank">Mike Colter</a> may have already been introduced in last year's stellar <i>Jessica Jones</i>, but that was only through Jessica's point of view. In <i>Luke Cage</i> is where we really learn about his way of life, and more specifically <b>Harlem</b>.</p>
                                         
-                                        <p class="mainText">While some of these episodes aren't as strong as previous years, the writing is still on point and any episode featuring <a href="http://www.imdb.com/name/nm2868110/" target="_blank">Hannibal Buress</a> is always guaranteed to have a good line.</p>
+                                        <p class="mainText"><b>Hell's Kitchen</b> may have been the setting of <i>Daredevil</i> and <i>Jessica Jones</i>, but it was mainly just a reference point. Harlem feels like an actual character in this show, from the way that people talk about it, down to the community that lives in it. Colter is serviceable enough for the lead role, but the soul of Harlem really lies in the supporting cast.</p>
                                         
-                                        <p class="mainText">Standout episodes this year include <i>Philadelphia</i> and <i>Burning Bridges</i>.</p>
+                                        <p class="mainText">Specifically, I'm talking about <a href="http://www.imdb.com/name/nm0991810/" target="_blank">Mahershala Ali</a> and <a href="http://www.imdb.com/name/nm0005569/" target="_blank">Alfre Woodard</a>. Ali has a magnetic presence throughout most of the first season, as the owner of <b>Harlem's Paradise</b>, a front for the local mob. Meanwhile, Woodard's political presence is a huge part of what makes the city of Harlem sing, and her role only gets more interesting as the season progresses.</p>
+                                        
+                                        <p class="mainText">Executive Producer <a href="http://www.imdb.com/name/nm1854539/" target="_blank">Cheo Hodari Coker</a> uses music in an interesting way throughout the season, punctuating action beats and utilizing the club's locale to showcase the singers just as much as our hero. It's an interesting mix of standard comic book fare with the culture of this side of New York.</p>
+                                        
+                                        <p class="mainText">Unfortunately, the second half of the season doesn't fare quite as well. Once Ali's Cottonmouth plays his role during the season, a new villain is introduced that just isn't nearly as engaging. Woodard's Mariah continues to build her character throughout the season in interesting ways, but is sidelined for a more traditional confrontation that is disappointing mainly because the actor playing the new villain just isn't that engaging. However, the ending of the season sets up an intriguing future storyline that I just wish had played out this year instead.</p>
+                                        
+                                        <p class="mainText">Overall, what you have here is a flawed first season that has a lot of good ideas in place, but just spent a little too long getting there. <a href="http://www.imdb.com/name/nm1395855/" target="_blank">Simone Missick</a> and <a href="http://www.imdb.com/name/nm0744331/" target="_blank">Theo Rossi</a> round out the cast nicely, with both having the potential to step forward in the coming seasons.</p>
+                                        
+                                        <p class="mainText">Standout episodes this year include <i>Step in the Arena</i> and <i>Manifest</i>.</p>
+                                        
+                                        <p class="centerText"><b><i>Always Forward, Forward Always</i></b></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
+                    
+                    
                 </div>
             </div>
             
@@ -321,15 +393,15 @@
         //1-The Path (Hulu)
         //2-Orphan Black (BBC America)
         //3-American Horror Story (FX)
-        //4-Luke Cage (Netflix)
-        5-Fear The Walking Dead (AMC)
-        6-It's Always Sunny in Philadelphia (FXX)
+        //4-Broad City (Comedy Central)
+        //5-It's Always Sunny in Philadelphia (FXX)
+        //6-Fear The Walking Dead (AMC)
         7-Designated Survivor (ABC)
         
         <h2>The Top 20</h2>
         
         20-Black Mirror (Netflix)
-        //19-Broad City (Comedy Central)
+        //19-Luke Cage (Netflix)
         18-House of Cards (Netflix)
         17-Daredevil (Netflix)
         16-The Walking Dead (AMC)

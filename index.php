@@ -225,7 +225,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#musicVideosModal1" class="portfolio-link">
+                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Music-Videos/amv.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>

@@ -1,6 +1,6 @@
-<!--Leber Creative Media - WEDDINGS
+<!--Leber Creative Media - ADVERTISING
     Author: Michael A. Leber
-    Date: 12/9/16 -->
+    Date: 12/14/16 -->
 
 <!DOCTYPE html>
 <html lang="en">
@@ -27,7 +27,7 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css" rel="stylesheet">
+        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
         <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
         
@@ -85,7 +85,7 @@
                                             <hr class="star-light">
                                             <span class="skills">Credit: Editor</span>
                                             
-                                            <p class="mediaDesc">During the course of my time doing freelance web development, I've become fairly well acquainted with <a href="http://adam-taylor.com/" target="_blank">Adam Taylor</a>, founder of <a href="https://www.mywebsitespot.com/" target="_blank">MyWebsiteSpot</a>, which I regularly have done freelance development for. So when he learned of my interest and experience in video editing, he introduced me to one of his clients: <a href="http://www.paradisepoolsbydesign.com/" target="_blank">Paradise Pools By Design</a> and I was given the opportunity to redo and fix a promotional timelapse video that was previously compiled from still images by another company.</p>
+                                            <p class="mediaDesc">During the course of my time doing freelance web development, I've become fairly well acquainted with <a href="http://adam-taylor.com/" target="_blank">Adam Taylor</a>, founder of <a href="https://www.mywebsitespot.com/" target="_blank">MyWebsiteSpot.com</a>, which I regularly have done freelance development for. So when he learned of my interest and experience in video editing, he introduced me to one of his clients: <a href="http://www.paradisepoolsbydesign.com/" target="_blank">Paradise Pools By Design</a> and I was given the opportunity to redo and fix a promotional timelapse video that was previously compiled from still images by another company.</p>
 
                                             <p class="mediaDesc">After discussing changes with the client, I made significant changes to the video, shortening it drastically because it was far too long for their purposes, as well as tightening up some slow segments, merging audio segments to maintain flow and incorporating graphic design elements made by another developer at MyWebsiteSpot.</p>
                                             

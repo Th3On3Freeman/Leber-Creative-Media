@@ -1,10 +1,10 @@
-@media (min-device-width: 481px) and (orientation: landscape)
+@media (min-device-width: 640px) and (orientation: landscape)
 {
 
-.dropdown {
+.dropdown.menu-item {
 			position:relative;
 		}
-.dropdown>.dropdown-menu {
+.dropdown.menu-item>.dropdown-menu {
 			top:0;
 			left:100%;
 			margin-top:30%;
@@ -13,10 +13,10 @@
 			-moz-border-radius:0 6px 6px 6px;
 			border-radius:0 6px 6px 6px;
 		}
-.dropdown:hover>.dropdown-menu {
+.dropdown.menu-item:hover>.dropdown-menu {
 			display:block;
 		}
-.dropdown>a:after {
+.dropdown.menu-item>a:after {
 			display:block;
 			content:" ";
 			float:right;
@@ -29,13 +29,13 @@
             margin-top: 5px;
 			margin-left:10px;
 		}
-.dropdown:hover>a:after {
+.dropdown.menu-item:hover>a:after {
 			border-left-color:#ffffff;
 		}
-.dropdown.pull-left {
+.dropdown.menu-item.pull-left {
 			float:none;
 		}
-.dropdown.pull-left>.dropdown-menu {
+.dropdown.menu-item.pull-left>.dropdown-menu {
 			left:-100%;
 			margin-left:10px;
 			-webkit-border-radius:6px 0 6px 6px;
