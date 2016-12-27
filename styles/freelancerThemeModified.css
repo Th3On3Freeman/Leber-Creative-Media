@@ -8,7 +8,7 @@
     color: white;
 }
 
-.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a, .yellowLinks .container .row .col-lg-12 .tab-content p a
+.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a, .tvEntryOdd .container .row .col-lg-12 .intro-text .centerText a, .yellowLinks .container .row .col-lg-12 .tab-content p a
 {
     color: yellow;
     text-decoration: none;

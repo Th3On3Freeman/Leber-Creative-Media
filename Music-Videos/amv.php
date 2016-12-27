@@ -56,7 +56,7 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
-                                    <li class="dropdown">
+                                    <li class="dropdown mobileDropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2016 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#i" class="fullWidthDropdown">Inbound</a></li>
@@ -91,7 +91,7 @@
                                     
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
-                                    <p class="mediaDesc">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                    <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
                                 <div id="i" class="tab-pane fade">
                                     <div class="row">
@@ -114,8 +114,8 @@
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201575" target="_blank">AMV.org Link</a></p>
                                             
                                             <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2016 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=712944" target="_blank">Hamstar138</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1020675" target="_blank">Potato Baron</a>.</p>
-                                            
-                                            <p class="mediaDesc">I suggested this song for our team and we each tried to take a chunk of the song and make our own thing out of it. It's rough, and could definitely use some improvement in places (give or take the several <b>4:3</b> shots that should have been scaled in on to fill the <b>16:9</b> video; as well as some miscommunication about intentional cuts to black); but overall I'm proud of what our team was able to accomplish.</p>
+
+                                            <p class="mediaDesc">As per the rules, four of us were given one hour each alone in the Thunderdome to work on the video. Since the event coordinator allowed me to suggest a song, I decided upon a compilation of the opening theme from <a href="https://www.blackmesasource.com/" target="_blank">Black Mesa</a>, for a mod that updated the game <a href="https://en.wikipedia.org/wiki/Half-Life_(video_game)" target="_blank">Half-Life</a>. And to make it a little more interesting we decided that we would not discuss the theme or the anime that we would use in the video so that each of our own styles and ideas could proliferate instead. Afterwards, our fifth team member had two hours to try and pull it all together. It's rough, and could definitely use some improvement in places (give or take the several <b>4:3</b> shots that should have been scaled in on to fill the <b>16:9</b> video; as well as some miscommunication about intentional cuts to black); but overall I'm proud of what our team was able to accomplish.</p>
                                             
                                             <p>This AMV features music from: </p>
                                             
@@ -142,6 +142,241 @@
                                         </div>
                                     </div>      
                                 </div>
+                                
+                                <div id="al" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="arsonistLullabyVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Arsonist's Lullabye (2016)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2016 Pro-Best Character Profile Nomination</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the Best Character Profile Award.</p>
+                                            
+                                            <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for Season 6</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened. </p>
+
+                                            <p class="mediaDesc">Because of this, after initiating their relationship, it became about Mustang tracking down everyone who was involved, from Lieutenant Maria Ross (though "his senses fooled him"), Lust and finally the fuhrer. I decided against involving Envy because I thought it would be too confusing to people who haven't seen the show, and that his final form would have lessened the dramatic impact of the climax. Because of this I combined the final fight with the fuhrer from the original with Mustang's descent into revenge from Brotherhood.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=XoQvbDROucQ" target="_blank"><p class="list-group-item-text">Hozier - Arsonist's Lullabye</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li> 
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="gs" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="genesisSkyfallVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Genesis Skyfall (2014)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2014 Pro-Best Artistic Endeavor && Youmacon 2016-Shaken Not Stirred</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=196714" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <div class="row">
+                                                <div class="col-lg-9">
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                </div>
+                                                
+                                                <div class="col-lg-3">
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2014-best-artistic-endeavor-award.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                </div>
+                                            </div>
+                                            <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/pdf/Music-Videos/amv/shaken-not-stirred.pdf" target="_blank">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/youmacon-2016-shaken-not-stirred.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            </a>
+                                            
+                                            <p class="centerText">Click to see larger version</p>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and Youmacon Fan Art Theater Contest in 2016. It won the Best Artistic Endeavor Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
+                                            
+                                            <p class="mediaDesc">I began this video about a year beforehand with the concept for the climax roughly completed long before the rest of the video. Later on closer to the contest deadline I got most of it finished in a single weekend before getting some reactions to it and tightening other aspects of it up to submit to AWA for the premiere.</p>
+
+                                            <p class="mediaDesc">This was the first time I used a bluray anime source to make an AMV, since everything else I always used DVD sources. I couldn't figure out how to get rid of some of the apparent visual issues at some points (though it looks better in my far less uncompressed version).</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=DeumyOzKqgI" target="_blank"><p class="list-group-item-text">Adele - Skyfall</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8420" target="_blank"><p class="list-group-item-text">Evangelion 1.0 You Are (Not) Alone</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421" target="_blank"><p class="list-group-item-text">Evangelion 2.0 You Can (Not) Advance</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8422" target="_blank"><p class="list-group-item-text">Evangelion 3.0 You Can (Not) Redo</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="cos" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="codeOfSwordsVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Code of Swords (2014)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2014 Pro Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201573" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014.</p>
+                                            
+                                            <p class="mediaDesc">Most of this was an experiment in seeing how exactly I could mimic each shot from the trailer.</p> 
+                                                <br>
+                                            <div class="row">
+                                                <div class="col-lg-2"></div>
+                                                <div class="col-lg-8">
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <div id="codeOfSwordsComparisonVideo"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-2"></div>
+                                            </div>
+                                                <br>
+                                            <p class="centerText">This used a trailer from Game of Thrones Season 3, and the characters imitated are shown below (throughout this list, <b>SAO</b> is short for <i>Sword Art Online</i>, while <b>CG</b> is short for <i>Code Geass</i>)</p>
+                                            
+                                                <div class="row">
+                                                    <div class="col-lg-3 col-xs-6">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Daenerys Targaryen</h3>
+                                                    </div>
+                                                    <div class="col-lg-3 col-xs-6">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Mance Rayder</h3>
+                                                    </div>
+                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-xs-4 hidden-sm-up"></div>
+                                                    <div class="col-lg-2 col-xs-4">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Asuna (SAO)</h3>
+                                                    </div>
+                                                    <div class="col-lg-2 col-xs-4"></div>
+                                                </div>
+                                                    <hr>
+                                                <div class="row">
+                                                    <div class="col-lg-4">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Tyrion Lannister</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-4">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Kirito (SAO)</h3>
+                                                    </div>
+                                                </div>
+                                                    <hr>
+                                                <div class="row">
+                                                    <div class="col-lg-1"></div>
+                                                    <div class="col-lg-3">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Cersei Lannister</h3>
+                                                    </div>
+                                                    <div class="col-lg-1"></div>
+                                                    <div class="col-lg-2 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-1"></div>
+                                                    <div class="col-lg-3">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Leafa (SAO)</h3>
+                                                    </div>
+                                                    <div class="col-lg-1"></div>
+                                                </div>
+                                                    <hr>
+                                                <div class="row">
+                                                    <div class="col-lg-1"></div>
+                                                    <div class="col-lg-3">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                        <h3>Robb Stark</h3>
+                                                    </div>
+                                                    <div class="col-lg-2 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-3"></div>
+                                                    <div class="col-lg-4">
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Suzaku (CG)</h3>
+                                                              
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Kirito (SAO)</h3>
+                                                    </div>
+                                                    <div class="col-lg-2"></div>
+                                                </div>
+                                                    <hr>
+                                            <p class="centerText">Tywin Lannister/Joffrey Baratheon/Commander Mormont - Lelouch (CG)</p>
+                                            <p class="centerText">Arya Stark - Silica (SAO)</p>
+                                            <p class="centerText">Stannis Baratheon - V.V. (CG)</p>
+                                            <p class="centerText">Melisandre - C.C. (CG)</p>
+                                            <p class="centerText">Brienne Tarth - Heathcliff (SAO)</p>
+                                            <p class="centerText">Daario Naharis - Kuradeel/Kirito (SAO)</p>
+                                            <p class="centerText">Catelyn Tully/Talisa Stark - Sugu (SAO)</p>
+                                            <p class="centerText">Tormund Giantsbane - Klein (SAO)/Kirito (SAO)</p>
+                                            <p class="centerText">Ygritte - Kallen (CG)</p>
+                                            <p class="centerText">Jon Snow/Jaime Lannister - Kirito (SAO)/Lelouch (CG)</p>
+                                            <p class="centerText">Bran Stark - Nunnally Lamperouge (CG)</p>
+                                            <p class="centerText">Margaery Tyrell - Euphy (CG)</p>
+                                            <p class="centerText">Asha Greyjoy - Villetta (CG)</p>
+                                            <p class="centerText">Myranda - Cornelia (CG)</p>
+                                            
+                                            <p>This AMV features trailer audio from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=p4iljcuzjG8" target="_blank"><p class="list-group-item-text">Game of Thrones: Season 3-Trailer 2</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13858" target="_blank"><p class="list-group-item-text">Sword Art Online</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion</p></a></li> 
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion R2</p></a></li> 
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
                             </div>
                         </div>
                     </div>
@@ -156,8 +391,19 @@
             //Highlight nav row
             $("#aRow").addClass("selectedRow");
         </script>
-        <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Music Videos/amv/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
         
+        <script type="text/javascript">
+            function downloadJSAtOnload() {
+                var element = document.createElement("script");
+                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Music Videos/amv/youtubeEmbed.js?d=<?php echo time(); ?>";
+                document.body.appendChild(element);
+            }
+            if (window.addEventListener)
+                window.addEventListener("load", downloadJSAtOnload, false);
+            else if (window.attachEvent)
+                window.attachEvent("onload", downloadJSAtOnload);
+            else window.onload = downloadJSAtOnload;
+        </script>
         
     </body>
     

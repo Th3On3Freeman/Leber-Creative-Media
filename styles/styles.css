@@ -146,3 +146,30 @@
 {
     width: 100%;   
 }
+
+.textContainer
+{
+    height: 262.5px; 
+    line-height: 232.5px;
+}
+
+@media (max-device-width: 640px)
+{
+  .textContainer
+  {
+      height: 65px;
+      line-height: normal;
+  }
+} 
+
+.valign
+{
+    display: inline-block;
+    vertical-align: middle;
+    color: yellow;
+}
+
+.imgFix
+{
+    max-height: 262.5px;
+}

@@ -15,3 +15,6 @@
 
 <!-- Theme JavaScript -->
 <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Themes/Freelancer/js/freelancer.min.js"></script>
+
+<!--Mobile Dropdown
+<script src="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/scripts/mobileDropdown.js"></script>-->

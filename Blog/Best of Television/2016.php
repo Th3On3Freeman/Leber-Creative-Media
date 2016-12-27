@@ -171,7 +171,7 @@
                                         
                                         <p class="mainText">Once the premiere had aired and the theme became clear, this season showed some promise with an interesting change in format (a trend that would continue throughout the season at various times). Unfortunately, although the sum total is a definite improvement over most of the <a href="http://www.imdb.com/name/nm3078932/" target="_blank">Lady Gaga</a> filled mess that was <i>Hotel</i>, it just can't match up to the abyss of seasons like <i>Asylum</i>.</p>
                                         
-                                        <p class="mainText">There was strong acting here from <a href="http://www.imdb.com/name/nm0000870/" target="_blank">Kathy Bates</a> and most surprisingly this year from <a href="http://www.imdb.com/name/nm0692013/" target="_blank">Adina Porter</a>, but too much of this show isn't dramatically interesting or scary anymore; instead going for shocks above all else.</p>
+                                        <p class="mainText">There was strong acting here from <a href="http://www.imdb.com/name/nm0000870/" target="_blank">Kathy Bates</a> and especially from <a href="http://www.imdb.com/name/nm0692013/" target="_blank">Adina Porter</a>, but too much of this show isn't dramatically interesting or scary anymore; instead going for shocks above all else.</p>
                                     </div>
                                 </div>
                             </div>
@@ -275,7 +275,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt0472954/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt5296406/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -303,39 +303,53 @@
                         </div>
                     </section>
                     
-                </div>
-                
-                <div class="tab-pane fade top20">
-                    <!--The Top 20-20. Black Mirror-->
-                    <section class="portfolio tvEntry">
+                    <!--Honorable Mention-Black Mirror-->
+                    <section class="portfolio tvEntry tvEntryOdd">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2578560/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2085059/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/broad-city.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/black-mirror.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
                                     <div class="intro-text">
-                                        <h2>20. Black Mirror</h2>
-                                        <hr class="star-primary">
+                                        <h2>Black Mirror</h2>
+                                        <hr class="star-light">
                                         <span class="skills">Netflix</span>
-                                        <p class="mainText">This year had a promising start, with the twist of reintroducing the long forgotten Beth clone, but it dropped that intriguing plot point fairly early in the season in favor of more convoluted storylines for a show long past it's prime.</p>
                                         
-                                        <p class="mainText"><a href="http://www.imdb.com/name/nm1137209/" target="_blank">Tatiana Maslany</a> is still doing wonderful work here in all of her various roles and I'm <i>thrilled</i> that she finally won an emmy for her work, but the writing just isn't as good as it used to be.</p>
+                                        <p class="mainText">Black Mirror is a British Twilight-Zone style anthology series focusing on the dangers of a world with an increasing reliance upon technology. Each season has usually been three episodes long, except for the Christmas Special (featuring <a href="http://www.imdb.com/name/nm0358316/" target="_blank">Jon Hamm</a>). So when it was announced that <b>Netflix</b> would be producing <i>12</i> new episodes, people were understandably nervous (though later it came to light this would be split over two seasons). Black Mirror episodes are always best experienced blind, so while I'll give some impressions about the themes explored in each episode, I won't go into any details about the new technology involved.</p>
+                                        
+                                        <p class="mainText">The first new episode is <i>Nosedive</i> (featuring <i>Jurassic World's</i> <a href="http://www.imdb.com/name/nm0397171/" target="_blank">Bryce Dallas Howard</a>) is a great episode to dive back into the horrifying implications of the future of social media. She gives one of her best performances here and her journey throughout is sad and a transformation to behold. This episode also features a beautiful score by the great <a href="http://www.imdb.com/name/nm2068037/" target="_blank">Max Richter</a>.</p>
+                                        
+                                        <p class="mainText"><i>Playtest</i> is an episode that starts off seemingly normal, but then dives into a strange ride through the possibilities of Augmented Reality. While it takes a bit to get going, once this episode gets into gear it's a <i>trip</i>.</p>
+                                        
+                                        <p class="mainText"><i>Shut Up and Dance</i> (featuring <i>Game of Thrones'</i> <a href="http://www.imdb.com/name/nm0283492/" target="_blank">Jerome Flynn</a>) is a dark episode that has a lot of potential and doesn't quite live up to it, but is still a tense ride along the way. It's also one of the only episodes of Black Mirror that is entirely possible today.</p>
+                                        
+                                        <p class="mainText">The fourth (and best episode this season by far) is <i>San Junipero</i> (featuring the wonderful talent of <a href="http://www.imdb.com/name/nm4496875/" target="_blank">Mackenzie Davis</a> from <i>Halt & Catch Fire</i>. This episode breaks the mold from most episodes that result in darker endings with a surprisingly hopeful resolution; and to say anything more would be a tragedy on my part.</p>
+                                        
+                                        <p class="mainText"><i>Men Against Fire</i> (featuring <i>Orange is the New Black's</i> <a href="http://www.imdb.com/name/nm5483400/" target="_blank">Madeline Brewer</a>) is a war episode that has some really good ideas, but the execution is lacking.</p>
+                                        
+                                        <p class="mainText">Unfortunately the final episode <i>Hated in the Nation</i> is both the longest and the dullest. I expect better from <i>Black Mirror</i>.
+                                        
+                                        <p class="mainText">Overall, this is a season feels like it would have been better serviced with a more traditional episode count, given that <i>Nosedive</i> and <i>San Junipero</i> are the only episodes that feel up to the very high standards that previous episodes set. Hopefully the next round of episodes that Netflix produces have a higher ratio that match previous seasons.</p>
+                                        
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
                     
-                    <!--The Top 20-19. Luke Cage-->
-                    <section class="portfolio tvEntry tvEntryOdd">
+                </div>
+                
+                <div class="tab-pane fade top20">
+                    <!--The Top 20-20. Luke Cage-->
+                    <section class="portfolio tvEntry">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
@@ -350,8 +364,8 @@
                                 </div>                    
                                 <div class="col-lg-12 text-center">
                                     <div class="intro-text">
-                                        <h2>19. Luke Cage</h2>
-                                        <hr class="star-light">
+                                        <h2>20. Luke Cage</h2>
+                                        <hr class="star-primary">
                                         <span class="skills">Netflix</span>
                                         <p class="mainText">As the Netflix Marvel slate continues to grow, the next Defender enters the ring and the world is more welcome for it. <a href="http://www.imdb.com/name/nm1591496/" target="_blank">Mike Colter</a> may have already been introduced in last year's stellar <i>Jessica Jones</i>, but that was only through Jessica's point of view. In <i>Luke Cage</i> is where we really learn about his way of life, and more specifically <b>Harlem</b>.</p>
                                         
@@ -365,9 +379,515 @@
                                         
                                         <p class="mainText">Overall, what you have here is a flawed first season that has a lot of good ideas in place, but just spent a little too long getting there. <a href="http://www.imdb.com/name/nm1395855/" target="_blank">Simone Missick</a> and <a href="http://www.imdb.com/name/nm0744331/" target="_blank">Theo Rossi</a> round out the cast nicely, with both having the potential to step forward in the coming seasons.</p>
                                         
-                                        <p class="mainText">Standout episodes this year include <i>Step in the Arena</i> and <i>Manifest</i>.</p>
+                                        <p class="centerText">Standout episodes this year include <i>Step in the Arena</i> and <i>Manifest</i>.</p>
                                         
                                         <p class="centerText"><b><i>Always Forward, Forward Always</i></b></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-19. Daredevil-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt3322312/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/daredevil.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>19. Daredevil</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Netflix</span>
+                                        <p class="mainText">Coming back <i>Daredevil</i> didn't have as much to prove. Having already initiated <i>The Defenders</i> (comprised of <i>Daredevil</i>, <i>Jessica Jones</i>, <i>Luke Cage</i> and <i>Iron Fist</i>), season 2 could have rested on it's laurels and brought back Kingpin for another round.</p> 
+                                            
+                                        <p class="mainText">However, <a href="http://www.imdb.com/name/nm0677956/" target="_blank">Doug Petrie</a> and <a href="http://www.imdb.com/name/nm3059675/" target="_blank">Marco Ramirez</a> had other plans. Instead of going the easy route, they introduced not only one, but <b>two</b> new players for <a href="http://www.imdb.com/name/nm1214435/" target="_blank">Charlie Cox's</a> Matthew Murdock to tussle with in the ring: The Punisher (played by <i>The Walking Dead's</i> <a href="http://www.imdb.com/name/nm1256532/" target="_blank">Jon Bernthal</a> and Elektra (played by <a href="http://www.imdb.com/name/nm1392388/" target="_blank">Elodie Yung</a>).</p>
+                                        
+                                        <p class="mainText">The first arc of the season focuses on Punisher right out of the gate, and a lot of this is great. The roots of much of this performance can be seen in Shane's turn towards the dark side during The Walking Dead, and it's clear that Bernthal is truly in his element when he's playing this kind of character. This arc builds to a great climax in a graveyard between Cox and Bernthal that moves the story to the next stage.</p>
+                                        
+                                        <p class="mainText">The second arc doesn't play out quite as well, introducing Elektra back into Matthew's life, as we learn that there's a long history between the two of them that also extends to the returning <a href="http://www.imdb.com/name/nm0001277/" target="_blank">Scott Glenn</a> as Stick. Unfortunately Elektra's relationship with Matt just isn't nearly as engaging as the Punisher material that preceded it, and the parallel storyline with Punisher and returning co-star <a href="http://www.imdb.com/name/nm2832695/" target="_blank">Deborah Ann Woll</a> as Karen Page continues to outshine everything about it. She also gets a great scene partner to spar with in <a href="http://www.imdb.com/name/nm0134666/" target="_blank">Geoffrey Cantor's</a> Mitchell Ellison, further solidifying that the Elektra storyline doesn't have as much to offer.</p>
+                                        
+                                        <p class="mainText">Luckily though, the Punisher storyline gets a kickstart around the final third of the season and helps make up for a lot of Elektra's shortcomings. While the ending of the season's focus isn't exactly where I wish it was, it teases a more interesting storyline that might play out either in Season 3 or <i>The Defenders</i>.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>Penny and Dime</i> and <i>Seven Minutes in Heaven</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-18. The Walking Dead-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt1520211/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>18. The Walking Dead</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">AMC</span>
+                                        <p class="centerText">Man this show has just been a <i>TRIP</i>.</p>
+                                        
+                                        <p class="mainText">So starting with delaying the moment that all comic readers were waiting for in the mid-season finale (and essentially making the mid-season premiere just mid-season finale: part 2), <i>The Walking Dead</i> began a disturbing trend of delaying audience gratification and taking what could have been potentially great adaptations of key moments from the comic and slicing them off at the knee. It also ended with this ridiculous montage.</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/montage.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="mainText">This trend continued in the penultimate episode, where the episode ended with the ridiculous notion that one of the core characters was going to be killed by an off-screen gunshot and one of the worst special effects I've ever seen in a television show. This was insulting to fans and just a cheap shot to catch people offguard.</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/bad-effect.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+
+                                        <p class="mainText">However, the absolute worst offender of this was in April's season finale, which was continually teased the new villain <b>Negan</b> (played by <a href="http://www.imdb.com/name/nm0604742/" target="_blank">Jeffrey Dean Morgan</a>) and that he was going to make a huge impact in that episode. Instead, what happened was this moment was saved until the very end of the episode, and then they refused to deliver; deciding instead to turn one of the most impactful moments in the comic into a guessing game that completely cheapened the impact this moment may have had (it also doesn't help that they beat this horse in the first half of the season back in 2015).</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/pov.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+
+                                        <p class="mainText">It doesn't end there folks! Even in the September season premiere, this moment was delayed further, and then preempted with another letdown, adding an unnecessary addition to the moment that could have been covered earlier in the season. Therefore, when the moment finally arrived, even though it was extremely faithful to the moment in the comic, it wasn't nearly as effective as it could have played out in the season finale.</p>
+                                        
+                                        <p class="mainText">Beyond that whole mess, there are some aspects of the show that are still working. <a href="http://www.imdb.com/name/nm0564350/" target="_blank">Melissa McBride</a> is still doing amazing work as Carol, and although her character hits a snag near the end of Season 6, I think that ship will be righted before all is said and done. There's also an extremely dark episode in the latter half of Season 6 that poses a great moral question to our heroes.</p>
+                                        
+                                        <p class="mainText">However, once Season 7 started, things are still shaky. There was a great introduction to <b>The Kingdom</b> early on, but most of the other episodes that have decided to focus on a single location just haven't worked nearly as well. AMC has also been a bit too lenient on the showrunners this time, giving them a lot of extended air time during episodes that really didn't need it.</p>
+                                        
+                                        <p class="mainText">Speaking of extended air time, a lot of focus has been placed on Negan during this first half of the season, and while the Morgan is doing good work here at times, cable television censorship is hurting the character's image and while it's clearly tempting to use Negan as much as possible, a more restrained approach would help make his presence more effective.</p>
+                                        
+                                        <p class="mainText">Hopefully the backlash that resulted over the missteps the creative team made this season will inform their decisions moving forward.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>Not Tomorrow Yet</i>, <i>The Same Boat</i> and <i>The Well</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-17. House of Cards-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt1856010/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/house-of-cards.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>17. House of Cards</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Netflix</span>
+                                        
+                                        <p class="mainText">The show that first put Netflix on the map with the groundbreaking strategy of releasing the entire season at once is back for a fourth round, and better than ever. While the first season made huge waves as being a back-stabbing political drama with many twists and turns throughout, the show has slowly shied away from that as it's progressed. However, for the first time since early on in Season 2, <i>House of Cards</i> seems to have begun to find that spark again. The problem is that after the tragedy of Peter Russo and Zoe Barnes, the show got bogged down in Chinese politics and an adversary that left something to be desired. Then, after Frank Underwood (played by the always compelling <a href="http://www.imdb.com/name/nm0000228/" target="_blank">Kevin Spacey</a>) finally achieved the presidency there wasn't much else for him to scheme about other than how to maintain his status.</p>
+                                        
+                                        <p class="mainText">In Season 4, the show seems to have finally figured out how to get past that. While there aren't any schemes as maliciously twisted as Season 1, it's replaced with Frank's past coming back to haunt him in a big way, which is sorely needed after Season 3 seemed to wipe the slate clean as much as it did. There are some sequences around the midway point of this season that are as twisted as the show has ever attempted.</p>
+                                        
+                                        <p class="mainText">Much of the first half of the season is focused on the new rivalry between Frank and Claire Underwood (played by <a href="http://www.imdb.com/name/nm0000705/" target="_blank">Robin Wright</a>) that was teased at the end of Season 3. While this is interesting at first, elements of this relationship have been explored in previous seasons so a direct confrontation can only offer so much at this point. The second half of the season introduces a new rival that has a very public image and it's a refreshing new enemy for the Underwoods to tangle with. This ends with a climax that makes a bold statement and promises another intriguing plotline for 2017.</p>
+                                        
+                                        <p class="centerText">The standout episode for this year is <i>Chapter 43</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-16. Mr. Robot-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt4158110/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/mr-robot.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>16. Mr. Robot</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">USA</span>
+                                        
+                                        <p class="mainText">When Mr. Robot first premiered last year, it was a breakout success and most people never would have expected to see it on a network like USA. A lot of shows are guilty of drastically oversimplifying or misrespresenting how a process like "hacking" actually works (not that I'm a hacking expert by any means, but I do have a Computer Science degree), and Mr. Robot is one of the few shows that actually tries to get it right. Beyond that, one of the most interesting aspects of the show came to the forefront in Season 2: Elliot (played by the hypnotic <a href="http://www.imdb.com/name/nm1785339/" target="_blank">Rami Malek</a>) has a second personality named Mr. Robot (represented by <a href="http://www.imdb.com/name/nm0000225/" target="_blank">Christian Slater</a>, his long-dead father nonetheless). The "big twist" of Season 1 (which in reality was a bait and switch for the real twist, being the revelation of Elliot's sister) became the core conflict of the season, making it impossible to tell what's real and what isn't (as a later episode in season 2 would prove).</p>
+                                        
+                                        <p class="mainText">This meant that much of Elliot's story this year was an internal conflict, instead of an external one. While last season had a clear goal and resolution with the 9/5 hack, this year Elliot almost never knew what was going on (most amusingly during the episode where showrunner <a href="http://www.imdb.com/name/nm1322753/" target="_blank">Sam Esmail</a> opened an episode with the most audacious sequence the show has ever attempted: a 17 minute sitcom inside Elliot's head). What this meant was that the supporting cast came to the forefront in regards to actual plot momentum, with Darlene (played by <a href="http://www.imdb.com/name/nm3361199/" target="_blank">Carly Chaikin</a>), Angela (played by <a href="http://www.imdb.com/name/nm0234668/" target="_blank">Portia Doubleday</a>) and Dominique (played by <a href="http://www.imdb.com/name/nm3501146/" target="_blank">Grace Gummer</a>) each having huge storylines with <b>FSociety</b>, <b>EvilCorp</b> and the <b>FBI</b> respectively. Given that one of the primary criticisms of Season 1 was that Elliot was the only fleshed out character (and just about everything seemed to be in service of the <b>5/9 hack</b> plotline, except for Angela and Tyrell), this is a definite improvement. All three of these actresses were given a great range to work with and converged with each other in interesting ways throughout the season.</p>
+                                        
+                                        <p class="mainText">One of the things that didn't change however, is the online theorizing machines, which resulted in the primary twist of the first half of the season being guessed fairly quickly (more on that phenomenon later in this list). While this didn't take away from my overall enjoyment of the show, I will be avoiding critical analysis of this show in the future.</p>
+                                        
+                                        <p class="mainText">The core mystery this year was where in the world is Tyrell Wellick (played by <a href="http://www.imdb.com/name/nm3501146/" target="_blank">Martin Wallström</a>) after his encounter with Elliot at the end of last season? Tyrell was one of the most interesting characters last year, and his disappearance, while at first intriguing, takes far too long to get resolved. While his wife Joanna (played by <a href="http://www.imdb.com/name/nm4066934/" target="_blank">Stephanie Corneliussen</a>) beceomes more interesting the more we learn about her, she's only peripherally involved to the story this time around and there's no one else that shows up to fill that gap (though <a href="http://www.imdb.com/name/nm0732497/" target="_blank">Craig Robinson</a> and <a href="http://www.imdb.com/name/nm5352388/" target="_blank">Joey Bada$$</a> are great additions to the cast).</p>
+                                        
+                                        <p class="mainText">Rounding things out is the partnership between the CEO of EvilCorp Phillip Price (played by <a href="http://www.imdb.com/name/nm0188165/" target="_blank">Michael Cristofer</a>) and the shadowy cross-dressing leader of the Dark Army Whiterose (played by <a href="http://www.imdb.com/name/nm0000703/" target="_blank">BD Wong</a>). Though their scenes are less interesting plot-wise (mostly focusing on the mystery of the <b>Washington Township Plant</b>), both of these actors have particular styles that make them more interesting to watch as people, and thus, make their scenes a treat to look forward to.</p>
+                                        
+                                        <p class="mainText">Overall, this season expanded the mythology of this universe in interesting ways, but I just wish Elliot's internal conflict hadn't taken so much of the season.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>eps2.4m4ster-s1ave.aes</i> and <i>eps2.8h1dden-pr0cess.axx</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-15. Rectify-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2183404/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/rectify.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>15. Rectify</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Sundance</span>
+                                        
+                                        <p class="centerText">Daniel Holden (played admirably by <a href="http://www.imdb.com/name/nm0949237/" target="_blank">Aden Young</a>) has been through <i>a lot</i>.</p>
+                                        
+                                        <p class="mainText">After having been imprisoned for 20 years and finally let out on a technicality, he has done everything he can just to readjust to every day society, though his development was clearly stunted while in captivity. He's branched out just enough to move away from home, and yet he can never escape the experience of what happened to him in the unsupervised walls of justice.</p>
+                                        
+                                        <p class="mainText">However, Daniel's not the only one still in prison. His sister Amantha (played by <a href="http://www.imdb.com/name/nm0817844/" target="_blank">Abigail Spencer</a>) has been stuck in a waking nightmare ever since her brother was sent away, doing everything she can to help get him out; she's spent so long trying to get him out, but now that he is she doesn't know what to do with herself. His mother Janet (played by <a href="http://www.imdb.com/name/nm0810397/" target="_blank">J. Smith-Cameron</a>), having lost her son before he truly grew up can't bring herself to stop trying to take care of him. Teddy (played by <a href="http://www.imdb.com/name/nm0186728/" target="_blank">Clayne Crawford</a>) and Tawney (played by <a href="http://www.imdb.com/name/nm2564938/" target="_blank">Adelaide Clemens</a>) are clinging to a broken marriage, just trying to find a way to rectify a truth that neither of them want to fully accept.</p>
+                                            
+                                        <p class="mainText">Everyone in Daniel's family has been irrevocably affected by the choices that Roland Foulkes (played by <a href="http://www.imdb.com/name/nm0642259/" target="_blank">Michael O'Neill</a>) and the rest of the local justice department made on that fateful day in Paulie. The great mystery on Rectify has always been what really happened that night in the woods, with all signs pointing to Trey (played like a sly southern snake by <a href="http://www.imdb.com/name/nm0108703/" target="_blank">Sean Bridgers</a>), who has given absolutely no reason throughout the course of the series that his word can be trusted. The case has continued to develop over the course of the series, but showrunner <a href="http://www.imdb.com/name/nm0571964/" target="_blank">Ray McKinnon</a> isn't interested in the whodunit.</p>
+                                        
+                                        <p class="mainText"><i>Rectify</i> has always been about Daniel's rehabilitation into society, brought to a focal point this year with him joining the <b>New Canaan Project</b>, and even therapy. While it would dance with the devil in the lion's den at times (such as in Season 2's <i>Weird as You</i>), it was never the point. In reality, this show has always been more interested in painting a tapestry of how Daniel views the world, and the impact that a man trapped in solitary confinement for the majority of his life can have on those who have accepted false truths and closed their minds off from the possibility that they might be wrong.</p>
+                                        
+                                        <p class="centerText">After all, can you ever truly know another person?</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>Pineapples in Paris</i> and <i>Happy Unburdening</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-14. Horace and Pete-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt5425186/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/horace-and-pete.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>14. Horace and Pete</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">LouisCK.net</span>
+                                        
+                                        <p class="centerText">Once upon a time, there was a comedian named <a href="http://www.imdb.com/name/nm0127373/" target="_blank">Louis CK</a>.</p>
+                                        
+                                        <p class="mainText">He began his career as a standup comedian and made a name for himself. Then one day, he worked with FX to make a show called <i>Louie</i>. This show incorporated elements of his real-life experiences to create a show that was unapologetic, unique and pushed boundaries. After five years of that, Louie went away for a while and all was quiet. Then one day, an e-mail popped into our inboxes with the title of a new show <i>Horace and Pete</i>.</p>
+                                        
+                                        <p class="mainText">The first of it's kind, this show was released on <a href="https://louisck.net/" target="_blank">LouisCK.net</a> with an unorthodox pricing structure and no promotion whatsoever and filmed over the same 10 week period that it was released in (which just sounds insane). This was an attempt by Louis CK to do something different and well, he certainly got my attention. Since he produced the show entirely by himself, there's no network sensors to accomodate for, no target audience to appease. Instead, he gets to continue making whatever he wants (though FX certainly gave him a lot of leeway on <i>Louie</i>) and it shows here.</p>
+                                        
+                                        <p class="mainText"><i>Horace and Pete</i> is a show about two brothers running a family bar that has existed for 100 years, carried on over generations always by a man named Horace, and another named Pete. In the current generation Horace is played by Louis CK, while Pete is played by the great <a href="http://www.imdb.com/name/nm0000114/" target="_blank">Steve Buscemi</a>. The previous Pete, who still works at the bar, is played by <a href="http://www.imdb.com/name/nm0000257/" target="_blank">Alan Alda</a>; then there's also Horace and Pete's sister Sylvia, who's played by <i>The Sopranos'</i> <a href="http://www.imdb.com/name/nm0004908/" target="_blank">Edie Falco</a>. Finally, while there are numerous other memorable parts throughout the supporting cast, the one that stood out to me the most was Marsha, played by <i>American Horror Story's</i> <a href="http://www.imdb.com/name/nm0001448/" target="_blank">Jessica Lange</a>.</p>
+                                        
+                                        <p class="mainText">This a show with a lot of philosophical debate and the milage may vary depending on your interest in the topic being explored in each episode. The topics explored throughout the series include abortion, infidelity, politics, religion and the transgender community. I don't want to discuss the plot anymore than I already have because going in blind is the way Louis CK would have intended it.</p>
+                                        
+                                        <p class="centerText">Check it out. It's on <a href="http://www.hulu.com/horace-and-pete" target="_blank">Hulu</a> now as well.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>Episode 1</i>, <i>Episode 3</i> and <i>Episode 7</i>.</p>
+                                     
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-13. Stranger Things-->
+                    <section class="portfolio tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt4574334/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/stranger-things.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>13. Stranger Things</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Netflix</span>
+                                        
+                                        <p class="mainText">When <i>Stranger Things</i> was released, it became an internet phenomenon. It seemed like everywhere you looked on social media, people never stopped talking about it. However, when I decided to check it out I wasn't blown away like I thought I would be. It didn't have a huge hook, but as I watched more episodes I noticed it did have two other things.</p>
+                                        
+                                        <p class="mainText">Like <i>Super 8</i> before it, <i>Stranger Things</i> hearkens back to 1980's Sci-Fi, such as <i>The Goonies</i>, <i>Star Wars</i> and <i>Alien</i>. It centers around a group of kids with bikes that encounter something strange and try to do their best to help it without getting caught by the government, which is basically the plot of <i>E.T.</i> This nostalgia is partially what has led the show to garner a huge following, with basically had no marketing push from Netflix. The other reason are the kids riding those bikes.</p>
+                                        
+                                        <p class="mainText">Child actors can complicate television immensely. In <i>Lost</i>, <a href="http://www.imdb.com/name/nm1287636/" target="_blank">Malcolm David Kelley</a> grew far faster than anyone anticipated and his storyline had to be drastically reworked. In <i>The Walking Dead</i>, <a href="http://www.imdb.com/name/nm3385128/" target="_blank">Chandler Riggs</a> was frequently ridiculed in it's early years (though at this point has become a far more accomplished actor). So when a television show gives children a lot of material, it's highly risky. Luckily though, the casting crew got it just right with <a href="http://www.imdb.com/name/nm6016511/" target="_blank">Finn Wolfhard</a>, <a href="http://www.imdb.com/name/nm7140802/" target="_blank">Gaten Matarazzo</a>, <a href="http://www.imdb.com/name/nm5160895/" target="_blank">Caleb McLaughlin</a> and most of all with <a href="http://www.imdb.com/name/nm5611121/" target="_blank">Millie Bobby Brown</a> as Eleven. All of these actors are able to competently pull off the material given to them, playing off each other extremely well and the show would never have worked without them.</p>
+                                        
+                                        <p class="mainText">Meanwhile, <a href="http://www.imdb.com/name/nm0000213/" target="_blank">Winona Ryder</a> shrieks her way through the season after her tragedy unfolds, seemingly getting crazier and crazier as the season plays out; her counterpoint played by <a href="http://www.imdb.com/name/nm1092086/" target="_blank">David Harbour</a> is annoying at first, but becomes more and more likeable as he figures out what's going on.</p>
+                                        
+                                        <p class="mainText">To mention much more would ruin the mystery behind the proceedings, so just know that this one is definitely worth checking out.</p>
+                                        
+                                        <p class="centerText">There weren't any particular standout episodes for this show, because the whole season felt like one complete story for me. Therefore, I am declaring the entire season as a standout (minus Barbara).</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-12. Bates Motel-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2188671/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/bates-motel.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>12. Bates Motel</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">A&E</span>
+                                        
+                                        <p class="mainText">Yet another horror movie prequel a la <i>Hannibal</i> and <i>The Exorcist</i>, <i>Bates Motel</i> uses its relationship with Alfred Hitchcock's <i>Psycho</i> to create a never ending feeling of tension regarding Norman Bates (played by <a href="http://www.imdb.com/name/nm0383603/" target="_blank">Freddie Highmore</a>). Having always been overshadowed by the great <a href="http://www.imdb.com/name/nm0267812/" target="_blank">Vera Farmiga</a> (who plays his mother, Norma Bates), Highmore finally comes into his own here. This show began as a slow burn, depicting Norman with as much innocence as possible for someone that would eventually develop into a psychopathic killer. However, as each new season began, the moments of Norman slipping into his other persona began to happen with more and more frequency until this season where he kills someone right off the bat! So now, though the insanity was dissipated by sending Norman off to a psychiatric facility called <b>Pinehurst</b>, the season became ripe for the kind of interesting and introspective material that was normally reserved for the concluding episodes of previous seasons.</p>
+                                        
+                                        <p class="mainText">Norma has completely lost any semblance of control that she may have previously had over Norman, who has done a complete 180 with his "Norma" persona dominating the proceedings and confusing the small amount of innocence that Norman has left. All of this finally begins to get explored with his psychiatrist Dr. Edwards (played by <a href="http://www.imdb.com/name/nm0348515/" target="_blank">Damon Gupton</a>), who, over the  course of the season, begins to learn just how deeply Norman's psyche is damaged. These are some of Highmore's biggest showcases he's ever had in the entire series, among other scenes with Norma of course.</p>
+                                        
+                                        <p class="mainText">Meanwhile, Norma's storyline is primarily focused on her romance with Sheriff Romero (played by <i>Lost's</i> <a href="http://www.imdb.com/name/nm0004801/" target="_blank">Nestor Carbonell</a>) and it really feels like for the first time that she can find happiness that isn't predicated on her relationship with her son. Carbonell has always felt partially like an antagonist to the Bates family simply because of his status as a police officer and with the knowledge of what Norman will eventually become, but ever since Norman has becoming more and more unstable this has led to Romero becoming more and more likeable and justified in his suspicions. This ties directly into the endgame of this season, which I won't talk about here; however, I will say that this is the best ending run of episodes that <i>Bates Motel</i> has ever had.</p>
+                                        
+                                        <p class="mainText">There are still some rough edges here and there; for one, the continued presence of Chick (played by <a href="http://www.imdb.com/name/nm0403652/" target="_blank">Ryan Hurst</a>) is a quirky oddity that, while entertaining at times is a strange leftover character from last season's storyline that has turned into a plot device to create external conflicts for Norma. Meanwhile, as charming as the relationship between Dylan (played by <a href="http://www.imdb.com/name/nm1302735/" target="_blank">Max Thieriot</a>) and Emma (played by <a href="http://www.imdb.com/name/nm4972453/" target="_blank">Olivia Cooke</a>) is, it can't help but begin to feel increasingly irrelevant to the proceedings (except maybe as future canon fodder) especially now that they've moved out of the area.</p>
+                                        
+                                        <p class="mainText">This has been the best season of <i>Bates Motel</i> since the beginning and if the conclusion of the season is anything to go by, the final season is going to be very interesting.</p>
+                                        
+                                        <p class="centerText">The standout episode for this year was <i>Forever</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-11. Better Call Saul-->
+                    <section class="portfolio tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt3032476/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/better-call-saul.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>11. Better Call Saul</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">AMC</span>
+                                        
+                                        <p class="mainText">Having moved out of the shadow of its predecessor as successfully as Jimmy McGill (a.k.a. not-quite-Saul-Goodman, played by <a href="http://www.imdb.com/name/nm0644022/" target="_blank">Bob Odenkirk</a>) is differentiating himself from his brother Chuck (played by <a href="http://www.imdb.com/name/nm0571106/" target="_blank">Michael McKean</a>), this seemingly opportunistic spinoff has come into its own. When <i>Breaking Bad</i> was ending and discussions of a spinoff began, this was starting to become a trend, what with <i>Fear the Walking Dead</i>, discussions of a <i>Dexter</i> spinoff and the like. Really what it feels like is that the network, whether that's AMC or Showtime, knows the show is ending and they want to secure that fanbase with another commitment. So when <i>Better Call Saul</i> was announced I was certainly hesitant, but with <a href="http://www.imdb.com/name/nm0319213/" target="_blank">Vince Gilligan</a> at the steering wheel I should have known better.</p>
+                                        
+                                        <p class="mainText">While the pilot used the hook of pulling Tuco (played by <a href="http://www.imdb.com/name/nm0190441/" target="_blank">Raymond Cruz</a>) from the <i>Breaking Bad</i> rolodex, much of <i>Better Call Saul</i> has built a strength of its own without having to rely on characters who've been grandfathered into Jimmy's life. That being said, the ability to access such characters as Tuco and Hector Salamanca (the latter of which is played by <i>Scarface's</i> <a href="http://www.imdb.com/name/nm0546797/" target="_blank">Mark Margolis</a>) and especially Mike (played by <a href="http://www.imdb.com/name/nm0052186/" target="_blank">Jonathan Banks</a>) has given the series a richness that wouldn't be possible without the future connections that inform these characters. Does it take away some of the tension? Yes, because of course we are aware that Jimmy, Mike and the rest of the alumni will make it into the events of <i>Breaking Bad</i>. However, this is a case where the journey is the whole point, because we know that Jimmy will eventually become Saul, and that Mike will work for Gus Fring (<i>Breaking Bad's</i> amazing <a href="http://www.imdb.com/name/nm0002064/" target="_blank">Giancarlo Esposito</a>, who will hopefully join the rest of the alums here soon enough) and that gives this story a unique opportunity to flesh out these characters and continue to build the mythology of this rich Albuquerque world.</p>
+                                        
+                                        <p class="mainText">It's not all about the old cast though, because the show has also been building great new characters like Kim Wexler (played by <a href="http://www.imdb.com/name/nm0781533/" target="_blank">Rhea Seehorn</a>) and the aforementioned Chuck. Kim is a partner for Jimmy both in work, as well as love and she really carves a space for herself in this world during season two, choosing to work independently from Jimmy in order to avoid being dragged down with him with his increasingly unsavory tactics. Then when it comes to Chuck, well this is a really unique role. McKean has to constantly portray a man who may or may not have a unique disease with a relation to electromagnetism. What this means is that every time he approaches any form of electricity he gets a bit weak in the knees and this adds an interesting complication in someone who can't imagine making a mistake.</p>
+                                        
+                                        <p class="mainText">On Mike's side of the fence, in addition to encountering pretty much everyone from the former cast, he also has a working relationship with a dealer named Nacho (played by <i>Orphan Black's</i> <a href="http://www.imdb.com/name/nm3103126/" target="_blank">Michael Mando</a>). Just as in <i>Breaking Bad</i>, Mike is primarily doing this kind of work now for his granddaughter Kaylee (played this time around by <a href="http://www.imdb.com/name/nm4723974/" target="_blank">Abigail Zoe Lewis</a>), as well as her mother (and Mike's widowed daughter-in-law) Stacey (played by <a href="http://www.imdb.com/name/nm0174403/" target="_blank">Kerry Condon</a>). This has always been what has made Mike such a relateable character (best seen in last year's <i>Five-O</i>), and his material continues to be outstanding this year as well (much of the time outshining the title character, in fact).</p>
+                                        
+                                        <p class="mainText">Ultimately this season has continued to defy initial expectations for what could have very easily been a disaster, and I look forward to continuing the downward journey as Jimmy McGill becomes ever closer to his future self.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>Rebecca</i>, <i>Nailed</i> and <i>Klick</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-10. Person of Interest-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt1839578/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/person-of-interest.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>10. Person of Interest</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">CBS</span>
+                                        
+                                        <p class="centerText"><i>"If you can hear this, you’re alone. The only thing left of me is the sound of my voice. I don’t know if any of us made it. So let me tell you who we were. And how we fought back."</i></p>
+                                        
+                                        <p class="mainText">For a lot of shows, the final episode can shape the entirety of the way it's perceived for years to come. <i>The Sopranos</i>, <i>Lost</i> and <i>Dexter</i> were all examples of shows with controversial (and some outright bad) endings that forever changed the way those shows were perceived. All because of one final moment. One final episode that revealed what the show was really about. This is because the moment that often matters the most to people is the last one.</p>
+                                        
+                                        <p class="mainText"><i>Person of Interest</i> was often a show about preventing final moments. A science fiction analysis of artificial intelligence disguised as a weekly procedural on the network most guilty of harboring that repetitive type of show. The type of show that a viewer can drop in on any random episode and get a contained and complete story with no dependencies, such as <i>NCIS</i>, <i>CSI</i> and <i>Law and Order</i>. So when <i>The Dark Knight's</i> <a href="http://www.imdb.com/name/nm0634300/" target="_blank">Jonathan Nolan</a> decided what he wanted to do, he kept it a secret. Sure, some of the writing staff probably knew what his true ambition's were, but if he had pitched what the show eventually became, he would never have made it on a network like CBS.</p>
+                                        
+                                        <p class="mainText">Sure, the initial premise may have sounded innocent enough. A man named Harold Finch (played by <i>Lost's</i> <a href="http://www.imdb.com/name/nm0256237/" target="_blank">Michael Emerson</a>) built a machine that can tell when something bad is going to happen, and he works with another man named John (played by <i>The Passion of the Christ's</i> <a href="http://www.imdb.com/name/nm0001029/" target="_blank">Jim Caviezel</a> to stop that final moment from occurring. The first season was full of episodes where it functioned just like you might expect a procedural to, a one and done premise that has no complicated storylines that might tempt a new potential viewer to change the channel. However, as the series continued, it slowly began to transform, bringing in organizations and crime syndicates with memorable leaders; there's a clear influence from the man that used to write for <i>Batman</i> movies.</p>
+                                        
+                                        <p class="mainText">By the time the show reached it's final season, the recurring cast had grown considerably, particularly after the introductions of Sameem Shaw (played by <a href="http://www.imdb.com/name/nm1083404/" target="_blank">Sarah Shahi</a>) and Root (played by the always enjoyable <a href="http://www.imdb.com/name/nm0009918/" target="_blank">Amy Acker</a>). Both a part of storylines that, at first, began with a seemingly close-ended storyline these two actresses became series regulars after the true nature of their roles became clear. Nolan would often employ this concept throughout the series' run, the bait and switch of taking a seemingly close-ended story and pulling the rug out from under the audience to show how it would factor into the core mythology. This was also true when it was time to introduce what eventually became the primary villain.</p>
+                                        
+                                        <p class="mainText">During a group of episodes in the middle of <i>Person of Interest's</i> run, one of Finch's old friends was in trouble and this friend was revealed to have been working on a project that would have far-reaching implications for the future of the series. A machine, called Samaritan, much like the one our heroes would work with every day in order to help people, only malicious and ran by a man named Greer (played by Nolan's uncle <a href="http://www.imdb.com/name/nm0634297/" target="_blank">John Nolan</a>). This would eventually pivot the show's path into a war story between two machines, and this continued into the final season.</p>
+                                        
+                                        <p class="mainText">Hobbled by delays and unclear vital signs, the final season felt like it would never come. Finally though in the summer months CBS aired a shorter season than usual that was planned from the start of the season's writing process to be the end. All the usual suspects were present, and the show opted against a single serialized storyline as many may have thought would occur. While this led to some episodes feeling rather wasted, others were used to give justice to moments from earlier on in the series that were never given their full due (such as in <i>Sotto Voce</i>). However, not everything would get tied up as scheduling conflicts would hinder the return of characters like Control (played by <a href="http://www.imdb.com/name/nm0005179/" target="_blank">Camryn Manheim</a>) and Zoe (played by <a href="http://www.imdb.com/name/nm0876958/" target="_blank">Paige Turco</a>). Luckily though, at least one pivotal character wouldn't be left out.</p>
+                                        
+                                        <p class="mainText">After sitting out the back half of the last season due to her pregnancy, Shahi's Shaw finally returned in what was one of the greatest episodes of <i>Person of Interest</i>, and also one of the best television episodes of the year. In the fourth episode of the season, Nolan and his secret weapon for achieving maximum tragedy <a href="http://www.imdb.com/name/nm3170129/" target="_blank">Denise Thé</a> wrote their magnum opus, a story with an ending so devastating that the rest of the season couldn't help but pale in comparison to the gravity of what they accomplished (with a few exceptions).</p>
+                                        
+                                        <p class="mainText">Overall though, what really matters is that final moment: and the creative team behind the show delivered in spades. With a couple of inspired musical choices (<a href="https://www.youtube.com/watch?v=C2inNYauU1o" target="_blank">including a haunting piece by Philip Glass</a>) and a clear message, this was a perfect sendoff for a series that was always about subverting expectations. While some characters may have gotten short shrift (<a href="http://www.imdb.com/name/nm0152430/" target="_blank">Kevin Chapman's</a> Fusco in particular), this was never originally supposed to be the final season in the grand scheme of things; so given what the team had to work with this turned out far better than it could have.</p>
+                                        
+                                        <p class="mainText">So while every episode this season may not have had the same impact, they nailed the landing. That's no easy thing, as <a href="http://www.imdb.com/name/nm0511541/" target="_blank">Damon Lindelof</a> once said: "Endings are hard." So when a series caps off it's run with something special, even though I may be sad that series is ending, I sit up and take notice. I didn't have the problems that most people did with <i>Lost's</i> ending and I still haven't finished <i>The Sopranos</i>, but <i>Dexter's</i> ending hurt. So much so, that it forever tarnishes the memory of a series that was great for over half of it's run. This was a character that inspired my video editing pseudonym, and it crashed and burned into a lake that it never should've crawled back out of. So when a series that I love takes the proper time to finish it's story right, <i>I take notice</i>.</p>
+                                        
+                                        <p class="centerText">"Sure. Everyone dies alone. But if you mean something to someone, if you help someone, or love someone. If even a single person remembers you. Then maybe, you never really die at all."</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>6,741</i>; <i>The Day the World Went Away</i> and <i>Return 0</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-2"></div>
+                                <div class="col-lg-8">
+                                    <div class="embed-responsive embed-responsive-16by9">
+                                        <div id="aloneVideo"></div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2"></div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-9. The 100-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2661044/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-100.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>9. The 100</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">The CW</span>
+                                        
+                                        <p class="mainText">After <i>Battlestar Galactica</i> ended there wasn't a whole lot of good science fiction shows; many began to wonder if something else would rise to take it's place. After all, <i>Caprica</i>, the official spinoff ended up being cancelled after only one season. Then Syfy began to turn away from serialized television and started focusing more on their original movies (which are terrible), "reality" television trash like <i>Ghost Hunters</i> and <i>Wrestling</i> of all things.</p>
+                                        
+                                        <p class="mainText">Then one day, a little network called <i>The CW</i> put out a show called <i>The 100</i>. The concept? Humanity has been living in space for years because the Earth has become a nuclear wasteland, but now in order to survive they have to send 100 children to the ground before everyone perishes. The children survived, and the Earth proves to be inhabitable after all, but they're not alone: there are natives (called <b>Grounders</b>) and they're hostile. It was okay at first, with some interesting ideas, but as it continued towards the end of it's first season and then into it's incredible second season it began to make a larger impact. The world was expanded and the early corniness transformed into true dramatic stakes.</p>
+                                        
+                                        <p class="mainText">There were many kids that crashed onto Earth, but the central focus is around Clarke Griffin (played by <a href="http://www.imdb.com/name/nm1343638/" target="_blank">Eliza Taylor</a>), who by this point in the story has left the others and gone off on her own after the dark conclusion of the second season. Not long after she is unceremoniously reunited with her former friend Lexa (played by the incredible <a href="http://www.imdb.com/name/nm1486317/" target="_blank">Alycia Debnam-Carey</a>), the Commander of the aforementioned Grounders. Their scenes together have been one of the high points of the series thus far, and it continues that trend here.</p>
+                                        
+                                        <p class="mainText">Clarke's not the only child we get to know though. <i>The 100</i> boasts an impressive cast and two of the most important ones are the Blake children: Bellamy (played by <a href="http://www.imdb.com/name/nm2366079/" target="_blank">Bob Morley</a>) and Octavia (played by <a href="http://www.imdb.com/name/nm2955595/" target="_blank">Marie Avgeropoulos</a>). Bellamy has had an interesting journey up until now, having been a huge part of the war effort against the Grounders and molded over time from a petty antagonist into a strong protagonist. However, at the start of this season he is given a rushed storyline with unclear character motivations for joining a man named Pike (played by <a href="http://www.imdb.com/name/nm0004729/" target="_blank">Michael Beach</a>). While some effort is taken to mend this as the season continues, it hurts while it lasts, and forever puts a stain on his character. Octavia continues on her transformation towards becoming more and more like a Grounder, with some added tragedy to the mix. I was also glad to see that her seemingly shattered relationship with Indra (played by <a href="http://www.imdb.com/name/nm0692013/" target="_blank">Adina Porter</a>) wasn't abandoned completely since this was one of the better pairings from season two.</p>
+                                        
+                                        <p class="mainText">When the 100 kids were sent to the ground, there were others that followed them once the air was declared safe to breathe. The three main ones that we follow are former Chancellor Thelonius Jaha (played by <a href="http://www.imdb.com/name/nm0913460/" target="_blank">Isaiah Washington</a>), Marcus Kane (played by <i>Lost's</i> unforgettable <a href="http://www.imdb.com/name/nm0193738/" target="_blank">Henry Ian Cusick</a>) and Dr. Abigail Griffin (played by <i>Person of Interest's</i> <a href="http://www.imdb.com/name/nm0876958/" target="_blank">Paige Turco</a>), whom is also Clarke's mother. Kane has had his share of flipping sides and Abigail has mostly remained the same but Jaha has clearly had the most change since the series began. At first he was on a quest involving his son, and then he was placed in captivity after a power struggle occurred between him and Kane. However, once he put his anger away and began looking for the <b>City of Light</b> in season two was the moment when he began to get interesting. His charismatic nature that was clearly instrumental to him becoming a leader revealed itself, and made him a joy to watch especially once he was paired with John Murphy (played by <a href="http://www.imdb.com/name/nm2113653/" target="_blank">Richard Harmon</a>). Unfortunately once he actually arrived there, he gets wrapped up with a character called Alie (played by <i>Eureka's</i> <a href="http://www.imdb.com/name/nm1569714/" target="_blank">Erica Cerra</a>). This leads to him not being nearly as likeable as he had become previously, and I wish more of the season had played out without his alliance with her.</p>
+                                        
+                                        <p class="mainText">The final group of kids that had an important part to play this year are Jasper (played by <a href="http://www.imdb.com/name/nm1256602/" target="_blank">Devon Bostick</a>), Monty (played by <a href="http://www.imdb.com/name/nm0488273/" target="_blank">Christopher Larkin</a>), and Raven (played by the delightfully vicious <a href="http://www.imdb.com/name/nm4289392/" target="_blank">Lindsey Morgan</a>). While Jasper dealt with his grief over the dark conclusion from season two and Monty found love, Raven definitely had the most interesting complications this year; just wait until you see <i>Nevermore</i>. Her continued mentorship with Sinclair (<i>Battlestar Galactica's</i> uncomparable <a href="http://www.imdb.com/name/nm0432228/" target="_blank">Alessandro Juliani</a>) has always been a joy to watch.</p>
+                                            
+                                        <p class="mainText">Now I'd be remiss if I didn't mention the controversial exit of two actors from the cast this year (all of this has been highly publicized, but for the sake of spoilers I'm not mentioning their names here; I'll just say they were both killed). The manner in which both of these actors were written out of the show resulted in a huge backlash (though for entirely different reasons), and showrunner <a href="http://www.imdb.com/name/nm1003202/" target="_blank">Jason Rothenberg</a> took a lot of heat this year because of it. While he has apologized for the circumstances involving one of the actors (and it's also partially completely out of his hands), the other one he has remained rather mum on and the only answer given was a standard network response. It's unfortunate that this happened, but it's hard to know who is really at fault without hearing both sides of the story.</p>
+                                        
+                                        <p class="mainText">As you can see from the length of this particular entry this is a huge cast and while not everything worked as well as it should have, despite all of that I do still think this is one of the better shows on television right now. I personally can't wait to see what happens next.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>Watch The Thrones</i>, <i>Thirteen</i> and <i>Nevermore</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-8. Outlander-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt3006802/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/outlander.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>8. Outlander</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">Starz</span>
+                                        
+                                        <p class="mainText">After <a href="http://www.imdb.com/name/nm0601822/" target="_blank">Ron Moore</a> finished <i>Battlestar Galactica</i> (the greatest modern science fiction show of our time) I wasn't sure what he would do next, but if you had told me it would be a fantasy adaptation skewing to be the antithesis of <i>Game of Thrones</i> for women (with less violence, yet somehow more rape), I never would have guessed it.</p>
+                                        
+                                        <p class="mainText">Starring the magnificent <a href="http://www.imdb.com/name/nm2928020/" target="_blank">Caitriona Balfe</a> as Claire and <a href="http://www.imdb.com/name/nm1537825/" target="_blank">Sam Heughan</a> as Jamie, <i>Outlander</i> is a time travel romance with a dose of action here and there. Based on the long-running series of novels by <a href="http://www.dianagabaldon.com/" target="_blank">Diana Gabaldon</a>, this is an ambitious undertaking by Starz. The first season was successful in grabbing it's target audience by the heart strings and ended with some of the darkest and disturbing episodes of television I've ever seen.</p>
+                                            
+                                        <p class="mainText">When Season 2 premiered, it was a whole new environment, and with a baby on the way. From Scotland to France, the production design grew and the cast was simplified, giving <a href="http://www.imdb.com/name/nm3795370/" target="_blank">Duncan Lacroix's</a> Murtagh some time to shine, and introducing the slimy Prince Charles Edward Stuart (played by <a href="http://www.imdb.com/name/nm4362505/" target="_blank">Andrew Gower</a>) who alternates between being an adversary and an ally. The new setting really helps expand the world being presented here, adding a flair unseen thus far in the previous Scottish locale.</p>
+                                        
+                                        <p class="mainText">This season also features the return of the deplorable Captain Jack Randall (played impeccably by <i>Game of Thrones'</i> <a href="http://www.imdb.com/name/nm0580014/" target="_blank">Tobias Menzies</a>), by far one of the most terrifying, despicable and captivating villains I've ever seen. Largely responsible for almost every atrocity that occurs on <i>Outlander</i>, Jack Randall always grabs my attention whenever he returns to the storyline and even shows a little bit of humanity during the course of his tenure this time around.</p>
+                                        
+                                        <p class="mainText">While the first half may be full of new surprises, the second half returns us to familiar territory, and it really feels like meeting old friends seeing Dougal MacKenzie (played by the great <a href="http://www.imdb.com/name/nm0574615/" target="_blank">Graham McTavish</a>) and Angus (played by <a href="http://www.imdb.com/name/nm0910373/" target="_blank">Stephen Walters</a>) again. However, once the countdown to the <b>Battle of Culloden</b> begins, those feelings are washed away and <i>Outlander</i>, while clearly not possessing a budget nearly as large as some of its contemporaries, shows that it can still make quite an impact when it comes to war. Yet surprisingly...we know the outcome.</p>
+                                        
+                                        <p class="mainText">While I'm not entirely sure whether this was an invention of Gabaldon or Moore, the choice the begin the season by telling the viewer the conclusion is an interesting one. It completely changes the way the season is viewed, and adds an element of tragedy to the whole affair (pun intended). At times it feels almost akin to knowing a spoiler that you might wish you hadn't, but the pacing of this show has always been a slight deterrent for me so this adds a welcome layer to the proceedings and by the time the season concludes it becomes clear that the decision was the right one to achieve the maximum emotional impact.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>La Dame Blanche</i>, <i>Untimely Resurrection</i> and <i>Dragonfly in Amber</i>.</p>
                                     </div>
                                 </div>
                             </div>
@@ -388,31 +908,34 @@
             $("#bt16Row").addClass("selectedRow");
         </script>
         
-        <h2>Honorable Mentions</h2>
-        
-        //1-The Path (Hulu)
-        //2-Orphan Black (BBC America)
-        //3-American Horror Story (FX)
-        //4-Broad City (Comedy Central)
-        //5-It's Always Sunny in Philadelphia (FXX)
-        //6-Fear The Walking Dead (AMC)
-        7-Designated Survivor (ABC)
-        
+        <script type="text/javascript">
+            function downloadJSAtOnload() {
+                var element = document.createElement("script");
+                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Blog/2016/youtubeEmbed.js?d=<?php echo time(); ?>";
+                document.body.appendChild(element);
+            }
+            if (window.addEventListener)
+                window.addEventListener("load", downloadJSAtOnload, false);
+            else if (window.attachEvent)
+                window.attachEvent("onload", downloadJSAtOnload);
+            else window.onload = downloadJSAtOnload;
+        </script>
+        <!--
         <h2>The Top 20</h2>
         
-        20-Black Mirror (Netflix)
-        //19-Luke Cage (Netflix)
-        18-House of Cards (Netflix)
-        17-Daredevil (Netflix)
-        16-The Walking Dead (AMC)
-        15-Mr. Robot (USA)
-        14-Outlander (Starz)
-        13-Stranger Things (Netflix)
-        12-The 100 (CW)
-        11-Bates Motel (A&E)
-        10-Person of Interest (CBS)
-        9-Rectify (Sundance)
-        8-Better Call Saul (AMC)
+        //20-Luke Cage (Netflix)
+        //19-Daredevil (Netflix)
+        //18-The Walking Dead (AMC)
+        //17-House of Cards (Netflix)
+        //16-Mr. Robot (USA)
+        //15-Rectify (Sundance)
+        //14-Horace and Pete (LouisCK.net)
+        //13-Stranger Things (Netflix)
+        //12-Bates Motel (A&E)
+        //11-Better Call Saul (AMC)
+        //10-Person of Interest (CBS)
+        //9-The 100 (CW)
+        //8-Outlander (Starz)
         7-Orange is the New Black (Netflix)
         6-Game of Thrones (HBO)
         5-American Crime Story (FX)
@@ -420,6 +943,8 @@
         3-The Night Of (HBO)
         2-The Americans (FX)
         1-Westworld (HBO)
+
+        -->
     </body>
     
 </html>

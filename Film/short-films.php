@@ -37,7 +37,7 @@
 
         <?php
             //Mobile Test
-            require_once ("http://".$_SERVER["SERVER_NAME"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
         ?>
