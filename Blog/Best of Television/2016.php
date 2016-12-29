@@ -894,6 +894,92 @@
                         </div>
                     </section>
                     
+                    <!--The Top 20-7. Orange is the New Black-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2372162/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/orange-is-the-new-black.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>7. Orange is the New Black</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">Netflix</span>
+                                        
+                                        <p class="mainText">After a lackluster and low stakes third season, <i>Orange is the New Black</i> is <b>BACK!</b> With less random flashbacks and a stronger narrative this season is the best one since the first and wow does it get dark. Just as the primary community focused on in Season 2 was the African American women, this time the hispanic population gets a spotlight. In addition to this, a change of the guard is in order and this will forever leave an impact on the inmates of Litchfield Penitentiary.</p>
+                                        
+                                        <p class="mainText">After the jailbreak out to the lake that occurred at the end of season three, the warden Caputo (played by <a href="http://www.imdb.com/name/nm0762191/" target="_blank">Nick Sandow</a>) is forced to fire most of the existing staff charged with keeping this prison under control and bring in a new set of faces. These guards (led by a man named Piscatella, played by <i>Lost's</i> <a href="http://www.imdb.com/name/nm0377034/" target="_blank">Brad William Henke</a>) carry a lot of issues with them and frequently take them out on the inmates in disturbing ways.</p>
+                                        
+                                        <p class="mainText">One of the most interesting changes this year is Piper (played by <a href="http://www.imdb.com/name/nm2279940/" target="_blank">Taylor Schilling</a>). The former leading member of the cast (before the show expanded it's scope in season two), Piper has slowly become more and more unlikeable ever since she began her panty selling business to the point where she actually ends up initiating a White Supremacist group. This leads to a dark confrontation between her and Ruiz (played by <a href="http://www.imdb.com/name/nm1478791/" target="_blank">Jessica Pimentel</a>) and her crew that will forever leave a mark on her because of her further descent from her former self that began the day she first attacked another prisoner.</p>
+                                        
+                                        <p class="mainText">Meanwhile, that prisoner she attacked continues to become more likeable in an interesting morality reversal that showrunner <a href="http://www.imdb.com/name/nm0463176/" target="_blank">Jenji Kohan</a> has been toying with since season two. Pennsatucky (played heartbreakingly by <a href="http://www.imdb.com/name/nm0543383/" target="_blank">Taryn Manning</a> already had ana amazing showcase episode last year's <i>A Tittin' and a Hairin'</i>, but the fallout from that encounter sparked a controversy amidst the show's fanbase. In a pairing that began last season with Boo (played by <a href="http://www.imdb.com/name/nm0216466/" target="_blank">Lea DeLaria</a>), what was first a revenge scheme changes when Pennsatucky's anger and hate fades away and is replaced with sadness. Sadness that is rooted in her tragic past, that she thought she might be able to escape when she met Coates (played by <a href="http://www.imdb.com/name/nm2338177/" target="_blank">James McMenamin</a>), but all he did was remind her of what came before and how horrible another person can be. So when she began to show sympathy for her attacker, it pushed a few people's buttons that had issues with the implications of that.</p>
+                                        
+                                        <p class="mainText">In an interesting new wrinkle for the series, the first celebrity to enter the prison is a woman inspired by Martha Stewart named Judy King (played by <i>Fringe's</i> <a href="http://www.imdb.com/name/nm0001974/" target="_blank">Blair Brown</a>). First teased near the end of last season, King is well known to the inmates at Litchfield, particuarly by Poussey (played by <a href="http://www.imdb.com/name/nm4148126/" target="_blank">Samira Wiley</a>). In addition to her fangirl reactions to King, Poussey also strikes up an adorable romance with Soso (played by <a href="http://www.imdb.com/name/nm4733752/" target="_blank">Kimiko Glenn</a>), who has finally begun to become bearable compared to the odd character she was when she was introduced back in season two.</p>
+                                        
+                                        <p class="mainText">Speaking of odd characters, Lolly (played by <a href="http://www.imdb.com/name/nm0001614/" target="_blank">Lori Petty</a>) has continued to advance as one of the best new characters in recent years. At first seemingly introduced as a one-off confrontation for Piper back in the season two premiere, she was then later brought back into the fold after a population increase that negatively affected the core cast in various ways. Though at first she appeared to be gunning for Piper's old flame Alex (played by <i>That 70s Show's</i> <a href="http://www.imdb.com/name/nm0696059/" target="_blank">Laura Prepon</a>, since then she has become one of the series' most tragic characters. She's given a great storyline with Alex and Red (played by the hilarious <a href="http://www.imdb.com/name/nm0000550/" target="_blank">Kate Mulgrew</a>) and an even better one with Mr. Healy (played by <a href="http://www.imdb.com/name/nm0363669/" target="_blank">Michael Harney</a>).</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/orange-is-the-new-black/secret.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="mainText">As you can see, <i>Orange is the New Black</i> still has one of, if not the largest cast on television. I could go on for far longer about the many other well developed women of Litchfield, including Nicky (played by <a href="http://www.imdb.com/name/nm0005169/" target="_blank">Natasha Lyonne</a>, one of the best actresses in the entire cast) whom was thankfully brought back into the fold after being sidelined last year and Morello (played by <a href="http://www.imdb.com/name/nm0832227/" target="_blank">Yael Stone</a>) and her never-ending fascinations with finding true love. However, it's probably best that I stop here, or else this entry might last as long as a sentence at Litchfield.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>It Sounded Nicer in My Head</i>, <i>Turn Table Turn</i> and <i>Toast Can't Never Be Bread Again</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-6. Game of Thrones-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt0944947/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/game-of-thrones.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>6. Game of Thrones</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">HBO</span>
+                                        
+                                        <p class="centerText">I'm not even going to mention anything that may or may not have happened with <a href="http://www.imdb.com/name/nm3229685/" target="_blank">Kit Harington</a>. Just putting that out there up front.</p>
+                                        
+                                        <p class="mainText">Last season <i>Game of Thrones</i> began to show some cracks. Based on the long-running epic novel series <i>A Song of Ice and Fire</i> by <a href="http://www.imdb.com/name/nm0552333/" target="_blank">George R.R. Martin</a>, this is the most ambitious television show ever made. While not always having been able to match up to the scale that the novels have put in place (see the truncated battles from the end of season one and the missing chain from season two's <i>Blackwater</i>), the show has been successful enough for HBO that they have given showrunners <a href="http://www.imdb.com/name/nm1125275/" target="_blank">David Benioff</a> and <a href="http://www.imdb.com/name/nm1888967/" target="_blank">D.B. Weiss</a> the resources necessary to pull off incredible episodes on the level of last year's <i>Hardhome</i> and this year's <i>Battle of the Bastards</i> (both of which were directed by <a href="http://www.imdb.com/name/nm0764601/" target="_blank">Miguel Sapochnik</a>).</p>
+                                        
+                                        <p class="mainText">However, other than the aforementioned <i>Hardhome</i>, season five was a bit of a slog. Shackled by a misguided attempt to stay within the confines of the final novel that has currently been released <i>A Dance with Dragons</i>, while there were a few moments that surpassed that novel's scope most of the ending of that season was cliffhanger after cliffhanger in order to give Martin enough time to finish writing <i>The Winds of Winter</i> (the sixth of seven currently planned novels). The worst part about all of this is that he didn't even manage to get it done (and to this day it still hasn't been finished, with no release date in sight).</p>
+                                        
+                                        <p class="mainText">So when it became clear to Benioff and Weiss that Martin wasn't going to be able to keep up, they had several choices: either delay the show or sidestep the storyline and adapt something like <i>A Knight of the Seven Kingdoms</i>, or simply pass the novels altogether with whatever knowledge has been bestowed to them by Martin behind closed doors. Obviously they chose the latter option and it has resulted in a very unique case where an adaptation of a written work will now most definitely be completed before the original is (given that it has been announced that there will only be one more split season across two years). This gave the show a huge burst of energy that was sorely lacking in season five and has resulted in a return to the kind of exciting storytelling that drew everyone to Martin's work in the first place.</p>
+                                        
+                                        <p class="mainText">Given how big of a secret everything was this season, it would be remiss of me to discuss plot details in this entry, so I'll simply leave it at this: the build-up and resulting conclusion of this season is one of the best the show has ever pulled off, with an expertly executed climax directed by Sapochnik and containing <a href="https://www.youtube.com/watch?v=pS-gbqbVd8c" target="_blank">the best piece</a> that composer <a href="http://www.imdb.com/name/nm1014697/" target="_blank">Ramin Djawadi</a> (also the composer of <i>Person of Interest</i>, by the way) has ever written.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>The Door</i>, <i>Battle of the Bastards</i> and <i>The Winds of Winter</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
                     
                 </div>
             </div>
@@ -936,8 +1022,8 @@
         //10-Person of Interest (CBS)
         //9-The 100 (CW)
         //8-Outlander (Starz)
-        7-Orange is the New Black (Netflix)
-        6-Game of Thrones (HBO)
+        //7-Orange is the New Black (Netflix)
+        //6-Game of Thrones (HBO)
         5-American Crime Story (FX)
         4-Halt & Catch Fire (AMC)
         3-The Night Of (HBO)
