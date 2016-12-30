@@ -17,14 +17,14 @@
     <!--Font: Lato-->
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
-<!--Helvetilist-->
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/HelvetiList/helvetilist.css?d=<?php echo time(); ?>" rel="stylesheet">
+<!--Helvetilist
+<link href="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/includes/HelvetiList/helvetilist.css?d=<?php //echo time(); ?>" rel="stylesheet">-->
 
 <!--Social Icons CSS-->
 <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Plugins/Social Icons/bootstrap-social.css" rel="stylesheet">
 
 <!--Personal CSS-->
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/styles.css?d=<?php echo time(); ?>" rel="stylesheet">
+<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/styles.css" rel="stylesheet">
 
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/freelancerThemeModified.css?d=<?php echo time(); ?>" rel="stylesheet">
+<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/freelancerThemeModified.css" rel="stylesheet">
 

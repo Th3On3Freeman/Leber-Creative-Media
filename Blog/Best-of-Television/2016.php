@@ -99,7 +99,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/the-path.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/the-path.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -131,7 +131,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/orphan-black.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/orphan-black.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -159,7 +159,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/american-horror-story.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/american-horror-story.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -189,7 +189,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/broad-city.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/broad-city.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -217,7 +217,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/its-always-sunny-in-philadelphia.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/its-always-sunny-in-philadelphia.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -227,7 +227,7 @@
                                         <span class="skills">FXX</span>
                                         <p class="mainText">Sunny is starting to show it's age. Going into it's 11th season, this cast just isn't putting out quite as many great episodes per year as they used to. While there are some clear highlights, such as <i>Mac & Dennis Move to the Suburbs</i> and <i>Being Frank</i> (primarily for it's inventiveness), most of the rest of this season is filled with jokes that don't hit as well as they should, and a disappointing two-part finale.</p>
                                         
-                                        <p class="mainText">Hopefully the Gang gets back on the wagon next time.</p>
+                                        <p class="centerText">Hopefully the Gang gets back on the wagon next time.</p>
                                     </div>
                                 </div>
                             </div>
@@ -245,7 +245,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/fear-the-walking-dead.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/fear-the-walking-dead.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -262,7 +262,7 @@
                                         
                                         <p class="mainText">Look, not everything has been terrible. Chris and Travis' ongoing rodeo has been fairly interesting and <i>Grotesque</i> is one of the better solo outings this show has attempted so far. But so much of the rest of this show has been done before and done <i>far</i> better. Give <a href="http://www.imdb.com/name/nm0225332/" target="_blank">Kim Dickens</a> something more interesting to do than just worry about her children. Give us a reason to <i>Fear the Walking Dead</i>.</p>
 
-                                        <p class="mainText">And for God's sake if you're going to rip <a href="http://www.imdb.com/name/nm1486317/" target="_blank">Alycia Debnam-Carey</a> out of <i>The 100</i> for this, give her some better material.</p>
+                                        <p class="centerText">And for God's sake if you're going to rip <a href="http://www.imdb.com/name/nm1486317/" target="_blank">Alycia Debnam-Carey</a> out of <i>The 100</i> for this, give her some better material.</p>
                                         
                                     </div>
                                 </div>
@@ -281,7 +281,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/designated-survivor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/designated-survivor.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -314,7 +314,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/Honorable Mention/black-mirror.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/black-mirror.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -331,7 +331,7 @@
                                         
                                         <p class="mainText"><i>Shut Up and Dance</i> (featuring <i>Game of Thrones'</i> <a href="http://www.imdb.com/name/nm0283492/" target="_blank">Jerome Flynn</a>) is a dark episode that has a lot of potential and doesn't quite live up to it, but is still a tense ride along the way. It's also one of the only episodes of Black Mirror that is entirely possible today.</p>
                                         
-                                        <p class="mainText">The fourth (and best episode this season by far) is <i>San Junipero</i> (featuring the wonderful talent of <a href="http://www.imdb.com/name/nm4496875/" target="_blank">Mackenzie Davis</a> from <i>Halt & Catch Fire</i>. This episode breaks the mold from most episodes that result in darker endings with a surprisingly hopeful resolution; and to say anything more would be a tragedy on my part.</p>
+                                        <p class="mainText">The fourth (and best episode this season by far) is <i>San Junipero</i> (featuring the wonderful talent of <a href="http://www.imdb.com/name/nm4496875/" target="_blank">Mackenzie Davis</a> from <i>Halt And Catch Fire</i>. This episode breaks the mold from most episodes that result in darker endings with a surprisingly hopeful resolution; and to say anything more would be a tragedy on my part.</p>
                                         
                                         <p class="mainText"><i>Men Against Fire</i> (featuring <i>Orange is the New Black's</i> <a href="http://www.imdb.com/name/nm5483400/" target="_blank">Madeline Brewer</a>) is a war episode that has some really good ideas, but the execution is lacking.</p>
                                         
@@ -359,7 +359,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/luke-cage.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/luke-cage.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -399,7 +399,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/daredevil.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/daredevil.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -435,7 +435,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -450,7 +450,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/montage.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/montage.gif" class="img-responsive" alt="">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -460,7 +460,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/bad-effect.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/bad-effect.gif" class="img-responsive" alt="">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -470,7 +470,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-walking-dead/pov.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/pov.gif" class="img-responsive" alt="">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -503,7 +503,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/house-of-cards.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/house-of-cards.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -536,7 +536,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/mr-robot.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/mr-robot.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -575,7 +575,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/rectify.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/rectify.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -614,7 +614,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/horace-and-pete.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/horace-and-pete.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -654,7 +654,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/stranger-things.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/stranger-things.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -691,7 +691,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/bates-motel.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/bates-motel.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -728,7 +728,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/better-call-saul.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/better-call-saul.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -765,7 +765,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/person-of-interest.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/person-of-interest.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -823,7 +823,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/the-100.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-100.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -866,7 +866,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/outlander.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/outlander.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -905,7 +905,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/orange-is-the-new-black.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -927,11 +927,15 @@
                                         <p class="mainText">Speaking of odd characters, Lolly (played by <a href="http://www.imdb.com/name/nm0001614/" target="_blank">Lori Petty</a>) has continued to advance as one of the best new characters in recent years. At first seemingly introduced as a one-off confrontation for Piper back in the season two premiere, she was then later brought back into the fold after a population increase that negatively affected the core cast in various ways. Though at first she appeared to be gunning for Piper's old flame Alex (played by <i>That 70s Show's</i> <a href="http://www.imdb.com/name/nm0696059/" target="_blank">Laura Prepon</a>, since then she has become one of the series' most tragic characters. She's given a great storyline with Alex and Red (played by the hilarious <a href="http://www.imdb.com/name/nm0000550/" target="_blank">Kate Mulgrew</a>) and an even better one with Mr. Healy (played by <a href="http://www.imdb.com/name/nm0363669/" target="_blank">Michael Harney</a>).</p>
                                         
                                         <div class="row">
-                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-1"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/orange-is-the-new-black/secret.gif?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black/loveSecret.gif" class="img-responsive" alt="">
                                             </div>
-                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-2"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black/shitSecret.gif" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-1"></div>
                                         </div>
                                         
                                         <p class="mainText">As you can see, <i>Orange is the New Black</i> still has one of, if not the largest cast on television. I could go on for far longer about the many other well developed women of Litchfield, including Nicky (played by <a href="http://www.imdb.com/name/nm0005169/" target="_blank">Natasha Lyonne</a>, one of the best actresses in the entire cast) whom was thankfully brought back into the fold after being sidelined last year and Morello (played by <a href="http://www.imdb.com/name/nm0832227/" target="_blank">Yael Stone</a>) and her never-ending fascinations with finding true love. However, it's probably best that I stop here, or else this entry might last as long as a sentence at Litchfield.</p>
@@ -954,7 +958,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/The List/game-of-thrones.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/game-of-thrones.jpg" class="img-responsive" alt="">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -980,6 +984,195 @@
                         </div>
                     </section>
                     
+                    <!--The Top 20-5. American Crime Story-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2788432/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/american-crime-story.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>5. American Crime Story</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">FX</span>
+                                        
+                                        <p class="mainText">When <a href="http://www.imdb.com/name/nm0614682/" target="_blank">Ryan Murphy</a> announced that he was going to make <i>American Crime Story</i> (a title that oddly sounds like a spinoff to the vastly different <i>American Horror Story</i>) and that the first season was going to focus on the OJ Simpson trial, people weren't sure what to expect. Given his creations, which include <i>Glee</i>, <i>American Horror Story</i> and <i>Scream Queens</i> was this going to be an over-dramatization with no factual resemblance to the true case or would this be a competent retelling of a major historical event in the United States Department of Justice? Thankfully the latter proved true as <i>The People v. O.J. Simpson: American Crime Story</i> is one of the best new shows of the year.</p>
+                                        
+                                        <p class="mainText">Featuring an all-star cast, <i>American Crime Story</i> is in no short supply of talent that is capable of pulling off the <b>Trial of the century</b>. First up is the man of the hour himself: OJ Simpson (played by <a href="http://www.imdb.com/name/nm0000421/" target="_blank">Cuba Gooding Jr.</a>), whom may not have the same physical presence that OJ has, but definitely was able to capture the infamous former football star's personality. Then there's the <b>Dream Team</b>, which includes Robert Shapiro (played by <a href="http://www.imdb.com/name/nm0000237/" target="_blank">John Travolta</a>) and Johnnie Cochran (played with electric thunder by <a href="http://www.imdb.com/name/nm0005524/" target="_blank">Courtney B. Vance</a>). On the other side of the court lies the prosecution team, led by Marcia Clark (played by Ryan Murphy's <i>American Horror Story</i> mainstay <a href="http://www.imdb.com/name/nm0005299/" target="_blank">Sarah Paulson</a>) and Christopher Darden (played by <a href="http://www.imdb.com/name/nm1250791/" target="_blank">Sterling K. Brown</a>). These two teams, along with the defendant portray this trial from <b>The Run of His Life</b> in a Ford Bronco until the final verdict was laid out for the world to see.</p>
+                                        
+                                        <p class="mainText">From the highway chase to the glove that wouldn't fit, all the key moments from OJ's trial are recounted with dramatic finesse, but there are also some other aspects included that in hindsight really help to understand what went down in 1994. The key inflection from previous public perception is Marcia Clark, who was treated so horribly over the course of the trial that you can't help but feel for her predicament here and everything she tried to do on what should have been a home run case. In addition to this, there's Robert Kardashian (played by <i>Friend's</i> <a href="http://www.imdb.com/name/nm0001710/" target="_blank">David Schwimmer</a>), whom has been given a larger role in the series that, while not entirely accurate, still holds interest due to this being the genesis event that would eventually lead to the rise of the Kardashian family into the public eye. And then there's Johnnie Cochran, a Civil Rights advocate played with great conviction and gravitas whose position feels all the more relevant with the rise of the <b>Black Lives Matter</b> movement. The writers also have clearly taken a stance on the issue, with OJ being portrayed as 100% guilty and a clear advocation for the Los Angeles Police Department in singling out former detective Mark Fuhrman (played by <a href="http://www.imdb.com/name/nm1018679/" target="_blank">Steven Pasquale</a>) as a racist outlier.</p>
+                                        
+                                        <p class="centerText">While the result is public record, this story is all about the journey and absolutely worth it every step of the way.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>From the Ashes of Tragedy</i>; <i>Marcia, Marcia, Marcia</i> and <i>Manna From Heaven</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-4. Halt And Catch Fire-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2543312/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/halt-and-catch-fire.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>4. Halt And Catch Fire</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">AMC</span>
+                                        
+                                        <p class="mainText">AMC didn't always used to be the powerhouse network it now is. Before the massively successful <i>The Walking Dead</i> or the critical darling <i>Breaking Bad</i>, AMC was only home to classic films and little else. That all changed in 2007 when <i>Mad Men</i> premiered with Don Draper (played by <a href="http://www.imdb.com/name/nm0358316/" target="_blank">Jon Hamm</a>). Focusing on the 1960's advertising industry, <i>Mad Men</i> would go on to revolutionize the network's appeal and show what a period piece with strong characterization is capable of; though after seven seasons of success the show came to a close. Other period dramas such as <i>Masters of Sex</i> on Showtime and <i>Manhattan</i> on WGN it was AMC who would eventually be home to the true successor to this vastly influential series' legacy.</p>
+                                        
+                                        <p class="mainText"><i>Halt And Catch Fire</i> is a show that begins in the 1980's about the rise of the computer industry, centered on a group of engineers all rounded up by one man to change the world. With a clear dose of inspiration from Don Draper, the marketing guru within this universe is Joe MacMillan (played slicky by <a href="http://www.imdb.com/name/nm1195855/" target="_blank">Lee Pace</a>), a visionary who's always looking for the next big thing. At the beginning of the series he recruits two people to help accomplish his vision: Gordon Clark (played by <a href="http://www.imdb.com/name/nm1058940/" target="_blank">Scoot McNairy</a>) and Cameron Howe (played by <a href="http://www.imdb.com/name/nm4496875/" target="_blank">Mackenzie Davis</a>). Their attempt at building a computer that would rival the big boys was interesting enough in season one, but it wasn't until season two came around that the show really caught on fire.</p>
+                                        
+                                        <p class="mainText">Once Cameron and Gordon's wife Donna (played by <a href="http://www.imdb.com/name/nm2628935/" target="_blank">Kerry Bishé</a>) started their own video game company called <b>Mutiny</b> the series really began to turn heads. Along with <a href="http://www.imdb.com/name/nm0403947/" target="_blank">John Bosworth</a> and a band of merry programmers this tale about a fledgling video game distributor soars high and above everything that came before primarily because of a change in perspective. Instead of the center of this universe being on Joe MacMillan, showrunners <a href="http://www.imdb.com/name/nm3437456/" target="_blank">Christopher Cantwell</a> and <a href="http://www.imdb.com/name/nm4815022/" target="_blank">Christopher Rogers</a> shifted focus onto what would become the core relationship of the series with Cameron and Donna. In recent years Joe has still had an active role, but instead of always being in direct orbit with the primary cast he's tasked in different environments until worlds collide, leading to a more effective use of his magnetic presence. This also has given Bishé the type of storytelling her character deserves after being frequently sidelined throughout the first season.</p>
+                                        
+                                        <p class="mainText">As the characters move to California in the third season, while the Mutiny saga continues, Joe moves from one life to the next, leaving a fiancé, but gaining a protégé. After attending an inspiring presentation by Joe (whom is currently the head of <b>MacMillan Utilities</b> after stealing a security algorithm from Gordon), Ryan (played with exuberant youth by <a href="http://www.imdb.com/name/nm2110485/" target="_blank">Manish Dayal</a>) is pilfered from Gordon and Cameron at Mutiny in order to help pioneer the next big thing. While at first manipulative, their collaboration together is heartwarming to watch and the best new pairing of the season.</p>
+                                        
+                                        <p class="mainText">In addition to Joe's storyline, as Mutiny continues to expand, Cameron and Donna begin a business relationship with Diane Gould (played by <a href="http://www.imdb.com/name/nm0001272/" target="_blank">Annabeth Gish</a>), while Bosworth begins a more romantic relationship with her. This, as well as other business dealings over the course of the season begins a schism between Cameron and Donna that continues to build until it erupts in a life-changing meeting where Davis gives her best performance on the series thus far. The fallout of this confrontation reverberates until the season finale, which just like the end of previous seasons has large implications towards an exciting new direction for the fourth and final season.</p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>Valley of The Heart's Delight</i>, <i>The Threshold</i> and <i>NeXT/NIM</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-3. The Night Of-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2401256/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-night-of.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>3. The Night Of</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">HBO</span>
+                                        
+                                        <p class="mainText"><i>The Sopranos</i> is one of the most important television series of all time, cementing the careers of actresses like <a href="http://www.imdb.com/name/nm0004908/" target="_blank">Edie Falco</a> and <a href="http://www.imdb.com/name/nm0005576/" target="_blank">Drea de Matteo</a> while creating a new breed of leading man in Tony Soprano (played by <a href="http://www.imdb.com/name/nm0001254/" target="_blank">James Gandolfini</a>). Before <i>The Sopranos</i> there had never been a television show starring what would eventually be called an antihero, and the wild success of this show would go on to heavily inspire other hits like <i>Dexter</i>, <i>Mad Men</i>, <i>Breaking Bad</i> and <i>House of Cards</i>. After it ended, there were other roles he took, though nothing that would reach the heights he achieved previously; then one day he was approached for something different.</p>
+                                        
+                                        <p class="mainText">When showrunners <a href="http://www.imdb.com/name/nm0697115/" target="_blank">Richard Price</a> (a writer on <i>The Wire</i>) and <a href="http://www.imdb.com/name/nm0001873/" target="_blank">Steven Zaillian</a> (writer of <i>Schindler's List</i>) approached Gandolfini about the role of an attorney in a remake of a BBC series titled <i>Criminal Justice</i> following a defendant's journey through the criminal justice system, but with several key differences: the first being that it would take place in the United States, and the second was that the defendant would have a Pakistani heritage. This meant that the series could explore a more in-depth portrayal of how the criminal justice system can be twisted when there are predispositions about the defendant's guilt, and Gandolfini produced this project from that moment on. However, his short scene in the pilot ended up being his last.</p>
+                                        
+                                        <p class="mainText">In the summer of 2013, after production on the pilot was complete, Gandolfini went on vacation to Italy and died after a heart attack in Rome at age 51. After this tragedy, <a href="http://www.imdb.com/name/nm0000134/" target="_blank">Robert De Niro</a> was approached to take over for the role, but eventually dropped out of the project due to scheduling conflicts. Finally, <a href="http://www.imdb.com/name/nm0001806/" target="_blank">John Turturro</a> ended up with the finished part after some convincing about replacing his former friend. With a star chosen and the scripts completed HBO decided to move forward with the series under a new name: <i>The Night Of</i>.</p>
+                                        
+                                        <p class="mainText">Centered around Nasir Khan (played by <i>Rogue One</i> and <i>Jason Bourne's</i> <a href="http://www.imdb.com/name/nm1981893/" target="_blank">Riz Ahmed</a>), <i>The Night Of</i> is the story about Naz after he takes his father's taxi cab into the city and meets a girl named Andrea Cornish (played by <a href="http://www.imdb.com/name/nm3733763/" target="_blank">Sofia Black-D'Elia</a>). After spending the night together Naz wakes up downstairs and goes back to her bedroom to find her dead. Naz runs, gets caught and processed as the primary suspect behind her death; the rest of the series shows what happens over the course of his trial and the final verdict. Shortly after his arrest, Naz is approached by an attorney named John Stone that's interested in his case, played by John Turturro.</p>
+                                        
+                                        <p class="mainText">This is a series that takes its time, with a tragic atmosphere accented by an excellent score performed by <a href="http://www.imdb.com/name/nm0751642/" target="_blank">Jeff Russo</a>. The complications of Naz's heritage lead to a prejudice against him and his family that gives the series a unique twist over the original, as well as the decision to make the killing into a crime of passion, casting further doubt regarding Naz's involvement. In addition to the focus on Naz and his family, the rest of the cast includes a cop known as the <b>Subtle Beast</b> (played by <a href="http://www.imdb.com/name/nm0131966/" target="_blank">Bill Camp</a>), an adversary for Naz in prison who runs things (played by <a href="http://www.imdb.com/name/nm0931324/" target="_blank">Michael Kenneth Williams</a>), the prosecuting attorney trying to send Naz away forever (played by <a href="http://www.imdb.com/name/nm0075588/" target="_blank">Jeannie Berlin</a>) and an assistant attorney for the defense with a similar heritage to Naz and his family (played by <a href="http://www.imdb.com/name/nm2496312/" target="_blank">Amara Karan</a>). Together this cast, as well as several other guest stars create a world that turns Naz's life into a living hell as he's transformed into a criminal during the course of his time in prison.</p>
+                                        
+                                        <p class="mainText">To say anymore would be a fault on my part as it should be experienced firsthand. I also personally believe that Gandolfini would be proud of the result and the work that Turturro did in his place: showing a real humanity throughout his attempt to help Naz, warts and all.</p>
+                                        
+                                        <p class="centerText">RIP James Gandolfini (1961-2013)</p>
+
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-night-of/james-gandolfini.jpg" class="img-responsive" alt="">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>The Beach</i>, <i>The Art of War</i> and <i>Ordinary Death</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-2. The Americans-->
+                    <section class="portfolio tvEntry">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt2149175/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-americans.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>2. The Americans</h2>
+                                        <hr class="star-primary">
+                                        <span class="skills">FX</span>
+                                        
+                                        <p class="centerText">Some day there has to be a reckoning.</p>
+                                        
+                                        <p class="mainText">Philip and Elizabeth Jennings (played by <a href="http://www.imdb.com/name/nm0722629/" target="_blank">Matthew Rhys</a> and <a href="http://www.imdb.com/name/nm0005392/" target="_blank">Keri Russell</a>, respectively) have left far too much death and destruction in their wake for there to be a clean way out. Their daughter's life has been irrevocably shattered by their actions and now that she knows the truth it takes everything that Paige (played by the immensely talented <a href="http://www.imdb.com/name/nm4111426/" target="_blank">Holly Taylor</a>) has not to suffocate under the incredible pressure she's being placed under. The long-running agent that Philip has been manipulating from the FBI ever since the series began has the most exciting arc of the season and <a href="http://www.imdb.com/name/nm2226071/" target="_blank">Alison Wright</a> does her best work as Martha throughout every bit of it. All of this and more sums up the best season of the one of the best shows on television, and thank God that FX is keeping it on the air because its ratings sure aren't.</p>
+                                        
+                                        <p class="mainText">One of the most interesting inclusions in recent seasons of <i>The Americans</i> is <b>EST</b> (or Erhard Seminars Training). It was initially introduced as part of a subplot where Philip was simply trying to get closer to his neighbor Stan (played by the wonderful <a href="http://www.imdb.com/name/nm0001187/" target="_blank">Noah Emmerich</a> of <i>The Truman Show</i> and <i>Super 8</i>), whom let's not forget <i>also works for the FBI</i> (this really has to be leading to a Walt/Hank situation a la <i>Breaking Bad</i>, right??). However, since then it has become a refuge for Philip to explore his feelings about all of the horrible things he's had to do over the years. Philip has <i>never</i> been as committed to this cause as Elizabeth has, having previously voiced concerns about getting out of it all, indoctrinating Paige as <b>The Center</b> seems so keen on pursuing and how much he's had to push Martha in all of this.</p>
+                                        
+                                        <p class="mainText">Speaking of the Center, Nina Sergeevna (played by <a href="http://www.imdb.com/name/nm3393732/" target="_blank">Annet Mahendru</a>) has been on the fringes of the story for so long at this point that it begins to make you wonder if she'll ever have scene with Stan or Oleg (played by <a href="http://www.imdb.com/name/nm2687923/" target="_blank">Costa Ronin</a>) ever again. That being said, her arc this year definitely leaves an impact, though not in the way you might expect. In addition to Nina's russian captivity, there is Philip and Elizabeth's ongoing collaboration with Gabriel (played with reverence by <a href="http://www.imdb.com/name/nm0001449/" target="_blank">Frank Langella</a>, in a role that replaced a similar one that <i>Dexter's</i> <a href="http://www.imdb.com/name/nm0553269/" target="_blank">Margo Martindale</a> was fulfilling, but whom now appears far too infrequently due to other commitments). This relationship has always been complicated due to the mix of their previous close relationship and, well, the part where he frequently has to ask them to do terrible things. The crux of those terrible things this year is primarily in association with <a href="http://www.imdb.com/name/nm0048414/" target="_blank">Dylan Baker's</a> new character William and biological weapons. This storyline will push Philip and Elizabeth to their limits, in addition to everyone else they have to tangle with to keep everything afloat.</p>
+                                        
+                                        <p class="mainText">With two more seasons to go before the end, showrunners <a href="http://www.imdb.com/name/nm2913498/" target="_blank">Joseph Weisberg</a> and <a href="http://www.imdb.com/name/nm0276278/" target="_blank">Joel Fields</a> have shown that <i>The Americans</i> is just getting into it's best material yet and I have high hopes for the future of this Russian spy saga.</p>
+                                        
+                                        <p class="centerText">After all, as their Russian consultant has said, <b><i>they are hard men.</i></b></p>
+                                        
+                                        <p class="centerText">Standout episodes this year include <i>Chloramphenicol</i>, <i>The Rat</i>, <i>Travel Agents</i> and <i>Dinner For Seven</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
+                    <!--The Top 20-1. Westworld-->
+                    <section class="portfolio tvEntry tvEntryOdd">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-12 portfolio-item">
+                                    <a href="http://www.imdb.com/title/tt0475784/" class="portfolio-link" target="_blank">
+                                        <div class="caption">
+                                            <div class="caption-content">
+                                                <i class="fa fa-search-plus fa-3x"></i>
+                                            </div>
+                                        </div>
+                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/westworld.jpg" class="img-responsive" alt="">
+                                    </a>
+                                </div>                    
+                                <div class="col-lg-12 text-center">
+                                    <div class="intro-text">
+                                        <h2>1. Westworld</h2>
+                                        <hr class="star-light">
+                                        <span class="skills">HBO</span>
+                                        
+                                        <p class="mainText"><i>The Sopranos</i> is one of the most important television series of all time, cementing the careers of actresses like <a href="http://www.imdb.com/name/nm0004908/" target="_blank">Edie Falco</a> and <a href="http://www.imdb.com/name/nm0005576/" target="_blank">Drea de Matteo</a> while creating a new breed of leading man in Tony Soprano (played by <a href="http://www.imdb.com/name/nm0001254/" target="_blank">James Gandolfini</a>). Before <i>The Sopranos</i> there had never been a television show starring what would eventually be called an antihero, and the wild success of this show would go on to heavily inspire other hits like <i>Dexter</i>, <i>Mad Men</i>, <i>Breaking Bad</i> and <i>House of Cards</i>. After it ended, there were other roles he took, though nothing that would reach the heights he achieved previously; then one day he was approached for something different.</p>
+                                        
+                                        <p class="centerText">Standout episodes for this year include <i>The Beach</i>, <i>The Art of War</i> and <i>Ordinary Death</i>.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    
                     
                 </div>
             </div>
@@ -997,7 +1190,7 @@
         <script type="text/javascript">
             function downloadJSAtOnload() {
                 var element = document.createElement("script");
-                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Blog/2016/youtubeEmbed.js?d=<?php echo time(); ?>";
+                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Blog/2016/youtubeEmbed.js";
                 document.body.appendChild(element);
             }
             if (window.addEventListener)
@@ -1024,10 +1217,10 @@
         //8-Outlander (Starz)
         //7-Orange is the New Black (Netflix)
         //6-Game of Thrones (HBO)
-        5-American Crime Story (FX)
-        4-Halt & Catch Fire (AMC)
-        3-The Night Of (HBO)
-        2-The Americans (FX)
+        //5-American Crime Story (FX)
+        //4-Halt & Catch Fire (AMC)
+        //3-The Night Of (HBO)
+        //2-The Americans (FX)
         1-Westworld (HBO)
 
         -->
