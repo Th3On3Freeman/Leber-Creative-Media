@@ -8,17 +8,16 @@
     color: white;
 }
 
-.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a, .tvEntryOdd .container .row .col-lg-12 .intro-text .centerText a, .yellowLinks .container .row .col-lg-12 .tab-content p a
+.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a, .tvEntryOdd .container .row .col-lg-12 .intro-text .centerText a, .yellowLinks .container .row .col-lg-12 .tab-content p a, .headings .container .row .col-lg-12 .tab-content .tab-pane p a
 {
     color: yellow;
     text-decoration: none;
 }
 
-.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a:hover,  .yellowLinks .container .row .col-lg-12 .tab-content p a:hover
+.tvEntryOdd .container .row .col-lg-12 .intro-text .mainText a:hover,  .yellowLinks .container .row .col-lg-12 .tab-content p a:hover, .headings .container .row .col-lg-12 .tab-content .tab-pane p a:hover
 {
     border-bottom: .1em solid yellow;
 }
-
 
 .tvEntry .container .row .col-lg-12 .intro-text .skills
 {
