@@ -167,7 +167,7 @@
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the Best Character Profile Award.</p>
                                             
-                                            <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for Season 6</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened. </p>
+                                            <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened. </p>
 
                                             <p class="mediaDesc">Because of this, after initiating their relationship, it became about Mustang tracking down everyone who was involved, from Lieutenant Maria Ross (though "his senses fooled him"), Lust and finally the fuhrer. I decided against involving Envy because I thought it would be too confusing to people who haven't seen the show, and that his final form would have lessened the dramatic impact of the climax. Because of this I combined the final fight with the fuhrer from the original with Mustang's descent into revenge from Brotherhood.</p>
                                             
@@ -265,9 +265,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201573" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014.</p>
-                                            
-                                            <p class="mediaDesc">Most of this was an experiment in seeing how exactly I could mimic each shot from the trailer.</p> 
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014. Most of this was an experiment in seeing how exactly I could mimic each shot from the trailer.</p>
                                                 <br>
                                             <div class="row">
                                                 <div class="col-lg-2"></div>
@@ -279,9 +277,23 @@
                                                 <div class="col-lg-2"></div>
                                             </div>
                                                 <br>
-                                            <p class="centerText">This used a trailer from Game of Thrones Season 3, and the characters imitated are shown below (throughout this list, <b>SAO</b> is short for <i>Sword Art Online</i>, while <b>CG</b> is short for <i>Code Geass</i>)</p>
+                                            <p class="centerText">This used a trailer from <i>Game of Thrones</i> season three, and the characters imitated are shown at the bottom of the page (throughout this list, <b>SAO</b> is short for <i>Sword Art Online</i>, while <b>CG</b> is short for <i>Code Geass</i>)</p>
                                             
-                                                <div class="row">
+                                            <p>This AMV features trailer audio from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=p4iljcuzjG8" target="_blank"><p class="list-group-item-text">Game of Thrones: Season 3-Trailer 2</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13858" target="_blank"><p class="list-group-item-text">Sword Art Online</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion</p></a></li> 
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion R2</p></a></li> 
+                                            </ul>
+                                            
+                                            <div class="row">
                                                     <div class="col-lg-3 col-xs-6">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Daenerys Targaryen</h3>
@@ -300,52 +312,74 @@
                                                 </div>
                                                     <hr>
                                                 <div class="row">
-                                                    <div class="col-lg-4">      
+                                                    <div class="col-lg-4 col-xs-12">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Tyrion Lannister</h3>
                                                     </div>
-                                                    <div class="col-lg-4 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-4">      
+                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-4 col-xs-12">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Kirito (SAO)</h3>
                                                     </div>
                                                 </div>
                                                     <hr>
                                                 <div class="row">
-                                                    <div class="col-lg-1"></div>
-                                                    <div class="col-lg-3">      
+                                                    <div class="col-lg-1 hidden-xs-down"></div>
+                                                    <div class="col-lg-3 col-xs-12">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Cersei Lannister</h3>
                                                     </div>
-                                                    <div class="col-lg-1"></div>
-                                                    <div class="col-lg-2 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-1"></div>
-                                                    <div class="col-lg-3">      
+                                                    <div class="col-lg-1 hidden-xs-down"></div>
+                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-1 col-xs-2"></div>
+                                                    <div class="col-lg-3 col-xs-8">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Leafa (SAO)</h3>
                                                     </div>
-                                                    <div class="col-lg-1"></div>
+                                                    <div class="col-lg-1 col-xs-2"></div>
                                                 </div>
                                                     <hr>
                                                 <div class="row">
-                                                    <div class="col-lg-1"></div>
-                                                    <div class="col-lg-3">      
+                                                    <div class="col-lg-1 col-xs-2"></div>
+                                                    <div class="col-lg-3 col-xs-8">      
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
                                                         <h3>Robb Stark</h3>
                                                     </div>
-                                                    <div class="col-lg-2 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-3"></div>
-                                                    <div class="col-lg-4">
+                                                    <div class="col-xs-2 hidden-sm-up"></div>
+                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-3 hidden-xs-down"></div>
+                                                    <div class="col-lg-4 col-xs-12">
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Suzaku (CG)</h3>
                                                               
                                                         <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Kirito (SAO)</h3>
                                                     </div>
-                                                    <div class="col-lg-2"></div>
+                                                    <div class="col-lg-2 hidden-xs-down"></div>
                                                 </div>
                                                     <hr>
-                                            <p class="centerText">Tywin Lannister/Joffrey Baratheon/Commander Mormont - Lelouch (CG)</p>
+                                                <div class="row">
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Tywin Lannister</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Joffrey Baratheon</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Commander Mormont</h3>
+                                                    </div>
+                                                    <div class="col-lg-2 hidden-sm-down"></div>
+                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-6 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Lelouch (CG)</h3>
+                                                    </div>
+                                                    <div class="col-lg-2 hidden-xs-down"></div>
+                                                </div>
+                                                    <hr>
                                             <p class="centerText">Arya Stark - Silica (SAO)</p>
                                             <p class="centerText">Stannis Baratheon - V.V. (CG)</p>
                                             <p class="centerText">Melisandre - C.C. (CG)</p>
@@ -359,20 +393,6 @@
                                             <p class="centerText">Margaery Tyrell - Euphy (CG)</p>
                                             <p class="centerText">Asha Greyjoy - Villetta (CG)</p>
                                             <p class="centerText">Myranda - Cornelia (CG)</p>
-                                            
-                                            <p>This AMV features trailer audio from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=p4iljcuzjG8" target="_blank"><p class="list-group-item-text">Game of Thrones: Season 3-Trailer 2</p></a></li>
-                                            </ul>
-                                            
-                                            <p>This AMV features footage from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13858" target="_blank"><p class="list-group-item-text">Sword Art Online</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion</p></a></li> 
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion R2</p></a></li> 
-                                            </ul>
                                         </div>
                                     </div>      
                                 </div>
