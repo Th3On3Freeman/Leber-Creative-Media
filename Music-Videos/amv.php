@@ -380,9 +380,42 @@
                                                     <div class="col-lg-2 hidden-xs-down"></div>
                                                 </div>
                                                     <hr>
-                                            <p class="centerText">Arya Stark - Silica (SAO)</p>
-                                            <p class="centerText">Stannis Baratheon - V.V. (CG)</p>
-                                            <p class="centerText">Melisandre - C.C. (CG)</p>
+                                                <div class="row">
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Arya Stark</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Silica (SAO)</h3>
+                                                    </div>
+                                                </div>
+                                                    <hr>
+                                                <div class="row">
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Stannis Baratheon</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>V.V. (CG)</h3>
+                                                    </div>
+                                                </div>
+                                                    <hr>
+                                                <div class="row">
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>Melisandre</h3>
+                                                    </div>
+                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                    <div class="col-lg-4 col-xs-12">      
+                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                        <h3>C.C. (CG)</h3>
+                                                    </div>
+                                                </div>
+                                                    <hr>
                                             <p class="centerText">Brienne Tarth - Heathcliff (SAO)</p>
                                             <p class="centerText">Daario Naharis - Kuradeel/Kirito (SAO)</p>
                                             <p class="centerText">Catelyn Tully/Talisa Stark - Sugu (SAO)</p>
