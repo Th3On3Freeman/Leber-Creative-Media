@@ -305,8 +305,8 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#blogModal1" class="portfolio-link">
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2013/12/my-20-favorite-shows-of-2013-ongoing.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -315,8 +315,8 @@
                             <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2013.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#blogModal2" class="portfolio-link">
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/01/my-20-favorite-shows-of-2014.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -325,14 +325,26 @@
                             <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2014.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#blogModal3" class="portfolio-link">
+                </div>
+                <div class="row">
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/03/my-20-favorite-shows-of-2015.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
                             <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2015.jpg" class="img-responsive" alt="">
+                        </a>
+                    </div>
+                    <div class="col-sm-6 portfolio-item">
+                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php" class="portfolio-link">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2016.jpg" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>

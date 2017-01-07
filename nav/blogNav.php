@@ -6,7 +6,7 @@
             </button>
             <a class="navbar-brand" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php">Leber Creative Media</a>
         </div>
-            
+
         <div class="collapse navbar-collapse modNavBar" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
@@ -32,16 +32,16 @@
                               <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#blog">Blog</span></a>
                             </li>
                             <li id="bt13Row" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2013.php">- 2013</a>
+                              <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2013/12/my-20-favorite-shows-of-2013-ongoing.html">- 2013</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2013.php-->
                             </li>
                             <li id="bt14Row" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2014.php">- 2014</a>
+                              <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/01/my-20-favorite-shows-of-2014.html">- 2014</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2014.php-->
                             </li>
                             <li id="bt15Row" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2015.php">- 2015</a>
+                              <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/03/my-20-favorite-shows-of-2015.html">- 2015</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2015.php-->
                             </li>
                             <li id="bt16Row" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2016.php">- 2016</a>
+                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php">- 2016</a>
                             </li>
                             
                         <?php        
@@ -54,16 +54,16 @@
                                 <a class="dropdown-toggle" data-toggle="dropdown" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#blog">Blog</span></a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2013.php">2013</a>
+                                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2013/12/my-20-favorite-shows-of-2013-ongoing.html">2013</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2013.php-->
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2014.php">2014</a>
+                                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/01/my-20-favorite-shows-of-2014.html">2014</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2014.php-->
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2015.php">2015</a>
+                                        <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/03/my-20-favorite-shows-of-2015.html">2015</a> <!--http://<?php //echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2015.php-->
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2016.php">2016</a>
+                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php">2016</a>
                                     </li>
                                     
                                 </ul>

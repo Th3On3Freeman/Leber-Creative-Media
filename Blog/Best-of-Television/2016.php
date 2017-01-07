@@ -13,13 +13,13 @@
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Best of TV 2016"/>
         <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/thumbnail.jpg">
+        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best of Television/2016.php">
+        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best of Television/2016/thumbnail.PNG" />
+        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/thumbnail.PNG" />
 
         <?php
             //Styles
@@ -65,7 +65,7 @@
                                 <div class="tab-pane fade intro in active">
                                     <h2>About</h2>
                                     <hr class="star-light">
-                                    <p>Welcome to my list for the best television shows of 2016. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well. I'd also like to thank Julia Galimidi and Kevan Main; both helped me proofread these entries. Feel free to check out his list at the link below:</p>
+                                    <p>Welcome to my list for the best television shows of 2016. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well. I'd also like to thank my girlfriend and mother; both helped me proofread these entries. Feel free to check out his list at the link below:</p>
                                     
                                     <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2016/12/my-20-favorite-television-shows-of-2016.html" target="_blank">Antonio's Favorite Shows of 2016</a></p>
                                 </div>
@@ -109,7 +109,7 @@
                                         <h2>The Path</h2>
                                         <hr class="star-primary">
                                         <span class="skills">Hulu</span>
-                                        <p class="mainText">One of the more interesting new premiere seasons from this year, <i>The Path</i> (formerly known as <i>The Way</i>), had a lot riding on it. It was pushed as Hulu's first big scripted show, featuring <a href="http://www.imdb.com/name/nm0666739/" target="_blank">Aaron Paul</a> (<i>Breaking Bad</i>), <a href="http://www.imdb.com/name/nm0199215/" target="_blank">Hugh Dancy</a> (<i>Hannibal</i>) and <a href="http://www.imdb.com/name/nm1157358/" target="_blank">Michelle Monaghan</a> (<i>True Detective</i>) in the lead roles. Did it succeed? Well...</p>
+                                        <p class="mainText">One of the more interesting new premiere seasons from this year, <i>The Path</i> (formerly known as <i>The Way</i>), had a lot riding on it. It was pushed as Hulu's first big scripted show, created by <a href="http://www.imdb.com/name/nm0441300/" target="_blank">Jason Katims</a> (showrunner on <i>Friday Night Lights</i> and <i>Parenthood</i>) and featuring <a href="http://www.imdb.com/name/nm0666739/" target="_blank">Aaron Paul</a> (<i>Breaking Bad</i>), <a href="http://www.imdb.com/name/nm0199215/" target="_blank">Hugh Dancy</a> (<i>Hannibal</i>) and <a href="http://www.imdb.com/name/nm1157358/" target="_blank">Michelle Monaghan</a> (<i>True Detective</i>) in the lead roles. Did it succeed? Well...</p>
                                         
                                         <p class="mainText">This show is different. It presents the viewer with a cult called The Movement that follows a lifestyle centered around The Ladder. The closest point of entry the audience has is Eddie (Aaron Paul), who seems to be the only person within The Movement that understands how strange it all is and has serious doubts regarding its newly appointed leader Cal (Hugh Dancy).</p>
                                         
@@ -556,7 +556,7 @@
                                         
                                         <p class="mainText">One of the things that didn't change however, is the online theorizing machines, which resulted in the primary twist of the first half of the season being guessed fairly quickly (more on that phenomenon later in this list). While this didn't take away from my overall enjoyment of the show, I will be avoiding critical analysis of this show in the future.</p>
                                         
-                                        <p class="mainText">The core mystery this year was where in the world is Tyrell Wellick (played by <a href="http://www.imdb.com/name/nm3501146/" target="_blank">Martin Wallström</a>) after his encounter with Elliot at the end of last season? Tyrell was one of the most interesting characters last year, and his disappearance, while at first intriguing, takes far too long to get resolved. While his wife Joanna (played by <a href="http://www.imdb.com/name/nm4066934/" target="_blank">Stephanie Corneliussen</a>) beceomes more interesting the more we learn about her, she's only peripherally involved to the story this time around and there's no one else that shows up to fill that gap (though <a href="http://www.imdb.com/name/nm0732497/" target="_blank">Craig Robinson</a> and <a href="http://www.imdb.com/name/nm5352388/" target="_blank">Joey Bada$$</a> are great additions to the cast).</p>
+                                        <p class="mainText">The core mystery this year was where in the world is Tyrell Wellick (played by <a href="http://www.imdb.com/name/nm0909412/" target="_blank">Martin Wallström</a>) after his encounter with Elliot at the end of last season? Tyrell was one of the most interesting characters last year, and his disappearance, while at first intriguing, takes far too long to get resolved. While his wife Joanna (played by <a href="http://www.imdb.com/name/nm4066934/" target="_blank">Stephanie Corneliussen</a>) beceomes more interesting the more we learn about her, she's only peripherally involved to the story this time around and there's no one else that shows up to fill that gap (though <a href="http://www.imdb.com/name/nm0732497/" target="_blank">Craig Robinson</a> and <a href="http://www.imdb.com/name/nm5352388/" target="_blank">Joey Bada$$</a> are great additions to the cast).</p>
                                         
                                         <p class="mainText">Rounding things out is the partnership between the CEO of EvilCorp Phillip Price (played by <a href="http://www.imdb.com/name/nm0188165/" target="_blank">Michael Cristofer</a>) and the shadowy cross-dressing leader of the Dark Army Whiterose (played by <a href="http://www.imdb.com/name/nm0000703/" target="_blank">BD Wong</a>). Though their scenes are less interesting plot-wise (mostly focusing on the mystery of the <b>Washington Township Plant</b>), both of these actors have particular styles that make them more interesting to watch as people, and thus, make their scenes a treat to look forward to.</p>
                                         
@@ -974,7 +974,7 @@
                                         
                                         <p class="centerText">I'm not even going to mention anything that may or may not have happened with <a href="http://www.imdb.com/name/nm3229685/" target="_blank">Kit Harington</a>. Just putting that out there up front.</p>
                                         
-                                        <p class="mainText">Last season's <i>Game of Thrones</i> began to show some cracks. Based on the long-running epic novel series, <i>A Song of Ice and Fire</i> by <a href="http://www.imdb.com/name/nm0552333/" target="_blank">George R.R. Martin</a>, this is the most ambitious television show ever made. The showrunners haven't always able to match up to the scale that the novels have put in place such as the truncated battles from the end of season one and the missing chain from season two's <i>Blackwater</i>. However, <i>Game of Thrones</i> has been successful enough for HBO that they have given showrunners <a href="http://www.imdb.com/name/nm1125275/" target="_blank">David Benioff</a> and <a href="http://www.imdb.com/name/nm1888967/" target="_blank">D.B. Weiss</a> the resources necessary to pull off incredible episodes on the level of last year's <i>Hardhome</i> and this year's <i>Battle of the Bastards</i> (both of which were directed by <a href="http://www.imdb.com/name/nm0764601/" target="_blank">Miguel Sapochnik</a>).</p>
+                                        <p class="mainText">Last season's <i>Game of Thrones</i> began to show some cracks. Based on the long-running epic novel series, <i>A Song of Ice and Fire</i> by <a href="http://grrm.livejournal.com/" target="_blank">George R.R. Martin</a>, this is the most ambitious television show ever made. The showrunners haven't always able to match up to the scale that the novels have put in place such as the truncated battles from the end of season one and the missing chain from season two's <i>Blackwater</i>. However, <i>Game of Thrones</i> has been successful enough for HBO that they have given showrunners <a href="http://www.imdb.com/name/nm1125275/" target="_blank">David Benioff</a> and <a href="http://www.imdb.com/name/nm1888967/" target="_blank">D.B. Weiss</a> the resources necessary to pull off incredible episodes on the level of last year's <i>Hardhome</i> and this year's <i>Battle of the Bastards</i> (both of which were directed by <a href="http://www.imdb.com/name/nm0764601/" target="_blank">Miguel Sapochnik</a>).</p>
                                         
                                         <p class="mainText">However, other than the aforementioned <i>Hardhome</i>, season five was a bit of a slog. It was shackled by a misguided attempt to stay within the confines of the most recent novel (<i>A Dance with Dragons</i>). While there were a few moments that surpassed that novel's scope, most of the ending of that season was cliffhanger after cliffhanger in order to give Martin enough time to finish writing <i>The Winds of Winter</i> (the sixth of seven currently planned novels). The worst part about this that Martin didn't even manage to get it done and there is no release date in sight.</p>
                                         
@@ -1175,7 +1175,7 @@
                                         
                                         <p class="mainText">Is it defined by a soul? Can it be manifested at will? Is it possible for a mechanical construct to make its own decisions? These are the central questions explored in the best new show of the year, <i>Westworld</i>.</p>
                                         
-                                        <p class="mainText">Created by <i>Person of Interest</i> showrunner <a href="http://www.imdb.com/name/nm0634300/" target="_blank">Jonathan Nolan</a>, <i>Westworld</i> is based on a science fiction movie written and directed by <a href="http://www.imdb.com/name/nm0000341/" target="_blank">Michael Crichton</a>, also called <a href="http://www.imdb.com/title/tt0070909/" target="_blank">Westworld</a>. Crichton's original movie was released in 1973 and since then advances in technology have made it possible for his vision to be fully realized in a way that wasn't feasible in the original film. Because there is more time in a television format as opposed to film, the viewer gets to see far more of the buildup before the the robots (or <b>Hosts</b>) attack. This gives the audience the time necessary to sympathize with the Hosts before everything goes wrong. However, just as in the original film, this is not a normal robot uprising story.</p>
+                                        <p class="mainText">Created by <i>Person of Interest</i> showrunner <a href="http://www.imdb.com/name/nm0634300/" target="_blank">Jonathan Nolan</a>, <i>Westworld</i> is based on a science fiction movie written and directed by <a href="http://www.imdb.com/name/nm0000341/" target="_blank">Michael Crichton</a>, also called <a href="http://www.imdb.com/title/tt0070909/" target="_blank">Westworld</a>. Much like his previous series, Nolan continues to explore artificial intelligence throughout this series in an interesting way. Crichton's original movie was released in 1973 and since then advances in technology have made it possible for his vision to be fully realized in a way that wasn't feasible in the original film. Because there is more time in a television format as opposed to film, the viewer gets to see far more of the buildup before the the robots (or <b>Hosts</b>) attack. This gives the audience the time necessary to sympathize with the Hosts before everything goes wrong. However, just as in the original film, this is not a normal robot uprising story.</p>
                                         
                                         <p class="mainText"><b>Westworld</b> is a theme park created by Dr. Robert Ford (played by <i>The Silence of the Lambs'</i> <a href="http://www.imdb.com/name/nm0000164/" target="_blank">Anthony Hopkins</a>), an incredibly ambitious man who worked with his former partner, Arnold, to create an entire world set in an old Western environment. Unlike somewhere like <b>Disney World</b>, instead of rides, the guests (also known as the <b>Newcomers</b>) are offered experiences with the Hosts. This artificial world gives them the chance to make decisions that leads many to discover who they really are. Yet, unlike the Newcomers, the Hosts have no such freedoms as is illustrated in this quote from the first episode:</p>
                                         
@@ -1197,12 +1197,10 @@
                             </div>
                         </div>
                     </section>
-                    
-                    
+                  
                 </div>
             </div>
             
-        
         <?php
             //Scripts
             require_once ($_SERVER["DOCUMENT_ROOT"]."/scripts/scripts.php");
@@ -1224,31 +1222,6 @@
                 window.attachEvent("onload", downloadJSAtOnload);
             else window.onload = downloadJSAtOnload;
         </script>
-        <!--
-        <h2>The Top 20</h2>
-        
-        //20-Luke Cage (Netflix)
-        //19-Daredevil (Netflix)
-        //18-The Walking Dead (AMC)
-        //17-House of Cards (Netflix)
-        //16-Mr. Robot (USA)
-        //15-Rectify (Sundance)
-        //14-Horace and Pete (LouisCK.net)
-        //13-Stranger Things (Netflix)
-        //12-Bates Motel (A&E)
-        //11-Better Call Saul (AMC)
-        //10-Person of Interest (CBS)
-        //9-The 100 (CW)
-        //8-Outlander (Starz)
-        //7-Orange is the New Black (Netflix)
-        //6-Game of Thrones (HBO)
-        //5-American Crime Story (FX)
-        //4-Halt & Catch Fire (AMC)
-        //3-The Night Of (HBO)
-        //2-The Americans (FX)
-        1-Westworld (HBO)
-
-        -->
     </body>
     
 </html>
