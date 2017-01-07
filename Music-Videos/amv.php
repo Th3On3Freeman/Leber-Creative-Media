@@ -294,133 +294,227 @@
                                             </ul>
                                             
                                             <div class="row">
-                                                    <div class="col-lg-3 col-xs-6">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Daenerys Targaryen</h3>
-                                                    </div>
-                                                    <div class="col-lg-3 col-xs-6">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Mance Rayder</h3>
-                                                    </div>
-                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-xs-4 hidden-sm-up"></div>
-                                                    <div class="col-lg-2 col-xs-4">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Asuna (SAO)</h3>
-                                                    </div>
-                                                    <div class="col-lg-2 col-xs-4"></div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Daenerys Targaryen</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Tyrion Lannister</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Kirito (SAO)</h3>
-                                                    </div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Mance Rayder</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-1 hidden-xs-down"></div>
-                                                    <div class="col-lg-3 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Cersei Lannister</h3>
-                                                    </div>
-                                                    <div class="col-lg-1 hidden-xs-down"></div>
-                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-1 col-xs-2"></div>
-                                                    <div class="col-lg-3 col-xs-8">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Leafa (SAO)</h3>
-                                                    </div>
-                                                    <div class="col-lg-1 col-xs-2"></div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-2 col-xs-4">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Asuna (SAO)</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-1 col-xs-2"></div>
-                                                    <div class="col-lg-3 col-xs-8">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
-                                                        <h3>Robb Stark</h3>
-                                                    </div>
-                                                    <div class="col-xs-2 hidden-sm-up"></div>
-                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-3 hidden-xs-down"></div>
-                                                    <div class="col-lg-4 col-xs-12">
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Suzaku (CG)</h3>
+                                                <div class="col-lg-2 col-xs-4"></div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Tyrion Lannister</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kirito (SAO)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-1 hidden-xs-down"></div>
+                                                <div class="col-lg-3 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Cersei Lannister</h3>
+                                                </div>
+                                                <div class="col-lg-1 hidden-xs-down"></div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-1 col-xs-2"></div>
+                                                <div class="col-lg-3 col-xs-8">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Leafa (SAO)</h3>
+                                                </div>
+                                                <div class="col-lg-1 col-xs-2"></div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-1 col-xs-2"></div>
+                                                <div class="col-lg-3 col-xs-8">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                    <h3>Robb Stark</h3>
+                                                </div>
+                                                <div class="col-xs-2 hidden-sm-up"></div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-3 hidden-xs-down"></div>
+                                                <div class="col-lg-4 col-xs-12">
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Suzaku (CG)</h3>
                                                               
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Kirito (SAO)</h3>
-                                                    </div>
-                                                    <div class="col-lg-2 hidden-xs-down"></div>
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kirito (SAO)</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Tywin Lannister</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Joffrey Baratheon</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Commander Mormont</h3>
-                                                    </div>
-                                                    <div class="col-lg-2 hidden-sm-down"></div>
-                                                    <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-6 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Lelouch (CG)</h3>
-                                                    </div>
-                                                    <div class="col-lg-2 hidden-xs-down"></div>
+                                                <div class="col-lg-2 hidden-xs-down"></div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Tywin Lannister</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Arya Stark</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Silica (SAO)</h3>
-                                                    </div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Joffrey Baratheon</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>Stannis Baratheon</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>V.V. (CG)</h3>
-                                                    </div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Commander Mormont</h3>
                                                 </div>
-                                                    <hr>
-                                                <div class="row">
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                <div class="col-lg-2 hidden-sm-down"></div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-6 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Lelouch (CG)</h3>
+                                                </div>
+                                                <div class="col-lg-2 hidden-xs-down"></div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Arya Stark</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Silica (SAO)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Stannis Baratheon</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>V.V. (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                         <h3>Melisandre</h3>
-                                                    </div>
-                                                    <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                    <div class="col-lg-4 col-xs-12">      
-                                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
-                                                        <h3>C.C. (CG)</h3>
-                                                    </div>
                                                 </div>
-                                                    <hr>
-                                            <p class="centerText">Brienne Tarth - Heathcliff (SAO)</p>
-                                            <p class="centerText">Daario Naharis - Kuradeel/Kirito (SAO)</p>
-                                            <p class="centerText">Catelyn Tully/Talisa Stark - Sugu (SAO)</p>
-                                            <p class="centerText">Tormund Giantsbane - Klein (SAO)/Kirito (SAO)</p>
-                                            <p class="centerText">Ygritte - Kallen (CG)</p>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>C.C. (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-brienne.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Brienne of Tarth</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-heathcliff.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Heathcliff (SAO)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-4 col-xs-4">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daario-naharis.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Daario Naharis</h3>
+                                                </div><!--
+                                                <div class="col-xs-4 hidden-sm-up"></div>-->
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kuradeel.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kuradeel (SAO)</h3>
+                                                </div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kirito (SAO)</h3>
+                                                </div>
+                                            </div>    
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-catelyn-tully.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Catelyn Tully</h3>
+                                                </div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-talisa-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Talisa Stark</h3>
+                                                </div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-4 col-xs-4">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-sugu.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Sugu (SAO)</h3>
+                                                </div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-4 col-xs-4">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tormund-giantsbane.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Tormund Giantsbane</h3>
+                                                </div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-klein.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Klein (SAO)</h3>
+                                                </div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kirito (SAO)</h3>
+                                                </div>
+                                            </div>    
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-ygritte.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Ygritte</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-kallen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kallen (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-jon-snow.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Jon Snow</h3>
+                                                </div>
+                                                <div class="col-lg-3 col-xs-6">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-jaime-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Jaime Lannister</h3>
+                                                </div>
+                                                <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-lg-4 col-xs-12">
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Kirito (SAO)</h3>
+                                                              
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Lelouch (CG)</h3>
+                                                </div>
+                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                            </div>
+                                                <hr>
                                             <p class="centerText">Jon Snow/Jaime Lannister - Kirito (SAO)/Lelouch (CG)</p>
                                             <p class="centerText">Bran Stark - Nunnally Lamperouge (CG)</p>
                                             <p class="centerText">Margaery Tyrell - Euphy (CG)</p>
