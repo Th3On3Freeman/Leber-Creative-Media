@@ -303,7 +303,7 @@
                                                     <h3>Mance Rayder</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-4">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Asuna (SAO)</h3>
@@ -324,12 +324,12 @@
                                             </div>
                                                 <hr>
                                             <div class="row">
-                                                <div class="col-lg-1 hidden-xs-down"></div>
+                                                <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-3 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Cersei Lannister</h3>
                                                 </div>
-                                                <div class="col-lg-1 hidden-xs-down"></div>
+                                                <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-1 col-xs-2"></div>
                                                 <div class="col-lg-3 col-xs-8">      
@@ -345,9 +345,9 @@
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
                                                     <h3>Robb Stark</h3>
                                                 </div>
-                                                <div class="col-xs-2 hidden-sm-up"></div>
+                                                <div class="col-xs-2 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-lg-3 hidden-xs-down"></div>
+                                                <div class="col-lg-3 hidden-xs"></div>
                                                 <div class="col-lg-4 col-xs-12">
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Suzaku (CG)</h3>
@@ -355,7 +355,7 @@
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
-                                                <div class="col-lg-2 hidden-xs-down"></div>
+                                                <div class="col-lg-2 hidden-xs"></div>
                                             </div>
                                                 <hr>
                                             <div class="row">
@@ -371,13 +371,13 @@
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Commander Mormont</h3>
                                                 </div>
-                                                <div class="col-lg-2 hidden-sm-down"></div>
+                                                <div class="col-lg-2 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-6 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
-                                                <div class="col-lg-2 hidden-xs-down"></div>
+                                                <div class="col-lg-2 hidden-xs"></div>
                                             </div>
                                                 <hr>
                                             <div class="row">
@@ -429,18 +429,16 @@
                                             </div>
                                                 <hr>
                                             <div class="row">
-                                                <div class="col-xs-4 hidden-sm-up"></div>
-                                                <div class="col-lg-4 col-xs-4">      
+                                                <div class="col-lg-4 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daario-naharis.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Daario Naharis</h3>
-                                                </div><!--
-                                                <div class="col-xs-4 hidden-sm-up"></div>-->
+                                                </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-lg-3 col-xs-6">      
+                                                <div class="col-lg-3 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kuradeel.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Kuradeel (SAO)</h3>
                                                 </div>
-                                                <div class="col-lg-3 col-xs-6">      
+                                                <div class="col-lg-3 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
@@ -456,27 +454,23 @@
                                                     <h3>Talisa Stark</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
-                                                <div class="col-lg-4 col-xs-4">      
+                                                <div class="col-lg-4 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-sugu.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Sugu (SAO)</h3>
                                                 </div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
                                             </div>
                                                 <hr>
                                             <div class="row">
-                                                <div class="col-xs-4 hidden-sm-up"></div>
-                                                <div class="col-lg-4 col-xs-4">      
+                                                <div class="col-lg-4 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tormund-giantsbane.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Tormund Giantsbane</h3>
                                                 </div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-lg-3 col-xs-6">      
+                                                <div class="col-lg-3 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-klein.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Klein (SAO)</h3>
                                                 </div>
-                                                <div class="col-lg-3 col-xs-6">      
+                                                <div class="col-lg-3 col-xs-12">      
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
@@ -504,7 +498,7 @@
                                                     <h3>Jaime Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-4 col-xs-12">
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Kirito (SAO)</h3>
@@ -512,12 +506,33 @@
                                                     <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
-                                                <div class="col-xs-4 hidden-sm-up"></div>
+                                                <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                             </div>
                                                 <hr>
-                                            <p class="centerText">Jon Snow/Jaime Lannister - Kirito (SAO)/Lelouch (CG)</p>
-                                            <p class="centerText">Bran Stark - Nunnally Lamperouge (CG)</p>
-                                            <p class="centerText">Margaery Tyrell - Euphy (CG)</p>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-bran-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Bran Stark</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-nunnally-lamperouge.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Nunnally (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-margaery-tyrell.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Margaery Tyrell</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-euphemia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <h3>Euphy (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
                                             <p class="centerText">Asha Greyjoy - Villetta (CG)</p>
                                             <p class="centerText">Myranda - Cornelia (CG)</p>
                                         </div>
