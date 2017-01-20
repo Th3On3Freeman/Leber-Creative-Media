@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Best of TV 2016</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Best of TV 2016"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/thumbnail.jpg">
+        <meta property="og:description" name="description" content="Welcome to my list for the best television shows of 2016. All of these are shows that I watched this year to their completion (with some exceptions)." />
+        <meta property="og:image" content="/images/blog/best-of-television/2016/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php">
+        <meta property="og:url" content="/blog/best-of-television/2016.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/thumbnail.PNG" />
+        <link rel="image_src" href="/images/blog/best-of-television/2016/thumbnail.PNG" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Blog)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/blogNav.php");
@@ -49,32 +49,32 @@
                         <div class="col-lg-12">
                             
                             <div class="intro-text">
-                                <span class="name">Best of Television 2016</span>
+                                <h1 class="name">Best of Television 2016</h1>
                                 <hr class="star-light">
                             </div>
                             
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
-                                    <li class="active"><a data-toggle="pill" href=".intro" class="btn btn-default pillTabs">About</a></li>
-                                    <li><a data-toggle="pill" href=".honMention" class="btn btn-default pillTabs">Honorable Mention</a></li>
-                                    <li><a data-toggle="pill" href=".top20" class="btn btn-default pillTabs">The Top 20</a></li>
+                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li><a data-toggle="pill" href="#honMention" data-target="#honMention, #honMentionContent" class="btn btn-default pillTabs">Honorable Mention</a></li>
+                                    <li><a data-toggle="pill" href="#top20" data-target="#top20, #top20Content" class="btn btn-default pillTabs">The Top 20</a></li>
                                 </ul>
                             </div>
                                 <br>
                             <div class="tab-content">
-                                <div class="tab-pane fade intro in active">
-                                    <h2>About</h2>
+                                <div id="intro" class="tab-pane fade in active">
+                                    <h2>About my 2016 List</h2>
                                     <hr class="star-light">
                                     <p>Welcome to my list for the best television shows of 2016. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well. I'd also like to thank my girlfriend and mother; both helped me proofread these entries. Feel free to check out his list at the link below:</p>
                                     
                                     <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2016/12/my-20-favorite-television-shows-of-2016.html" target="_blank">Antonio's Favorite Shows of 2016</a></p>
                                 </div>
-                                <div class="tab-pane fade honMention">
+                                <div id="honMention" class="tab-pane fade">
                                     <h2>Honorable Mention</h2>
                                     <hr class="star-light">
                                     <p>These are the shows from this year that didn't make the cut. Some of these were good, but may have had too many flaws in their storytelling to justify a place on the list while others were just okay. These are in no particular order.</p>
                                 </div>
-                                <div class="tab-pane fade top20">
+                                <div id="top20" class="tab-pane fade">
                                     <h2>The Top 20</h2>
                                     <hr class="star-light">
                                     <p>This is it, the best of the best. Every show on this list contributed something unique and worthwhile to the television landscape, demonstrating excellence in at least one key area. This list is ordered sequentially with #1 being the best.</p>
@@ -88,7 +88,7 @@
                 <div class="tab-pane fade intro in active">
                 </div>
                 
-                <div class="tab-pane fade honMention">
+                <div id="honMentionContent" class="tab-pane fade">
                     
                     <!--Honorable Mention-The Path-->
                     <section class="portfolio tvEntry">
@@ -101,7 +101,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/the-path.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/the-path.jpg" class="img-responsive" alt="Three actors from 'The Path' on Hulu with shining light">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -133,7 +133,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/orphan-black.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/orphan-black.jpg" class="img-responsive" alt="A shady figure in a hoody wearing a sheep mask from 'Orphan Black' on BBC America">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -161,7 +161,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/american-horror-story.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/american-horror-story.jpg" class="img-responsive" alt="A house in a field with a cloud of smoke forming a 6 from 'American Horror Story' on FX">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -191,7 +191,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/broad-city.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/broad-city.jpg" class="img-responsive" alt="The lead actresses from 'Broad City' on Comedy Central with Hillary Clinton">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -219,7 +219,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/its-always-sunny-in-philadelphia.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/its-always-sunny-in-philadelphia.jpg" class="img-responsive" alt="Two actors from &quotIt's Always Sunny in Philadelphia&quot on FXX arguing and sitting at a table">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -247,7 +247,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/fear-the-walking-dead.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/fear-the-walking-dead.jpg" class="img-responsive" alt="Two actors from 'Fear the Walking Dead' on AMC walking down an alley">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -283,14 +283,14 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/designated-survivor.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/designated-survivor.jpg" class="img-responsive" alt="Kiefer Sutherland from 'Designated Survivor' on ABC in a suit">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
                                     <div class="intro-text">
                                         <h2>Designated Survivor</h2>
                                         <hr class="star-primary">
-                                        <span class="skills">FXX</span>
+                                        <span class="skills">ABC</span>
                                         
                                         <p class="centerText"><i>Disclaimer: I have only seen up through Season 1, Episode 4: The Enemy.</i></p>
                                         
@@ -316,7 +316,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/Honorable Mention/black-mirror.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/honorable-mention/black-mirror.jpg" class="img-responsive" alt="Six actors from 'Black Mirror' on Netflix side by side">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -349,7 +349,7 @@
                     
                 </div>
                 
-                <div class="tab-pane fade top20">
+                <div id="top20Content" class="tab-pane fade">
                     <!--The Top 20-20. Luke Cage-->
                     <section class="portfolio tvEntry">
                         <div class="container">
@@ -361,7 +361,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/luke-cage.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/luke-cage.jpg" class="img-responsive" alt="Two actors from 'Luke Cage' on Netflix arguing in front of a painting">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -404,7 +404,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/daredevil.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/daredevil.jpg" class="img-responsive" alt="Punisher and Elektra next to the lead actor from 'Daredevil' on Netflix in a dark alley">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -440,7 +440,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/the-walking-dead.jpg" class="img-responsive" alt="Negan in front of a large group getting ready to kill someone on 'The Walking Dead' on AMC">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -455,7 +455,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/montage.gif" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/the-walking-dead/montage.gif" class="img-responsive" alt="The entire cast of 'The Walking Dead' attacking towards the viewer in an animated montage">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -465,7 +465,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/bad-effect.gif" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/the-walking-dead/bad-effect.gif" class="img-responsive" alt="A character from 'The Walking Dead' shooting a cast member with a horrible splatter effect">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -475,7 +475,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-walking-dead/pov.gif" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/the-walking-dead/pov.gif" class="img-responsive" alt="Negan from 'The Walking Dead' hitting the viewer with his bat in a point of view camera angle">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -508,7 +508,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/house-of-cards.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/house-of-cards.jpg" class="img-responsive" alt="The two lead actors from 'House of Cards' on Netflix sitting in chairs looking towards the viewer">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -541,7 +541,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/mr-robot.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/mr-robot.jpg" class="img-responsive" alt="Two actors from 'Mr. Robot' on USA sitting on bleachers">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -580,7 +580,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/rectify.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/rectify.jpg" class="img-responsive" alt="The lead actor from 'Rectify' on Sundance in a suit looking towards the viewer">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -619,7 +619,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/horace-and-pete.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/horace-and-pete.jpg" class="img-responsive" alt="A painted sign of the main bar from 'Horace and Pete' on LouisCK.net and Hulu">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -659,7 +659,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/stranger-things.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/stranger-things.jpg" class="img-responsive" alt="A 'Star Wars' esque piece of artwork from 'Stranger Things' on Netflix with the primary cast">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -696,7 +696,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/bates-motel.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/bates-motel.jpg" class="img-responsive" alt="The two lead actors from 'Bates Motel' on A&E looking towards the viewer with a blue tint">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -733,7 +733,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/better-call-saul.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/better-call-saul.jpg" class="img-responsive" alt="Two actors from 'Better Call Saul' on AMC sitting on a bed eating food">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -770,7 +770,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/person-of-interest.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/person-of-interest.jpg" class="img-responsive" alt="Two actors from 'Person of Interest' on CBS; one standing behind the other with her hand on his arm">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -828,7 +828,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-100.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/the-100.jpg" class="img-responsive" alt="An actress from 'The 100' on The CW with a tribal look and war paint">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -871,7 +871,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/outlander.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/outlander.jpg" class="img-responsive" alt="Many cast members from 'Outlander' on Starz in very extravagant clothing gathered around a table">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -910,7 +910,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/orange-is-the-new-black.jpg" class="img-responsive" alt="An actress from 'Orange is the New Black' on Netflix standing near water looks at a city at night">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -934,11 +934,11 @@
                                         <div class="row">
                                             <div class="col-lg-1"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black/loveSecret.gif" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/orange-is-the-new-black/loveSecret.gif" class="img-responsive" alt="The character Red from 'Orange is the New Black' sitting in a chair saying 'I love secrets.'">
                                             </div>
                                             <div class="col-lg-2"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/orange-is-the-new-black/shitSecret.gif" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/orange-is-the-new-black/shitSecret.gif" class="img-responsive" alt="The same person says 'This is a shit secret. This is a secret that fucks everyone who touches it.'">
                                             </div>
                                             <div class="col-lg-1"></div>
                                         </div>
@@ -963,7 +963,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/game-of-thrones.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/game-of-thrones.jpg" class="img-responsive" alt="An actress from 'Game of Thrones' on HBO looking away in a dark outfit with a shining window">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1000,7 +1000,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/american-crime-story.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/american-crime-story.jpg" class="img-responsive" alt="The 'Dream Team' from 'American Crime Story' on FX all standing together in a court room">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1035,7 +1035,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/halt-and-catch-fire.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/halt-and-catch-fire.jpg" class="img-responsive" alt="The two lead actresses from 'Halt and Catch Fire' on AMC standing next to each other frustrated">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1072,7 +1072,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-night-of.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/the-night-of.jpg" class="img-responsive" alt="Two of the actors from 'The Night Of' in a jail cell with one towering over the other">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1098,7 +1098,7 @@
                                         <div class="row">
                                             <div class="col-lg-4"></div>
                                             <div class="col-lg-4">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-night-of/james-gandolfini.jpg" class="img-responsive" alt="">
+                                                <img src="/images/blog/best-of-television/2016/the-list/the-night-of/james-gandolfini.jpg" class="img-responsive" alt="Actor 'James Gandolfini' from 'The Sopranos' on HBO looking at the viewer smoking a cigar">
                                             </div>
                                             <div class="col-lg-4"></div>
                                         </div>
@@ -1121,7 +1121,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/the-americans.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/the-americans.jpg" class="img-responsive" alt="The two lead actors from 'The Americans' on FX looking at each other">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1160,7 +1160,7 @@
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Blog/Best-of-Television/2016/The List/westworld.jpg" class="img-responsive" alt="">
+                                        <img src="/images/blog/best-of-television/2016/the-list/westworld.jpg" class="img-responsive" alt="The Host from 'Westworld' on HBO, with limbs outstretched bound by a circle in front of a large 'W'">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1213,7 +1213,7 @@
         <script type="text/javascript">
             function downloadJSAtOnload() {
                 var element = document.createElement("script");
-                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Blog/2016/youtubeEmbed.js";
+                element.src = "/scripts/blog/2016/youtubeEmbed.js";
                 document.body.appendChild(element);
             }
             if (window.addEventListener)

@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Trailers</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Trailers"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.jpg">
+        <meta property="og:description" name="description" content="Throughout my time working as an assistant editor on MIA-mi, I was given the opportunity to edit multiple trailers for the film. " />
+        <meta property="og:image" content="/images/film/trailers/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">
+        <meta property="og:url" content="/film/feature-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/trailers/thumbnail.PNG" />
+        <link rel="image_src" href="/images/film/trailers/thumbnail.PNG" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
@@ -49,7 +49,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Trailers</span>
+                                <h1 class="name">Trailers</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -63,7 +63,7 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About Trailers</h2>
                                     <hr class="star-light">
                                     <p>Throughout my time working as an assistant editor on MIA-mi, I was given the opportunity to edit multiple trailers for the film. These were a rewarding experience that gave me the opportunity to experiment and build new skills.</p>
                                 </div>

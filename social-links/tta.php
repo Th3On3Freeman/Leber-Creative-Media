@@ -2,7 +2,7 @@
                                     
 <!--Official Website-->
 <div class="www">
-    <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.tailorsapprentice.com/" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/www.png) no-repeat 0 0;">
+    <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.tailorsapprentice.com/" style="background: url(/images/icons/www.png) no-repeat 0 0;">
     </a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <!--IMDB-->
 <div class="imdb">
-    <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/title/tt2195998/?ref_=fn_al_tt_1" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/imdb.png) no-repeat 0 0;">
+    <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/title/tt2195998/?ref_=fn_al_tt_1" style="background: url(/images/icons/imdb.png) no-repeat 0 0;">
     </a>
 </div>
 

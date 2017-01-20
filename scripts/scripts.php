@@ -10,11 +10,11 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
 <!-- Contact Form JavaScript -->
-<script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Themes/Freelancer/js/jqBootstrapValidation.js"></script>
-<script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Themes/Freelancer/js/contact_me.js"></script>
+<script src="/includes/bootstrap-themes/freelancer/js/jqBootstrapValidation.js"></script>
+<script src="/includes/bootstrap-themes/freelancer/js/contact_me.js"></script>
 
 <!-- Theme JavaScript -->
-<script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Themes/Freelancer/js/freelancer.min.js"></script>
+<script src="/includes/bootstrap-themes/freelancer/js/freelancer.min.js"></script>
 
 <!--Mobile Dropdown
 <script src="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/scripts/mobileDropdown.js"></script>-->

@@ -6,7 +6,7 @@
 <!--Freelancer Theme-->
 
     <!--Primary CSS-->
-    <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Themes/Freelancer/css/freelancer.min.css" rel="stylesheet">
+    <link href="/includes/bootstrap-themes/freelancer/css/freelancer.min.css" rel="stylesheet">
 
     <!--Font Awesome CSS-->
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -21,10 +21,10 @@
 <link href="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/includes/HelvetiList/helvetilist.css?d=<?php //echo time(); ?>" rel="stylesheet">-->
 
 <!--Social Icons CSS-->
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/includes/Bootstrap Plugins/Social Icons/bootstrap-social.css" rel="stylesheet">
+<link href="/includes/bootstrap-plugins/social-icons/bootstrap-social.css" rel="stylesheet">
 
 <!--Personal CSS-->
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/styles.css" rel="stylesheet">
+<link href="/styles/styles.css" rel="stylesheet">
 
-<link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/freelancerThemeModified.css?d=<?php echo time(); ?>" rel="stylesheet">
+<link href="/styles/freelancerThemeModified.css?d=<?php echo time(); ?>" rel="stylesheet">
 

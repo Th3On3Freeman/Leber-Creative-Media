@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Advertising</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Advertising"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Videography/commercials/thumbnail.jpg">
+        <meta property="og:description" name="description" content="These are the projects that I've worked on in order to enhance and bring a brand into the public eye." />
+        <meta property="og:image" content="/images/videography/commercials/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php">
+        <meta property="og:url" content="/videography/commercials.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Videography/commercials/thumbnail.jpg" />
+        <link rel="image_src" href="/images/videography/commercials/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/videographyNav.php");
@@ -49,7 +49,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Advertising</span>
+                                <h1 class="name">Advertising</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -63,7 +63,7 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About Advertising</h2>
                                     <hr class="star-light">
                                     <p>One of the most common uses for a camera is promotion and advertisement. Every successful business needs a voice and what better way to grab someone's attention than with a commercial? These are the projects that I've worked on in order to enhance and bring a brand into the public eye.</p>
                                 </div>
@@ -134,7 +134,7 @@
             //Highlight nav row
             $("#aRow").addClass("selectedRow");
         </script>
-        <script src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Videography/commercials/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
+        <script src="/scripts/videography/commercials/youtubeEmbed.js?d=<?php echo time(); ?>"></script>
         
     </body>
     

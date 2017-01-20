@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Anime Music Videos</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Anime Music Videos"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/thumbnail.jpg">
+        <meta property="og:description" name="description" content="Currently I edit AMVs with Adobe Creative Cloud's version of Adobe Premiere." />
+        <meta property="og:image" content="/images/music-videos/amv/thumbnail.jpg">
         <meta property="og:image:height" content="453">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Music-Videos/amv.php">
+        <meta property="og:url" content="/music-videos/amv.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/thumbnail.jpg" />
+        <link rel="image_src" href="/images/music-videos/amv/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/musicVideosNav.php");
@@ -49,7 +49,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Anime Music Videos (AMV)</span>
+                                <h1 class="name">Anime Music Videos (AMV)</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -82,14 +82,14 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About AMVs</h2>
                                     <hr class="star-light">
                                     
                                     <p class="mediaDesc">I first began editing Animated Music Videos (AMVs) with <a href="https://support.microsoft.com/en-us/help/14220/windows-movie-maker-download" target="_blank">Windows Movie Maker</a>. I went to anime conventions and saw a community of people who made them and I thought I'd give it a try. None of them were all that great or won any awards but it was interesting. During this time I switched from using Windows Movie Maker to <a href="http://www.techspot.com/downloads/5727-adobe-premiere-free.html" target="_blank">Adobe Premiere Pro 2.0</a></p>
                                     
                                     <p class="mediaDesc">Then when I got into college I thought I'd give it another shot. This time I started with <a href="https://www.amazon.com/Premiere-Pro-CS5-5-Win-Upgrade/dp/B005381RR4/" target="_blank">Adobe Premiere CS5.5</a>, and the first video I made won runner up at a contest for an award and I realized I must have improved. So I've kept making them and over the past five years I've won several awards and continued to immerse myself in this community of video editors.</p>
                                     
-                                    <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
+                                    <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
@@ -163,7 +163,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card">
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the Best Character Profile Award.</p>
                                             
@@ -209,15 +209,15 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-9">
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award card with photo from 'Genesis Skyfall' in 2014">
                                                 </div>
                                                 
                                                 <div class="col-lg-3">
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/awa-pro-2014-best-artistic-endeavor-award.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor-award.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award trophy from Video Art Track in 2014">
                                                 </div>
                                             </div>
-                                            <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/pdf/Music-Videos/amv/shaken-not-stirred.pdf" target="_blank">
-                                                <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/youmacon-2016-shaken-not-stirred.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                            <a href="/pdf/music-videos/amv/shaken-not-stirred.pdf" target="_blank">
+                                                <img src="/images/music-videos/amv/youmacon-2016-shaken-not-stirred.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Youmacon 'Shaken Not Stirred' award photo from Fan Art Theater for 'Genesis Skyfall' in 2016">
                                             </a>
                                             
                                             <p class="centerText">Click to see larger version</p>
@@ -295,17 +295,17 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Daenerys Targaryen from 'Game of Thrones' in a blue robe">
                                                     <h3>Daenerys Targaryen</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Mance Rayder from 'Game of Thrones' in a dark fur coat">
                                                     <h3>Mance Rayder</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-4">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Asuna from 'Sword Art Online' in a white top with a red skirt">
                                                     <h3>Asuna (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-4"></div>
@@ -313,12 +313,12 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tyrion Lannister from 'Game of Thrones' with a big scar across his face">
                                                     <h3>Tyrion Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>
@@ -326,14 +326,14 @@
                                             <div class="row">
                                                 <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Cersei Lannister from 'Game of Thrones' in a red dress">
                                                     <h3>Cersei Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-1 col-xs-2"></div>
                                                 <div class="col-lg-3 col-xs-8">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Leafa from 'Sword Art Online' in a green dress">
                                                     <h3>Leafa (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-1 col-xs-2"></div>
@@ -342,17 +342,17 @@
                                             <div class="row">
                                                 <div class="col-lg-1 col-xs-2"></div>
                                                 <div class="col-lg-3 col-xs-8">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Robb Stark from 'Game of Thrones' in a dark brown tunic">
                                                     <h3>Robb Stark</h3>
                                                 </div>
                                                 <div class="col-xs-2 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 hidden-xs"></div>
                                                 <div class="col-lg-4 col-xs-12">
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Suzaku from 'Code Geass' in a white coat">
                                                     <h3>Suzaku (CG)</h3>
                                                               
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
@@ -360,21 +360,21 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tywin Lannister from 'Game of Thrones' in a black tunic">
                                                     <h3>Tywin Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="King Joffrey Baratheon from 'Game of Thrones' in a golden tunic">
                                                     <h3>Joffrey Baratheon</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Commander Mormont from 'Game of Thrones' in a black fur coat">
                                                     <h3>Commander Mormont</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-6 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
@@ -382,128 +382,128 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Arya Stark from 'Game of Thrones' in a brown tunic">
                                                     <h3>Arya Stark</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Silica from Sword Art Online in a red and white outfit">
                                                     <h3>Silica (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Stannis Baratheon from 'Game of Thrones' in a dark blue tunic">
                                                     <h3>Stannis Baratheon</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="V.V. from 'Code Geass' in a purple outfit">
                                                     <h3>V.V. (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Melisandre from 'Game of Thrones' with red hair">
                                                         <h3>Melisandre</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="C.C. from 'Code Geass' with green hair in a white outfit">
                                                     <h3>C.C. (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-brienne.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-brienne.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Brienne of Tarth from 'Game of Thrones' in a black suit of armor">
                                                     <h3>Brienne of Tarth</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-heathcliff.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-heathcliff.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Heathcliff from 'Sword Art Online' in a red suit of armor">
                                                     <h3>Heathcliff (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-daario-naharis.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-daario-naharis.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Daario Naharis from 'Game of Thrones' in a dark brown tunic">
                                                     <h3>Daario Naharis</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kuradeel.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kuradeel.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kuradeel from 'Sword Art Online' in a black tunic">
                                                     <h3>Kuradeel (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>    
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-catelyn-tully.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-catelyn-tully.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Catelyn Tully from 'Game of Thrones' in a dark outfit">
                                                     <h3>Catelyn Tully</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-talisa-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-talisa-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Talisa Stark from 'Game of Thrones' in a dark dress">
                                                     <h3>Talisa Stark</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-sugu.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-sugu.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Sugu from 'Sword Art Online' in a light purple outfit with a red scarf">
                                                     <h3>Sugu (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-tormund-giantsbane.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tormund-giantsbane.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tormund Giantsbane from 'Game of Thrones' in a grey coat">
                                                     <h3>Tormund Giantsbane</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-klein.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-klein.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Klein from 'Sword Art Online' in a red and black outfit">
                                                     <h3>Klein (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>    
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-ygritte.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-ygritte.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Ygritte from 'Game of Thrones' in a grey and brown fur coat">
                                                     <h3>Ygritte</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-kallen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-kallen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kallen from 'Code Geass' in a red and purple outfit">
                                                     <h3>Kallen (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-jon-snow.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-jon-snow.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Jon Snow from 'Game of Thrones' in a black fur coat">
                                                     <h3>Jon Snow</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-jaime-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-jaime-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Jaime Lannister from 'Game of Thrones' with a beard looking upset">
                                                     <h3>Jaime Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-4 col-xs-12">
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                               
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
@@ -511,24 +511,24 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-bran-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-bran-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Bran Stark from 'Game of Thrones' in a dark tunic">
                                                     <h3>Bran Stark</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-nunnally-lamperouge.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-nunnally-lamperouge.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Nunnally from 'Code Geass' in a pink and white outfit with her eyes closed">
                                                     <h3>Nunnally (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/got-margaery-tyrell.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-margaery-tyrell.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Margaery Tyrell from 'Game of Thrones' in a tan dress showing cleavage">
                                                     <h3>Margaery Tyrell</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Music-Videos/amv/code-of-swords/cg-euphemia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-euphemia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Euphy from 'Code Geass' in a white outfit looking solemn">
                                                     <h3>Euphy (CG)</h3>
                                                 </div>
                                             </div>
@@ -557,7 +557,7 @@
         <script type="text/javascript">
             function downloadJSAtOnload() {
                 var element = document.createElement("script");
-                element.src = "http://<?php echo $_SERVER['SERVER_NAME']; ?>/scripts/Music Videos/amv/youtubeEmbed.js?d=<?php echo time(); ?>";
+                element.src = "/scripts/music-videos/amv/youtubeEmbed.js?d=<?php echo time(); ?>";
                 document.body.appendChild(element);
             }
             if (window.addEventListener)

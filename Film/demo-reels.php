@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Demo Reels</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Demo Reels"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/demo-reels/thumbnail.jpg">
+        <meta property="og:description" name="description" content="Over the years, I've created several demo reels to showcase my work to potential clients, as well as reels to showcase other people's work as well." />
+        <meta property="og:image" content="/images/film/demo-reels/thumbnail.jpg">
         <meta property="og:image:height" content="453">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">
+        <meta property="og:url" content="/film/demo-reels.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/demo-reels/thumbnail.jpg" />
+        <link rel="image_src" href="/images/film/demo-reels/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
@@ -49,7 +49,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Demo Reels</span>
+                                <h1 class="name">Demo Reels</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -63,7 +63,7 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About Demo Reels</h2>
                                     <hr class="star-light">
                                     <p>Over the years, I've created several demo reels to showcase my work to potential clients. I have also recently begun making demo reels to showcase other people's work as well.</p>
                                 </div>

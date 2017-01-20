@@ -5,21 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Short Films</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Short Films"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.jpg">
+        <meta property="og:description" name="description" content="When I first got involved with the Film department at UCF, an undergraduate director offered me the chance to be an editor on a couple of short films." />
+        <meta property="og:image" content="/images/film/short-films/thumbnail.jpg">
         <meta property="og:image:height" content="450">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">
+        <meta property="og:url" content="/film/short-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/short-films/thumbnail.jpg" />
+        <link rel="image_src" href="/images/film/short-films/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -27,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -37,7 +37,7 @@
 
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
         ?>
@@ -48,7 +48,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Short Films</span>
+                                <h1 class="name">Short Films</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -62,7 +62,7 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About Short Films</h2>
                                     <hr class="star-light">
                                     <p>When I first got involved with the Film department at the University of Central Florida, I attended a Meet and Greet event where people could meet up and coming student directors for a chance to work on their projects. One of the directors I talked to (<i>Rohan Khublall</i>) offered me the chance to be an editor on a couple of short films with him.</p>
                                 </div>

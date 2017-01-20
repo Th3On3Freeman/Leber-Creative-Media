@@ -12,14 +12,14 @@
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Leber Creative Media"/>
-        <meta property="og:description" name="description" content="Web Developer - Video Editor" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/thumbnail.jpg">
+        <meta property="og:description" name="description" content="Web Developer - Video Editor - Film - Videography - Music Videos - Pop Spectrum" />
+        <meta property="og:image" content="/images/home/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/">
+        <meta property="og:url" content="/">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/thumbnail.PNG" />
+        <link rel="image_src" href="/images/home/thumbnail.PNG" />
 
         <?php
         
@@ -79,7 +79,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="intro-text">
-                            <span class="name">Leber Creative Media</span>
+                            <h1 class="name">Leber Creative Media</h1>
                             <hr class="star-light">
                             <span class="skills">Video Editor - Web Developer</span>
                         </div>
@@ -111,7 +111,7 @@
                         
                         <!--IMDB-->
                         <div class="imdb">
-                            <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/name/nm5290723/?ref_=fn_al_nm_2" style="background: url(http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/icons/imdb.png) no-repeat 0 0;">
+                            <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/name/nm5290723/?ref_=fn_al_nm_2" style="background: url(/images/icons/imdb.png) no-repeat 0 0;">
                             </a>
                         </div>
                         
@@ -135,45 +135,45 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php" class="portfolio-link">
+                        <a href="/film/feature-films.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/feature-films.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/feature-films.jpg" class="img-responsive" alt="Feature Films with an actor from &quot;The Tailor's Apprentice&quot; in a subway station">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php" class="portfolio-link">
+                        <a href="/film/short-films.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/short-films.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/short-films.jpg" class="img-responsive" alt="Short Films with actors from 'The Book & The Black Dove' sitting at a table">
                         </a>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php" class="portfolio-link">
+                        <a href="/film/trailers.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/trailers.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/trailers.jpg" class="img-responsive" alt="Trailers with a woman walking down a sidewalk at night">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php" class="portfolio-link">
+                        <a href="/film/demo-reels.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/demo-reels.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/demo-reels.jpg" class="img-responsive" alt="Demo Reels with an actor from 'As Night Falls' being attacked by a zombie">
                         </a>
                     </div>
                 </div>
@@ -191,23 +191,23 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/commercials.php" class="portfolio-link">
+                        <a href="/videography/commercials.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/commercials.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/commercials.jpg" class="img-responsive" alt="Advertising with a backyard pool lit with a purple light at night">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Videography/weddings.php" class="portfolio-link">
+                        <a href="/videography/weddings.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/weddings.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/weddings.jpg" class="img-responsive" alt="A happy couple getting married on the beach">
                         </a>
                     </div>
                 </div>
@@ -225,13 +225,13 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Music-Videos/amv.php" class="portfolio-link">
+                        <a href="/music-videos/amv.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/AMV.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/AMV.jpg" class="img-responsive" alt="Anime Music Videos with a mecha unit from 'Neon Genesis Evangelion' jumping off a cliff">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -241,7 +241,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/live-action.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/live-action.jpg" class="img-responsive" alt="Live Action Music Videos with an actress from 'Person of Interest' on CBS holding a gun">
                         </a>
                     </div>
                     <!--
@@ -277,7 +277,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/reviews.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/reviews.jpg" class="img-responsive" alt="Reviews with a pillar of body parts from 'Hannibal' on NBC in front of an approaching wave of water">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -287,7 +287,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/reactions.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/reactions.jpg" class="img-responsive" alt="Reactions with Robyn Barry-Cotter and Michael Leber sitting on a couch together">
                         </a>
                     </div>
                 </div>
@@ -312,7 +312,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2013.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/2013.jpg" class="img-responsive" alt="Best of TV List 2013 with an actor from 'Mad Men' on AMC looking towards the viewer incredulously">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
@@ -322,7 +322,7 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2014.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/2014.jpg" class="img-responsive" alt="Best of TV List 2014 with actors from 'Rectify' on Sundance lying in bed together">
                         </a>
                     </div>
                 </div>
@@ -334,17 +334,17 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2015.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/2015.jpg" class="img-responsive" alt="Best of TV List 2015 with actors from 'The Leftovers' on HBO reaching for each other underwater">
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Blog/Best-of-Television/2016.php" class="portfolio-link">
+                        <a href="/blog/best-of-television/2016.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/home/2016.jpg" class="img-responsive" alt="">
+                            <img src="/images/home/2016.jpg" class="img-responsive" alt="Best of TV List 2013 with the two lead actors from 'The Americans' on FX looking at each other">
                         </a>
                     </div>
                 </div>

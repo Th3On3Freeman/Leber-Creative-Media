@@ -4,7 +4,7 @@
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="navbar-brand" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php">Leber Creative Media</a>
+            <a class="navbar-brand" href="/">Leber Creative Media</a>
         </div>
             
         <div class="collapse navbar-collapse modNavBar" id="bs-example-navbar-collapse-1">
@@ -17,19 +17,19 @@
                             //echo "<script>alert('MOBILE DEVICE');</script>";
                             ?>
                             <li class="menu-item">  
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#film">Film</span></a>
+                              <a href="/#film">Film</span></a>
                             </li>
                             <li id="ffRow" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">- Feature Films</a>
+                              <a href="/film/feature-films.php">- Feature Films</a>
                             </li>
                             <li id="sfRow" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">- Short Films</a>
+                              <a href="/film/short-films.php">- Short Films</a>
                             </li>
                             <li id="tRow" class="menu-item subIndent">
-                                <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php">- Trailers</a>
+                                <a href="/film/trailers.php">- Trailers</a>
                             </li>
                             <li id="drRow" class="menu-item subIndent">
-                              <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">- Demo Reels</a>
+                              <a href="/film/demo-reels.php">- Demo Reels</a>
                             </li>
                                       
                         <?php        
@@ -39,19 +39,19 @@
                                 //echo "<script>alert('DESKTOP DEVICE');</script>";
                         ?>
                             <li class="menu-item dropdown"> 
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#film">Film</span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/#film">Film</span></a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">Feature Films</a>
+                                        <a href="/film/feature-films.php">Feature Films</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/short-films.php">Short Films</a>
+                                        <a href="/film/short-films.php">Short Films</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/trailers.php">Trailers</a>
+                                        <a href="/film/trailers.php">Trailers</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/demo-reels.php">Demo Reels</a>
+                                        <a href="/film/demo-reels.php">Demo Reels</a>
                                     </li>
                                 </ul>
                             </li>   
@@ -60,19 +60,19 @@
                         ?>
                             
                 <li>
-                    <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#videography">Videography</a>
+                    <a href="/#videography">Videography</a>
                 </li>
                 <li>
-                    <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#musicVideos">Music Videos</a>
+                    <a href="/#musicVideos">Music Videos</a>
                 </li>
                 <li>
-                    <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#popSpectrum">Pop Spectrum</a>
+                    <a href="/#popSpectrum">Pop Spectrum</a>
                 </li>
                 <li>
-                    <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#blog">Blog</a>
+                    <a href="/#blog">Blog</a>
                 </li>
                 <li>
-                    <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php#contact">Contact</a>
+                    <a href="/#contact">Contact</a>
                 </li>
             </ul>
         </div>

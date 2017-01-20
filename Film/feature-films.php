@@ -5,22 +5,21 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Leber Creative Media</title>
+        <title>Feature Films</title>
         
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <title>Leber Creative Media</title>
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Feature Films"/>
-        <meta property="og:description" name="description" content="Leber Creative Media" />
-        <meta property="og:image" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/feature-films/thumbnail.jpg">
+        <meta property="og:description" name="description" content="During my time as a student at the University of Central Florida (UCF), I had the pleasure of working with the UCF Film community on two feature films." />
+        <meta property="og:image" content="/images/film/feature-films/thumbnail.jpg">
         <meta property="og:image:height" content="451">
         <meta property="og:image:width" content="800">
-        <meta property="og:url" content="http://<?php echo $_SERVER['SERVER_NAME']; ?>/Film/feature-films.php">
+        <meta property="og:url" content="/film/feature-films.php">
         <meta property="og:type" content="portfolio"/>
         <meta property="fb:app_id" content="APPID"/>
-        <link rel="image_src" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/images/Film/feature-films/thumbnail.jpg" />
+        <link rel="image_src" href="/images/film/feature-films/thumbnail.jpg" />
 
         <?php
             //Styles
@@ -28,9 +27,9 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdown.css" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css" rel="stylesheet">
         
-        <link href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/styles/hoverDropdownModified.css" rel="stylesheet">
+        <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
     </head>
     
@@ -38,7 +37,7 @@
         
         <?php
             //Mobile Test
-            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/Mobile_Test/mobileTest.php");
+            require_once ($_SERVER["DOCUMENT_ROOT"]."/includes/mobile-test/mobileTest.php");
         
             //Navigation (Film)
             require_once ($_SERVER["DOCUMENT_ROOT"]."/nav/filmNav.php");
@@ -50,7 +49,7 @@
                         <div class="col-lg-12">
 
                             <div class="intro-text">
-                                <span class="name">Feature Films</span>
+                                <h1 class="name">Feature Films</h1>
                                 <hr class="star-light">
                             </div>         
                             
@@ -64,7 +63,7 @@
                                 <br>
                             <div class="tab-content">
                                 <div id="intro" class="tab-pane fade in active">
-                                    <h2>About</h2>
+                                    <h2>About Feature Films</h2>
                                     <hr class="star-light">
                                     <p>During my time as a student at the University of Central Florida (UCF), I had the pleasure of working with the UCF Film community on two feature films. Both were directed by graduate students working on their Masters of Fine Arts (MFA) degrees. Currently these are the two largest projects I have worked on yet.</p>
                                 </div>
