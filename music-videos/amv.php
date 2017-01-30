@@ -66,8 +66,9 @@
                                             <li><a data-toggle="pill" href="#r" class="fullWidthDropdown">Revolution</a></li>
                                             <li><a data-toggle="pill" href="#otos" class="fullWidthDropdown">On the Other Side</a></li>
                                             <li><a data-toggle="pill" href="#goanw" class="fullWidthDropdown">God of a New World</a></li>
-                                            <li><a data-toggle="pill" href="#0" class="fullWidthDropdown">007: XIII</a></li>
-                                            <li><a data-toggle="pill" href="#tc&td" class="fullWidthDropdown">The Cat & The Devil</a></li>
+                                            <li><a data-toggle="pill" href="#007X" class="fullWidthDropdown">007: XIII</a></li>
+                                            <li><a data-toggle="pill" href="#afw" class="fullWidthDropdown">A Fullmetal World</a></li>
+                                            <li><a data-toggle="pill" href="#tcatd" class="fullWidthDropdown">The Cat & The Devil</a></li>
                                             <li><a data-toggle="pill" href="#ftp" class="fullWidthDropdown">Fight the Power</a></li>
                                         </ul>
                                     </li>
@@ -163,11 +164,11 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card">
+                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the Best Character Profile Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
-                                            <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened. </p>
+                                            <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened.</p>
 
                                             <p class="mediaDesc">Because of this, after initiating their relationship, it became about Mustang tracking down everyone who was involved, from Lieutenant Maria Ross (though "his senses fooled him"), Lust and finally the fuhrer. I decided against involving Envy because I thought it would be too confusing to people who haven't seen the show, and that his final form would have lessened the dramatic impact of the climax. Because of this I combined the final fight with the fuhrer from the original with Mustang's descent into revenge from Brotherhood.</p>
                                             
@@ -182,6 +183,7 @@
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li> 
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=14079" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood OVA 4: Yet Another Man's Battlefield</p></a></li> 
                                             </ul>
                                         </div>
                                     </div>      
@@ -209,7 +211,7 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-9">
-                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award card with photo from 'Genesis Skyfall' in 2014">
+                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award card with photo for 'Genesis Skyfall' in 2014">
                                                 </div>
                                                 
                                                 <div class="col-lg-3">
@@ -222,7 +224,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and Youmacon Fan Art Theater Contest in 2016. It won the Best Artistic Endeavor Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and Youmacon's Fan Art Theater Contest in 2016. It won the <i>Best Artistic Endeavor</i> Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
                                             
                                             <p class="mediaDesc">I began this video about a year beforehand with the concept for the climax roughly completed long before the rest of the video. Later on closer to the contest deadline I got most of it finished in a single weekend before getting some reactions to it and tightening other aspects of it up to submit to AWA for the premiere.</p>
 
@@ -533,8 +535,513 @@
                                                 </div>
                                             </div>
                                                 <hr>
-                                            <p class="centerText">Asha Greyjoy - Villetta (CG)</p>
-                                            <p class="centerText">Myranda - Cornelia (CG)</p>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-yara-greyjoy.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Yara Greyjoy from 'Game of Thrones' in a dark outfit looking troubled">
+                                                    <h3>Yara Greyjoy</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-villetta.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Villetta from 'Code Geass' with silver shining hair looking upset">
+                                                    <h3>Villetta (CG)</h3>
+                                                </div>
+                                            </div>
+                                                <hr>
+                                            <div class="row">
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-myranda.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Myranda from 'Game of Thrones' in a dark blue dress with someone else's hand pulling at the dress">
+                                                    <h3>Myranda</h3>
+                                                </div>
+                                                <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
+                                                <div class="col-lg-4 col-xs-12">      
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cornelia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Cornelia from 'Code Geass' with long purple hair looking confident">
+                                                    <h3>Cornelia (CG)</h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="r" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="revolutionVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Revolution (2013)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Knightrokon 2014-Best Editing && Mythicon 2013-Best Drama</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=194190" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <div class="row">
+                                                <div class="col-lg-7">
+                                                    <img src="/images/music-videos/amv/knightrokon-2014-best-editing.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Knightrokon 'Best Editing' award certificate for 'Revolution' in 2014">
+                                                </div>
+                                                
+                                                <div class="col-lg-5">
+                                                    <img src="/images/music-videos/amv/mythicon-2013-best-drama.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Mythicon 'Best Drama' award plaque for 'Revolution' in 2013">
+                                                </div>
+                                            </div>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.facebook.com/Knightrokon/" target="_blank">Knightrokon's</a> AMV Contest in 2014 and Mythicon's AMV Contest in 2013. It won the <i>Best Editing</i> Award at Knightrokon and the <i>Best Drama</i> award at Mythicon.</p>
+                                            
+                                            <p class="mediaDesc">I've used this song before, but I knew I wanted to combine Code Geass with the <a href="https://www.youtube.com/watch?v=Kq5KWLqUewc" target="_blank">trailer for Deus Ex: Human Revolution</a>, so I decided it was worth using again. The video begins similarly to the trailer, with a prologue featuring a different musical track (though for this one I pulled a track from the Code Geass series to achieve the effect I wanted), and then continues into the <i>Icarus</i> theme from Deus Ex afterwards. I decided against using the entirety of the trailer dialogue and only chose specific portions to be interspersed throughout that I deemed relevant to the story I was trying to tell.</p>
+
+                                            <p class="mediaDesc">The biggest techniques I focused on in this video were smooth transitions with continuous fluid motion. Examples of these can be seen at the following times:</p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=4s" target="_blank"><p class="list-group-item-text">0:04-0:06</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=1m4s" target="_blank"><p class="list-group-item-text">1:04-1:07</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=2m1s" target="_blank"><p class="list-group-item-text">2:01-2:03</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=2m37s" target="_blank"><p class="list-group-item-text">2:37-2:46-KEY EXAMPLE</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=2m49s" target="_blank"><p class="list-group-item-text">2:49-3:03-KEY EXAMPLE</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=3m13s" target="_blank"><p class="list-group-item-text">3:13-3:18</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=3m44s" target="_blank"><p class="list-group-item-text">3:44-3:46</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=3m50s" target="_blank"><p class="list-group-item-text">3:50-3:52</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/yDI4vCm2DcE?t=4m3s" target="_blank"><p class="list-group-item-text">4:03-4:07</p></a></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc">Other techniques I attempted to implement include matching segments from the original Deus Ex trailer and lip synching.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=AH3-nPoFIfI" target="_blank"><p class="list-group-item-text">Nakagawa Kotaru - Siegfried</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=can0xuO9IvE" target="_blank"><p class="list-group-item-text">Michael McCann - Icarus (Main Theme)</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features trailer audio from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Kq5KWLqUewc" target="_blank"><p class="list-group-item-text">Deus Ex: Human Revolution - Cinematic Trailer</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=9173" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion R2</p></a></li> 
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="otos" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="onTheOtherSideVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>On the Other Side (2013)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Florida Supercon 2013-Second Place && Mythicon 2013-Best Comedy</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=192474" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/florida-supercon-2013-second-place.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Florida Supercon 'Second Place' award certificate for 'On the Other Side' in 2013">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/mythicon-2013-best-comedy.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Mythicon 'Best Comedy' award plaque for 'On the Other Side' in 2013">
+                                                </div>
+                                            </div>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://floridasupercon.com/" target="_blank">Florida Supercon's</a> AMV Contest in 2013 and Mythicon's AMV Contest in 2013. It won the <i>Second Place</i> Award at Knightrokon and the <i>Best Comedy</i> award at Mythicon.</p>
+                                            
+                                            <p class="mediaDesc">This is the first and only comedy video I've ever made, combining a variety of skits and ideas I had to make a longer-form version of the typical <a href="http://tvtropes.org/pmwiki/pmwiki.php/WebVideo/AMVHell" target="_blank">AMV Hell</a> style video that has by now become such a widespread trend that any AMV contest is almost guaranteed to have one.</p>
+
+                                            <p class="centerText"><i>On the Other Side</i> consists of an intro, six skits and a conclusion:</p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=qzPjsh7ODRE" target="_blank"><p class="list-group-item-text">Introduction (0:00-0:38)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=39s" target="_blank"><p class="list-group-item-text">Skit 1: Untitled (0:39-1:11)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=1m12s" target="_blank"><p class="list-group-item-text">Skit 2: Circle of Outsiders (1:12-1:54)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=1m55s" target="_blank"><p class="list-group-item-text">Skit 3: An Outsider's Day (1:55-2:48)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=2m49s" target="_blank"><p class="list-group-item-text">Skit 4: Outsider...in Denial (2:49-3:12)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=3m13s" target="_blank"><p class="list-group-item-text">Skit 5: Outside a Chip (3:13-3:51)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=3m52s" target="_blank"><p class="list-group-item-text">Skit 6: The Final Outsiders (3:52-5:13)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qzPjsh7ODRE?t=5m14s" target="_blank"><p class="list-group-item-text">Conclusion (5:14-5:41)</p></a></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc"><i>Introduction</i> initiates the core concept of a group of Outsiders, with a narrator who lulls the viewer into a false sense of security, leading them to believe that this will be a dramatic video when the next section reveals it to be anything but that. This section also introduces some of the source material that will be used throughout the rest of the video.</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 1</i> (which has no title), then subverts those expectations, switching to a chibi style of <i>Fullmetal Alchemist</i> animation with a ridiculous song that tells you that this is actually going to be a comedy video.</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 2: Circle of Outsiders</i> continues to keep the viewer on their toes by abruptly cutting to a laptop screen that will be continuously used after this point to emphasize when a new skit is about to be introduced. The first half features a serial killer monologue from <i>Dexter</i> is a direct parallel to the <i>Death Note</i> footage, though there are several jokes inserted as images during the monologue for comedic effect. The second half uses one of the more ridiculous looking characters from the anime, along with a change in music that ties to the final line from the monologue for more laughs. This is capped off by a clip of the <a href="https://www.youtube.com/watch?v=4LncVwUMcLU" target="_blank">rather funny and ridiculous laugh</a> from the english voice actor for the main character in Death Note, followed by an appropriate deadpan response from the same <i>Dexter</i> episode used in the beginning.</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 3: An Outsider's Day</i> chronicles a day in the life of a more silly Outsider from <i>Cowboy Bebop</i> with a fitting Western musical accompaniment. I mixed some of the character's voiceovers from the japanese and english voice actors, even in some cases reversing the audio to achieve different effects.</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 4: Outsider...in Denial</i> takes advantage of the song from the extremely popular <a href="https://www.youtube.com/watch?v=9bZkp7q19f0" target="_blank">Gangnam Style</a> music video (which was still at the height of it's appeal at this time). I used a cutscene from the video game <i>Naruto Ultimate Ninja Storm: Generations</i>, which happened to feature a rapping sequence with an uncanny resemblance in dancing style and rhythm to the popular song.</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 5: Outside a Chip</i> capitalizes on the popular <a href="http://knowyourmeme.com/memes/i-ll-take-a-potato-chip-and-eat-it" target="_blank">I'll Take a Potato Chip and EAT IT!</a> meme and cranks it up to 11, with some torturous screaming noises I found to emphasize the chip's predicament. The conclusion of this skit also initially appears to be the conclusion of the entire video, but I had one more trick up my sleeve...</p>
+                                            
+                                            <p class="mediaDesc"><i>Skit 6: The Final Outsiders</i> subverts expectations again in multiple ways, first by bringing back the narrator from the beginning and building up the greatest group of outsiders to be introduced yet. Expectations are subverted again when suddenly a new lip-synch introduces a dubstep song that transforms the skit into a full-fledged music video featuring a band of characters from <i>The Melancholy of Haruhi Suzumiya</i>, as well as a correlating cosplaying band of fans from <i>Lucky Star</i>. All of this is intercut with dramatic footage from the former anime for maximum impact for the first half of this skit. The second half begins with a huge dose of nostalgia by pulling footage from the original opening for <i>Pokemon</i>, while continuing the music video and bringing back some of the other Outsiders previously introduced.</p>
+                                            
+                                            <p class="mediaDesc"><i>Conclusion</i> ties everything back together, bringing back the narrator, featuring more of the Outsiders and building to a climax that leads into the credits.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Alegof-51pU" target="_blank"><p class="list-group-item-text">DJ Shadow - Outsider Intro</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=bqksRIE-_8g" target="_blank"><p class="list-group-item-text">Aya Hirano, Emiri Katou, Kaori Fukuhara, Aya Endo - Motteke Sailor Fuku</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=wS3yQMvzNhA" target="_blank"><p class="list-group-item-text">Jason Graves - Titan Station Elementary</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/qfBCn93YI30?t=2m4s" target="_blank"><p class="list-group-item-text">Daniel Licht - Untitled Dexter Music</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=d4WlqxPzQ28" target="_blank"><p class="list-group-item-text">Clutch - The Regulator</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=9bZkp7q19f0" target="_blank"><p class="list-group-item-text">PSY - Gangnam Style</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ohq_j5jsbYc" target="_blank"><p class="list-group-item-text">Jason Graves - You go to my Head</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=je8UCmQ45h4" target="_blank"><p class="list-group-item-text">Modestep - Show me a Sign</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features a monologue voiceover from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/qfBCn93YI30?t=1m28s" target="_blank"><p class="list-group-item-text">Michael C. Hall - Dexter Season 1: Episode 7-Circle of Friends</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6704" target="_blank"><p class="list-group-item-text">Code Geass: Lelouch of the Rebellion</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=353" target="_blank"><p class="list-group-item-text">Cowboy Bebop: The Movie</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592" target="_blank"><p class="list-group-item-text">Death Note</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=891" target="_blank"><p class="list-group-item-text">Kiddy Grade</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2004)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood (2009)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=7222" target="_blank"><p class="list-group-item-text">Lucky Star</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1825" target="_blank"><p class="list-group-item-text">Naruto</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ZT5ccCjKrB0" target="_blank"><p class="list-group-item-text">Naruto Ultimate Ninja Storm: Generations</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=270" target="_blank"><p class="list-group-item-text">Pokemon</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6430" target="_blank"><p class="list-group-item-text">The Melancholy of Haruhi Suzumiya</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=11120" target="_blank"><p class="list-group-item-text">The Disappearance of Haruhi Suzumiya</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="goanw" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="godOfANewWorldVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>God of a New World (2013)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AFO 2013-Best Drama</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=192747" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://animefestivalorlando.com/" target="_blank">Anime Festival Orlando's</a> AMV Contest in 2013 and it won the <i>Best Drama</i> Award.</p>
+                                            
+                                            <h3><u>Audio Section</u></h3>
+                                            
+                                            <p class="mediaDesc">I spent a lot of time setting up the audio for this because the sections of the song I use are split all across the video: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=dFkLO1p-8bw" target="_blank"><p class="list-group-item-text">White-Note Remix Version (0:00-0:20)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/dFkLO1p-8bw?t=21s" target="_blank"><p class="list-group-item-text">Original Song (0:21-2:40)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank"><p class="list-group-item-text">White-Note Remix Version (2:41-3:23)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/dFkLO1p-8bw?t=3m24s" target="_blank"><p class="list-group-item-text">Sound mix of both Versions (3:24-4:16)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/dFkLO1p-8bw?t=4m17s" target="_blank"><p class="list-group-item-text">Original Song (4:17-4:28)</p></a></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc">Also, at <a href="https://youtu.be/dFkLO1p-8bw?t=2m3s" target="_blank">2:03</a> I cut out 30 seconds to simplify the video between when it initially premiered at <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> and when I had submitted it to <a href="http://floridasupercon.com/" target="_blank">Florida Supercon (FSC)</a>.</p>
+                                            
+                                            <p class="mediaDesc">The whole point of the first half is to lull the viewer into a false sense of security, and then to upend the rug on them when the White-Note Remix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank">2:41</a>; and by the time the Sound mix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=3m24s" target="_blank">3:24</a>, its a roller coaster.</p>
+                                            
+                                            <p class="mediaDesc">I worked closely with an anonymous (by his wishes) friend of mine who helped me combine the two songs together to create a harmony between the piano and the choir for the finale. Most of it is simply combining the two songs so that it sounds seamless, however there's a few portions where I specifically had things done to emphasize the piano, such as the moment at <a href="https://youtu.be/dFkLO1p-8bw?t=3m36s" target="_blank">3:36</a> when I sped up the video and brought the piano to the forefront.</p> 
+                                                
+                                            <p class="mediaDesc">Another example of this is from <a href="https://youtu.be/dFkLO1p-8bw?t=3m52s" target="_blank">3:52-4:16</a>, the piano has been emphasized more, but you can still hear the choir in the background; until <a href="https://youtu.be/dFkLO1p-8bw?t=4m17s" target="_blank">4:17</a> where the original version comes back in for the final moments.</p>
+                                            
+                                            <h3><u>Video Section</u></h3>
+                                            
+                                            <p class="mediaDesc">The video itself is a character relationship piece between Light and L, so I have the video divided into different sections:</p> 
+
+                                            <p class="centerText"><a href="https://www.youtube.com/watch?v=dFkLO1p-8bw" target="_blank">0:00-0:20 Character Introductions (Light, Misa, Ryuk, L, Creed [The Devil])</a></p>
+
+                                            <p class="mediaDesc">The piano representative of the Devil's influence, and so it's inclusion at the beginning ending with the apple is symbolic of the seed (Ryuk) being planted in Light's mind that will be triggered by the Death Note to create Kira.</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=21s" target="_blank">0:21-0:54 Light (Solo)</a></p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=55s" target="_blank">0:55-1:21 L (Solo)</a></p>
+                                            
+                                            <p class="mediaDesc">These first two sections are here to illustrate the social differences between Light & L, showing Light is surrounded by friends: Misa (Light) and Ryuk (Darkness); while L is surrounded by no one, with only Watari to console him.</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=1m22s" target="_blank">1:22-1:50 Light & L (First Meeting)</a></p>
+
+                                            <p class="mediaDesc">This next section is the beginning of a friendship between Light and L that is born when they are brought together by the Death Note's entry into this world.</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=1m51s" target="_blank">1:51-2:01 Light (The God Complex)</a></p>
+                                            
+                                            <p class="mediaDesc">Once Light is given the power of life and death by the Devil's servant (Ryuk), he begins to get these ambitions in his head about what he could do with it and builds his own God Complex.</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=2m2s" target="_blank">2:02-2:40 Light & L (Light's First Kill/First Step into Corruption by the Devil/L begins to suspect Light)</a></p>
+
+                                            <p class="mediaDesc">This next section is showing Light stalking his first kill, contrasted with Watari and L discovering that there is a serial killer named Kira that will soon become a threat. The music builds in intensity as it builds to the moment that Light kills her.</p>
+                                            
+                                            <p class="mediaDesc">After this, the piano becomes a dominant force in the music and is representative of how Light's first kill has now let the Devil into his mind and his music is in his ears to transform him into Kira (symbolized by the piano moments). So everything from here on out is of a completely different tone, and looked at from within a different "light."</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank">2:41-3:23 The Tennis Match</a></p>
+
+                                            <p class="mediaDesc">Now this next sequence is mostly internal, the tennis game is simply a metaphor for the Cat & Mouse Investigation/Killings going on between Light/Kira and L. There are small moments when what is actually going on peeks its way through:</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=2m55s" target="_blank">2:55 L witnesses a murder by Kira/Light</a></p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=3m0s" target="_blank">3:00 Light murders another innocent victim</a></p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/dFkLO1p-8bw?t=3m8s" target="_blank">3:08 L is still investigating Kira/Light</a></p>
+
+                                            <p class="mediaDesc">Beginning at <a href="https://youtu.be/dFkLO1p-8bw?t=3m11s" target="_blank">3:11</a>, the serial killings have begun to interfere with Light's personal life, shown by the argument between Light and Misa, that leads Light to decide that he no longer needs her (the light in his life) and decides to kill her and falls into darkness. This stroke is what leads to Light winning the tennis game/competition between Light and L, and this is why the music kicks into overdrive once Light has led Misa to commit suicide by jumping (symbolized by Light's fall at <a href="https://youtu.be/dFkLO1p-8bw?t=3m22s" target="_blank">3:22</a>, the shot of "Misa's" body at <a href="https://youtu.be/dFkLO1p-8bw?t=3m26s" target="_blank">3:26</a>, and the shot of Misa's innocence at <a href="https://youtu.be/dFkLO1p-8bw?t=3m28s" target="_blank">3:28</a>).</p> 
+
+                                            <p class="mediaDesc">From here on out, Kira has won and everything is thrown into chaos as the devil's corruption of Light has completely taken over. Light killing Misa has revealed to L that Light is Kira and completely destroyed the bond they had formed throughout the rest of the video. The killings have turned into mass murder and from here on out the video is essentially a celebration by the Devil of what he has created in Kira.</p>
+                                            
+                                            <p class="mediaDesc">The video comes full circle at <a href="https://youtu.be/dFkLO1p-8bw?t=4m6s" target="_blank">4:06</a> where the images of L's loneliness from the beginning (<a href="https://youtu.be/dFkLO1p-8bw?t=55s" target="_blank">0:55</a>) being transformed into color are showing the friendship the beauty of the friendship that was born between Light and L was destroyed by the Devil (<a href="https://youtu.be/dFkLO1p-8bw?t=4m9s" target="_blank">4:09</a>).</p> 
+                                                
+                                            <p class="mediaDesc">At <a href="https://youtu.be/dFkLO1p-8bw?t=4m10s" target="_blank">4:10</a>, the devil's original servant (Ryuk) is celebrating his success, leading to the final moments where Kira is unveiled as the Devil's servant in all his glory, as the "God" of his false new world, and the final piano strike shutting off the music is showing how Light is truly under the Devil's control and he can be stopped by him at any time.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=0IEbfDtDaUc" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=lrwvtyWiicI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord White-Note Remix</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6592" target="_blank"><p class="list-group-item-text">Death Note</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="007X" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="XIIIVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>007: XIII (2012)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AFO 2012-Best Action</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=188453" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/amv/afo-2012-best-action.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Festival Orlando 'Best Action' award plaque for '007: XIII' in 2012">
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://animefestivalorlando.com/" target="_blank">Anime Festival Orlando's</a> AMV Contest in 2012 and it won the <i>Best Action</i> Award.</p>
+                                                <br>
+                                            <div class="row">
+                                                <div class="col-lg-2"></div>
+                                                <div class="col-lg-8">
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <div id="XIIIComparisonVideo"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-2"></div>
+                                            </div>
+                                                <br>
+                                            <p class="mediaDesc">This used a trailer from <i>007: Quantum of Solace</i>, and I wanted to try a few new things with this so not only did I do quite a bit of lip synching, but I delved into Adobe After Effects for the first time for that title at the end (which took about five hours for me to figure out how to put together).</p>
+                                            
+                                            <p class="mediaDesc">The lip synching was something I've toyed around with in earlier videos but this is the first time that I grabbed all the different types of mouth flaps (closed/slightly open/completely open) and reconstructed words with them. I was able to do it most of the time except whenever the frame/camera is moving, but it appears to have worked out rather well for the most part.</p>
+                                            
+                                            <p class="mediaDesc">There's actually quite a few similarities not just in content but also in framing if you compare the two trailers. It worked out really well that the main character from both properties were assassins with code names that were seeking revenge over the loss of a loved one.</p>
+                                            
+                                            <p>This AMV features trailer audio from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=f6acw690AqQ" target="_blank"><p class="list-group-item-text">007: Quantum of Solace Official Trailer</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5245" target="_blank"><p class="list-group-item-text">Black Cat</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="afw" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="aFullmetalWorldVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>A Fullmetal World (2012)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">FAE 2012 Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=187367" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012.</p>
+                                            
+                                            <p class="mediaDesc">This was an idea I came up with about one week before the contest deadline, to combine the original <i>Fullmetal Alchemist</i> series with <i>Fullmetal Alchemist: Brotherhood</i>. So you'll notice throughout that much of this video is an experiment, comparing and contrasting different moments from the series. I also came up with the idea to incorporate <i>The Sacred Star of Milos</i> (recently released at the time) since it added a third art style to the mix.</p>
+                                            
+                                            <p class="mediaDesc">This song didn't have a true ending, so because of this I came up with the idea to fade back to the beginning of the song and to cut to black to make the viewer think the video was over. After this, then the video blasts back in with what is the best way to end the video with that portion of the song. This clearly worked at FAE 2012's contest, because the audience started applauding and then laughed/cheered when Ed punches his hand back through the gate.</p>
+                                            
+                                            <p class="mediaDesc">The primary issue I faced during the editing of this video was the different aspect ratios. <i>Fullmetal Alchemist (2003)</i> has a 4:3 aspect ratio, while <i>Fullmetal Alchemist: Brotherhood's</i> is 16:9 (as is <i>Sacred Star of Milos'</i>). So in order to resolve this I had to resize the 4:3 footage to match the 16:9 window.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=q10P4HppbZY" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Gods Bound By Rules</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=12180" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: The Sacred Star of Milos</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="tcatd" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="theCat&TheDevilVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>The Cat & The Devil (2012)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">FAE 2012-Best in Show</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=187369" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/amv/fae-2012-best-in-show.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Florida Anime Experience 'Best in Show' award plaque for 'The Cat & The Devil' in 2012">
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012 and it won the <i>Best in Show</i> Award.</p>
+                                                
+                                            <p class="mediaDesc">When I was editing this video I actually didn't initially intend for Train to be the sinner, Creed the Devil, and Saya the Lord (albeit briefly) but it worked out perfectly.</p>
+                                            
+                                            <p class="mediaDesc">The biggest techniques I focused on in this video were splitscreen effects and the effect known as "piano keys" (at least where I heard of it) since it fit the tone of the song and this is one of the reasons I wanted to do this video in the first place, along with the <i>Black Cat</i> character's piano key hits.</p>
+                                            
+                                            <p class="mediaDesc">Also, this song is actually almost 10 minutes long, and extremely repetitive at times. To counter this I attempted to do a little sound editing and shortened it considerably (It's less than half as long as that now).</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=QH3Fx41Jpl4" target="_blank"><p class="list-group-item-text">Nina Simone - Sinnerman</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5245" target="_blank"><p class="list-group-item-text">Black Cat</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="ftp" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="fightThePowerVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Fight the Power (2011)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">FAE 2011 Best Action Runner Up</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=182402" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2011.</p>
+                                            
+                                            <p class="mediaDesc">This was the first music video I had made in four years, ever since I had largely given up on the idea. I hadn't had much success at conventions with my work, so I decided I must not be very good at it.</p>
+                                            
+                                            <p class="mediaDesc">That all changed starting with this video, which reignited my interest in making AMVs when I heard about a new convention called <i>Florida Anime Experience</i> that would be the spiritual successor to JACON, the contest I used to attend four years previously.</p>
+                                            
+                                            <p class="mediaDesc">Having switched to Adobe Premiere CS5.5, I took the recent more accurate reinterpretation of <i>Fullmetal Alchemist</i> and combined it with a well known song from an anime I had recently gotten into called <i>Gurren Lagann</i>.</p>
+                                            
+                                            <p class="mediaDesc">Although I didn't win an award at the contest, apparently I came very close. There was a part near the end when the judges played a random video and had to "debate something" and I asked afterwards and it turned out they were debating between mine and the video that won the "best action" award (which was a Blue Gender video).</p>
+                                            
+                                            <p class="mediaDesc">The version shown above is a slightly modified version of the video that contains more rowing moments. The original is shown here below.</p>
+                                            
+                                            <div class="row">
+                                                <div class="col-lg-2"></div>
+                                                <div class="col-lg-8">
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <div id="fightThePowerOGVideo"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-2"></div>
+                                            </div>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=VT6LFOIofRE" target="_blank"><p class="list-group-item-text">Tarantula - Libera me from Hell</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                            </ul>
                                         </div>
                                     </div>      
                                 </div>

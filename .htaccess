@@ -43,7 +43,9 @@ AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 
-RedirectPermanent /Blog/Best-of-Television/2016.php /blog/best-of-television/2016.php
-RedirectPermanent /Film/feature-films.php /film/feature-films.php
-RedirectPermanent /Film/trailers.php /film/trailers.php
-RedirectPermanent /Film/short-films.php /film/short-films.php
+Redirect 301 /Blog/Best-of-Television/2016.php https://lebercreativemedia.com/blog/best-of-television/2016.php
+Redirect 301 /Film/feature-films.php https://lebercreativemedia.com/film/feature-films.php
+Redirect 301 /Film/trailers.php https://lebercreativemedia.com/film/trailers.php
+Redirect 301 /Film/short-films.php https://lebercreativemedia.com/film/short-films.php
+
+Options -Indexes
