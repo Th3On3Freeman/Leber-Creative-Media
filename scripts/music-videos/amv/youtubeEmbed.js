@@ -7,7 +7,7 @@ var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);  
   
 // 2. This function creates an <iframe> (and YouTube player) after the API code downloads.  
-var inbound, arsonistLullaby, genesisSkyfall, codeOfSwords, codeOfSwordsComparison, revolution, onTheOtherSide, godOfANewWorld, XIII, XIIIComparison, aFullmetalWorld, theCatAndTheDevil, fightThePower, fightThePowerOG;  
+var inbound, arsonistLullaby, genesisSkyfall, codeOfSwords, codeOfSwordsComparison, revolution, onTheOtherSide, godOfANewWorld, XIII, XIIIComparison, aFullmetalWorld, theCatAndTheDevil, fightThePower, fightThePowerOG, fullmetalAlchemist, scar, homunculi, fifthLab, brother, death, wrath, deathToTheHomunculi, fullmetalMemories, royMustang;  
 function onYouTubeIframeAPIReady(id) {  
 
     inbound = new YT.Player('inboundVideo', {  
@@ -134,7 +134,99 @@ function onYouTubeIframeAPIReady(id) {
                events: {  
                    'onReady': onPlayerReadyFTPOG
                }  
-    });    
+    });  
+    
+    fullmetalAlchemist = new YT.Player('fullmetalAlchemistVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'rcy2c5qtAMQ', 
+               events: {  
+                   'onReady': onPlayerReadyFA
+               }  
+    });  
+    
+    scar = new YT.Player('scarVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'rptA4iTRcBE', 
+               events: {  
+                   'onReady': onPlayerReadyS
+               }  
+    });  
+    
+    homunculi = new YT.Player('homunculiVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'AtoT5Q6Uq24', 
+               events: {  
+                   'onReady': onPlayerReadyH
+               }  
+    });  
+    
+    fifthLab = new YT.Player('fifthLabVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'bAVOJ6u4g_I', 
+               events: {  
+                   'onReady': onPlayerReadyFL
+               }  
+    });  
+    
+    brother = new YT.Player('brotherVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'xMhla_y1Aqk', 
+               events: {  
+                   'onReady': onPlayerReadyB
+               }  
+    });   
+    
+    death = new YT.Player('deathVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'qwDLNXCLe2o', 
+               events: {  
+                   'onReady': onPlayerReadyD
+               }  
+    });   
+    
+    wrath = new YT.Player('wrathVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'lNsvtgmkGQs', 
+               events: {  
+                   'onReady': onPlayerReadyW
+               }  
+    });   
+    
+    deathToTheHomunculi = new YT.Player('deathToTheHomunculiVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'ZXNOztw_e-M', 
+               events: {  
+                   'onReady': onPlayerReadyDTTH
+               }  
+    });   
+    
+    fullmetalMemories = new YT.Player('fullmetalMemoriesVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'UjNWLXkCCvw', 
+               events: {  
+                   'onReady': onPlayerReadyFM
+               }  
+    });   
+    
+    royMustang = new YT.Player('royMustangVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: '9udXWPCYckI', 
+               events: {  
+                   'onReady': onPlayerReadyRM
+               }  
+    });   
+    
+    
     
 }  
 
@@ -234,4 +326,74 @@ function onPlayerReadyFTP(event) {
 // 3. The API will call this function when the video player is ready. 
 function onPlayerReadyFTPOG(event) {  
     fightThePowerOG.setPlaybackQuality('medium'); 
-} 
+}  
+
+//Fullmetal Alchemist
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyFA(event) {  
+    fullmetalAlchemist.setPlaybackQuality('large'); 
+}  
+
+//Scar
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyS(event) {  
+    scar.setPlaybackQuality('large'); 
+}  
+
+//Homunculi
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyH(event) {  
+    homunculi.setPlaybackQuality('large'); 
+}  
+
+//Fifth Lab
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyFL(event) {  
+    fifthLab.setPlaybackQuality('large'); 
+}  
+
+//Brother
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyB(event) {  
+    brother.setPlaybackQuality('large'); 
+}  
+
+//Death
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyD(event) {  
+    death.setPlaybackQuality('large'); 
+}  
+
+//Wrath
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyW(event) {  
+    wrath.setPlaybackQuality('large'); 
+}  
+
+//Death to the Homunculi
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyDTTH(event) {  
+    deathToTheHomunculi.setPlaybackQuality('large'); 
+}  
+
+//Fullmetal Memories
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyFM(event) {  
+    fullmetalMemories.setPlaybackQuality('large'); 
+}  
+
+//Roy Mustang
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyRM(event) {  
+    royMustang.setPlaybackQuality('large'); 
+}    

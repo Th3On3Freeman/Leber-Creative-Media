@@ -27,7 +27,7 @@
         ?>
         
         <!--Hover Dropdown CSS-->
-        <link href="/styles/hoverDropdown.css?d=<?php echo time(); ?>" rel="stylesheet">
+        <link href="/styles/hoverDropdown.css" rel="stylesheet">
         
         <link href="/styles/hoverDropdownModified.css" rel="stylesheet">
         
@@ -73,9 +73,23 @@
                                         </ul>
                                     </li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2006-2009 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2006-2007 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#" class="fullWidthDropdown">Placeholder</a></li>
+                                            <li><a data-toggle="pill" href="#fa" class="fullWidthDropdown">Fullmetal Alchemist</a></li>
+                                            <li><a data-toggle="pill" href="#s" class="fullWidthDropdown">Scar</a></li>
+                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown">Homunculi</a></li>
+                                            <li><a data-toggle="pill" href="#fl" class="fullWidthDropdown">Fifth Lab</a></li>
+                                            <li><a data-toggle="pill" href="#b" class="fullWidthDropdown">Brother</a></li>
+                                            <li><a data-toggle="pill" href="#d" class="fullWidthDropdown">Death</a></li>
+                                            <li><a data-toggle="pill" href="#w" class="fullWidthDropdown">Wrath</a></li>
+                                            <li><a data-toggle="pill" href="#dtth" class="fullWidthDropdown">Death to the Homunculi</a></li>
+                                            <li><a data-toggle="pill" href="#fm" class="fullWidthDropdown">Fullmetal Memories</a></li>
+                                            <li><a data-toggle="pill" href="#rm" class="fullWidthDropdown">Roy Mustang</a></li>
+                                            <li><a data-toggle="pill" href="#tfoe" class="fullWidthDropdown">The Faces of Evil</a></li>
+                                            <li><a data-toggle="pill" href="#wri" class="fullWidthDropdown">Winry Riza Izumi!</a></li>
+                                            <li><a data-toggle="pill" href="#sof" class="fullWidthDropdown">Summary of FMA</a></li>
+                                            <li><a data-toggle="pill" href="#ff" class="fullWidthDropdown">FFVII FMA</a></li>
+                                            <li><a data-toggle="pill" href="#ngu" class="fullWidthDropdown">No Giving Up</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -164,7 +178,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
+                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
@@ -211,15 +225,15 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-9">
-                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award card with photo for 'Genesis Skyfall' in 2014">
+                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor.jpg" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award card with photo for 'Genesis Skyfall' in 2014">
                                                 </div>
                                                 
                                                 <div class="col-lg-3">
-                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor-award.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award trophy from Video Art Track in 2014">
+                                                    <img src="/images/music-videos/amv/awa-pro-2014-best-artistic-endeavor-award.jpg" class="img-responsive" alt="Anime Weekend Atlanta 'Best Artistic Endeavor' award trophy from Video Art Track in 2014">
                                                 </div>
                                             </div>
                                             <a href="/pdf/music-videos/amv/shaken-not-stirred.pdf" target="_blank">
-                                                <img src="/images/music-videos/amv/youmacon-2016-shaken-not-stirred.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Youmacon 'Shaken Not Stirred' award photo from Fan Art Theater for 'Genesis Skyfall' in 2016">
+                                                <img src="/images/music-videos/amv/youmacon-2016-shaken-not-stirred.jpg" class="img-responsive" alt="Youmacon 'Shaken Not Stirred' award photo from Fan Art Theater for 'Genesis Skyfall' in 2016">
                                             </a>
                                             
                                             <p class="centerText">Click to see larger version</p>
@@ -297,17 +311,17 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-daenerys-targaryen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Daenerys Targaryen from 'Game of Thrones' in a blue robe">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-daenerys-targaryen.jpg" class="img-responsive imgFix" alt="Daenerys Targaryen from 'Game of Thrones' in a blue robe">
                                                     <h3>Daenerys Targaryen</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-mance-rayder.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Mance Rayder from 'Game of Thrones' in a dark fur coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-mance-rayder.jpg" class="img-responsive imgFix" alt="Mance Rayder from 'Game of Thrones' in a dark fur coat">
                                                     <h3>Mance Rayder</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-4">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-asuna.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Asuna from 'Sword Art Online' in a white top with a red skirt">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-asuna.jpg" class="img-responsive imgFix" alt="Asuna from 'Sword Art Online' in a white top with a red skirt">
                                                     <h3>Asuna (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-4"></div>
@@ -315,12 +329,12 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-tyrion-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tyrion Lannister from 'Game of Thrones' with a big scar across his face">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tyrion-lannister.jpg" class="img-responsive imgFix" alt="Tyrion Lannister from 'Game of Thrones' with a big scar across his face">
                                                     <h3>Tyrion Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>
@@ -328,14 +342,14 @@
                                             <div class="row">
                                                 <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-cersei-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Cersei Lannister from 'Game of Thrones' in a red dress">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-cersei-lannister.jpg" class="img-responsive imgFix" alt="Cersei Lannister from 'Game of Thrones' in a red dress">
                                                     <h3>Cersei Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-1 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-1 col-xs-2"></div>
                                                 <div class="col-lg-3 col-xs-8">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-leafa.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Leafa from 'Sword Art Online' in a green dress">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-leafa.jpg" class="img-responsive imgFix" alt="Leafa from 'Sword Art Online' in a green dress">
                                                     <h3>Leafa (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-1 col-xs-2"></div>
@@ -344,17 +358,17 @@
                                             <div class="row">
                                                 <div class="col-lg-1 col-xs-2"></div>
                                                 <div class="col-lg-3 col-xs-8">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-robb-stark.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Robb Stark from 'Game of Thrones' in a dark brown tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-robb-stark.jpg" class="img-responsive" alt="Robb Stark from 'Game of Thrones' in a dark brown tunic">
                                                     <h3>Robb Stark</h3>
                                                 </div>
                                                 <div class="col-xs-2 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 hidden-xs"></div>
                                                 <div class="col-lg-4 col-xs-12">
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-suzaku.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Suzaku from 'Code Geass' in a white coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-suzaku.jpg" class="img-responsive imgFix" alt="Suzaku from 'Code Geass' in a white coat">
                                                     <h3>Suzaku (CG)</h3>
                                                               
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
@@ -362,21 +376,21 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-tywin-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tywin Lannister from 'Game of Thrones' in a black tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tywin-lannister.jpg" class="img-responsive imgFix" alt="Tywin Lannister from 'Game of Thrones' in a black tunic">
                                                     <h3>Tywin Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-joffrey-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="King Joffrey Baratheon from 'Game of Thrones' in a golden tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-joffrey-baratheon.jpg" class="img-responsive imgFix" alt="King Joffrey Baratheon from 'Game of Thrones' in a golden tunic">
                                                     <h3>Joffrey Baratheon</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-commander-mormont.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Commander Mormont from 'Game of Thrones' in a black fur coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-commander-mormont.jpg" class="img-responsive imgFix" alt="Commander Mormont from 'Game of Thrones' in a black fur coat">
                                                     <h3>Commander Mormont</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-6 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
                                                 <div class="col-lg-2 hidden-xs"></div>
@@ -384,128 +398,128 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-arya-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Arya Stark from 'Game of Thrones' in a brown tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-arya-stark.jpg" class="img-responsive imgFix" alt="Arya Stark from 'Game of Thrones' in a brown tunic">
                                                     <h3>Arya Stark</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-silica.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Silica from Sword Art Online in a red and white outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-silica.jpg" class="img-responsive imgFix" alt="Silica from Sword Art Online in a red and white outfit">
                                                     <h3>Silica (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-stannis-baratheon.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Stannis Baratheon from 'Game of Thrones' in a dark blue tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-stannis-baratheon.jpg" class="img-responsive imgFix" alt="Stannis Baratheon from 'Game of Thrones' in a dark blue tunic">
                                                     <h3>Stannis Baratheon</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-vv.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="V.V. from 'Code Geass' in a purple outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-vv.jpg" class="img-responsive imgFix" alt="V.V. from 'Code Geass' in a purple outfit">
                                                     <h3>V.V. (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-melisandre.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Melisandre from 'Game of Thrones' with red hair">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-melisandre.jpg" class="img-responsive imgFix" alt="Melisandre from 'Game of Thrones' with red hair">
                                                         <h3>Melisandre</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cc.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="C.C. from 'Code Geass' with green hair in a white outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cc.jpg" class="img-responsive imgFix" alt="C.C. from 'Code Geass' with green hair in a white outfit">
                                                     <h3>C.C. (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-brienne.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Brienne of Tarth from 'Game of Thrones' in a black suit of armor">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-brienne.jpg" class="img-responsive imgFix" alt="Brienne of Tarth from 'Game of Thrones' in a black suit of armor">
                                                     <h3>Brienne of Tarth</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-heathcliff.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Heathcliff from 'Sword Art Online' in a red suit of armor">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-heathcliff.jpg" class="img-responsive imgFix" alt="Heathcliff from 'Sword Art Online' in a red suit of armor">
                                                     <h3>Heathcliff (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-daario-naharis.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Daario Naharis from 'Game of Thrones' in a dark brown tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-daario-naharis.jpg" class="img-responsive imgFix" alt="Daario Naharis from 'Game of Thrones' in a dark brown tunic">
                                                     <h3>Daario Naharis</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kuradeel.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kuradeel from 'Sword Art Online' in a black tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kuradeel.jpg" class="img-responsive imgFix" alt="Kuradeel from 'Sword Art Online' in a black tunic">
                                                     <h3>Kuradeel (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>    
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-catelyn-tully.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Catelyn Tully from 'Game of Thrones' in a dark outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-catelyn-tully.jpg" class="img-responsive imgFix" alt="Catelyn Tully from 'Game of Thrones' in a dark outfit">
                                                     <h3>Catelyn Tully</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-talisa-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Talisa Stark from 'Game of Thrones' in a dark dress">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-talisa-stark.jpg" class="img-responsive imgFix" alt="Talisa Stark from 'Game of Thrones' in a dark dress">
                                                     <h3>Talisa Stark</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-sugu.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Sugu from 'Sword Art Online' in a light purple outfit with a red scarf">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-sugu.jpg" class="img-responsive imgFix" alt="Sugu from 'Sword Art Online' in a light purple outfit with a red scarf">
                                                     <h3>Sugu (SAO)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-tormund-giantsbane.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Tormund Giantsbane from 'Game of Thrones' in a grey coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-tormund-giantsbane.jpg" class="img-responsive imgFix" alt="Tormund Giantsbane from 'Game of Thrones' in a grey coat">
                                                     <h3>Tormund Giantsbane</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-klein.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Klein from 'Sword Art Online' in a red and black outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-klein.jpg" class="img-responsive imgFix" alt="Klein from 'Sword Art Online' in a red and black outfit">
                                                     <h3>Klein (SAO)</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                 </div>
                                             </div>    
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-ygritte.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Ygritte from 'Game of Thrones' in a grey and brown fur coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-ygritte.jpg" class="img-responsive imgFix" alt="Ygritte from 'Game of Thrones' in a grey and brown fur coat">
                                                     <h3>Ygritte</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-kallen.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kallen from 'Code Geass' in a red and purple outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-kallen.jpg" class="img-responsive imgFix" alt="Kallen from 'Code Geass' in a red and purple outfit">
                                                     <h3>Kallen (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-jon-snow.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Jon Snow from 'Game of Thrones' in a black fur coat">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-jon-snow.jpg" class="img-responsive imgFix" alt="Jon Snow from 'Game of Thrones' in a black fur coat">
                                                     <h3>Jon Snow</h3>
                                                 </div>
                                                 <div class="col-lg-3 col-xs-6">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-jaime-lannister.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Jaime Lannister from 'Game of Thrones' with a beard looking upset">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-jaime-lannister.jpg" class="img-responsive imgFix" alt="Jaime Lannister from 'Game of Thrones' with a beard looking upset">
                                                     <h3>Jaime Lannister</h3>
                                                 </div>
                                                 <div class="col-lg-2 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
                                                 <div class="col-lg-4 col-xs-12">
-                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
+                                                    <img src="/images/music-videos/amv/code-of-swords/sao-kirito.jpg" class="img-responsive imgFix" alt="Kirito from 'Sword Art Online' in a dark blue outfit">
                                                     <h3>Kirito (SAO)</h3>
                                                               
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-lelouch.jpg" class="img-responsive imgFix" alt="Lelouch from 'Code Geass' with a magic red eye">
                                                     <h3>Lelouch (CG)</h3>
                                                 </div>
                                                 <div class="col-xs-4 hidden-sm hidden-md hidden-lg"></div>
@@ -513,48 +527,48 @@
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-bran-stark.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Bran Stark from 'Game of Thrones' in a dark tunic">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-bran-stark.jpg" class="img-responsive imgFix" alt="Bran Stark from 'Game of Thrones' in a dark tunic">
                                                     <h3>Bran Stark</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-nunnally-lamperouge.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Nunnally from 'Code Geass' in a pink and white outfit with her eyes closed">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-nunnally-lamperouge.jpg" class="img-responsive imgFix" alt="Nunnally from 'Code Geass' in a pink and white outfit with her eyes closed">
                                                     <h3>Nunnally (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-margaery-tyrell.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Margaery Tyrell from 'Game of Thrones' in a tan dress showing cleavage">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-margaery-tyrell.jpg" class="img-responsive imgFix" alt="Margaery Tyrell from 'Game of Thrones' in a tan dress showing cleavage">
                                                     <h3>Margaery Tyrell</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-euphemia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Euphy from 'Code Geass' in a white outfit looking solemn">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-euphemia-li-britannia.jpg" class="img-responsive imgFix" alt="Euphy from 'Code Geass' in a white outfit looking solemn">
                                                     <h3>Euphy (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-yara-greyjoy.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Yara Greyjoy from 'Game of Thrones' in a dark outfit looking troubled">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-yara-greyjoy.jpg" class="img-responsive imgFix" alt="Yara Greyjoy from 'Game of Thrones' in a dark outfit looking troubled">
                                                     <h3>Yara Greyjoy</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-villetta.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Villetta from 'Code Geass' with silver shining hair looking upset">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-villetta.jpg" class="img-responsive imgFix" alt="Villetta from 'Code Geass' with silver shining hair looking upset">
                                                     <h3>Villetta (CG)</h3>
                                                 </div>
                                             </div>
                                                 <hr>
                                             <div class="row">
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/got-myranda.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Myranda from 'Game of Thrones' in a dark blue dress with someone else's hand pulling at the dress">
+                                                    <img src="/images/music-videos/amv/code-of-swords/got-myranda.jpg" class="img-responsive imgFix" alt="Myranda from 'Game of Thrones' in a dark blue dress with someone else's hand pulling at the dress">
                                                     <h3>Myranda</h3>
                                                 </div>
                                                 <div class="col-lg-4 col-xs-12 textContainer"><h3 class="valign">played by</h3></div>
                                                 <div class="col-lg-4 col-xs-12">      
-                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cornelia-li-britannia.jpg?d=<?php echo time(); ?>" class="img-responsive imgFix" alt="Cornelia from 'Code Geass' with long purple hair looking confident">
+                                                    <img src="/images/music-videos/amv/code-of-swords/cg-cornelia-li-britannia.jpg" class="img-responsive imgFix" alt="Cornelia from 'Code Geass' with long purple hair looking confident">
                                                     <h3>Cornelia (CG)</h3>
                                                 </div>
                                             </div>
@@ -584,11 +598,11 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-7">
-                                                    <img src="/images/music-videos/amv/knightrokon-2014-best-editing.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Knightrokon 'Best Editing' award certificate for 'Revolution' in 2014">
+                                                    <img src="/images/music-videos/amv/knightrokon-2014-best-editing.jpg" class="img-responsive" alt="Knightrokon 'Best Editing' award certificate for 'Revolution' in 2014">
                                                 </div>
                                                 
                                                 <div class="col-lg-5">
-                                                    <img src="/images/music-videos/amv/mythicon-2013-best-drama.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Mythicon 'Best Drama' award plaque for 'Revolution' in 2013">
+                                                    <img src="/images/music-videos/amv/mythicon-2013-best-drama.jpg" class="img-responsive" alt="Mythicon 'Best Drama' award plaque for 'Revolution' in 2013">
                                                 </div>
                                             </div>
                                             
@@ -657,11 +671,11 @@
                                             
                                             <div class="row">
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/florida-supercon-2013-second-place.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Florida Supercon 'Second Place' award certificate for 'On the Other Side' in 2013">
+                                                    <img src="/images/music-videos/amv/florida-supercon-2013-second-place.jpg" class="img-responsive" alt="Florida Supercon 'Second Place' award certificate for 'On the Other Side' in 2013">
                                                 </div>
                                                 
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/mythicon-2013-best-comedy.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Mythicon 'Best Comedy' award plaque for 'On the Other Side' in 2013">
+                                                    <img src="/images/music-videos/amv/mythicon-2013-best-comedy.jpg" class="img-responsive" alt="Mythicon 'Best Comedy' award plaque for 'On the Other Side' in 2013">
                                                 </div>
                                             </div>
                                             
@@ -758,7 +772,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=192747" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
+                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://animefestivalorlando.com/" target="_blank">Anime Festival Orlando's</a> AMV Contest in 2013 and it won the <i>Best Drama</i> Award.</p>
                                             
@@ -864,7 +878,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=188453" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/afo-2012-best-action.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Anime Festival Orlando 'Best Action' award plaque for '007: XIII' in 2012">
+                                            <img src="/images/music-videos/amv/afo-2012-best-action.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Action' award plaque for '007: XIII' in 2012">
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://animefestivalorlando.com/" target="_blank">Anime Festival Orlando's</a> AMV Contest in 2012 and it won the <i>Best Action</i> Award.</p>
                                                 <br>
@@ -919,7 +933,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=187367" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="centerText">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012.</p>
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012.</p>
                                             
                                             <p class="mediaDesc">This was an idea I came up with about one week before the contest deadline, to combine the original <i>Fullmetal Alchemist</i> series with <i>Fullmetal Alchemist: Brotherhood</i>. So you'll notice throughout that much of this video is an experiment, comparing and contrasting different moments from the series. I also came up with the idea to incorporate <i>The Sacred Star of Milos</i> (recently released at the time) since it added a third art style to the mix.</p>
                                             
@@ -964,9 +978,9 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=187369" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/fae-2012-best-in-show.jpg?d=<?php echo time(); ?>" class="img-responsive" alt="Florida Anime Experience 'Best in Show' award plaque for 'The Cat & The Devil' in 2012">
+                                            <img src="/images/music-videos/amv/fae-2012-best-in-show.jpg" class="img-responsive" alt="Florida Anime Experience 'Best in Show' award plaque for 'The Cat & The Devil' in 2012">
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012 and it won the <i>Best in Show</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012 and it won the <i>Best in Show</i> Award.</p>
                                                 
                                             <p class="mediaDesc">When I was editing this video I actually didn't initially intend for Train to be the sinner, Creed the Devil, and Saya the Lord (albeit briefly) but it worked out perfectly.</p>
                                             
@@ -1009,7 +1023,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=182402" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="centerText">This is an AMV that I submitted to <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2011.</p>
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2011.</p>
                                             
                                             <p class="mediaDesc">This was the first music video I had made in four years, ever since I had largely given up on the idea. I hadn't had much success at conventions with my work, so I decided I must not be very good at it.</p>
                                             
@@ -1041,6 +1055,414 @@
                                             
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="fa" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="fullmetalAlchemistVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Fullmetal Alchemist (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">JACON 2006 Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202068" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://www.facebook.com/JACONconvention/" target="_blank">JACON</a> AMV Contest in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is the first music video and AMV that I ever made, it has a lot of problems, some glimmers of merit throughout and absolutely no relevance to the song.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=PYw0mg8RPKA" target="_blank"><p class="list-group-item-text">Crossfade - Colors</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="s" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="scarVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Scar (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202069" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is the second AMV I ever made and it's a character profile video for Scar from Fullmetal Alchemist. Given the lyrics are in japanese and I had no idea what they were saying at the time, I clearly just chose it because I thought it sounded cool.</p>
+                                            
+                                            <p class="mediaDesc">This video has a lot of slow moments throughout, lip flap and it's way too long. There are at least a few moments where it seemed like I knew what I was doing, but this could have been far shorter.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=xrjUj-FRorY" target="_blank"><p class="list-group-item-text">Arimachi Masahiko - Through the Night</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="h" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="homunculiVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Homunculi (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">JACON 2006 Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202070" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://www.facebook.com/JACONconvention/" target="_blank">JACON</a> AMV Contest in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is an abomination, something that I once promised myself I would never let see the light of day ever again. A compilation of the Homunculi from Fullmetal Alchemist, it is full of bad timing, huge spoilers and horrible title effects.</p>
+                                            
+                                            <p class="mediaDesc">It hurts just looking at it. There's only one moment of merit in it (the perfectly timed punch at <a href="https://youtu.be/AtoT5Q6Uq24?t=2m23s" target="_blank">2:23</a>).</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=gti2z5Z8JqU" target="_blank"><p class="list-group-item-text">Crossfade - Disco</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="fl" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="fifthLabVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Fifth Lab (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202071" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is a video focused on the Fifth Lab arc from Fullmetal Alchemist. It starts with some cringe-worthy use of audio inserted from the dub as exposition and continues into a video that once again has nothing to do with the song being used. This is basically a summary of the Fifth Lab arc and nothing more.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Vrr3lRLjZ1Y" target="_blank"><p class="list-group-item-text">Crossfade - Cold</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="b" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="brotherVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Brother (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">JACON 2006 Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202072" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://www.facebook.com/JACONconvention/" target="_blank">JACON</a> AMV Contest in 2006.</p>
+                                            
+                                            <p class="mediaDesc">One of my few older videos that has merit to it, this is a video that actually has a semblance of a story to it. Though it uses a cringe-worthy cover of the song "Brothers" from Fullmetal Alchemist by Vic Mignogna (also the voice actor for Ed in the Fullmetal Alchemist dub).</p>
+                                            
+                                            <p class="mediaDesc">The insertion of the dub voices halfway through was a mistake, but the rest of the video is at least coherent.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=FfAEMal84ag" target="_blank"><p class="list-group-item-text">Vic Mignogna/Michiru Oshima - Brothers</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="d" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="deathVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Death (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202074" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is a video that focused on the death of many characters over the course of Fullmetal Alchemist. As you can gather from that, it is full of spoilers and is highly depressing.</p>
+                                            
+                                            <p class="mediaDesc">I was clearly trying to do some experimentation with transitions at the time, though they're mostly terrible.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ZLpnRaaQvCI" target="_blank"><p class="list-group-item-text">Michiru Oshima - Homunculus</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="w" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="wrathVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Wrath (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202075" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is a character profile video for Wrath from Fullmetal Alchemist. Given the lyrics are in japanese and I had no idea what they were saying at the time, I clearly just chose it because I thought it sounded cool.</p>
+                                            
+                                            <p class="mediaDesc">I can tell that I was trying to chronicle the story of this character's transformation from innocence to corruption, There's some good buil-up but is very long and quite slow at times. Moments in it have merit but it really needed to be trimmed down.</p>
+                                            
+                                            <p class="mediaDesc">There's also just not a lot of editing. I let a lot of scenes play out longer than I should have. Lastly there's some bad source material inconsistency that I was forced to use at the time.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=EIVgSuuUTwQ" target="_blank"><p class="list-group-item-text">Yoko Kanno/Origa - Inner Universe</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="dtth" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="deathToTheHomunculiVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Death to the Homunculi (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202076" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is a video that was supposed to compile all of the Homunculi death scenes, though it appears I never finished it.</p>
+                                            
+                                            <p class="mediaDesc">There's not much unique or noteworthy to this video, though the musical choice I went with was a little different than normal.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=4tEj6gXA_eA" target="_blank"><p class="list-group-item-text">Michiru Oshima - Dance</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="fm" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="fullmetalMemoriesVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Fullmetal Memories (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202077" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is the second video I've made focused on the relationship between Edward and Alphonse in Fullmetal Alchemist, however as has often been the case the song has no relevance to what's going on in the video.</p>
+                                            
+                                            <p class="mediaDesc">There's a lot of lip flap in this video and not much momentum throughout, but there are certain moments that click. This is also a video that just has too many scenes without much editing.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ne49DaLbo2I" target="_blank"><p class="list-group-item-text">Crossfade - So Far Away</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="rm" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="royMustangVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Roy Mustang (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202078" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is the first Roy Mustang video I made (long before my far more recent and significantly better <a href="https://www.youtube.com/watch?v=tB4sMWJwMoM" target="_blank">Arsonist's Lullaby</a> video). There's a lot of tonal change throughout this, switching from being an action video to a comedy video to a drama video and then back to an action video.</p>
+                                            
+                                            <p class="mediaDesc">The ending is also missing, I finished most of the video but I guess I never got around to capping it off. There's also a ridiculous amount of lip flap throughout this video that makes it pretty painful to watch.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=FiyU3EJmhxI" target="_blank"><p class="list-group-item-text">Taku Iwasaki - Theme of R.O.D. (Long Version)</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
                                             </ul>
                                         </div>
                                     </div>      
