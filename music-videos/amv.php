@@ -88,7 +88,7 @@
                                             <li><a data-toggle="pill" href="#tfoe" class="fullWidthDropdown">The Faces of Evil</a></li>
                                             <li><a data-toggle="pill" href="#wri" class="fullWidthDropdown">Winry Riza Izumi!</a></li>
                                             <li><a data-toggle="pill" href="#sof" class="fullWidthDropdown">Summary of FMA</a></li>
-                                            <li><a data-toggle="pill" href="#ff" class="fullWidthDropdown">FFVII FMA</a></li>
+                                            <li><a data-toggle="pill" href="#ail" class="fullWidthDropdown">Accidentally in Love</a></li>
                                             <li><a data-toggle="pill" href="#ngu" class="fullWidthDropdown">No Giving Up</a></li>
                                         </ul>
                                     </li>
@@ -100,9 +100,9 @@
                                     <h2>About AMVs</h2>
                                     <hr class="star-light">
                                     
-                                    <p class="mediaDesc">I first began editing Animated Music Videos (AMVs) with <a href="https://support.microsoft.com/en-us/help/14220/windows-movie-maker-download" target="_blank">Windows Movie Maker</a>. I went to anime conventions and saw a community of people who made them and I thought I'd give it a try. None of them were all that great or won any awards but it was interesting. During this time I switched from using Windows Movie Maker to <a href="http://www.techspot.com/downloads/5727-adobe-premiere-free.html" target="_blank">Adobe Premiere Pro 2.0</a></p>
+                                    <p class="mediaDesc">I first began editing Animated Music Videos (AMVs) with <a href="https://support.microsoft.com/en-us/help/14220/windows-movie-maker-download" target="_blank">Windows Movie Maker</a> in 2006. I went to anime conventions and saw a community of people who made them and I thought I'd give it a try. None of them were all that great or won any awards but it was interesting. During this time I switched from using Windows Movie Maker to <a href="http://www.techspot.com/downloads/5727-adobe-premiere-free.html" target="_blank">Adobe Premiere Pro 2.0</a>. I stopped making them in 2007.</p>
                                     
-                                    <p class="mediaDesc">Then when I got into college I thought I'd give it another shot. This time I started with <a href="https://www.amazon.com/Premiere-Pro-CS5-5-Win-Upgrade/dp/B005381RR4/" target="_blank">Adobe Premiere CS5.5</a>, and the first video I made won runner up at a contest for an award and I realized I must have improved. So I've kept making them and over the past five years I've won several awards and continued to immerse myself in this community of video editors.</p>
+                                    <p class="mediaDesc">Then when I got into college in 2011 I thought I'd give it another shot. This time I started with <a href="https://www.amazon.com/Premiere-Pro-CS5-5-Win-Upgrade/dp/B005381RR4/" target="_blank">Adobe Premiere CS5.5</a>, and the first video I made won runner up at a contest for an award and I realized I must have improved. So I've kept making them and over the past five years I've won several awards and continued to immerse myself in this community of video editors.</p>
                                     
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
@@ -1463,6 +1463,206 @@
                                             
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="tfoe" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="theFacesOfEvilVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>The Faces of Evil (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202080" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This literally only exists because I wanted to make an epic video to the "Requiem for a Dream" theme. I have no idea why there's a minute of black at the end.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=yVIRcnlRKF8" target="_blank"><p class="list-group-item-text">Clint Mansell - Requiem for a Dream</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="wri" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="winryRizaIzumiVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Winry Riza Izumi! (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202081" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is a triple character profile video focused on Winry Rockbell, Riza Hawkeye and Izumi Curtis from Fullmetal Alchemist. Given the lyrics are in japanese and I had no idea what they were saying at the time, I clearly just chose it because I thought it sounded cool.</p>
+                                            
+                                            <p class="mediaDesc">This contains some terrible effects, a lot of lip flap, and it's also apparently unfinished.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=-rFW2Df5iRs" target="_blank"><p class="list-group-item-text">Yoko Kanno/Origa - Rise</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="sof" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="summaryOfFMAVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Summary of FMA (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202082" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is actually a summary of the entire series of Fullmetal Alchemist. I apparently wanted to make an epic to a classical song. Unfortunately there's not much creative about it, there's a lot of lip flap and an overuse of fade transitions. There are a few nice moments every once in a while though.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=kwY4lilrJv4" target="_blank"><p class="list-group-item-text">Beethoven - 5th Symphony/Unmei</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="ail" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="accidentallyInLoveVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Accidentally in Love (2006)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contest Entered</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202083" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I made in 2006.</p>
+                                            
+                                            <p class="mediaDesc">This is the closest I've ever come to making a romantic comedy. This actually isn't terrible, a mixup of Fullmetal Alchemist and Final Fantasy VII: Advent Children that has several redeeming qualities throughout including some relatively good lip-synching, well-timed moments and direct relevance to the song.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=22bK0C2obFc" target="_blank"><p class="list-group-item-text">Counting Crows - Accidentally in Love</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=3344" target="_blank"><p class="list-group-item-text">Final Fantasy VII: Advent Children</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="ngu" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-4by3">
+                                                <div id="noGivingUpVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>No Giving Up (2007)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">JACON 2007 Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=202084" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://www.facebook.com/JACONconvention/" target="_blank">JACON</a> AMV Contest in 2007.</p>
+                                            
+                                            <p class="mediaDesc">This is the last AMV I created while I was in high school, and the only Naruto AMV I have ever made. Going back to my use of Crossfade songs, this is one of my few older videos where the song lyrics had relevance to the material.</p>
+                                            
+                                            <p class="mediaDesc">There's some bad effects throughout this and slow moments but a good overall focus in my opinion. Since it didn't win anything at JACON, that was what convinced me to stop editing at the time.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=iqB_cZq7Clw" target="_blank"><p class="list-group-item-text">Crossfade - No Giving Up</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1825" target="_blank"><p class="list-group-item-text">Naruto</p></a></li>
                                             </ul>
                                         </div>
                                     </div>      

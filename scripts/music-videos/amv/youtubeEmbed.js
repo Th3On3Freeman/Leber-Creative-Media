@@ -7,7 +7,7 @@ var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);  
   
 // 2. This function creates an <iframe> (and YouTube player) after the API code downloads.  
-var inbound, arsonistLullaby, genesisSkyfall, codeOfSwords, codeOfSwordsComparison, revolution, onTheOtherSide, godOfANewWorld, XIII, XIIIComparison, aFullmetalWorld, theCatAndTheDevil, fightThePower, fightThePowerOG, fullmetalAlchemist, scar, homunculi, fifthLab, brother, death, wrath, deathToTheHomunculi, fullmetalMemories, royMustang;  
+var inbound, arsonistLullaby, genesisSkyfall, codeOfSwords, codeOfSwordsComparison, revolution, onTheOtherSide, godOfANewWorld, XIII, XIIIComparison, aFullmetalWorld, theCatAndTheDevil, fightThePower, fightThePowerOG, fullmetalAlchemist, scar, homunculi, fifthLab, brother, death, wrath, deathToTheHomunculi, fullmetalMemories, royMustang, theFacesOfEvil, winryRizaIzumi, summaryOfFMA, accidentallyInLove, noGivingUp;  
 function onYouTubeIframeAPIReady(id) {  
 
     inbound = new YT.Player('inboundVideo', {  
@@ -226,6 +226,51 @@ function onYouTubeIframeAPIReady(id) {
                }  
     });   
     
+    theFacesOfEvil = new YT.Player('theFacesOfEvilVideo', {  
+               height: '640',  
+               width: '360',  
+               videoId: 'YZjyP98Cgrs', 
+               events: {  
+                   'onReady': onPlayerReadyTFOE
+               }  
+    });   
+    
+    winryRizaIzumi = new YT.Player('winryRizaIzumiVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'D8W7MfF1sig', 
+               events: {  
+                   'onReady': onPlayerReadyWRI
+               }  
+    });   
+    
+    summaryOfFMA = new YT.Player('summaryOfFMAVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'NVXhbjFe9PI', 
+               events: {  
+                   'onReady': onPlayerReadySOF
+               }  
+    });   
+    
+    accidentallyInLove = new YT.Player('accidentallyInLoveVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: 'iTPXfnf_n54', 
+               events: {  
+                   'onReady': onPlayerReadyAIL
+               }  
+    });   
+    
+    noGivingUp = new YT.Player('noGivingUpVideo', {  
+               height: '720',  
+               width: '480',  
+               videoId: '6N_yD4okWSk', 
+               events: {  
+                   'onReady': onPlayerReadyNGU
+               }  
+    });   
+    
     
     
 }  
@@ -396,4 +441,39 @@ function onPlayerReadyFM(event) {
 // 3. The API will call this function when the video player is ready. 
 function onPlayerReadyRM(event) {  
     royMustang.setPlaybackQuality('large'); 
-}    
+}   
+
+//The Faces of Evil
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyTFOE(event) {  
+    theFacesOfEvil.setPlaybackQuality('medium'); 
+}   
+
+//Winry Riza Izumi!
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyWRI(event) {  
+    winryRizaIzumi.setPlaybackQuality('large'); 
+}   
+
+//Summary of FMA
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadySOF(event) {  
+    summaryOfFMA.setPlaybackQuality('large'); 
+}   
+
+//Accidentally in Love
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyAIL(event) {  
+    accidentallyInLove.setPlaybackQuality('large'); 
+}   
+
+//No Giving Up
+
+// 3. The API will call this function when the video player is ready. 
+function onPlayerReadyNGU(event) {  
+    noGivingUp.setPlaybackQuality('large'); 
+}   
