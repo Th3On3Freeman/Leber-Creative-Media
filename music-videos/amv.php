@@ -56,7 +56,7 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
-                                    <li class="dropdown mobileDropdown">
+                                    <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2016 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#i" class="fullWidthDropdown">Inbound</a></li>

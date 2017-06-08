@@ -135,6 +135,14 @@
         align-items: center;
         height: 100%;
     }
+    
+      .dropdown .dropdown-menu {
+        font-size: 18px;
+        width:  100%;
+        }
+    .dropdown .dropdown-menu li a {
+        padding: 10px 20px;
+        }
 }
 
 .mainText
