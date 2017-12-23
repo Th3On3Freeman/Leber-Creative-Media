@@ -121,6 +121,11 @@
     width: 300px;
 }
 
+.pillTabs2017
+{
+    width: 220px;
+}
+
 @media (max-device-width: 640px)
 {
     .center-pills

@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^michaelleber\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.michaelleber\.com$
+RewriteRule ^/?$ "http\:\/\/www\.lebercreativemedia\.com\/" [R=301,L]
+

@@ -23,13 +23,13 @@
                             //echo "<script>alert('MOBILE DEVICE');</script>";
                             ?>
                             <li class="menu-item">  
-                              <a href="#musicVideos">Music Videos</span></a>
+                              <a href="#musicVideos">Music Videos</a>
                             </li>
                             <li id="aRow" class="menu-item subIndent">
                               <a href="/music-videos/amv.php">- AMV</a>
                             </li>
                             <li id="laRow" class="menu-item subIndent">
-                              <a href="/music-videos/liveAction.php">- Live Action</a>
+                              <a href="/music-videos/live-action.php">- Live Action</a>
                             </li>
                         <?php        
                             } //end if
@@ -38,13 +38,13 @@
                                 //echo "<script>alert('DESKTOP DEVICE');</script>";
                         ?>
                             <li class="menu-item dropdown"> 
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="#musicVideos">Music Videos</span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#musicVideos">Music Videos</a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
                                         <a href="/music-videos/amv.php">AMV</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="#">Live Action</a>
+                                        <a href="/music-videos/live-action.php">Live Action</a>
                                     </li>
                                 </ul>
                             </li>   

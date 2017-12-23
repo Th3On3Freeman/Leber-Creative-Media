@@ -1,0 +1,9 @@
+Header set Set-Cookie "_asomcnc=1;   max-age=900; path=/;"
+
+DirectoryIndex index.html
+#RewriteEngine on
+
+#RewriteCond %{HTTP_HOST} ^galimidifineart\.com$ [OR]
+#RewriteCond %{HTTP_HOST} ^www\.galimidifineart\.com$
+#RewriteRule ^/?$ "http\:\/\/www\.galimidifineart\.com" [R=301,L]
+

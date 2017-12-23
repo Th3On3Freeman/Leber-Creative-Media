@@ -57,39 +57,42 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2016 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2017 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#i" class="fullWidthDropdown">Inbound</a></li>
-                                            <li><a data-toggle="pill" href="#al" class="fullWidthDropdown">Arsonist's Lullabye</a></li>
-                                            <li><a data-toggle="pill" href="#gs" class="fullWidthDropdown">Genesis Skyfall</a></li>
-                                            <li><a data-toggle="pill" href="#cos" class="fullWidthDropdown">Code of Swords</a></li>
-                                            <li><a data-toggle="pill" href="#r" class="fullWidthDropdown">Revolution</a></li>
-                                            <li><a data-toggle="pill" href="#otos" class="fullWidthDropdown">On the Other Side</a></li>
-                                            <li><a data-toggle="pill" href="#goanw" class="fullWidthDropdown">God of a New World</a></li>
-                                            <li><a data-toggle="pill" href="#007X" class="fullWidthDropdown">007: XIII</a></li>
-                                            <li><a data-toggle="pill" href="#afw" class="fullWidthDropdown">A Fullmetal World</a></li>
-                                            <li><a data-toggle="pill" href="#tcatd" class="fullWidthDropdown">The Cat & The Devil</a></li>
-                                            <li><a data-toggle="pill" href="#ftp" class="fullWidthDropdown">Fight the Power</a></li>
+                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown theHeart">The Heart</a></li>
+                                            <li><a data-toggle="pill" href="#a" class="fullWidthDropdown androgyny">Androgyny</a></li>
+                                            <li><a data-toggle="pill" href="#lpdbz" class="fullWidthDropdown linkinParkDBZ">Linkin Park DBZ</a></li>
+                                            <li><a data-toggle="pill" href="#i" class="fullWidthDropdown inbound">Inbound</a></li>
+                                            <li><a data-toggle="pill" href="#al" class="fullWidthDropdown arsonistLullaby">Arsonist's Lullabye</a></li>
+                                            <li><a data-toggle="pill" href="#gs" class="fullWidthDropdown genesisSkyfall">Genesis Skyfall</a></li>
+                                            <li><a data-toggle="pill" href="#cos" class="fullWidthDropdown codeOfSwords">Code of Swords</a></li>
+                                            <li><a data-toggle="pill" href="#r" class="fullWidthDropdown revolution">Revolution</a></li>
+                                            <li><a data-toggle="pill" href="#otos" class="fullWidthDropdown onTheOtherSide">On the Other Side</a></li>
+                                            <li><a data-toggle="pill" href="#goanw" class="fullWidthDropdown godOfANewWorld">God of a New World</a></li>
+                                            <li><a data-toggle="pill" href="#007X" class="fullWidthDropdown XIII">007: XIII</a></li>
+                                            <li><a data-toggle="pill" href="#afw" class="fullWidthDropdown aFullmetalWorld">A Fullmetal World</a></li>
+                                            <li><a data-toggle="pill" href="#tcatd" class="fullWidthDropdown theCatAndTheDevil">The Cat & The Devil</a></li>
+                                            <li><a data-toggle="pill" href="#ftp" class="fullWidthDropdown fightThePower">Fight the Power</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2006-2007 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#fa" class="fullWidthDropdown">Fullmetal Alchemist</a></li>
-                                            <li><a data-toggle="pill" href="#s" class="fullWidthDropdown">Scar</a></li>
-                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown">Homunculi</a></li>
-                                            <li><a data-toggle="pill" href="#fl" class="fullWidthDropdown">Fifth Lab</a></li>
-                                            <li><a data-toggle="pill" href="#b" class="fullWidthDropdown">Brother</a></li>
-                                            <li><a data-toggle="pill" href="#d" class="fullWidthDropdown">Death</a></li>
-                                            <li><a data-toggle="pill" href="#w" class="fullWidthDropdown">Wrath</a></li>
-                                            <li><a data-toggle="pill" href="#dtth" class="fullWidthDropdown">Death to the Homunculi</a></li>
-                                            <li><a data-toggle="pill" href="#fm" class="fullWidthDropdown">Fullmetal Memories</a></li>
-                                            <li><a data-toggle="pill" href="#rm" class="fullWidthDropdown">Roy Mustang</a></li>
-                                            <li><a data-toggle="pill" href="#tfoe" class="fullWidthDropdown">The Faces of Evil</a></li>
-                                            <li><a data-toggle="pill" href="#wri" class="fullWidthDropdown">Winry Riza Izumi!</a></li>
-                                            <li><a data-toggle="pill" href="#sof" class="fullWidthDropdown">Summary of FMA</a></li>
-                                            <li><a data-toggle="pill" href="#ail" class="fullWidthDropdown">Accidentally in Love</a></li>
-                                            <li><a data-toggle="pill" href="#ngu" class="fullWidthDropdown">No Giving Up</a></li>
+                                            <li><a data-toggle="pill" href="#fa" class="fullWidthDropdown fullmetalAlchemist">Fullmetal Alchemist</a></li>
+                                            <li><a data-toggle="pill" href="#s" class="fullWidthDropdown scar">Scar</a></li>
+                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown homunculi">Homunculi</a></li>
+                                            <li><a data-toggle="pill" href="#fl" class="fullWidthDropdown fifthLab">Fifth Lab</a></li>
+                                            <li><a data-toggle="pill" href="#b" class="fullWidthDropdown brother">Brother</a></li>
+                                            <li><a data-toggle="pill" href="#d" class="fullWidthDropdown death">Death</a></li>
+                                            <li><a data-toggle="pill" href="#w" class="fullWidthDropdown wrath">Wrath</a></li>
+                                            <li><a data-toggle="pill" href="#dtth" class="fullWidthDropdown deathToTheHomunculi">Death to the Homunculi</a></li>
+                                            <li><a data-toggle="pill" href="#fm" class="fullWidthDropdown fullmetalMemories">Fullmetal Memories</a></li>
+                                            <li><a data-toggle="pill" href="#rm" class="fullWidthDropdown royMustang">Roy Mustang</a></li>
+                                            <li><a data-toggle="pill" href="#tfoe" class="fullWidthDropdown theFacesOfEvil">The Faces of Evil</a></li>
+                                            <li><a data-toggle="pill" href="#wri" class="fullWidthDropdown winryRizaIzumi">Winry Riza Izumi!</a></li>
+                                            <li><a data-toggle="pill" href="#sof" class="fullWidthDropdown summaryOfFMA">Summary of FMA</a></li>
+                                            <li><a data-toggle="pill" href="#ail" class="fullWidthDropdown accidentallyInLove">Accidentally in Love</a></li>
+                                            <li><a data-toggle="pill" href="#ngu" class="fullWidthDropdown noGivingUp">No Giving Up</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -108,6 +111,233 @@
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
+                                
+                                <div id="h" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="theHeartVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>The Heart (2017)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Youmacon 2017 - Best in Show && AWA 2017 Masters Entry</span>
+                                            
+                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=203066" target="_blank">AMV.org Link</a></p>
+                                            <!--
+                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
+                                            -->
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.fanarttheater.com/" target="_blank">Youmacon's</a> Fan Art Theater contest in 2017 and it won the <i>Best in Show</i> Award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Masters</a> Contest in 2017.</p>
+                                            
+                                            <p class="mediaDesc">This is the third video that I have made using a song from the Nier soundtrack since I began making Nier videos back in 2012 (the other two are <a href="https://www.youtube.com/watch?v=7cLub-nNiWs" target="_blank">A Fullmetal World</a> and <a href="https://www.youtube.com/watch?v=dFkLO1p-8bw" target="_blank">God of a New World</a>). While there is no direct connection between these three videos, I feel that it is the final piece in what I originally wanted to accomplish when I first heard the <a href="https://en.wikipedia.org/wiki/Nier_(video_game)" target="_blank">Nier</a> soundtrack.</p>
+                                            
+                                            <h3><u>Audio Section</u></h3>
+                                            
+                                            <p class="mediaDesc">I spent a lot of time setting up the audio for this because the sections of the songs I use are split all across the video: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">The Dark Colossus Destroys All (0:00-0:13)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=14&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Hollow Dreams (0:14-0:57)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=58&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Fate (0:58-2:39)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=160&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Atonement (2:40-2:42)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=163&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Fate (2:43-3:42)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=223&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Atonement (3:43-3:57)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?time_continue=238&v=N6_U2znvrT8" target="_blank"><p class="list-group-item-text">Song of the Ancients: Fate (3:58-4:32)</p></a></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc">The first song was used in the opening to introduce the seven different pieces of source material, each featuring foreshadowing clips that are all purposefully used again later in the video. The other three songs are all different versions of the same song, known as "The Song of the Ancients." The first two were always part of my original plan, and the third is a new version from the sequel <a href="https://en.wikipedia.org/wiki/Nier:_Automata" target="_blank">Nier: Automata</a> that I incorporated after it released earlier in 2017.</p>
+                                            
+                                            <p class="mediaDesc">At some point when I was conceptualizing the video in my mind I remembered something from an AMV panel at a con called JACON that I went to back in 2006 when I first started editing. He told me that if you ever make a video with a foreign language, <i>you gotta have subtitles</i>. With most videos you have a song that has english lyrics, so even if they don't know what's going on they have something to help ground them and help make sense of the imagery.</p>
+                                            
+                                            <img src="/images/music-videos/amv/fansub.jpg" class="img-responsive" alt="An example of a fansubbed anime opening">
+                                            
+                                            <p class="mediaDesc">Initially, I decided to take this one step further and in addition to having lyrics for the english subtitles, I added some karaoke as well for the original language. Now this was not a new idea: <a href="https://en.wikipedia.org/wiki/Fansub" target="_blank">fansubbers</a> have been doing this for a very long time, but I had no idea how complicated it actually is to create.</p> 
+                                            
+                                            <img src="/images/music-videos/amv/aegisub.jpg" class="img-responsive" alt="A screenshot of my project for creating the subtitles in Aegisub">
+                                            
+                                            <p class="mediaDesc">A good friend of mine named <b>Alex Diaz</b> introduced me to a tool that I used for these subtitles called <a href="http://www.aegisub.org/" target="_blank">Aegisub</a>. He taught me how to use it to accomplish several different tasks, including: when the subtitles would begin/end and then specifically for the karaoke I had to time the beat for each individual syllable. There were lyrics online for the karaoke that someone had written, but when we tried to break these into syllables it didn't work; so we spent a really long time playing two seconds of the video, pausing it and wondering <i>what on earth was that?</i> So we basically had to completely rewrite the lyrics for a foreign language that doesn't exist.</p> 
+                                                <br>
+                                            <div class="row">
+                                                <div class="col-lg-2"></div>
+                                                <div class="col-lg-8">
+                                                    <div class="embed-responsive embed-responsive-16by9">
+                                                        <div id="theHeartKaraokeVideo"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-lg-2"></div>
+                                            </div>
+                                                <br>                                            
+                                            <p class="mediaDesc">I was very excited when Alex and I first got this working, but I hadn't anticipated the primary problem: The viewer doesn't know where to look. The problem begins when you introduce the karaoke because the effects inherently draw your eyes away from the video itself and so you can't appreciate both at the same time.</p> 
+
+                                            <p class="mediaDesc">So that didn't really work out as well as I intended, so I removed the karaoke and decided to focus on just the english subtitles. But I wanted to share this version of the video as well because I spent a long time on it and I think this version still has merit.</p>
+
+                                            <p class="mediaDesc">The song of the ancients is in a forgotten language in the universe of Nier that is a composite language that takes elements from English, Japanese, Spanish, Portuguese, Italian and French. Because of this there is no official english translation for this song. I adapted the lyrics from a fan translation written by <a href="https://www.youtube.com/watch?v=htv6B-K_jOc" target="_blank">Cheryl Starr</a>. The lyrics were heavily rewritten from her version compared to the version that is currently in the video now.</p>
+                                            
+                                            <h3><u>Video Section</u></h3>
+                                            
+                                            <p class="centerText">The video is split into seven different parts:</p> 
+
+                                            <p class="centerText"><a href="https://www.youtube.com/watch?v=N6_U2znvrT8" target="_blank">0:00-0:13 Relationship Introductions/Foreshadowing</a></p>
+                                            
+                                            <p class="mediaDesc">The first section is dedicated to introducing the six different relationships depicted in the video between:</p> 
+                                                
+                                            <ul class="list-group">
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Naruto/Sasuke/Sakura</b> in <i>Naruto</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Ichigo/Ulquiorra/Orihime</b> in <i>Bleach</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Ed/Mother</b> in <i>Fullmetal Alchemist</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Simon/Nia</b> in <i>Gurren Lagann</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Kirito/Asuna</b> in <i>Sword Art Online</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Kaede/Asa/Rin</b> in <i>Shuffle!</i></p></li>
+                                                <li class="list-group-item cursorFix"><p class="list-group-item-text"><b>Kaito/Ichika</b> in <i>Waiting in the Summer</i></p></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc">In addition to introducing these relationships, this section also includes foreshadowing: each clip in this opening segment will be used again at a future point in the video once the appropriate context has been reached.</p> 
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=14s" target="_blank">0:14-0:57 Expressed Intimacy/Initial Conflicts</a></p>
+                                            
+                                            <p class="mediaDesc">This next section is focused around showcasing each couple during the calm before the approaching storm and showing their partner's initial issues (or lack thereof). For example, in <i>Naruto</i> Sakura wants Naruto and Sasuke to stop fighting; in <i>Fullmetal Alchemist</i> Ed is lonely because of the loss of his mother; and in <i>Bleach</i> Orihime wishes Ichigo wouldn't keep putting himself in dangerous situations. Then the following moments are happier, such as Simon's first wonderous introduction to Nia in <i>Gurren Lagann</i>; Kirito and Asuna relaxing in <i>Sword Art Online</i>; Asa teasing Rin in <i>Shuffle!</i>; and Ichika expressing herself to Kaito in <i>Waiting in the Summer</i>. This section concludes the way it began with <i>Naruto</i>, however it's focused around Sakura wanting Sasuke to let her get closer to him. How he responds is what leads into the next section.</p> 
+                                            
+                                            <p class="mediaDesc">It's also at this point that the aforementioned subtitles are introduced. These will continue to be used throughout the video to help establish a thoroughline between these complex narratives.</p>
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=58s" target="_blank">0:58-1:12 Kidnapping and Betrayal</a></p>
+                                           
+                                            <p class="mediaDesc">The next section begins with a bang, with <i>Naruto</i> as Sasuke shatters his relationship with Naruto and Sakura by leaving. From there we move into <i>Bleach</i> as Orihime is captured by Ulquiorra because of Ichigo's negligence towards her. <i>Fullmetal Alchemist's</i> expression of conflict is more of a dive into the past as we witness Ed's first attempt to bring his mother back which forces him into the gate. Coming back to <i>Gurren Lagann</i>, it becomes clear that Simon and his friends are being locked away and Nia is regretful that she can't do anything to help them. Once we return to <i>Sword Art Online</i>, it appears that Asuna has been trapped in a world of fairies, a bird in the cage as it seems. Once we're back in <i>Shuffle!</i>, Asa has noticed that Kaede is just a bit too familiar with Rin and expresses affirmative action; Kaede sees this and is horrified. Finally returning to <i>Waiting in the Summer</i>, Ichika has been captured by a mysterious life form, and this leads into the next section.</p> 
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=1m13s" target="_blank">1:13-2:13 Rescue and Conflict Complexity</a></p>
+                                            
+                                            <p class="mediaDesc">Now that all of these conflicts have been introduced I'm going to be a little less specific: this is the point at which all attempts at rescue begin. Everyone is beginning the journey to reclaim their loved ones or friends, and some are even reunited as early as this opening stage, while others are just beginning the long quest that lies before them. In addition to this, a few key moments occur: a recurring conflict is introduced between Orihime and Ulquiorra regarding the existence of the heart in a spiritual context; meanwhile, it's revealed that Asuna has actually been trapped in a coma ever since she was separated from Kirito, and her coma is being visually illustrated through the previously mentioned fairy world.</p>
+                                            
+                                            <p class="mediaDesc">The conclusion of this section establishes a few more important things. A passage of time is reflected as Simon and Nia are shown to have grown up, and the climax of Kaito and Ichika's story occurs as they are separated and henceforth become star-crossed lovers. The ending of this section is effectively the halfway point of the video as well. </p> 
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=2m14s" target="_blank">2:14-3:11 Contemplation and Renewed Vigor</a></p> 
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=3m12s" target="_blank">3:12-4:12 Climax on top of Climax</a></p> 
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=4m13s" target="_blank">4:13-4:32 Epilogue</a></p>
+
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=4m33s" target="_blank">4:33-5:56 Credits</a></p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=PUfkJrt4dLI" target="_blank"><p class="list-group-item-text">Keiichi Okabe - The Dark Colossus Destroys All</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hS--hp1mFYA" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Hollow Dreams</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ady--PNMsfI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Fate</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=CKOM3lNFajE" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Atonement</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=XHsSui3j5lM" target="_blank"><p class="list-group-item-text">Keiichi Okabe - Hacking Track-Song of the Ancients: Atonement</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4240" target="_blank"><p class="list-group-item-text">Bleach</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=6698" target="_blank"><p class="list-group-item-text">Gurren Lagann</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=1825" target="_blank"><p class="list-group-item-text">Naruto</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=5375" target="_blank"><p class="list-group-item-text">Shuffle!</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=13448" target="_blank"><p class="list-group-item-text">Waiting in the Summer</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="a" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="androgynyVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Androgyny (2017)</h2>
+                                            <hr class="star-light">
+                                            <span class="skills">AWA Thunderdome 2017-Team Lightning Bear</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203132" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2017 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">Speedy180</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=46" target="_blank">SailorDeath</a>.</p>
+
+                                            <p class="mediaDesc">So we originally had a completely different idea for this video, it was purely going to be a Cowboy Bebop video with a different song. However, due to some hidden contest rules we ended up with this one instead. I did what I could with my portion. SailorDeath decided to get more creative and integrated some live action that made it a more humorous video, which was fine since are whole plan got shot to sunshine anyways.</p>
+                                            
+                                            <p class="mediaDesc">Overall, an interesting combination and experiment in damage control when plans go awry.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hVs6Fekh0RY" target="_blank"><p class="list-group-item-text">Garbage - Androgyny</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0062622/" target="_blank"><p class="list-group-item-text">2001: A Space Odyssey</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1288558/" target="_blank"><p class="list-group-item-text">Evil Dead</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=166" target="_blank"><p class="list-group-item-text">Serial Experiments Lain</p></a></li> 
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="lpdbz" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="linkinParkDBZVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Linkin Park DBZ (2017)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2017 Pro-Troll entry</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203060" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2017 and it was a joke entry.</p>
+                                            
+                                            <p class="mediaDesc">In the 1990s, it became very common in AMV contests for people to pair a popular fighting anime called Dragonball Z with songs from Linkin Park. Since my early editing years were filled with Fullmetal Alchemist, I never had even considered making one of these videos.</p>
+
+                                            <p class="mediaDesc">So now that Dragonball has come back into the spotlight with the newer movies and <a href="http://www.imdb.com/title/tt4644488/" target="_blank">Dragonball Super</a>, it seemed like an appropriate time for me to make a video parodying those older videos that used to be so prevalent. The unfortunate death of Linkin Park singer Chester Bennington only made the idea more relevant, although I had planned on making it before that happened.</p>
+                                            
+                                            <p class="mediaDesc">Originally this was just going to feature random fight scenes, but while making it I realized it worked best as a Frieza character profile/action mashup with a twist ending. This is not intended to be a serious video.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=eVTXPUF4Oz4" target="_blank"><p class="list-group-item-text">Linkin Park - In the End</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14887" target="_blank"><p class="list-group-item-text">Dragon Ball Z: Battle of Gods</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16549" target="_blank"><p class="list-group-item-text">Dragon Ball Z: Resurrection 'F'</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
                                 <div id="i" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
@@ -174,13 +404,13 @@
                                             
                                             <h2>Arsonist's Lullabye (2016)</h2>
                                             <hr class="star-light">                                            
-                                            <span class="skills">AWA 2016 Pro-Best Character Profile Nomination</span>
+                                            <span class="skills">AWA 2016 Pro-Best Character Profile Nomination && Agamacon 2017-Best Drama</span>
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
                                             <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened.</p>
 
@@ -238,7 +468,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and Youmacon's Fan Art Theater Contest in 2016. It won the <i>Best Artistic Endeavor</i> Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best Artistic Endeavor</i> Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
                                             
                                             <p class="mediaDesc">I began this video about a year beforehand with the concept for the climax roughly completed long before the rest of the video. Later on closer to the contest deadline I got most of it finished in a single weekend before getting some reactions to it and tightening other aspects of it up to submit to AWA for the premiere.</p>
 
@@ -1686,7 +1916,7 @@
         <script type="text/javascript">
             function downloadJSAtOnload() {
                 var element = document.createElement("script");
-                element.src = "/scripts/music-videos/amv/youtubeEmbed.js?d=<?php echo time(); ?>";
+                element.src = "/scripts/music-videos/amv/videoLoader.js?d=<?php echo time(); ?>";
                 document.body.appendChild(element);
             }
             if (window.addEventListener)

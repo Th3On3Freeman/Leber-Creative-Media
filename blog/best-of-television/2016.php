@@ -55,7 +55,7 @@
                             
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
-                                    <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li class="active"><a data-toggle="pill" href="#intro" data-target="#intro, #introContent" class="btn btn-default pillTabs">About</a></li>
                                     <li><a data-toggle="pill" href="#honMention" data-target="#honMention, #honMentionContent" class="btn btn-default pillTabs">Honorable Mention</a></li>
                                     <li><a data-toggle="pill" href="#top20" data-target="#top20, #top20Content" class="btn btn-default pillTabs">The Top 20</a></li>
                                 </ul>
@@ -85,7 +85,7 @@
                 </div>
             </header>
             <div class="tab-content">
-                <div class="tab-pane fade intro in active">
+                <div id="introContent" class="tab-pane fade intro in active">
                 </div>
                 
                 <div id="honMentionContent" class="tab-pane fade">

@@ -235,7 +235,7 @@
                         </a>
                     </div>
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#musicVideosModal2" class="portfolio-link">
+                        <a href="/music-videos/live-action.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -348,6 +348,24 @@
                         </a>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h3>Best of Film</h3>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 portfolio-item">
+                        <a href="/blog/best-of-film/21st-century.php" class="portfolio-link">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="/images/home/21st-century.jpg" class="img-responsive" alt="Best Films list of the 21st century with ">
+                        </a>
+                    </div>
+                </div>
+                
             </div>
         </section>
         
