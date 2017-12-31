@@ -67,9 +67,9 @@
                                 <div id="intro" class="tab-pane fade in active">
                                     <h2>About my 2017 List</h2>
                                     <hr class="star-light">
-                                    <p>Welcome to my list for the best television shows of 2017. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well. I'd also like to thank my girlfriend and mother; both helped me proofread these entries. Feel free to check out his list at the link below:</p>
+                                    <p>Welcome to my list for the best television shows of 2017. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well.</p>
                                     
-                                    <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2016/12/my-20-favorite-television-shows-of-2016.html" target="_blank">Antonio's Favorite Shows of 2016</a></p>
+                                    <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2017/12/my-20-favorite-television-shows-of-2017.html" target="_blank">Antonio's Favorite Shows of 2017</a></p>
                                 </div>
                                 <div id="justNo" class="tab-pane fade">
                                     <h2>Just No</h2>
@@ -187,7 +187,7 @@
                         </div>
                     </section>
                     
-                    <!--Just No-Homeland
+                    <!--Just No-Homeland-->
                     <section class="portfolio tvEntryOdd">
                         <div class="container">
                             <div class="row">
@@ -213,7 +213,7 @@
                             </div>
                         </div>
                     </section>
-                    -->
+                    
                 </div>
                 
                 <div id="mediocreContent" class="tab-pane fade">
@@ -670,7 +670,7 @@
                                         <hr class="star-primary">
                                         <span class="skills">Comedy Central</span>
                                         
-                                        <p class="mainText">Opening with an alternate reality episode straight out of <i>Fringe</i>, <i>Broad City</i> returned late this year with little to no fanfare among critics. This is all the more disappointing, because the latest season is one of it's strongest yet, providing relevant commentary on the state of America's orgasms ever since Trump was elected, an extended ambitious animated sequence and great guest star appearances from the likes of Steve Buscemi and Denis O'Hare. The hilarious leads, Ilana and Abbi, have even stepped behind the camera this year, both directing multiple episodes (one of which, is particularly great). A marked improvement over last year, these are two ladies who should not be ignored (especially given the current landscape).</p>
+                                        <p class="mainText">Opening with an alternate reality episode straight out of <i>Fringe</i>, <i>Broad City</i> returned late this year with little to no fanfare among critics. This is all the more disappointing, because the latest season is one of it's strongest yet, providing relevant commentary on the state of America's orgasms ever since Trump was elected, an extended ambitious animated sequence and great guest star appearances from the likes of <a href="http://www.imdb.com/name/nm0000114/" target="_blank">Steve Buscemi</a> and <a href="http://www.imdb.com/name/nm0641354/" target="_blank">Denis O'Hare</a>. The hilarious leads, Ilana and Abbi, have even stepped behind the camera this year, both directing multiple episodes (one of which, is particularly great). A marked improvement over last year, these are two ladies who should not be ignored (especially given the current landscape).</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Sliding Doors</i>, <i>Mushrooms</i> and <i>Witches</i>.</p>
                                     </div>
@@ -684,7 +684,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt3322314/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt5016504/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -699,9 +699,9 @@
                                         <hr class="star-light">
                                         <span class="skills">AMC</span>
                                         
-                                        <p class="mainText">Based on the comic created by Garth Ennis, <i>Preacher</i> actually made it's first season debut last year. This isn't to say that the first season was bad (since it wasn't included on my list), I simply forgot to include it since I wasn't keeping good track of the shows I was watching last year. I enjoyed the first season and it's focus within Texas and exploration of the characters before really introducing some of it's more fantastical elements. Others were distracted by the difference from the comics, which are really more of a road trip than what this was presented as.</p>
+                                        <p class="mainText">Based on the comic created by <a href="http://www.comicbookdb.com/creator.php?ID=128" target="_blank">Garth Ennis</a>, <i>Preacher</i> actually made it's first season debut last year. This isn't to say that the first season was bad (since it wasn't included on my list), I simply forgot to include it since I wasn't keeping good track of the shows I was watching last year. I enjoyed the first season and it's focus within Texas and exploration of the characters before really introducing some of it's more fantastical elements. Others were distracted by the difference from the comics, which are really more of a road trip than what this was presented as.</p>
                                         
-                                        <p class="mainText">Moving into season two, after blowing up everything that came before this show started to look far more like it's inspiration. On the search for God (whom we discovered at the end of last season has gone missing), our protagonist Jesse and his crew of bandits have traveled to New Orleans in search of leads, with a devil hot on their tails. This is both a very bold and stylized show, willing to introduce both a strange dog-man and blasphemous depictions of Jesus without batting an eye. The primary antagonists this year, the Saint of Killers and Herr Starr are both very compelling, but for completely different reasons. The aforementioned devil on their tail, the Saint of Killers is deadset on killing Jesse and anything that gets in his way. This initially provides a welcome increase in pace, but the writers have a tendency of writing this character out of the story for long stretches of time, most likely to maximize his effectiveness, without letting him wear out his welcome. Meanwhile, Herr Starr and his minions (one of which featuring <i>Better Call Saul's</i> Julie Ann Emery) are part of the ambitious organization known as The Grail, and are focused on taking advantage of Jesse's ability by any means necessary. Overall this is stronger and more unique than last season, but it drags with a subplot featuring Eugene (who has a horrible scar on his face) in Hell with Hitler. The idea is entertaining enough, but it takes up too much screentime and is the primary reason this show is further down the list than it could have been. Now that it's ended though, I'm looking forward to see where <i>Preacher</i> goes next. After all, did I forget to mention this show features an Irish vampire?</p>
+                                        <p class="mainText">Moving into season two, after blowing up everything that came before this show started to look far more like it's inspiration. On the search for God (whom we discovered at the end of last season has gone missing), our protagonist Jesse and his crew of bandits have traveled to New Orleans in search of leads, with a devil hot on their tails. This is both a very bold and stylized show, willing to introduce both a strange dog-man and blasphemous depictions of Jesus without batting an eye. The primary antagonists this year, the Saint of Killers and Herr Starr are both very compelling, but for completely different reasons. The aforementioned devil on their tail, the Saint of Killers is deadset on killing Jesse and anything that gets in his way. This initially provides a welcome increase in pace, but the writers have a tendency of writing this character out of the story for long stretches of time, most likely to maximize his effectiveness, without letting him wear out his welcome. Meanwhile, Herr Starr and his minions (one of which featuring <i>Better Call Saul's</i> <a href="http://www.imdb.com/name/nm1024264/" target="_blank">Julie Ann Emery</a>) are part of the ambitious organization known as The Grail, and are focused on taking advantage of Jesse's ability by any means necessary. Overall this is stronger and more unique than last season, but it drags with a subplot featuring Eugene (who has a horrible scar on his face) in Hell with Hitler. The idea is entertaining enough, but it takes up too much screentime and is the primary reason this show is further down the list than it could have been. Now that it's ended though, I'm looking forward to see where <i>Preacher</i> goes next. After all, did I forget to mention this show features an Irish vampire?</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Damsels</i>, <i>Dallas</i> and <i>Sokosha</i>.</p>
                                     </div>
@@ -715,7 +715,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt1856010/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2699128/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -754,7 +754,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt1520211/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2661044/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -769,7 +769,7 @@
                                         <hr class="star-light">
                                         <span class="skills">The CW</span>
                                         
-                                        <p class="mainText">After a season surrounded by controversy and accusations, I think it's safe to say Jason Rothenberg has successfully righted this ship. <i>The 100</i> came back this year with a tighter focus and a centralized idea that brought everyone together to survive the end of the world. It was also Marie Avgeropoulos' best showcase yet as Octavia, who has far more to do this season; overall she has had by far the strongest character arc. Her transformation from a doe-eyed innocent girl into a hardened grounder warrior has always made her more interesting than a lot of the cast (even if she doesn't get the big Wanheda moments). Isaiah Washington also had an improved role this year after his boring brainwashed turn in the previous season as Alie's tool. There were some some rough patches throughout the season (I was not a fan of Ilian at all, and there were a few false starts when it came to how Arkadia would handle the coming storm), but overall this is a nice improvement (despite the lower placement on this list, which is just a sign of how much good TV there is these days). Keep it up.</p>
+                                        <p class="mainText">After a season surrounded by controversy and accusations, I think it's safe to say <a href="http://www.imdb.com/name/nm1003202/" target="_blank">Jason Rothenberg</a> has successfully righted this ship. <i>The 100</i> came back this year with a tighter focus and a centralized idea that brought everyone together to survive the end of the world. It was also <a href="http://www.imdb.com/name/nm2955595/" target="_blank">Marie Avgeropoulos'</a> best showcase yet as Octavia, who has far more to do this season; overall she has had by far the strongest character arc. Her transformation from a doe-eyed innocent girl into a hardened grounder warrior has always made her more interesting than a lot of the cast (even if she doesn't get the big Wanheda moments). <a href="http://www.imdb.com/name/nm0913460/" target="_blank">Isaiah Washington</a> also had an improved role this year after his boring brainwashed turn in the previous season as Alie's tool. There were some some rough patches throughout the season (I was not a fan of Ilian at all, and there were a few false starts when it came to how Arkadia would handle the coming storm), but overall this is a nice improvement (despite the lower placement on this list, which is just a sign of how much good TV there is these days). Keep it up.</p>
                                         
                                         <p class="centerText">The standout episode for this year was <i>Die All, Die Merrily</i>.</p>
                                         
@@ -793,7 +793,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt4158110/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2802850/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -808,7 +808,7 @@
                                         <hr class="star-primary">
                                         <span class="skills">FX</span>
                                         
-                                        <p class="mainText">I was not as big a fan of Fargo season two as the rest of the world seemed to be. What was being hailed as the second coming came across to me like a lot of characters that I didn't care about in a storyline that wasn't particularly interesting (minus Kirsten Dunst [Spiderman], who was fantastic). I vastly preferred season one, so when I saw the promos for season three I was skeptical but hopeful. <i>Two Obi-Wan Kenobi's? Oh and I see you're bringing in Carrie Coon to win me over as well.</i> In the end while it didn't quite reach the heights of the first season, this was a vast improvement upon season two. Mary Elizabeth Winstead (Scott Pilgrim VS the World/10 Cloverfield Lane) is a breath of fresh air and the aforenmentioned Carrie Coon gave a very different performance compared to <i>The Leftovers</i>, so kudos to her on range. Meanwhile, there was an interesting dichotomy between Ewan McGregor's (Star Wars) twin brother characters that turned into a blood feud as the season progressed. And when it came to the villain, while he didn't surpass Billy Bob Thorton's amazing antagonist from season one, David Thewlis (Harry Potter and the Prisoner of Azkaban) gave a suitably chilling performance that filled my appetite. Hope there's a season four coming eventually, however unlikely that may be.</p>
+                                        <p class="mainText">I was not as big a fan of Fargo season two as the rest of the world seemed to be. What was being hailed as the second coming came across to me like a lot of characters that I didn't care about in a storyline that wasn't particularly interesting (minus <a href="http://www.imdb.com/name/nm0000379/" target="_blank">Kirsten Dunst</a> [<i>Spiderman</i>], who was fantastic). I vastly preferred season one, so when I saw the promos for season three I was skeptical but hopeful. <i>Two Obi-Wan Kenobi's? Oh and I see you're bringing in <a href="http://www.imdb.com/name/nm4689420/" target="_blank">Carrie Coon</a> to win me over as well.</i> In the end while it didn't quite reach the heights of the first season, this was a vast improvement upon season two. <a href="http://www.imdb.com/name/nm0935541/" target="_blank">Mary Elizabeth Winstead</a> (<i>Scott Pilgrim VS the World</i>/<i>10 Cloverfield Lane</i>) is a breath of fresh air and the aforementioned Carrie Coon gave a very different performance compared to <i>The Leftovers</i>, so kudos to her on range. Meanwhile, there was an interesting dichotomy between <a href="http://www.imdb.com/name/nm0000191/" target="_blank">Ewan McGregor's</a> (<i>Star Wars</i>) twin brother characters that turned into a blood feud as the season progressed. And when it came to the villain, while he didn't surpass <a href="http://www.imdb.com/name/nm0000671/" target="_blank">Billy Bob Thorton's</a> amazing antagonist from season one, <a href="http://www.imdb.com/name/nm0000667/" target="_blank">David Thewlis</a> (<i>Harry Potter and the Prisoner of Azkaban</i>) gave a suitably chilling performance that filled my appetite. Hope there's a season four coming eventually, however unlikely that may be.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>The Law of Non-Contradiction</i> and <i>Who Rules the Land of Denial?</i>.</p>
                                     </div>
@@ -822,7 +822,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2183404/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2188671/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -851,7 +851,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt5425186/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt0944947/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -866,7 +866,7 @@
                                         <hr class="star-primary">
                                         <span class="skills">HBO</span>
                                         
-                                        <p class="mainText">As <i>Game of Thrones</i> approaches it's endgame it had done so with a startling increase in speed. While we have been privy to long-awaited developments (Daenerys arriving in Westeros, meeting Jon Snow, finally beginning to interact with the rest of the cast), it has come with a cost. Long gone is the <i>Game of Thrones</i> of old with it's carefully constructed plotlines and respectful, if slow at times, approach to storytelling. In it's place now is a willingness to dive forward multiple strides in an episode that would normally take five times as long, ten times as long even in some cases. While this has streamlined elements that were previously frustrating it has inadvertently ruined other huge moments that occurred this season. Yes, some scenes escape unscathed (such as the first meeting of Jon Snow and Daenerys, which, while not featuring particularly great actors is still masterfully executed), but others (such as the battle beyond the wall) are so incredibly contrived it begs to question why Benioff and Weiss are so rushed. Could this not have taken a bit more time? Is one more season's worth of episodes too much to ask for? I can only hope that the critical reaction to this season has made the creative team retool their approach to the back half of this final season or it may very well destroy the ending of such an ambitious show.</p>
+                                        <p class="mainText">As <i>Game of Thrones</i> approaches it's endgame it had done so with a startling increase in speed. While we have been privy to long-awaited developments (Daenerys arriving in Westeros, meeting Jon Snow, finally beginning to interact with the rest of the cast), it has come with a cost. Long gone is the <i>Game of Thrones</i> of old with it's carefully constructed plotlines and respectful, if slow at times, approach to storytelling. In it's place now is a willingness to dive forward multiple strides in an episode that would normally take five times as long, ten times as long even in some cases. While this has streamlined elements that were previously frustrating it has inadvertently ruined other huge moments that occurred this season. Yes, some scenes escape unscathed (such as the first meeting of Jon Snow and Daenerys, which, while not featuring particularly great actors is still masterfully executed), but others (such as the battle beyond the wall) are so incredibly contrived it begs to question why <a href="http://www.imdb.com/name/nm1125275/" target="_blank">Benioff</a> and <a href="http://www.imdb.com/name/nm1888967/" target="_blank">Weiss</a> are so rushed. Could this not have taken a bit more time? Is one more season's worth of episodes too much to ask for? I can only hope that the critical reaction to this season has made the creative team retool their approach to the back half of this final season or it may very well destroy the ending of such an ambitious show.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>The Queen's Justice</i> and <i>The Spoils of War</i>.</p>
                                      
@@ -881,7 +881,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt4574334/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt1898069/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -896,9 +896,7 @@
                                         <hr class="star-light">
                                         <span class="skills">Starz</span>
                                         
-                                        <p class="mainText">When <i>Hannibal</i> was cancelled, it was upsetting and I eventually learned to make peace with it because the ending was perfectly executed. So when it was announced this was Bryan Fuller's next project I was initially skeptical simply 
-                                        because it was replacing something that had grown near and dear to my heart. And no, this is not as good as <i>Hannibal</i>, but what it does have going for it is ambition. Also based on a previous work, American Gods is far more reminiscent of the 
-                                        experimental first half of <i>Hannibal</i> season three, oozing with style and transforming itself week to week as different gods are introduced. The parable sequences in each episode are all very unique and add a different flavor to each episode as each god arrives in America. Some of the stylistic and artistic choices can be a bit much at times, but this is still one of the most unique new shows this year. Ian McShane (<i>Deadwood</i>) is on a road trip with Ricky Whittle (<i>The 100</i>), and while recent behind the scenes troubles leave the show's future in doubt, this is a show worth keeping in your prayers.</p>
+                                        <p class="mainText">When <i>Hannibal</i> was cancelled, it was upsetting and I eventually learned to make peace with it because the ending was perfectly executed. So when it was announced this was <a href="http://www.imdb.com/name/nm0298188/" target="_blank">Bryan Fuller's</a> next project I was initially skeptical simply because it was replacing something that had grown near and dear to my heart. And no, this is not as good as <i>Hannibal</i>, but what it does have going for it is ambition. Also based on a previous work, <i>American Gods</i> is far more reminiscent of the experimental first half of <i>Hannibal</i> season three, oozing with style and transforming itself week to week as different gods are introduced. The parable sequences in each episode are all very unique and add a different flavor to each episode as each god arrives in America. Some of the stylistic and artistic choices can be a bit much at times, but this is still one of the most unique new shows this year. <a href="http://www.imdb.com/name/nm0574534/" target="_blank">Ian McShane</a> (<i>Deadwood</i>) is on a road trip with <a href="http://www.imdb.com/name/nm1340638/" target="_blank">Ricky Whittle</a> (<i>The 100</i>), and while recent behind the scenes troubles leave the show's future in doubt, this is a show worth keeping in your prayers.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>The Bone Orchard</i> and <i>Git Gone</i>.</p>
                                     </div>
@@ -912,7 +910,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2188671/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt4574334/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -961,7 +959,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt3032476/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt5114356/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -976,7 +974,7 @@
                                         <hr class="star-light">
                                         <span class="skills">FX</span>
                                         
-                                        <p class="mainText">And now we come to the significantly better X-men show that premiered this year. Far more competent and focused than <i>The Gifted's</i> sprawling cast, <i>Legion</i> primarily focuses around a single mutant: David (who just so happens to be the son of Charles Xavier). Only explored on film as a tool in <i>X2: X-Men United</i>, David is far more interesting here as imagined by showrunner Noah Hawley (<i>Fargo</i>). Already having shown that he can take an established property and play with existing tools, Hawley is given far more leeway here as he takes full advantage of David's abilities to create a unique world, both within and outside of his mind. The rest of the cast is alright, but the true breakout star of this show is Aubrey Plaza (Parks and Recreation). Throughout this season she gives a performance that is a mixture of hilarious, terrifying and mesmerizing and <i>Legion</i> would never be the same without her. When the show decides to focus on other members of the cast, Hawley's efforts are less successful (particularly the confusing relationship between Cary and Kerry), but this doesn't take over the whole show thankfully. Definitely one of the most interesting new shows of the year.</p>
+                                        <p class="mainText">And now we come to the significantly better X-men show that premiered this year. Far more competent and focused than <i>The Gifted's</i> sprawling cast, <i>Legion</i> primarily focuses around a single mutant: David (who just so happens to be the son of Charles Xavier). Only explored on film as a tool in <i>X2: X-Men United</i>, David is far more interesting here as imagined by showrunner <a href="http://www.imdb.com/name/nm1279638/" target="_blank">Noah Hawley</a> (<i>Fargo</i>). Already having shown that he can take an established property and play with existing tools, Hawley is given far more leeway here as he takes full advantage of David's abilities to create a unique world, both within and outside of his mind. The rest of the cast is alright, but the true breakout star of this show is <a href="http://www.imdb.com/name/nm2201555/" target="_blank">Aubrey Plaza</a> (<i>Parks and Recreation</i>). Throughout this season she gives a performance that is a mixture of hilarious, terrifying and mesmerizing and <i>Legion</i> would never be the same without her. When the show decides to focus on other members of the cast, Hawley's efforts are less successful (particularly the confusing relationship between Cary and Kerry), but this doesn't take over the whole show thankfully. Definitely one of the most interesting new shows of the year.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Chapter 1</i>, <i>Chapter 4</i> and <i>Chapter 7</i>.</p>
                                     </div>
@@ -990,7 +988,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt1839578/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt1984119/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1005,7 +1003,7 @@
                                         <hr class="star-primary">
                                         <span class="skills">FX</span>
                                         
-                                        <p class="mainText">Is there are more famous quarrel in Hollywood than the feud between Bette Davis and Joan Crawford? These were two women who were at the height of their careers until the cruel mistress that is time caught up with them and executives like Jack Warner left them in the dust. That is, until a plot was concocted behind closed doors to turn them against each other in order to fuel audience interest. Suddenly reporters like Hedda Hopper were all ears again for anything the two of them had to say, manipulating them to twist their words into statements that resulted in horrible public insults against each other. All of this and more was explored in the first season of <i>Feud</i>, a new anthology series created by Ryan Murphy (American Horror Story/American Crime Story) to go along with his other sister series. Along with him comes his star attraction Jessica Lange (American Horror Story), playing Joan Crawford against Susan Sarandon as Bette Davis. There's a raw palpability throughout the tragedy of what was done to these two that feels particularly current given the recent developments in how Hollywood has treated women. Can't wait to see the feud that's tackled next year.</p>
+                                        <p class="mainText">Is there are more famous quarrel in Hollywood than the feud between <a href="http://www.imdb.com/name/nm0000012/" target="_blank">Bette Davis</a> and <a href="http://www.imdb.com/name/nm0001076/" target="_blank">Joan Crawford</a>? These were two women who were at the height of their careers until the cruel mistress that is time caught up with them and executives like <a href="http://www.imdb.com/name/nm0912491/" target="_blank">Jack Warner</a> left them in the dust. That is, until a plot was concocted behind closed doors to turn them against each other in order to fuel audience interest. Suddenly reporters like <a href="http://www.imdb.com/name/nm0394407/" target="_blank">Hedda Hopper</a> were all ears again for anything the two of them had to say, manipulating them to twist their words into statements that resulted in horrible public insults against each other. All of this and more was explored in the first season of <i>Feud</i>, a new anthology series created by <a href="http://www.imdb.com/name/nm0614682/" target="_blank">Ryan Murphy</a> (<i>American Horror Story</i>/<i>American Crime Story</i>) to go along with his other sister series. Along with him comes his star attraction <a href="http://www.imdb.com/name/nm0001448/" target="_blank">Jessica Lange</a> (<i>American Horror Story</i>), playing Joan Crawford against <a href="http://www.imdb.com/name/nm0000215/" target="_blank">Susan Sarandon</a> as Bette Davis. There's a raw palpability throughout the tragedy of what was done to these two that feels particularly current given the recent developments in how Hollywood has treated women. Can't wait to see the feud that's tackled next year.</p>
                                         
                                         <p class="centerText">There weren't any particular standout episodes for this show, because the whole season felt like one complete story to me. Therefore, I am declaring the entire season as a standout.</p>
                                     </div>
@@ -1019,7 +1017,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt3006802/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2149175/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1048,7 +1046,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2661044/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt5834204/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1063,7 +1061,7 @@
                                         <hr class="star-primary">
                                         <span class="skills">Hulu</span>
                                         
-                                        <p class="mainText">Based on Margaret Atwood's original novel, <i>The Handmaid's Tale</i> is without a doubt the most talked about and breakout show this year. It's going to be near the top of many other people's lists this year, and many people are going to agree with them. It stars Elizabeth Moss (Mad Men), and has become more current than it's writers could have ever foreseen given the way the election results ended up swinging. So why, you may ask is it not closer to the top of my list? This world is a dystopian future where fertile women are rare, and because of this they have been forced into servitude and are regularly raped by their captors. This does not result in a television show that is particularly pleasurable to watch. I found myself never truly feeling like I was in the right mood for the way this show makes you feel, and even though I can attest to its quality I simply enjoyed the other shows below this entry more. That being said, I still highly recommend this.</p>
+                                        <p class="mainText">Based on <a href="http://margaretatwood.ca/" target="_blank">Margaret Atwood's</a> original novel, <i>The Handmaid's Tale</i> is without a doubt the most talked about and breakout show this year. It's going to be near the top of many other people's lists this year, and many people are going to agree with them. It stars <a href="http://www.imdb.com/name/nm0005253/" target="_blank">Elisabeth Moss</a> (<i>Mad Men</i>), and has become more current than it's writers could have ever foreseen given the way the election results ended up swinging. So why, you may ask is it not closer to the top of my list? This world is a dystopian future where fertile women are rare, and because of this they have been forced into servitude and are regularly raped by their captors. This does not result in a television show that is particularly pleasurable to watch. I found myself never truly feeling like I was in the right mood for the way this show makes you feel, and even though I can attest to its quality I simply enjoyed the other shows below this entry more. That being said, I still highly recommend this.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Offred</i>, <i>Late</i> and <i>Jezebels</i>.</p>
                                     </div>
@@ -1077,7 +1075,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2372162/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt4998350/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1092,7 +1090,7 @@
                                         <hr class="star-light">
                                         <span class="skills">HBO</span>
                                         
-                                        <p class="mainText">When David Simon created <i>The Wire</i>, it was not a breakout hit. Sure, it was recognized by the critics, but it never received a single award from the Emmys. It also never really became a part of the mainstream consciousness until long after it was over. Enter the present and it is almost universally considered one of the best television shows of all time, for the way it tackled the issues within the city of Baltimore; the incredible acting from the likes of Idris Elba and Clarke Peters; and the compelling writing, particularly in it's later years. So when <i>The Deuce</i> was announced, expectations were pretty high. It again features great acting, this time particularly from Maggie Gyllenhaal and Gary Carr (though really the whole cast is great). It also features a dual performance from James Franco as twin brothers, just as <i>Fargo</i> did earlier this year. I wouldn't say it's the best thing on television right now, but it definitely has the right look and feel to it; it just remains to be seen whether or not it will match up to it's pedigree.</p>
+                                        <p class="mainText">When <a href="http://www.imdb.com/name/nm0800108/" target="_blank">David Simon</a> created <i>The Wire</i>, it was not a breakout hit. Sure, it was recognized by the critics, but it never received a single award from the Emmys. It also never really became a part of the mainstream consciousness until long after it was over. Enter the present and it is almost universally considered one of the best television shows of all time, for the way it tackled the issues within the city of Baltimore; the incredible acting from the likes of <a href="http://www.imdb.com/name/nm0252961/" target="_blank">Idris Elba</a> and <a href="http://www.imdb.com/name/nm0676370/" target="_blank">Clarke Peters</a>; and the compelling writing, particularly in it's later years. So when <i>The Deuce</i> was announced, expectations were pretty high. It again features great acting, this time particularly from <a href="http://www.imdb.com/name/nm0350454/" target="_blank">Maggie Gyllenhaal</a> and <a href="http://www.imdb.com/name/nm3338149/" target="_blank">Gary Carr</a> (though really the whole cast is great). It also features a dual performance from <a href="http://www.imdb.com/name/nm0290556/" target="_blank">James Franco</a> as twin brothers, just as <i>Fargo</i> did earlier this year. I wouldn't say it's the best thing on television right now, but it definitely has the right look and feel to it; it just remains to be seen whether or not it will match up to it's pedigree.</p>
                                         
                                         <p class="centerText">There weren't any particular standout episodes for this show, because the whole season felt like one complete story to me. Therefore, I am declaring the entire season as a standout.</p>
                                     </div>
@@ -1106,7 +1104,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2788432/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt5290382/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1121,9 +1119,9 @@
                                         <hr class="star-primary">
                                         <span class="skills">Netflix</span>
                                         
-                                        <p class="mainText">From the mind of David Fincher (<i>Zodiac</i>) comes yet another FBI serial killer drama. At first glance this is trotting out a genre that should've been put behind bars years ago, but as it unfolds you begin to realize why 
+                                        <p class="mainText">From the mind of <a href="http://www.imdb.com/name/nm0000399/" target="_blank">David Fincher</a> (<i>Zodiac</i>) comes yet another FBI serial killer drama. At first glance this is trotting out a genre that should've been put behind bars years ago, but as it unfolds you begin to realize why 
                                         this is different from something like <i>Dexter</i> or <i>True Detective</i>. Instead of being told from the killer's perspective or the FBI exclusively, <i>Mindhunter</i> finds a way to meld the two together as it actively explores criminal 
-                                        psychology. The interview scenes with patients like Ed Kemper are nothing short of fascinating and the return of Anna Torv (<i>Fringe</i>) to television (albeit a bit underused here) is a welcome sight. In my personal opinion, this is the best new show of the year.</p>
+                                        psychology. The interview scenes with patients like Ed Kemper are nothing short of fascinating and the return of <a href="http://www.imdb.com/name/nm1396022/" target="_blank">Anna Torv</a> (<i>Fringe</i>) to television (albeit a bit underused here) is a welcome sight. In my personal opinion, this is the best new show of the year.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Episode 2</i>, <i>Episode 6</i> and <i>Episode 8</i>.</p>
                                         
@@ -1138,7 +1136,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt0944947/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt3032476/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1155,7 +1153,7 @@
                                         
                                         <p class="centerText"><i>"You think this is bad, this chicanery? He's done worse!"</i></p>
                                         
-                                        <p class="mainText">What a different path this show has taken. When <i>Better Call Saul</i> initially began, as the spinoff riding the high off of the flawless ending of <i>Breaking Bad</i>, it was interesting and different, but I found myself anticipating rumored cameos from the likes of Aaron Paul (the possibility of which probably shut down after <i>The Path</i> was picked up) more than the content of the show itself. However, as the show has matured and progressed all of those thoughts went away and my focus honed in on the incredible performances of Bob Odenkirk, Rhea Seehorn and most especially this year: Michael McKean. Sure it's great to have Giancarlo Esposito back in a full-time role again and Jonathan Banks has always done great work on this show but the beating heart of this show truly lies with those three aforementioned characters. The climax in <i>Chicanery</i> blew me away and truly signaled that this show had hit a new level, and could finally stop living in the shadow of the series that came before. There's a good chance that <i>Better Call Saul</i> will never be able to replicate the extreme kind of moments that <i>Breaking Bad</i> pulled off on a regular basis, but it's also not trying to. While they exist in the same world, <i>Better Call Saul</i> feels so much more personal than <i>Breaking Bad</i> ever could because Jimmy McGill is far more relateable than Walter White ever was. As the original series continued, Walter continued to become more and more detestable and yet as this new series has gone on Jimmy has become more human, seen most explicitly when he's at his absolute lowest in <i>Expenses</i>. And if the ending of this season is anything to go by, things are only going to get worse.</p>
+                                        <p class="mainText">What a different path this show has taken. When <i>Better Call Saul</i> initially began, as the spinoff riding the high off of the flawless ending of <i>Breaking Bad</i>, it was interesting and different, but I found myself anticipating rumored cameos from the likes of <a href="http://www.imdb.com/name/nm0666739/" target="_blank">Aaron Paul</a> (the possibility of which probably shut down after <i>The Path</i> was picked up) more than the content of the show itself. However, as the show has matured and progressed all of those thoughts went away and my focus honed in on the incredible performances of <a href="http://www.imdb.com/name/nm0644022/" target="_blank">Bob Odenkirk</a>, <a href="http://www.imdb.com/name/nm0781533/" target="_blank">Rhea Seehorn</a> and most especially this year: <a href="http://www.imdb.com/name/nm0571106/" target="_blank">Michael McKean</a>. Sure it's great to have <a href="http://www.imdb.com/name/nm0002064/" target="_blank">Giancarlo Esposito</a> back in a full-time role again and <a href="http://www.imdb.com/name/nm0052186/" target="_blank">Jonathan Banks</a> has always done great work on this show but the beating heart of this show truly lies with those three aforementioned characters. The climax in <i>Chicanery</i> blew me away and truly signaled that this show had hit a new level, and could finally stop living in the shadow of the series that came before. There's a good chance that <i>Better Call Saul</i> will never be able to replicate the extreme kind of moments that <i>Breaking Bad</i> pulled off on a regular basis, but it's also not trying to. While they exist in the same world, <i>Better Call Saul</i> feels so much more personal than <i>Breaking Bad</i> ever could because Jimmy McGill is far more relateable than Walter White ever was. As the original series continued, Walter continued to become more and more detestable and yet as this new series has gone on Jimmy has become more human, seen most explicitly when he's at his absolute lowest in <i>Expenses</i>. And if the ending of this season is anything to go by, things are only going to get worse.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Sabrosito</i>, <i>Chicanery</i> and <i>Expenses</i>.</p>
                                     </div>
@@ -1186,7 +1184,7 @@
                                         
                                         <p class="centerText"><i>I know it doesn't feel like it now, but this is the start of something.</i></p>
                                         
-                                        <p class="mainText">On the outside, <i>Halt and Catch Fire</i> appears to be a period piece about the progress of technology. It has all the pieces necessary and does sometimes touch on cultural events, but the true focus of this show is on relationships. And it's in this final season when these relationships are tested, with former friends and colleagues placed on opposing sides: husband against wife, mother against daughter. A daughter that has an idea; once realized, has the potential to revolutionize how people get to what they want. A father and mentor that capitalize on that idea, twisting it out of her grasp and making it their own. A wife that wants to make her own take on this idea, separate from those who she believes are trying to hurt her. A former partner, struggling with failure and just trying to help the person that was there for her. A washed out shell of a man, convinced that this can't be his last thing. These are the ties that bind a group of people that thought they could change the world with an idea, only to find out that they're always just one step too late.</p>
+                                        <p class="mainText">On the outside, <i>Halt and Catch Fire</i> appears to be a period piece about the progress of technology. It has all the pieces necessary and does sometimes touch on cultural events, but the true focus of this show is on relationships. And it's in this final season when these relationships are tested, with former friends and colleagues placed on opposing sides: husband against wife, mother against daughter. A <a href="http://www.imdb.com/name/nm8915757/" target="_blank">daughter</a> that has an idea; once realized, has the potential to revolutionize how people get to what they want. A <a href="http://www.imdb.com/name/nm1058940/" target="_blank">father</a> and <a href="http://www.imdb.com/name/nm1195855/" target="_blank">mentor</a> that capitalize on that idea, twisting it out of her grasp and making it their own. A <a href="http://www.imdb.com/name/nm2628935/" target="_blank">wife</a> that wants to make her own take on this idea, separate from those who she believes are trying to hurt her. A <a href="http://www.imdb.com/name/nm4496875/" target="_blank">former partner</a>, struggling with failure and just trying to help the person that was there for her. A washed out <a href="http://www.imdb.com/name/nm0403947/" target="_blank">shell</a> of a man, posing as a surrogate father figure and convinced that this can't be his last thing. These are the ties that bind a group of people that thought they could change the world with an idea, only to find out that they're always just one step too late.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Miscellaneous</i>, <i>Nowhere Man</i> and <i>Goodwill</i>.</p>
                                         
@@ -1197,12 +1195,12 @@
                         </div>
                     </section>
                     
-                    <!--The Top 20-3. The Night Of-->
+                    <!--The Top 20-3. Mr. Robot-->
                     <section class="portfolio tvEntry tvEntryOdd">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2401256/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt4158110/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1219,7 +1217,7 @@
                                         
                                         <p class="centerText"><i>See? They all came back. They're all fine. Here, I'll show you again. Told you. Everyone's okay again. Everyone's gonna be okay. Everyone's gonna be okay.</i></p>
                                         
-                                        <p class="mainText">What a comeback. The first season of <i>Mr. Robot</i> made a huge impact on me, with a great pace and focus that the second season unfortunately lost. Don't get me wrong, these were still great characters (and new ones) that we were following, but most of the excitement was gone, instead replaced with head games and a lot of smoke and mirrors. However, the third season is a huge return to form; it starts with a bang and then utilizes the rich character development accomplished in the previous season while bringing back the rollercoaster. Portia Doubleday is finally given a more interesting role throughout this season after her encounter with the mysterious Whiterose and it instantly made me captivated every time she was onscreen. The real kicker comes at the midpoint of the season with two episodes that are among the best the series has ever done. The first is an extremely calculated work of film that must have taken an insane amount of time to put together and even broke conventional network standards in a way that I've never seen before. Meanwhile, the second episode may not be quite as ambitious but what it does have going for it is a combination of nail-biting tension and a catastrophic conclusion. I haven't even mentioned the huge shift in the relationship between Rami Malek and Christian Slater's characters, which completely changes the dynamic of the show. Welcome back Brave Traveler.</p>
+                                        <p class="mainText">What a comeback. The first season of <i>Mr. Robot</i> made a huge impact on me, with a great pace and focus that the second season unfortunately lost. Don't get me wrong, these were still great characters (and new ones) that we were following, but most of the excitement was gone, instead replaced with head games and a lot of smoke and mirrors. However, the third season is a huge return to form; it starts with a bang and then utilizes the rich character development accomplished in the previous season while bringing back the rollercoaster. <a href="http://www.imdb.com/name/nm0234668/" target="_blank">Portia Doubleday</a> is finally given a more interesting role throughout this season after her encounter with the mysterious Whiterose and it instantly made me captivated every time she was onscreen. The real kicker comes at the midpoint of the season with two episodes that are among the best the series has ever done. The first is an extremely calculated work of film that must have taken an insane amount of time to put together and even broke conventional network standards in a way that I've never seen before. Meanwhile, the second episode may not be quite as ambitious but what it does have going for it is a combination of nail-biting tension and a catastrophic conclusion. I haven't even mentioned the huge shift in the relationship between <a href="http://www.imdb.com/name/nm1785339/" target="_blank">Rami Malek</a> and <a href="http://www.imdb.com/name/nm0000225/" target="_blank">Christian Slater's</a> characters, which completely changes the dynamic of the show. Welcome back Brave Traveler.</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Eps3.1undo.gz</i>, <i>Eps3.4runtime-error.r00</i> and <i>Eps3.5kill-process.inc</i>.</p>
                                     </div>
@@ -1233,7 +1231,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt2149175/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt2297757/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
@@ -1250,7 +1248,7 @@
                                         
                                         <p class="centerText"><i>A part of me wondered if Bill was just a bored old man looking for an adventure to keep himself busy, and if I was just a bored younger man who also wanted an adventure, because he was tired of doing the same show for four seasons.</i></p>
                                         
-                                        <p class="mainText">Nathan Fielder has built a career out of helping small businesses with the most awkward solutions imagineable. From threatening to destroy Uber for the sake of taxi drivers, to offering an asexual computer repair service, he clearly is willing to go anywhere for his craft. What I did not expect was the incredible lengths he would go to in his heartbreaking finale for this season. Completely ignoring the framework of what his show is, he creates a two-hour epic (for a show that's normally half an hour!) focused entirely on finding lost love for one of his former colleagues. It's a stark departure from the norm, and shows just how ambitious Fielder is. For me, this was one of the most impactful television episodes of the year and skyrocketed <i>Nathan For You</i> near the top of the list. However, nothing can compare to what comes next...</p>
+                                        <p class="mainText"><a href="http://www.imdb.com/name/nm2358709/" target="_blank">Nathan Fielder</a> has built a career out of helping small businesses with the most awkward solutions imagineable. From threatening to destroy Uber for the sake of taxi drivers, to offering an asexual computer repair service, he clearly is willing to go anywhere for his craft. What I did not expect was the incredible lengths he would go to in his heartbreaking finale for this season. Completely ignoring the framework of what his show is, he creates a two-hour epic (for a show that's normally half an hour!) focused entirely on finding lost love for one of his former colleagues. It's a stark departure from the norm, and shows just how ambitious Fielder is. For me, this was one of the most impactful television episodes of the year and skyrocketed <i>Nathan For You</i> near the top of the list. However, nothing can compare to what comes next...</p>
                                         
                                         <p class="centerText">Standout episodes for this year include <i>Andy vs. Uber</i>, <i>The Anecdote</i> and <i>Finding Frances</i>.</p>
                                     </div>
@@ -1259,18 +1257,18 @@
                         </div>
                     </section>
                     
-                    <!--The Top 20-1. Twin Peaks
+                    <!--The Top 20-1. Twin Peaks-->
                     <section class="portfolio tvEntry tvEntryOdd">
                         <div class="container">
                             <div class="row">
                                 <div class="col-sm-12 portfolio-item">
-                                    <a href="http://www.imdb.com/title/tt0475784/" class="portfolio-link" target="_blank">
+                                    <a href="http://www.imdb.com/title/tt4093826/" class="portfolio-link" target="_blank">
                                         <div class="caption">
                                             <div class="caption-content">
                                                 <i class="fa fa-search-plus fa-3x"></i>
                                             </div>
                                         </div>
-                                        <img src="/images/blog/best-of-television/2017/the-list/twin-peaks.jpg" class="img-responsive" alt="Tne atom bomb going off in 'Twin Peaks'">
+                                        <img src="/images/blog/best-of-television/2017/the-list/twin-peaks.jpg" class="img-responsive" alt="The lead character returning in 'Twin Peaks' and smiling in a suit and tie">
                                     </a>
                                 </div>                    
                                 <div class="col-lg-12 text-center">
@@ -1279,13 +1277,57 @@
                                         <hr class="star-light">
                                         <span class="skills">Showtime</span>
                                         
+                                        <p class="centerText"><i>I will see you again in 25 years</i> - From the season two finale of Twin Peaks that aired in 1991</p>
+                                        
+                                        <p class="mainText"><a href="http://www.imdb.com/name/nm0000186/" target="_blank">David Lynch</a> is no ordinary man. He has built his career with a diverse, controversial and strange collection of works featuring <a href="http://www.imdb.com/name/nm0001492/" target="_blank">Kyle MacLachlan</a>, <a href="http://www.imdb.com/name/nm0000368/" target="_blank">Laura Dern</a> and <a href="http://www.imdb.com/name/nm0000173/" target="_blank">Nicole Kidman</a>. However, one of his most resonant works was left incomplete and warped: a shell of it's former self (that nonetheless featured a properly batshit finale penned by the maestro himself). I am of course talking about <i>Twin Peaks</i>.</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="/images/blog/best-of-television/2017/the-list/twin-peaks/twin-peaks-atom-bomb.jpg" class="img-responsive" alt="The atom bomb exploding in 'Twin Peaks'">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="mainText">Frequently cited by other artists as one of their inspirations for getting into television in the first place (especially <a href="http://www.imdb.com/name/nm0511541/" target="_blank">Damon Lindelof</a>), <i>Twin Peaks</i> came on during a time when there was nothing else quite like it. The golden age of television only started within the past two decades and this was <i>another</i> decade before that, so to say that it was ahead of it's time is an understatement. This was a highly ambitious show, filled with compelling relationships and mysterious memorable writing.</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="/images/blog/best-of-television/2017/the-list/twin-peaks/twin-peaks-accident.jpg" class="img-responsive" alt="A woman holding her dying son on the road in 'Twin Peaks'">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="centerText"><i>Through the darkness of future's past, The magician longs to see. One chants out between two worlds...Fire... walk with me.</i></p>
+                                        
+                                        <p class="mainText">Those last few lines are also the title for one of Lynch's most controversial films. Featuring the titular character Laura Palmer (much discussed, rarely seen), <i>Fire Walk with Me</i> was a prequel and a huge departure from the mix of comedy and mystery from the original <i>Twin Peaks</i> that turned off a lot of people when it was originally released after <i>Twin Peaks</i> was cancelled. Although it was largely considered a strange coda, Lynch has since gone out of his way to make as many plot points from the film as possible extremely relevant to the current revival, presumably to help justify and encourage others to seek out the film for themselves (note that Lynch would go on to find much greater success a decade later with <i>Mulholland Drive</i>, and then extreme controversy half a decade after that with <i>Inland Empire</i>).</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="/images/blog/best-of-television/2017/the-list/twin-peaks/twin-peaks-crazy-woman-bobby.jpg" class="img-responsive" alt="A woman distraught in her car speaking to a concerned cop in 'Twin Peaks'">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
+                                        <p class="mainText">When it comes to the newest iteration of <i>Twin Peaks</i>, it's the most unique viewing experience I've ever had. Featuring 18 hours of pure unbridled madness written and directed by Lynch, there is nothing else like it on television. Far darker and more ambitious than the original series (taking a clear tonal nod from <i>Fire Walk with Me</i>), this is both a continuation of the original story and a clear injection of a special kind of crazy normally reserved for his films (and I want to be clear here: this is a television show, <b>NOT A FILM)</b>. Part of this change is due to Lynch's far greater involvement in every aspect of this season and the other part is probably due to <a href="http://www.imdb.com/name/nm0004111/" target="_blank">Mark Frost's</a> hands-off approach to everything except for the writing (he was far more involved in the original <i>Twin Peaks</i>). What Kyle Machlachlan and Lynch have achieved here is nothing short of miraculous and yet also highly confusing (and at times, frustrating) upon first witnessing this season. The ending will haunt me for the rest of my life and upon further research it only becomes even more twisted (After having done this, Lynch is in a <i>never say never</i> mode when it comes to if there will ever be more). If this is the end though, unlike the original ending to this series I would be happy to accept this horrifying conclusion.</p>
+                                        
+                                        <div class="row">
+                                            <div class="col-lg-4"></div>
+                                            <div class="col-lg-4">
+                                                <img src="/images/blog/best-of-television/2017/the-list/twin-peaks/twin-peaks-audrey-dance.jpg" class="img-responsive" alt="A woman reveling in the spotlight in a dark dress in 'Twin Peaks'">
+                                            </div>
+                                            <div class="col-lg-4"></div>
+                                        </div>
+                                        
                                         <p class="centerText">Standout episodes for this year include <i>Part 6</i>, <i>Part 8</i>, <i>Part 11</i> and <i>Part 16</i>.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </section>
-                  -->
+                  
                 </div>
             </div>
             
