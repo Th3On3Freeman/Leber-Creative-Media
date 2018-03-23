@@ -305,7 +305,7 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-sm-6 portfolio-item">
+                    <div class="col-sm-4 portfolio-item">
                         <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2013/12/my-20-favorite-shows-of-2013-ongoing.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
@@ -315,7 +315,7 @@
                             <img src="/images/home/2013.jpg" class="img-responsive" alt="Best of TV List 2013 with an actor from 'Mad Men' on AMC looking towards the viewer incredulously">
                         </a>
                     </div>
-                    <div class="col-sm-6 portfolio-item">
+                    <div class="col-sm-4 portfolio-item">
                         <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/01/my-20-favorite-shows-of-2014.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
@@ -325,9 +325,7 @@
                             <img src="/images/home/2014.jpg" class="img-responsive" alt="Best of TV List 2014 with actors from 'Rectify' on Sundance lying in bed together">
                         </a>
                     </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-6 portfolio-item">
+                    <div class="col-sm-4 portfolio-item">
                         <a href="http://dexterous-theshapeofthingstocome.blogspot.com/2016/03/my-20-favorite-shows-of-2015.html" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
@@ -337,15 +335,31 @@
                             <img src="/images/home/2015.jpg" class="img-responsive" alt="Best of TV List 2015 with actors from 'The Leftovers' on HBO reaching for each other underwater">
                         </a>
                     </div>
-                    <div class="col-sm-6 portfolio-item">
+                </div>
+                <div class="row">
+                    <div class="col-sm-2 portfolio-item">
+                    </div>
+                    <div class="col-sm-4 portfolio-item">
                         <a href="/blog/best-of-television/2016.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="/images/home/2016.jpg" class="img-responsive" alt="Best of TV List 2013 with the two lead actors from 'The Americans' on FX looking at each other">
+                            <img src="/images/home/2016.jpg" class="img-responsive" alt="Best of TV List 2016 with the two lead actors from 'The Americans' on FX looking at each other">
                         </a>
+                    </div>
+                    <div class="col-sm-4 portfolio-item">
+                        <a href="/blog/best-of-television/2017.php" class="portfolio-link">
+                            <div class="caption">
+                                <div class="caption-content">
+                                    <i class="fa fa-search-plus fa-3x"></i>
+                                </div>
+                            </div>
+                            <img src="/images/home/2017.jpg" class="img-responsive" alt="Best of TV List 2017 with the atom bomb exploding in 'Twin Peaks'">
+                        </a>
+                    </div>
+                    <div class="col-sm-2 portfolio-item">
                     </div>
                 </div>
                 <div class="row">

@@ -56,8 +56,8 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" data-target="#intro, #introContent" class="btn btn-default pillTabs">About</a></li>
-                                    <li><a data-toggle="pill" href="#honMention" data-target="#honMention, #honMentionContent" class="btn btn-default pillTabs">Honorable Mention</a></li>
                                     <li><a data-toggle="pill" href="#top20" data-target="#top20, #top20Content" class="btn btn-default pillTabs">The Top 20</a></li>
+                                    <li><a data-toggle="pill" href="#honMention" data-target="#honMention, #honMentionContent" class="btn btn-default pillTabs">Honorable Mention</a></li>
                                 </ul>
                             </div>
                                 <br>
@@ -67,7 +67,7 @@
                                     <hr class="star-light">
                                     <p>Welcome to my list for the best television shows of 2016. All of these are shows that I watched this year to their completion (with a few exceptions that are listed in their respective entries). I was first inspired to create this list by my friend Antonio, who is an excellent writer and runs his own list every year as well. I'd also like to thank my girlfriend and mother; both helped me proofread these entries. Feel free to check out his list at the link below:</p>
                                     
-                                    <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2016/12/my-20-favorite-television-shows-of-2016.html" target="_blank">Antonio's Favorite Shows of 2016</a></p>
+                                    <p class="centerText"><a href="http://yeahthatantonio.blogspot.com/2016/12/my-20-favorite-television-shows-of-2016.html" target="_blank">My friend Antonio's Favorite Shows of 2016</a></p>
                                 </div>
                                 <div id="honMention" class="tab-pane fade">
                                     <h2>Honorable Mention</h2>
