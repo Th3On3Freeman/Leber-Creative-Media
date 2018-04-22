@@ -156,11 +156,15 @@
                                             
                                             <p class="mediaDesc">At some point when I was conceptualizing the video in my mind I remembered something from an AMV panel at a con called JACON that I went to back in 2006 when I first started editing. He told me that if you ever make a video with a foreign language, <i>you gotta have subtitles</i>. With most videos you have a song that has english lyrics, so even if they don't know what's going on they have something to help ground them and help make sense of the imagery.</p>
                                             
-                                            <img src="/images/music-videos/amv/fansub.jpg" class="img-responsive" alt="An example of a fansubbed anime opening">
+                                            <img src="/images/music-videos/amv/the-heart/fansub.jpg" class="img-responsive" alt="An example of a fansubbed anime opening">
                                             
                                             <p class="mediaDesc">Initially, I decided to take this one step further and in addition to having lyrics for the english subtitles, I added some karaoke as well for the original language. Now this was not a new idea: <a href="https://en.wikipedia.org/wiki/Fansub" target="_blank">fansubbers</a> have been doing this for a very long time, but I had no idea how complicated it actually is to create.</p> 
                                             
-                                            <img src="/images/music-videos/amv/aegisub.jpg" class="img-responsive" alt="A screenshot of my project for creating the subtitles in Aegisub">
+                                            <a href="/images/music-videos/amv/the-heart/original-images/aegisub.PNG" target="_blank">
+                                                <img src="/images/music-videos/amv/the-heart/aegisub.jpg" class="img-responsive" alt="A screenshot of my project for creating the subtitles in Aegisub">
+                                            </a>
+                                            
+                                            <p class="centerText">Click to see larger version</p>
                                             
                                             <p class="mediaDesc">A good friend of mine named <b>Alex Diaz</b> introduced me to a tool that I used for these subtitles called <a href="http://www.aegisub.org/" target="_blank">Aegisub</a>. He taught me how to use it to accomplish several different tasks, including: when the subtitles would begin/end and then specifically for the karaoke I had to time the beat for each individual syllable. There were lyrics online for the karaoke that someone had written, but when we tried to break these into syllables it didn't work; so we spent a really long time playing two seconds of the video, pausing it and wondering <i>what on earth was that?</i> So we basically had to completely rewrite the lyrics for a foreign language that doesn't exist.</p> 
                                                 <br>
@@ -218,11 +222,29 @@
 
                                             <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=2m14s" target="_blank">2:14-3:11 Contemplation and Renewed Vigor</a></p> 
 
+                                            <p class="mediaDesc">By moving forward, we actually begin to move backwards now. The first part of this portion is all about memories and childhood relationships. Kaito looks back on old videos of Ichika, heartbroken now that she is gone forever. Kaede's feelings continue to boil over the budding relationship between Rin and Asa, even though she's the one that grew up with Rin. Sakura and Naruto both look back upon their bonds with Sasuke, and the conflict between Naruto and Sasuke begins.
+                                                
+                                            <p class="mediaDesc">The second part of this portion continues the conflicts that have already been established. Ichigo continues to hold steadfast against Ulquiorra and all Orihime can do is watch the chaos unfold. Similarly, Nia begins to lose herself to forces out of her control, and all Simon can do is watch as she is whisked away. The climax of Ed and his mother's story occurs now as we witness the moment of her death and the pain and torment Ed goes through in his mind after losing her.</p>
+                                            
                                             <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=3m12s" target="_blank">3:12-4:12 Climax on top of Climax</a></p> 
 
-                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=4m13s" target="_blank">4:13-4:32 Epilogue</a></p>
+                                            <p class="mediaDesc">It is now that we enter the climax of the entire video itself, ushered in by the epic sweep of Gurren Lagann. All the rest of the climaxes now occur in subsequent fashion: Nia is rescued by Simon and Kaede finally confronts Asa about her relationship with Rin. The differences between Ichigo and Ulquiorra begin to blend together for Orihime as she reaches out for Ulquiorra's hand once more. The childhood bond between Sasuke and Naruto is shattered forever as Naruto attacks Sasuke. Kirito, realizing he is now within reach of the man that has caused Asuna so much pain lashes out to destroy him. Finally, Sakura attempts to stop Naruto and Sasuke once more, just as in the beginning, before they destroy each other; meanwhile, Ichigo and Ulquiorra's conflict comes to an end and Ulquiorra reaches out for Orihime one last time before he fades away forever.</p>
+                                            
+                                            <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=4m13s" target="_blank">4:13-4:32 Epilogue</a></p> 
 
+                                            <p class="mediaDesc">We now come to the end, the fighting is over and everyone is at rest. For better or worse, their lives will go on and they will have to face each other for what they've done, but hopefully now they can remember the reason why all of this started in the first place: all of the pain, all of the hardship they faced. It was all for the one thing that connects our relationships each and every day: the heart.</p>
+                                            
+                                            
+                                            
+                                            <a href="/images/music-videos/amv/the-heart/original-images/the-heart.jpg" target="_blank">
+                                                <img src="/images/music-videos/amv/the-heart/the-heart.jpg" class="img-responsive" alt="A shot from the manga for Bleach that inspired my video depicting the debate between Ulquiorra and Orihime about the heart"> 
+                                            </a>
+                                            
+                                            <p class="centerText">Click to see larger version</p>
+                                            
                                             <p class="centerText"><a href="https://youtu.be/N6_U2znvrT8?t=4m33s" target="_blank">4:33-5:56 Credits</a></p>
+                                            
+                                            <p class="mediaDesc">This is a pretty big project that I've been wanting to make for four years, and this time I thought I'd try something a little different. I know that credits are generally frowned upon in the AMV community, but this portion isn't meant for competition: simply the way I wanted to close things out. The track that is used is a retro version of the primary song that is in the video and the visuals reflect this as such. I found a retro theme online called and paid for the rights to use it for a single project. I integrated and modified these titles in After Effects to suit my purposes for this video. I am pleased with the results.</p>
                                             
                                             <p>This AMV features music from: </p>
                                             
