@@ -59,7 +59,7 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2017 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown theHeart">The Heart</a></li>
+                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">The Heart</a></li>
                                             <li><a data-toggle="pill" href="#a" class="fullWidthDropdown androgyny">Androgyny</a></li>
                                             <li><a data-toggle="pill" href="#lpdbz" class="fullWidthDropdown linkinParkDBZ">Linkin Park DBZ</a></li>
                                             <li><a data-toggle="pill" href="#i" class="fullWidthDropdown inbound">Inbound</a></li>
@@ -80,7 +80,7 @@
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#fa" class="fullWidthDropdown fullmetalAlchemist">Fullmetal Alchemist</a></li>
                                             <li><a data-toggle="pill" href="#s" class="fullWidthDropdown scar">Scar</a></li>
-                                            <li><a data-toggle="pill" href="#h" class="fullWidthDropdown homunculi">Homunculi</a></li>
+                                            <li><a data-toggle="pill" href="#hi" class="fullWidthDropdown homunculi">Homunculi</a></li>
                                             <li><a data-toggle="pill" href="#fl" class="fullWidthDropdown fifthLab">Fifth Lab</a></li>
                                             <li><a data-toggle="pill" href="#b" class="fullWidthDropdown brother">Brother</a></li>
                                             <li><a data-toggle="pill" href="#d" class="fullWidthDropdown death">Death</a></li>
@@ -112,7 +112,7 @@
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
                                 
-                                <div id="h" class="tab-pane fade">
+                                <div id="ht" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
@@ -1370,7 +1370,7 @@
                                     </div>      
                                 </div>
                                 
-                                <div id="h" class="tab-pane fade">
+                                <div id="hi" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">

@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var oneThatIWantCheck = 0; 
 var theButterflyCheck = 0; 
 var aloneCheck = 0; 
 var collisionVisionCheck = 0; 
@@ -14,6 +15,18 @@ var aPrimalNightCheck = 0;
 var honorAndVengeanceCheck = 0; 
 var itAintLikeItWasBeforeCheck = 0; 
 var aTaleOfTwoMenCheck = 0; 
+
+//One that I want
+$(document).on("click", ".oneThatIWant", function() {
+    
+   if(oneThatIWantCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/oneThatIWant.js", function () {
+            console.log("One that I want videos loaded");
+            oneThatIWantCheck = 1;
+        });
+   } //end if
+});
 
 //The Butterfly
 $(document).on("click", ".theButterfly", function() {

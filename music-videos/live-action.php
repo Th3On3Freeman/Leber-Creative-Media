@@ -57,8 +57,9 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2017 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2018 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#hl" class="fullWidthDropdown oneThatIWant">One that I want</a></li>
                                             <li><a data-toggle="pill" href="#100" class="fullWidthDropdown theButterfly">The Butterfly</a></li>
                                             <li><a data-toggle="pill" href="#poi" class="fullWidthDropdown alone">Alone</a></li>
                                             <li><a data-toggle="pill" href="#cv" class="fullWidthDropdown collisionVision">Collision Vision</a></li>
@@ -85,6 +86,48 @@
                                     <p class="mediaDesc">There's a division in the audience between those who watch the original japanese (frequently referred to as <i>subs</i> because of the subtitles that go along with this method of watching) and those who watch the english (frequently referred to as <i>dubs</i> because of the <i>dubbing</i> that english voice actors provide), and fans of the subs will frequently chastise most dubs for bad acting or inaccurate translations. The difference in a live action video is that, at least in my case, the original language is english and because of the style I've incorporated with enhancing the narrative with trailer-esque or short stories my approach has been more accepted.</p>
                                     
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="hl" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="oneThatIWantVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>One that I want (2018)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">No Contests Submitted</span>
+                                           
+                                            <p class="centerText">This is a music video that I haven't submitted to any contests yet.</p>
+                                            
+                                            <p class="mediaDesc">This video was initially inspired by the love of my life. She has always loved <a href="https://www.imdb.com/title/tt0077631/" target="_blank">Grease</a>, but neither of us had heard this cover until it was used on <a href="https://www.imdb.com/title/tt2699128/" target="_blank">The Leftovers</a>. She didn't care much for that show, but she loved that cover; so I kept that in mind.</p>
+                                            
+                                            <p class="mediaDesc">Later in our relationship I introduced her to <i>Homeland</i>. It took a little while for her to latch on at first, but by the halfway point of the season she was hooked and I knew I'd finally hit a winner. We proceeded to marathon through the other five seasons and over time I realized that combining her two favorite things just might be the right idea. So I decided to give it a shot.</p>
+                                            
+                                            <p class="mediaDesc"></p>
+                                            
+                                            
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=jYluMAO1b7Y" target="_blank"><p class="list-group-item-text">You're the One that I Want - Lo-Fang (Grease cover)</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt1796960/" target="_blank"><p class="list-group-item-text">Homeland</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="100" class="tab-pane fade">
