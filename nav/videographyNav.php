@@ -20,7 +20,7 @@
                             //echo "<script>alert('MOBILE DEVICE');</script>";
                             ?>
                             <li class="menu-item">  
-                              <a href="/#videography">Videography</span></a>
+                              <a href="/#videography">Videography</a>
                             </li>
                             <li id="aRow" class="menu-item subIndent">
                               <a href="/videography/commercials.php">- Advertising</a>
@@ -35,7 +35,7 @@
                                 //echo "<script>alert('DESKTOP DEVICE');</script>";
                         ?>
                             <li class="menu-item dropdown"> 
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="/#videography">Videography</span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/#videography">Videography</a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
                                         <a href="/videography/commercials.php">Advertising</a>
@@ -51,12 +51,14 @@
                 <li>
                     <a href="/#musicVideos">Music Videos</a>
                 </li>
+                <!--
                 <li>
                     <a href="/#popSpectrum">Pop Spectrum</a>
                 </li>
                 <li>
                     <a href="/#blog">Blog</a>
                 </li>
+-->
                 <li>
                     <a href="/#contact">Contact</a>
                 </li>

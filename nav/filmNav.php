@@ -17,7 +17,7 @@
                             //echo "<script>alert('MOBILE DEVICE');</script>";
                             ?>
                             <li class="menu-item">  
-                              <a href="/#film">Film</span></a>
+                              <a href="/#film">Film</a>
                             </li>
                             <li id="ffRow" class="menu-item subIndent">
                               <a href="/film/feature-films.php">- Feature Films</a>
@@ -39,7 +39,7 @@
                                 //echo "<script>alert('DESKTOP DEVICE');</script>";
                         ?>
                             <li class="menu-item dropdown"> 
-                                <a class="dropdown-toggle" data-toggle="dropdown" href="/#film">Film</span></a>
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="/#film">Film</a>
                                 <ul class="dropdown-menu submenuBegin">
                                     <li class="menu-item submenu">
                                         <a href="/film/feature-films.php">Feature Films</a>
@@ -65,12 +65,14 @@
                 <li>
                     <a href="/#musicVideos">Music Videos</a>
                 </li>
+<!--
                 <li>
                     <a href="/#popSpectrum">Pop Spectrum</a>
                 </li>
                 <li>
                     <a href="/#blog">Blog</a>
                 </li>
+-->
                 <li>
                     <a href="/#contact">Contact</a>
                 </li>
