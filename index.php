@@ -60,11 +60,11 @@
                         <!--
                         <li class="page-scroll">
                             <a href="#popSpectrum">Pop Spectrum</a>
-                        </li>
+                        </li>-->
                         <li class="page-scroll">
                             <a href="#blog">Blog</a>
                         </li>
--->
+
                         <li class="page-scroll">
                             <a href="#contact">Contact</a>
                         </li>
@@ -296,7 +296,7 @@
             </div>
         </section>
         -->
-        <!--Blog
+        <!--Blog-->
         <section id="blog" class="portfolio">
             <div class="container">
                 <div class="row">
@@ -384,7 +384,7 @@
                 
             </div>
         </section>
-        -->
+
         <!-- Contact Section -->
         <section id="contact">
             <div class="container">
