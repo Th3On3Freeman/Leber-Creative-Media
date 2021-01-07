@@ -11,11 +11,6 @@
     <span class="fa fa-facebook"></span>
 </a>
                                     
-<!--Google Plus-->
-<a class="btn btn-social-icon btn-lg btn-google" target="_blank" href="https://plus.google.com/113900561514350471636">
-    <span class="fa fa-google"></span>
-</a>
-                                    
 <!--IMDB-->
 <div class="imdb">
     <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.imdb.com/title/tt3512652/?ref_=nm_knf_t2" style="background: url(/images/icons/imdb.png) no-repeat 0 0;">

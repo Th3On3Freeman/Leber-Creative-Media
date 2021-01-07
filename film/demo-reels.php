@@ -133,7 +133,7 @@
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt3512652/" target="_blank"><p class="list-group-item-text">MIA-mi (2015)</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt2195998/" target="_blank"><p class="list-group-item-text">The Tailor's Apprentice (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/195050184" target="_blank"><p class="list-group-item-text">Wedding: Phil & Laurel (2014)</p></a></li>
-                                                <li class="list-group-item"><a href="#"><p class="list-group-item-text">Seaway (2014)</p></a></li>
+                                                <li class="list-group-item"><a href="https://seawayfilm.wordpress.com/crew/"><p class="list-group-item-text">Seaway (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/194995594" target="_blank"><p class="list-group-item-text">Wedding: John & Gretchen</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=stgnvkLCNEk" target="_blank"><p class="list-group-item-text">Bsteps Revolution (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/192630228" target="_blank"><p class="list-group-item-text">The Book & The Black Dove (2012)</p></a></li>
@@ -164,10 +164,10 @@
                                             <p>This demo reel features footage from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Nv6-kAzraUg" target="_blank"><p class="list-group-item-text">Fight the Power (2011)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=au5R4sKopME&ab_channel=Dexter" target="_blank"><p class="list-group-item-text">Fight the Power (2011)</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.dailymotion.com/video/xcnrng_epic-lost-trailer-v3_shortfilms" target="_blank"><p class="list-group-item-text">Mock-up Lost Trailer (2010)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Accidentally in Love (2006)</p></a></li>
-                                                <li class="list-group-item"><a href="#" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2006)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=iTPXfnf_n54&ab_channel=Dexter" target="_blank"><p class="list-group-item-text">Accidentally in Love (2006)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=rcy2c5qtAMQ&ab_channel=Dexter" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2006)</p></a></li>
                                             </ul>
                                         </div>
                                     </div>

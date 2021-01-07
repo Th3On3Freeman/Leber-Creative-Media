@@ -102,7 +102,7 @@
                     <div class="col-lg-12">
                         
                         <!--Linkedin-->
-                        <a class="btn btn-social-icon btn-lg btn-linkedin" target="_blank" href="https://www.linkedin.com/in/michael-leber-87b219b8?trk=hp-identity-name">
+                        <a class="btn btn-social-icon btn-lg btn-linkedin" target="_blank" href="https://www.linkedin.com/in/michael-leber-87b219b8/">
                             <span class="fa fa-linkedin"></span>
                         </a>
                         
