@@ -8,8 +8,8 @@
         <title>Leber Creative Media</title>
         
         <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1">
+        
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Leber Creative Media"/>
         <meta property="og:description" name="description" content="Web Developer - Video Editor - Film - Videography - Music Videos - Pop Spectrum" />

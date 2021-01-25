@@ -93,6 +93,19 @@
     }
 }
 
+@media (min-device-width:321px) and (max-device-width:1023px) and (orientation: landscape)
+{
+    #mainNav
+    {
+        display: none;
+    }
+    
+    header .container 
+    {
+        padding-top: 0px; 
+    }
+}
+
 /* Let's get this party started */
 ::-webkit-scrollbar {
     width: 12px;

@@ -105,7 +105,7 @@
                                     
                                     <p class="mediaDesc">I first began editing Animated Music Videos (AMVs) with <a href="https://support.microsoft.com/en-us/help/14220/windows-movie-maker-download" target="_blank">Windows Movie Maker</a> in 2006. I went to anime conventions and saw a community of people who made them and I thought I'd give it a try. None of them were all that great or won any awards but it was interesting. During this time I switched from using Windows Movie Maker to <a href="http://www.techspot.com/downloads/5727-adobe-premiere-free.html" target="_blank">Adobe Premiere Pro 2.0</a>. I stopped making them in 2007.</p>
                                     
-                                    <p class="mediaDesc">Then when I got into college in 2011 I thought I'd give it another shot. This time I started with <a href="https://www.amazon.com/Premiere-Pro-CS5-5-Win-Upgrade/dp/B005381RR4/" target="_blank">Adobe Premiere CS5.5</a>, and the first video I made won runner up at a contest for an award and I realized I must have improved. So I've kept making them and over the past five years I've won several awards and continued to immerse myself in this community of video editors.</p>
+                                    <p class="mediaDesc">Then when I got into college in 2011 I thought I'd give it another shot. This time I started with <a href="https://www.bhphotovideo.com/c/product/765427-REG/Adobe_65107693_Premiere_Pro_CS5_5_for.html" target="_blank">Adobe Premiere CS5.5</a>, and the first video I made won runner up at a contest for an award and I realized I must have improved. So I've kept making them and over the past five years I've won several awards and continued to immerse myself in this community of video editors.</p>
                                     
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
@@ -166,7 +166,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="mediaDesc">A good friend of mine named <b>Alex Diaz</b> introduced me to a tool that I used for these subtitles called <a href="http://www.aegisub.org/" target="_blank">Aegisub</a>. He taught me how to use it to accomplish several different tasks, including: when the subtitles would begin/end and then specifically for the karaoke I had to time the beat for each individual syllable. There were lyrics online for the karaoke that someone had written, but when we tried to break these into syllables it didn't work; so we spent a really long time playing two seconds of the video, pausing it and wondering <i>what on earth was that?</i> So we basically had to completely rewrite the lyrics for a foreign language that doesn't exist.</p> 
+                                            <p class="mediaDesc">A good friend of mine named <b>Alex Diaz</b> introduced me to a tool that I used for these subtitles called <a href="https://github.com/Aegisub/Aegisub" target="_blank">Aegisub</a>. He taught me how to use it to accomplish several different tasks, including: when the subtitles would begin/end and then specifically for the karaoke I had to time the beat for each individual syllable. There were lyrics online for the karaoke that someone had written, but when we tried to break these into syllables it didn't work; so we spent a really long time playing two seconds of the video, pausing it and wondering <i>what on earth was that?</i> So we basically had to completely rewrite the lyrics for a foreign language that doesn't exist.</p> 
                                                 <br>
                                             <div class="row">
                                                 <div class="col-lg-2"></div>
@@ -252,8 +252,8 @@
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=PUfkJrt4dLI" target="_blank"><p class="list-group-item-text">Keiichi Okabe - The Dark Colossus Destroys All</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hS--hp1mFYA" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Hollow Dreams</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ady--PNMsfI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Fate</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=CKOM3lNFajE" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Atonement</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=XHsSui3j5lM" target="_blank"><p class="list-group-item-text">Keiichi Okabe - Hacking Track-Song of the Ancients: Atonement</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=iXlPt8mFkNI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Atonement</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=5cT2HJ-afmY" target="_blank"><p class="list-group-item-text">Keiichi Okabe - Hacking Track-Song of the Ancients: Atonement</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
@@ -430,7 +430,17 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201570" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
+                                            <div class="row">
+                                                <div class="col-lg-8">
+                                                    <img src="/images/music-videos/amv/awa-pro-2016-best-character-profile.jpg" class="img-responsive" alt="Anime Weekend Atlanta Professional Awards 'Best Character Profile' nomination card in 2016">
+                                                </div>
+                                                
+                                                <div class="col-lg-4">
+                                                    <img src="/images/music-videos/amv/agamacon-2017-best-drama.jpg" class="img-responsive" alt="Agamacon 'Best Drama' award trophy in 2017">
+                                                </div>
+                                            </div>
+                                            
+                                            
                                             
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
@@ -958,7 +968,7 @@
                                             
                                             <p class="mediaDesc"><i>Skit 4: Outsider...in Denial</i> takes advantage of the song from the extremely popular <a href="https://www.youtube.com/watch?v=9bZkp7q19f0" target="_blank">Gangnam Style</a> music video (which was still at the height of it's appeal at this time). I used a cutscene from the video game <i>Naruto Ultimate Ninja Storm: Generations</i>, which happened to feature a rapping sequence with an uncanny resemblance in dancing style and rhythm to the popular song.</p>
                                             
-                                            <p class="mediaDesc"><i>Skit 5: Outside a Chip</i> capitalizes on the popular <a href="http://knowyourmeme.com/memes/i-ll-take-a-potato-chip-and-eat-it" target="_blank">I'll Take a Potato Chip and EAT IT!</a> meme and cranks it up to 11, with some torturous screaming noises I found to emphasize the chip's predicament. The conclusion of this skit also initially appears to be the conclusion of the entire video, but I had one more trick up my sleeve...</p>
+                                            <p class="mediaDesc"><i>Skit 5: Outside a Chip</i> capitalizes on the popular <a href="https://knowyourmeme.com/memes/ill-take-a-potato-chip-and-eat-it" target="_blank">I'll Take a Potato Chip and EAT IT!</a> meme and cranks it up to 11, with some torturous screaming noises I found to emphasize the chip's predicament. The conclusion of this skit also initially appears to be the conclusion of the entire video, but I had one more trick up my sleeve...</p>
                                             
                                             <p class="mediaDesc"><i>Skit 6: The Final Outsiders</i> subverts expectations again in multiple ways, first by bringing back the narrator from the beginning and building up the greatest group of outsiders to be introduced yet. Expectations are subverted again when suddenly a new lip-synch introduces a dubstep song that transforms the skit into a full-fledged music video featuring a band of characters from <i>The Melancholy of Haruhi Suzumiya</i>, as well as a correlating cosplaying band of fans from <i>Lucky Star</i>. All of this is intercut with dramatic footage from the former anime for maximum impact for the first half of this skit. The second half begins with a huge dose of nostalgia by pulling footage from the original opening for <i>Pokemon</i>, while continuing the music video and bringing back some of the other Outsiders previously introduced.</p>
                                             
@@ -1040,7 +1050,7 @@
                                                 <li class="list-group-item"><a href="https://youtu.be/dFkLO1p-8bw?t=4m17s" target="_blank"><p class="list-group-item-text">Original Song (4:17-4:28)</p></a></li>
                                             </ul>
                                             
-                                            <p class="mediaDesc">Also, at <a href="https://youtu.be/dFkLO1p-8bw?t=2m3s" target="_blank">2:03</a> I cut out 30 seconds to simplify the video between when it initially premiered at <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> and when I had submitted it to <a href="http://floridasupercon.com/" target="_blank">Florida Supercon (FSC)</a>.</p>
+                                            <p class="mediaDesc">Also, at <a href="https://youtu.be/dFkLO1p-8bw?t=2m3s" target="_blank">2:03</a> I cut out 30 seconds to simplify the video between when it initially premiered at <a href="https://twitter.com/floridaanime?lang=en" target="_blank">Florida Anime Experience (FAE)</a> and when I had submitted it to <a href="http://floridasupercon.com/" target="_blank">Florida Supercon (FSC)</a>.</p>
                                             
                                             <p class="mediaDesc">The whole point of the first half is to lull the viewer into a false sense of security, and then to upend the rug on them when the White-Note Remix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank">2:41</a>; and by the time the Sound mix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=3m24s" target="_blank">3:24</a>, its a roller coaster.</p>
                                             
@@ -1185,7 +1195,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=187367" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="centerText">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012.</p>
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://twitter.com/floridaanime?lang=en" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012.</p>
                                             
                                             <p class="mediaDesc">This was an idea I came up with about one week before the contest deadline, to combine the original <i>Fullmetal Alchemist</i> series with <i>Fullmetal Alchemist: Brotherhood</i>. So you'll notice throughout that much of this video is an experiment, comparing and contrasting different moments from the series. I also came up with the idea to incorporate <i>The Sacred Star of Milos</i> (recently released at the time) since it added a third art style to the mix.</p>
                                             
@@ -1196,7 +1206,7 @@
                                             <p>This AMV features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=q10P4HppbZY" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Gods Bound By Rules</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Vun29HO1nbk" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Gods Bound By Rules</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
@@ -1232,7 +1242,7 @@
                                             
                                             <img src="/images/music-videos/amv/fae-2012-best-in-show.jpg" class="img-responsive" alt="Florida Anime Experience 'Best in Show' award plaque for 'The Cat & The Devil' in 2012">
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012 and it won the <i>Best in Show</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to the <a href="https://twitter.com/floridaanime?lang=en" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2012 and it won the <i>Best in Show</i> Award.</p>
                                                 
                                             <p class="mediaDesc">When I was editing this video I actually didn't initially intend for Train to be the sinner, Creed the Devil, and Saya the Lord (albeit briefly) but it worked out perfectly.</p>
                                             
@@ -1275,7 +1285,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=182402" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="centerText">This is an AMV that I submitted to the <a href="http://www.floridaanime.com/" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2011.</p>
+                                            <p class="centerText">This is an AMV that I submitted to the <a href="https://twitter.com/floridaanime?lang=en" target="_blank">Florida Anime Experience (FAE)</a> AMV Contest in 2011.</p>
                                             
                                             <p class="mediaDesc">This was the first music video I had made in four years, ever since I had largely given up on the idea. I hadn't had much success at conventions with my work, so I decided I must not be very good at it.</p>
                                             
@@ -1284,7 +1294,7 @@
                                             <p class="mediaDesc">Having switched to Adobe Premiere CS5.5, I took the recent more accurate reinterpretation of <i>Fullmetal Alchemist</i> and combined it with a well known song from an anime I had recently gotten into called <i>Gurren Lagann</i>.</p>
                                             
                                             <p class="mediaDesc">Although I didn't win an award at the contest, apparently I came very close. There was a part near the end when the judges played a random video and had to "debate something" and I asked afterwards and it turned out they were debating between mine and the video that won the "best action" award (which was a Blue Gender video).</p>
-                                            
+                                            <!--
                                             <p class="mediaDesc">The version shown above is a slightly modified version of the video that contains more rowing moments. The original is shown here below.</p>
                                             
                                             <div class="row">
@@ -1296,7 +1306,7 @@
                                                 </div>
                                                 <div class="col-lg-2"></div>
                                             </div>
-                                            
+                                            -->
                                             <p>This AMV features music from: </p>
                                             
                                             <ul class="list-group">
