@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var convergenceCheck = 0;
 var theHeartCheck = 0; 
 var androgynyCheck = 0; 
 var linkinParkDBZCheck = 0;
@@ -34,6 +35,18 @@ var winryRizaIzumiCheck = 0;
 var summaryOfFMACheck = 0;
 var accidentallyInLoveCheck = 0; 
 var noGivingUpCheck = 0; 
+
+//Convergence
+$(document).on("click", ".convergence", function() {
+    
+   if(convergenceCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/amv/convergence.js", function () {
+            console.log("Convergence videos loaded");
+            convergenceCheck = 1;
+        });
+   } //end if
+});
 
 //The Heart
 $(document).on("click", ".theHeart", function() {

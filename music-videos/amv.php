@@ -57,8 +57,12 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2017 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <!--
+                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Them</a></li>
+                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Dynamic Struggle</a></li>-->
+                                            <li><a data-toggle="pill" href="#conv" class="fullWidthDropdown convergence">Convergence</a></li>
                                             <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">The Heart</a></li>
                                             <li><a data-toggle="pill" href="#a" class="fullWidthDropdown androgyny">Androgyny</a></li>
                                             <li><a data-toggle="pill" href="#lpdbz" class="fullWidthDropdown linkinParkDBZ">Linkin Park DBZ</a></li>
@@ -110,6 +114,83 @@
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="conv" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="convergenceVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Convergence (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2019 Masters Entry</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=206249" target="_blank">AMV.org Link</a></p>
+                                            <!--
+                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
+                                            -->
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Masters</a> Contest in 2019.</p>
+                                            
+                                            <p class="mediaDesc">This is the first video I've made that feels like a spiritual sequel to <a href="https://www.youtube.com/watch?v=qzPjsh7ODRE" target="_blank">On the Other Side</a>, due to the skit-like nature of the way the video is organized. Though this is a more focused version of that idea it's still very experimental and definitely skew more towards Drama and Horror rather than Comedy.</p>
+                                            
+                                            <h3><u>Character Breakdown</u></h3>
+                                            
+                                            <p class="mediaDesc">The video focuses on three characters: Shinji, Asuka and Rei; the climax brings them all together in a <i>convergence</i> that changes them forever. Each of the character sections has a name that is in theme with the subject matter at hand: Isolation, Innocence and Invasion. There is also numbers seen over the course of the video signifying the countdown to convergence.</p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=11" target="_blank"><p class="list-group-item-text">Isolation-Shinji (0:12-1:12)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=73" target="_blank"><p class="list-group-item-text">Innocence-Asuka (1:13-1:54)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=115" target="_blank"><p class="list-group-item-text">Invasion-Rei (1:55-3:43)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=224" target="_blank"><p class="list-group-item-text">Convergence (3:44-5:36)</p></a></li>
+                                            </ul>
+                                            
+                                            <h3><u>Video/Audio Analysis</u></h3>
+                                            
+                                            <p class="mediaDesc">This was originally going to just be a music video set to the song that bookends the video, but over time I decided to make the character focused sections more distinct.</p>
+                                                
+                                            <p class="mediaDesc">The <b>Isolation (Shinji)</b> section is a mix of the song composed for the epilogue of Caprica mixed with dialogue from Ender's Game which is optimal due to the dual focus on child soldiers.</p> 
+                                            
+                                            <p class="mediaDesc">The <b>Innocence (Asuka)</b> section is a mix of the song composed for the climax of Carrie mixed with dialogue from the same film but from the sequences where Carrie is in conflict with her mother which works really well in my opinion since Asuka has her troubled backstory with her mother as well.</p> 
+                                            
+                                            <p class="mediaDesc">The <b>Invasion (Rei)</b> section is a change of pace because it actually takes the trope of turning movie trailers into AMV parodies and turns it on it's head a bit by making it a character piece in this larger machine I'm building. Also beyond that I modified the <i>Us</i> trailer audio at times and interjected my own choices from the film (making it an alternate trailer of sorts). There is an aspect ratio shift at this point in the video, which I did because of the inclusion of End of Evangelion and Death & Rebirth, both of which are in 16:9. I tried to make this more natural through the use of the trailer titlecard.</p>
+                                                
+                                            <p class="mediaDesc">The <b>Climax (Convergence)</b> returns to the initial theme from Caprica and the use of Ender's Game and brings the children together in what I feel is the most effective pairing (and was the original idea/song for the video to begin with).</p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE" target="_blank"><p class="list-group-item-text">Caprica epilogue w/Ender's Game dialogue (0:00-1:12)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=73" target="_blank"><p class="list-group-item-text">Carrie Climax w/Carrie dialogue (1:13-1:54)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=115" target="_blank"><p class="list-group-item-text">Modified <i>Us</i> Trailer (1:55-3:43)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/2bDG_4Y20IE?t=224" target="_blank"><p class="list-group-item-text">Return to Caprica/Ender's Game themes/dialogue (3:44-5:36)</p></a></li>
+                                            </ul>
+                                            
+                                            <p class="mediaDesc">Overall this was an interesting experiment I attempted that was probably a bit too ambitious for it's own good, but I'm still proud of what I achieved with it.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/cq6d0QEsg9U" target="_blank"><p class="list-group-item-text">Bear McCreary - The Differently Sentient (Caprica)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/M2FtkqthTC4" target="_blank"><p class="list-group-item-text">Pino Donaggio - Contest Winners (Carrie)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/hNCmb-4oXJA" target="_blank"><p class="list-group-item-text">Universal - Us Trailer (Original)</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=49" target="_blank"><p class="list-group-item-text">Neon Genesis Evangelion</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=418" target="_blank"><p class="list-group-item-text">Neon Genesis Evangelion: Death & Rebirth</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=419" target="_blank"><p class="list-group-item-text">End of Evangelion</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="ht" class="tab-pane fade">
