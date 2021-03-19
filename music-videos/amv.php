@@ -60,8 +60,8 @@
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <!--
-                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Them</a></li>
-                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Dynamic Struggle</a></li>-->
+                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Them</a></li>-->
+                                            <li><a data-toggle="pill" href="#ds" class="fullWidthDropdown dynamicStruggle">Dynamic Struggle</a></li>
                                             <li><a data-toggle="pill" href="#conv" class="fullWidthDropdown convergence">Convergence</a></li>
                                             <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">The Heart</a></li>
                                             <li><a data-toggle="pill" href="#a" class="fullWidthDropdown androgyny">Androgyny</a></li>
@@ -114,6 +114,51 @@
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="ds" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="dynamicStruggleVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Dynamic Struggle (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Youmacon 2019 Entry</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=206248" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="https://fanarttheater.com/" target="_blank">Fan Art Theater</a> contest in 2019. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Expo</a> Contest in 2020.</p>
+                                            
+                                            <p class="mediaDesc">I was inspired to make this video one time when I was watching the <a href="https://www.youtube.com/watch?v=HZ7PAyCDwEg" target="_blank">Hobbs and Shaw trailer</a>, and I knew it was the perfect tone for a Dragonball Z (DBZ) video. In the past I'd only done <a href="https://www.youtube.com/watch?v=BzwUEYyrPWE" target="_blank">this video</a> a couple years earlier, but that was a parody/homage. This was my first actual attempt at making a DBZ video taken seriously.</p>
+                                            
+                                            <p class="mediaDesc">I knew from the beginning I wanted to do an old vs new aesthetic, combining the earliest fight scenes from DBZ with the newest film released to date. So that influenced a lot of the shot comparisons that I have throughout. I also tried to match the lyrics as much as I could, which I think is pretty atypical for an action video at least in this community, but given that's not my usual forte anyways I wanted to try to stand out a bit more in that respect. I know the first half is stronger than the second, though I think it's pretty balanced overall - I still cut a pretty sizeable chunk of the song out to get this down to a manageable length for this type of video. </p>
+                                            
+                                            <p class="mediaDesc">I still have other DBZ ideas for videos in the future, so this is just the first of many that I plan to create.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=jWA7cqv02Ig" target="_blank"><p class="list-group-item-text">TheUnder - Fight Ft. Panther</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=244" target="_blank"><p class="list-group-item-text">Dragonball Z</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=20750" target="_blank"><p class="list-group-item-text">Dragonball Super: Broly</p></a></li> 
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=133" target="_blank"><p class="list-group-item-text">Dragonball Z: The History of Trunks</p></a></li> 
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="conv" class="tab-pane fade">
@@ -188,6 +233,51 @@
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=49" target="_blank"><p class="list-group-item-text">Neon Genesis Evangelion</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=418" target="_blank"><p class="list-group-item-text">Neon Genesis Evangelion: Death & Rebirth</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=419" target="_blank"><p class="list-group-item-text">End of Evangelion</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="ds" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="dynamicStruggleVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Androgyny (2017)</h2>
+                                            <hr class="star-light">
+                                            <span class="skills">AWA Thunderdome 2017-Team Lightning Bear</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203132" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2017 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">Speedy180</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=46" target="_blank">SailorDeath</a>.</p>
+
+                                            <p class="mediaDesc">So we originally had a completely different idea for this video, it was purely going to be a Cowboy Bebop video with a different song. However, due to some hidden contest rules we ended up with this one instead. I did what I could with my portion. SailorDeath decided to get more creative and integrated some live action that made it a more humorous video, which was fine since are whole plan got shot to sunshine anyways.</p>
+                                            
+                                            <p class="mediaDesc">Overall, an interesting combination and experiment in damage control when plans go awry.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hVs6Fekh0RY" target="_blank"><p class="list-group-item-text">Garbage - Androgyny</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0062622/" target="_blank"><p class="list-group-item-text">2001: A Space Odyssey</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
+                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1288558/" target="_blank"><p class="list-group-item-text">Evil Dead</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=166" target="_blank"><p class="list-group-item-text">Serial Experiments Lain</p></a></li> 
                                             </ul>
                                         </div>
                                     </div>      

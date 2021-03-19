@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var dynamicStruggleCheck = 0;
 var convergenceCheck = 0;
 var theHeartCheck = 0; 
 var androgynyCheck = 0; 
@@ -36,13 +37,25 @@ var summaryOfFMACheck = 0;
 var accidentallyInLoveCheck = 0; 
 var noGivingUpCheck = 0; 
 
+//Dynamic Struggle
+$(document).on("click", ".dynamicStruggle", function() {
+    
+   if(dynamicStruggleCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/amv/dynamicStruggle.js", function () {
+            console.log("Dynamic Struggle video loaded");
+            dynamicStruggleCheck = 1;
+        });
+   } //end if
+});
+
 //Convergence
 $(document).on("click", ".convergence", function() {
     
    if(convergenceCheck == 0)
    {
         $.getScript("/scripts/music-videos/amv/convergence.js", function () {
-            console.log("Convergence videos loaded");
+            console.log("Convergence video loaded");
             convergenceCheck = 1;
         });
    } //end if
