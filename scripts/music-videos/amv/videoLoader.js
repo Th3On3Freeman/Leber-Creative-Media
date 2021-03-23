@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var themCheck = 0;
 var dynamicStruggleCheck = 0;
 var convergenceCheck = 0;
 var theHeartCheck = 0; 
@@ -36,6 +37,18 @@ var winryRizaIzumiCheck = 0;
 var summaryOfFMACheck = 0;
 var accidentallyInLoveCheck = 0; 
 var noGivingUpCheck = 0; 
+
+//Them
+$(document).on("click", ".them", function() {
+    
+   if(themCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/amv/them.js", function () {
+            console.log("Them video loaded");
+            themCheck = 1;
+        });
+   } //end if
+});
 
 //Dynamic Struggle
 $(document).on("click", ".dynamicStruggle", function() {

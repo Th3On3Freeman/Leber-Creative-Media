@@ -58,9 +58,8 @@
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2020 <span class="caret"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <!--
-                                            <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">Them</a></li>-->
+                                        <ul class="dropdown-menu">   
+                                            <li><a data-toggle="pill" href="#tm" class="fullWidthDropdown them">Them</a></li>
                                             <li><a data-toggle="pill" href="#ds" class="fullWidthDropdown dynamicStruggle">Dynamic Struggle</a></li>
                                             <li><a data-toggle="pill" href="#conv" class="fullWidthDropdown convergence">Convergence</a></li>
                                             <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">The Heart</a></li>
@@ -114,6 +113,50 @@
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="tm" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="themVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Them (2020)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Webcon 2020-Best Trailer</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=206250" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.webconlive.com/" target="_blank">Webcon's</a> <a href="https://youtube.com/playlist?list=PLt1RS-qW_0QiW5SndPhRx_oTC3edQrMtV" target="_blank">AMV contest</a> in 2020 and it won the <i>Best Trailer</i> Award.</p>
+                                            
+                                            <p class="mediaDesc">So this is actually a subset of a previous video I made <a href="https://youtu.be/2bDG_4Y20IE" target="_blank">Convergence</a>, that I extracted for multiple reasons. First off, it works perfectly great on its own as a standalone piece, especially compared to the far more experimental nature of the video it was originally a part of. Second, I was told by more than one person that it was the most compelling part of <i>Convergence</i> and who am I to deny that? Finally, more than one person has mentioned that Convergence as it is is quite long, so much so that I was unable to submit it to a lot of contests back in 2020 so I had to create this almost out of necessity in order to compete.</p>
+                                            
+                                            <p class="mediaDesc">Most of the content is the same, the <i>Invasion</i> text has been taken out due to it's lack of relevance in this version of the product, as has the <i>1</i> that was part of the 3...2...1...Convergence countdown in the original piece. The shot of the Rei dolls at <a href="https://youtu.be/BE4R7-I3iHI?t=92" target="_blank">1:32</a> has been switched to the edited barbie-doll counterpart version from the TV-edit due to numerous complaints about nudity (which is silly given the rest of the violent content in the video). Lastly, the shot of the rei clones that was at <a href="https://youtu.be/2bDG_4Y20IE?t=196" target="_blank">3:16</a> in the original <i>Convergence</i> edit (now at <a href="https://youtu.be/BE4R7-I3iHI?t=77" target="_blank">1:17</a> in <i>Them</i>) has been switched to a shot of the Evangelion having a convulsion so that the rei clones shot could be added as a coda at the end.</p>
+                                            
+                                            <p class="mediaDesc">I still prefer <i>Convergence</i> as a whole, but I recognize that this piece of it has artistic value and was worth releasing separately. Oh and if it wasn't clear, <i>Them</i> is a parody on the original trailer's movie title <i>Us</i>, since the Rei clones aren't copies of the people they're killing like they are in the film.</p>
+                                            
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hNCmb-4oXJA" target="_blank"><p class="list-group-item-text">Universal - Us Trailer (Original)</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=49" target="_blank"><p class="list-group-item-text">Neon Genesis Evangelion</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=419" target="_blank"><p class="list-group-item-text">End of Evangelion</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="ds" class="tab-pane fade">
