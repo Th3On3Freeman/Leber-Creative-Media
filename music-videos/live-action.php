@@ -153,7 +153,9 @@
                                             
                                             <h2>The Butterfly (2017)</h2>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Agamacon 2018 Entry && Youmacon 2017 Entry && AWA 2017 Pro Entry</span>
+                                            <span class="skills">Agamacon 2018 - Honorable Mention && AWA 2017 Pro Entry</span>
+                                            
+                                            <img src="/images/music-videos/amv/agamacon-2018-honorable-mention.jpg" class="img-responsive" alt="Agamacon 'Honorable Mention' award plaque for 'The Butterfly' in 2018">
                                            
                                             <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2017, <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2018.</p>
                                             
@@ -197,6 +199,12 @@
                                             <h2>Alone - A Short Story (2016)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Youmacon 2016 - Genisys is Skynet && AWA 2016 Pro-Best Live Action Nomination</span>
+                                            
+                                            <a href="/pdf/music-videos/live-action/genesis-is-skynet.pdf" target="_blank">
+                                                <img src="/images/music-videos/live-action/youmacon-2016-genisys-is-skynet.jpg" class="img-responsive" alt="Youmacon 'Genisys is Skynet' award photo from Fan Art Theater for 'Alone - A Short Story' in 2016">
+                                            </a>
+                                            
+                                            <p class="centerText">Click to see larger version</p>
                                             
                                             <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2016 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It was nominated for the <i>Best Live Action</i> award at AWA and won the <i>Genisys is Skynet</i> award at Youmacon.</p>
                                             
@@ -288,6 +296,12 @@
                                             <h2>Shades of Reality (2014)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Youmacon 2016 - Best in Show && AWA 2014 Expo Entry</span>
+                                            
+                                            <a href="/pdf/music-videos/live-action/best-of-show-2016.pdf" target="_blank">
+                                                <img src="/images/music-videos/live-action/youmacon-2016-best-in-show.jpg" class="img-responsive" alt="Youmacon 'Best in Show' award photo from Fan Art Theater for 'Shades of Reality' in 2016">
+                                            </a>
+                                            
+                                            <p class="centerText">Click to see larger version</p>
                                             
                                             <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best in Show</i> award at Youmacon.</p>
                                             
