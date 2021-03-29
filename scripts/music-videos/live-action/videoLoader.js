@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var madness = 0; 
 var oneThatIWantCheck = 0; 
 var theButterflyCheck = 0; 
 var aloneCheck = 0; 
@@ -16,13 +17,25 @@ var honorAndVengeanceCheck = 0;
 var itAintLikeItWasBeforeCheck = 0; 
 var aTaleOfTwoMenCheck = 0; 
 
+//Madness
+$(document).on("click", ".madness", function() {
+    
+   if(madness == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/madness.js", function () {
+            console.log("Madness video loaded");
+            madnessCheck = 1;
+        });
+   } //end if
+});
+
 //One that I want
 $(document).on("click", ".oneThatIWant", function() {
     
    if(oneThatIWantCheck == 0)
    {
         $.getScript("/scripts/music-videos/live-action/oneThatIWant.js", function () {
-            console.log("One that I want videos loaded");
+            console.log("One that I want video loaded");
             oneThatIWantCheck = 1;
         });
    } //end if
@@ -34,7 +47,7 @@ $(document).on("click", ".theButterfly", function() {
    if(theButterflyCheck == 0)
    {
         $.getScript("/scripts/music-videos/live-action/theButterfly.js", function () {
-            console.log("The Butterfly videos loaded");
+            console.log("The Butterfly video loaded");
             theButterflyCheck = 1;
         });
    } //end if

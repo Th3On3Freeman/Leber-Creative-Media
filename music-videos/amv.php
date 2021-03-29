@@ -280,52 +280,7 @@
                                         </div>
                                     </div>      
                                 </div>
-                                
-                                <div id="ds" class="tab-pane fade">
-                                    <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="dynamicStruggleVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
-                                    </div>    
-                                        <br>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            
-                                            <h2>Androgyny (2017)</h2>
-                                            <hr class="star-light">
-                                            <span class="skills">AWA Thunderdome 2017-Team Lightning Bear</span>
-                                            
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203132" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2017 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">Speedy180</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=46" target="_blank">SailorDeath</a>.</p>
 
-                                            <p class="mediaDesc">So we originally had a completely different idea for this video, it was purely going to be a Cowboy Bebop video with a different song. However, due to some hidden contest rules we ended up with this one instead. I did what I could with my portion. SailorDeath decided to get more creative and integrated some live action that made it a more humorous video, which was fine since are whole plan got shot to sunshine anyways.</p>
-                                            
-                                            <p class="mediaDesc">Overall, an interesting combination and experiment in damage control when plans go awry.</p>
-                                            
-                                            <p>This AMV features music from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hVs6Fekh0RY" target="_blank"><p class="list-group-item-text">Garbage - Androgyny</p></a></li>
-                                            </ul>
-                                            
-                                            <p>This AMV features footage from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0062622/" target="_blank"><p class="list-group-item-text">2001: A Space Odyssey</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1288558/" target="_blank"><p class="list-group-item-text">Evil Dead</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=166" target="_blank"><p class="list-group-item-text">Serial Experiments Lain</p></a></li> 
-                                            </ul>
-                                        </div>
-                                    </div>      
-                                </div>
-                                
                                 <div id="ht" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>

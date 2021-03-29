@@ -57,8 +57,9 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2018 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#hb" class="fullWidthDropdown madness">Madness</a></li>
                                             <li><a data-toggle="pill" href="#hl" class="fullWidthDropdown oneThatIWant">One that I want</a></li>
                                             <li><a data-toggle="pill" href="#100" class="fullWidthDropdown theButterfly">The Butterfly</a></li>
                                             <li><a data-toggle="pill" href="#poi" class="fullWidthDropdown alone">Alone</a></li>
@@ -86,6 +87,67 @@
                                     <p class="mediaDesc">There's a division in the audience between those who watch the original japanese (frequently referred to as <i>subs</i> because of the subtitles that go along with this method of watching) and those who watch the english (frequently referred to as <i>dubs</i> because of the <i>dubbing</i> that english voice actors provide), and fans of the subs will frequently chastise most dubs for bad acting or inaccurate translations. The difference in a live action video is that, at least in my case, the original language is english and because of the style I've incorporated with enhancing the narrative with trailer-esque or short stories my approach has been more accepted.</p>
                                     
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="hb" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="madnessVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Madness (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Agamacon 2019 - Best Horror/Judge's Choice && AWA 2019 Pro-Best Horror/Character Profile/Live Action/Storytelling Nominations</span>
+                                            
+                                            <p class="mediaDesc">A wise man once said: <i>"It's a lot harder to convince people you're sane than it is to convince them you're crazy."</i></p>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2019 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2020. It was nominated for the <i>Best Horror/Best Character Profile/Best Live Action/Best Storytelling</i> awards at AWA and won the <i>Best Horror/Judge's Choice</i> awards at Agamacon.</p>
+                                            
+                                            <p class="mediaDesc">I first heard this song when I was playing the first portion of the <a href="https://store.steampowered.com/app/235780/MINERVA/" target="_blank"><i>Minerva</i></a> Half-Life 2 mod titled <i>Metastatis</i> (or <i>Carcinogenesis</i>) in 2007. There was a song that would play in it titled <a href="https://youtu.be/QoUC23vl0y8" target="_blank"><i>Absconditus</i></a> that stuck with me. So much so that when I knew I wanted to create a Hannibal music video, it suddenly clicked that this was the perfect song.</p>
+                                            
+                                            <p class="mediaDesc">In 2015, Hannibal, one of the darkest, most artistic television shows ever made came to a close. It captivated my attention while it was on, and it hasn't left my mind since.</p>
+                                            
+                                            <p class="mediaDesc">From the very first frames of the video you can tell that there's something wrong with Will Graham. When he's kissing Alana Bloom, you can see the madness consuming his mind with his twisted interpretation of what's occurring.</p>
+                                            
+                                            <p class="mediaDesc">For the next segment, you may notice some sound effects that aren't in the song. I added those and experimented a bit, slowing down and reversing certain sound effects to get the intended twisted sound I was looking for.</p>
+                                            
+                                            <p class="mediaDesc">This video is very heavy on dialogue. I had to spend a long time equalizing the song with the dialogue so that everything was very clear in comparison to the song in the background. This was particularly difficult with Mads Mikkelsen because he has a very thick accent that took a while for me to balance correctly. This also applied to sound effects like gunshots.</p>
+                                            
+                                            <p class="mediaDesc">There was also a lot of cross-cutting I used with completely unrelated sequences to accomplish my storytelling. One such example was from <a href="https://youtu.be/HGnQvlTiveo?t=65" target="_blank">1:05-1:15</a>. Another example is <a href="https://youtu.be/HGnQvlTiveo?t=144" target="_blank">2:24-2:43</a>. Both of these sequences, while the cross-cutting relates to the dialogue are about completely different subjects than the scenes which they are cut against.</p>
+                                            
+                                            <p class="mediaDesc">While I was working on this video, I went to an art show and found a piece of art that inspired me. The artist told me a story about how it depicted their friend's son that was going through a difficult time in their life involving drugs, their own kind of madness if you will and I think you can see the visual correlation between the two (particularly from <a href="https://youtu.be/HGnQvlTiveo?t=90" target="_blank">1:30-1:54</a>, which is probably the start of my favorite segment in the video)</p>
+                                            
+                                            <img src="/images/music-videos/live-action/madness-art.jpg" class="img-responsive" alt="Art piece depicting the madness the artist's friend's son was enduring.">
+                                            
+                                            <p class="mediaDesc">The next section (<a href="https://youtu.be/HGnQvlTiveo?t=144" target="_blank">2:24-3:10</a>) shows how Hannibal manipulates Will into eating the flesh of Abigail Hobbs (afterwards, having had twisted nightmares he ends up throwing up her ear). This is probably the closest thing I have to a climax in this video, which is atypical of most structures in that the climax is subdued compared to most typical storytelling.</p>
+                                            
+                                            <p class="mediaDesc">For about the final two minutes of the video (roughly <a href="https://youtu.be/HGnQvlTiveo?t=204" target="_blank">3:24-5:07</a>) I tried something a little different and that was a took a single monologue and used it as is for the backdrop for this portion of the video. Typically if I use dialogue (as I did for the rest of the video) I mix and match different statements together to achieve the pace I want but this particular exchange worked for me as-is. This sequence uses future events of the show, but is still very true to the conversation they're having.</p>
+                                            
+                                            <p class="mediaDesc">The final part of the video (<a href="https://youtu.be/HGnQvlTiveo?t=307" target="_blank">5:07-5:36</a>) is the coda, using a mix of moments previously seen in the video and other shared moments between Will and Hannibal to create a microcosm of the story told in the rest of the video.</p>
+                                            
+                                            <p class="mediaDesc">This is definitely one of my favorite videos I've ever made.</p>
+
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/QoUC23vl0y8" target="_blank"><p class="list-group-item-text">ZhayTee - Absconditus</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt2243973/" target="_blank"><p class="list-group-item-text">Hannibal</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="hl" class="tab-pane fade">
@@ -180,7 +242,6 @@
                                         </div>
                                     </div>      
                                 </div>
-                                
                                 
                                 <div id="poi" class="tab-pane fade">
                                     <div class="row">
