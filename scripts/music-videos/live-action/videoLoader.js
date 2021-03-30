@@ -5,7 +5,8 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
-var madness = 0; 
+var toxicOrphansCheck = 0; 
+var madnessCheck = 0; 
 var oneThatIWantCheck = 0; 
 var theButterflyCheck = 0; 
 var aloneCheck = 0; 
@@ -18,9 +19,21 @@ var itAintLikeItWasBeforeCheck = 0;
 var aTaleOfTwoMenCheck = 0; 
 
 //Madness
+$(document).on("click", ".toxicOrphans", function() {
+    
+   if(toxicOrphansCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/toxicOrphans.js", function () {
+            console.log("Toxic video loaded");
+            toxicOrphansCheck = 1;
+        });
+   } //end if
+});
+
+//Madness
 $(document).on("click", ".madness", function() {
     
-   if(madness == 0)
+   if(madnessCheck == 0)
    {
         $.getScript("/scripts/music-videos/live-action/madness.js", function () {
             console.log("Madness video loaded");

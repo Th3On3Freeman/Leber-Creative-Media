@@ -59,6 +59,7 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#ob" class="fullWidthDropdown toxicOrphans">Toxic Orphans</a></li>
                                             <li><a data-toggle="pill" href="#hb" class="fullWidthDropdown madness">Madness</a></li>
                                             <li><a data-toggle="pill" href="#hl" class="fullWidthDropdown oneThatIWant">One that I want</a></li>
                                             <li><a data-toggle="pill" href="#100" class="fullWidthDropdown theButterfly">The Butterfly</a></li>
@@ -87,6 +88,73 @@
                                     <p class="mediaDesc">There's a division in the audience between those who watch the original japanese (frequently referred to as <i>subs</i> because of the subtitles that go along with this method of watching) and those who watch the english (frequently referred to as <i>dubs</i> because of the <i>dubbing</i> that english voice actors provide), and fans of the subs will frequently chastise most dubs for bad acting or inaccurate translations. The difference in a live action video is that, at least in my case, the original language is english and because of the style I've incorporated with enhancing the narrative with trailer-esque or short stories my approach has been more accepted.</p>
                                     
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="ob" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="toxicVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Toxic Orphans (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2019 Expo Entry</span>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Expo</a> event in 2019.</p>
+                                            
+                                            <p class="centerText">When you've been making music videos for as long as I have, sometimes you have to subvert expectations.</p>
+                                            
+                                            <p class="centerText">An example of a good reaction to subverting expectations was when Alfred Hitchcock killed his apparent protagonist only 30 minutes into the film Psycho. On a more modern note, Game of Thrones and Avengers: Endgame would further build on that legacy with their own shockers.</p>
+
+                                            <p class="centerText">An example of a more mixed reaction to subverting expectations was when Rian Johnson changed the way storytelling worked in Star Wars, and united a flame in fandom culture that still hasn't died down yet. 
+
+                                            <p class="centerText">Now when it came to my video, it was more about subverting the expectations of what people have come to expect from me, though there are some content aspects to be discussed as well.</p>
+
+                                            <p class="centerText">I've never made a video with a Britney Spears song before, but this is just one of those songs that seeps into your brain over the course of your life and takes hold. I typically stay away from stuff this popular or this mainstream, but when I was thinking about Orphan Black, it just matched so well for me.</p> 
+
+                                            <p class="centerText">Speaking of clone club, my video has an all-star cast starring Tatiana Maslany and...that's about it. There's some others present, but she plays a ridiculous amount of characters on this show and the video primarily focuses on the five main clones:</p> 
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/zQvXwGxU6wc?t=20" target="_blank"><p class="list-group-item-text">Sarah (Intro @ 0:20)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/zQvXwGxU6wc?t=25" target="_blank"><p class="list-group-item-text">Helena (Intro @ 0:25)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/zQvXwGxU6wc?t=48" target="_blank"><p class="list-group-item-text">Cosima (Intro @ 0:48)</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/zQvXwGxU6wc?t=60" target="_blank"><p class="list-group-item-text">Allison (Intro @ 1:00)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/zQvXwGxU6wc?t=91" target="_blank"><p class="list-group-item-text">Rachel (Intro @ 1:31)</p></a></li>
+                                            </ul>
+
+                                            <p class="mediaDesc">While featuring some brief cameos from the following clones:</p>
+
+                                            <p class="mediaDesc"><b>Beth</b> - (seen briefly in the opening montage, intercut w/Sarah)</p>
+
+                                            <p class="centerText"><b>Krystal</b> - (Intercut w/Sarah at 1:10)</p>
+
+                                            <p class="centerText"><b>Mika (M.K.)</b> - (Seen in the opening and ending montages, sheep mask)</p>
+
+                                            <p class="centerText">Now beyond that, this is the first time I've attempted to tell a fast paced story more in line with the type of video you'd more typically see as an AMV in a live action format. This can definitely make it a little harder to follow for newcomers to the material but I think it gives the video an energy some of my other material lacks.</p> 
+
+                                            <p class="centerText">And lastly there's the ending. Some of you might feel like it comes out of nowhere, some may think it's gratuitous and some may cry spoiler for a six year old plot twist, but I personally think the video builds up to it in an organic manner given the fact that there are multiple forces attempting to take Sarah's child throughout the video (including Rachel and Helena), and the final result is that none of them take them from her, but for some random freak accident. Thus, subverting expectations.</p>
+
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/LOZuxwVk7TU" target="_blank"><p class="list-group-item-text">Britney Spears - Toxic</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt2234222/" target="_blank"><p class="list-group-item-text">Orphan Black</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="hb" class="tab-pane fade">
@@ -166,9 +234,9 @@
                                             
                                             <h2>One that I want (2018)</h2>
                                             <hr class="star-light">                                            
-                                            <span class="skills">No Contests Submitted</span>
+                                            <span class="skills">Agamacon 2019 entry</span>
                                            
-                                            <p class="centerText">This is a music video that I haven't submitted to any contests yet.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon</a> 2019.</p>
                                             
                                             <p class="mediaDesc">This video was initially inspired by the love of my life. She has always loved <a href="https://www.imdb.com/title/tt0077631/" target="_blank">Grease</a>, but neither of us had heard this cover until it was used on <a href="https://www.imdb.com/title/tt2699128/" target="_blank">The Leftovers</a>. She didn't care much for that show, but she loved that cover; so I kept that in mind.</p>
                                             
