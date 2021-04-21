@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var marvelousWorldCheck = 0; 
 var toxicOrphansCheck = 0; 
 var madnessCheck = 0; 
 var oneThatIWantCheck = 0; 
@@ -18,7 +19,19 @@ var honorAndVengeanceCheck = 0;
 var itAintLikeItWasBeforeCheck = 0; 
 var aTaleOfTwoMenCheck = 0; 
 
-//Madness
+//Marvelous World
+$(document).on("click", ".marvelousWorld", function() {
+    
+   if(marvelousWorldCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/marvelousWorld.js", function () {
+            console.log("Marvelous video loaded");
+            marvelousWorldCheck = 1;
+        });
+   } //end if
+});
+
+//Toxic Orphans
 $(document).on("click", ".toxicOrphans", function() {
     
    if(toxicOrphansCheck == 0)

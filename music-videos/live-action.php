@@ -59,6 +59,7 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#mw" class="fullWidthDropdown marvelousWorld">Marvelous World</a></li>
                                             <li><a data-toggle="pill" href="#ob" class="fullWidthDropdown toxicOrphans">Toxic Orphans</a></li>
                                             <li><a data-toggle="pill" href="#hb" class="fullWidthDropdown madness">Madness</a></li>
                                             <li><a data-toggle="pill" href="#hl" class="fullWidthDropdown oneThatIWant">One that I want</a></li>
@@ -90,6 +91,53 @@
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
                                 
+                                <div id="mw" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="marvelousVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Marvelous World (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2019 Pro Entry</span>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> event in 2019.</p>
+                                            
+                                            <p class="centerText">I could never be a comedian.</p>
+                                            
+                                            <p class="centerText">There's a particular combination of memorization, improvisation and wit required to run a gig like that and while I may not have the chops to pull that off, there are others that certainly do.</p>
+
+                                            <p class="centerText">And one of those is <a href="https://www.imdb.com/title/tt5788792/" target="_blank">The Marvelous Ms. Maisel</a>. Starring <a href="https://www.imdb.com/name/nm3014031/" target="_blank">Rachel Brosnahan</a> and streaming on Amazon Prime, the show's focus is on Miriam Maisel: a housewife from the 1950s who decides to take her life into her own hands and after a life-altering moment, becomes a comedian. The show's rhythmic dialogue and family dynamics have made it one of my favorite shows of the past few years.</p>
+
+                                            <p class="centerText">So I already knew I wanted to make a music video with this source but in the brave new world of peak television with streaming services everywhere you turn, not everything gets a home release anymore so I had to turn to bootleg emmy voter dvds for source footage (ironic since you can stream the show in 4K).</p>
+
+                                            <p class="centerText">When it came to the song I had recently rewatched <a href="https://www.imdb.com/title/tt0103477/" target="_blank">The Little Mermaid</a>, and as these things go I was constantly picturing aspects of the video, but in this case it was one scene in particular: <a href="https://youtu.be/sf-M99Isoxs?t=51" target="_blank">0:51-1:00</a>, by far the scene that I knew I wanted to portray from the beginning. Beyond that, there were just a lot of parallels for me between the lyrics of Jodi Benson's <a href="https://www.youtube.com/watch?v=SXKlJuO07eM" target="_blank">Part Of Your World</a> and Miriam's story about wanting to leave her cozy little life and be under the spotlight.</p> 
+
+                                            <p class="centerText">In the end this video wasn't nominated for anything at AWA PRO. There were some criticisms made over the live action lip synching throughout as well as some confusion over the relation of the song to the source material, but ironically, locally, it was considered one of the best videos I've ever done. A strange disconnect between the editing community and the casual viewer I suppose. Maybe I should I have submitted it to Expo.</p> 
+
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=SXKlJuO07eM" target="_blank"><p class="list-group-item-text">Jodi Benson - Part of Your World</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt5788792/" target="_blank"><p class="list-group-item-text">The Marvelous Ms. Maisel</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
                                 <div id="ob" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
@@ -108,13 +156,13 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2019 Expo Entry</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Expo</a> event in 2019.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Expo</a> event in 2019.</p>
                                             
                                             <p class="centerText">When you've been making music videos for as long as I have, sometimes you have to subvert expectations.</p>
                                             
                                             <p class="centerText">An example of a good reaction to subverting expectations was when Alfred Hitchcock killed his apparent protagonist only 30 minutes into the film Psycho. On a more modern note, Game of Thrones and Avengers: Endgame would further build on that legacy with their own shockers.</p>
 
-                                            <p class="centerText">An example of a more mixed reaction to subverting expectations was when Rian Johnson changed the way storytelling worked in Star Wars, and united a flame in fandom culture that still hasn't died down yet. 
+                                            <p class="centerText">An example of a more mixed reaction to subverting expectations was when Rian Johnson changed the way storytelling worked in Star Wars, and united a flame in fandom culture that still hasn't died down yet.</p>
 
                                             <p class="centerText">Now when it came to my video, it was more about subverting the expectations of what people have come to expect from me, though there are some content aspects to be discussed as well.</p>
 
@@ -177,7 +225,7 @@
                                             
                                             <p class="mediaDesc">A wise man once said: <i>"It's a lot harder to convince people you're sane than it is to convince them you're crazy."</i></p>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2019 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2020. It was nominated for the <i>Best Horror/Best Character Profile/Best Live Action/Best Storytelling</i> awards at AWA and won the <i>Best Horror/Judge's Choice</i> awards at Agamacon.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2019 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2020. It was nominated for the <i>Best Horror/Best Character Profile/Best Live Action/Best Storytelling</i> awards at AWA and won the <i>Best Horror/Judge's Choice</i> awards at Agamacon.</p>
                                             
                                             <p class="mediaDesc">I first heard this song when I was playing the first portion of the <a href="https://store.steampowered.com/app/235780/MINERVA/" target="_blank"><i>Minerva</i></a> Half-Life 2 mod titled <i>Metastatis</i> (or <i>Carcinogenesis</i>) in 2007. There was a song that would play in it titled <a href="https://youtu.be/QoUC23vl0y8" target="_blank"><i>Absconditus</i></a> that stuck with me. So much so that when I knew I wanted to create a Hannibal music video, it suddenly clicked that this was the perfect song.</p>
                                             
@@ -287,7 +335,7 @@
                                             
                                             <img src="/images/music-videos/amv/agamacon-2018-honorable-mention.jpg" class="img-responsive" alt="Agamacon 'Honorable Mention' award plaque for 'The Butterfly' in 2018">
                                            
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2017, <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2018.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2017, <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2018.</p>
                                             
                                             <p class="mediaDesc"><i>The 100</i> is a TV show that has a cast that first and foremost centers around rebellious teenagers. I first heard this song in the season two finale of <a href="http://www.imdb.com/title/tt2699128/" target="_blank">The Leftovers</a>, and one time when I was listening to it I realized just how perfectly it matched these characters.</p>
                                             
@@ -335,7 +383,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> contest in 2016 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It was nominated for the <i>Best Live Action</i> award at AWA and won the <i>Genisys is Skynet</i> award at Youmacon.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2016 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It was nominated for the <i>Best Live Action</i> award at AWA and won the <i>Genisys is Skynet</i> award at Youmacon.</p>
                                             
                                             <p class="mediaDesc">I came up with the idea for this video when I was listening to the part of this song that starts in this video at about <a href="https://youtu.be/5p-ZHvSF0WE?t=4m53s" target="_blank">4:53</a>, and I knew I wanted to make a tragedy. Not only did the song fit the material extremely well, but it was written for a movie that was written by <a href="http://www.imdb.com/name/nm0634300/" target="_blank">Jonathan Nolan</a>, the same writer who would go on to make <i>Person of Interest</i>, the show that is used in this video. However this song is originally 16 minutes long, so I grabbed the portions I knew I wanted to include and put them together in a version that ultimately ended up being roughly 7 minutes instead.</p>
 
@@ -378,7 +426,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2016 Expo Entry</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2016.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Video Art Track Expo</a> in 2016.</p>
                                             
                                             <p class="mediaDesc">The initial concept for this video was to combine an assortment of <i>beautiful imagery</i>. This was also the first music video I had made in a while, so I was trying to get my feet wet again.</p>
                                             
@@ -432,7 +480,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best in Show</i> award at Youmacon.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best in Show</i> award at Youmacon.</p>
                                             
                                             <p class="mediaDesc">This music video was originally inspired by my sister, who introduced me to this song and inspired me to use it. I thought it would be perfect for <i>Fringe</i> and completed it in time for the one year anniversary of the show's ending.</p>
                                             
@@ -479,7 +527,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2014 Expo Entry && Youmacon 2016 Entry</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016.</p>
                                             
                                             <p class="mediaDesc">I came up with this idea when I first heard this song in the <a href="https://www.youtube.com/watch?v=Q0o3C8i6Ugw" target="_blank">Homeland trailer for season three</a>, and I thought it was the perfect fit for a <i>Breaking Bad</i> video. The lyrics fit extremely well with what I ended up putting together, including the following sequences below:</p>
                                             
@@ -579,7 +627,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">Youmacon 2017 Entry && AWA 2014 Expo Entry</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Video Art Track Expo</a> in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017.</p>
                                             
                                             <p class="mediaDesc">I believe this was the first truly successful attempt at making a music video that incorporated dialogue to inform the narrative. There are multiple ongoing storylines throughout and the dialogue from a variety of different characters all flows really well together. As opposed to my previous efforts, there are also quite a few vignettes that tell their own little stories, such as Arya's list and the wordless introductions of the four core storylines: Daenerys' time in Qarth, Jon Snow's journey beyond the Wall, Theon's betrayal and the various schemes in King's Landing between Tyrion, Cersei, Littlefinger, Varys and Sansa.</p>
                                             
@@ -659,7 +707,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2014 Expo Entry</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Video Art Track Expo</a> in 2014.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Video Art Track Expo</a> in 2014.</p>
                                             
                                             <p class="mediaDesc">This is the first live action music video I ever made and also the first music video I ever created using bluray footage. It was appropriate that Lost was used, since it's once of my favorite television shows of all time. Looking back on it I think it was an interesting experiment that proved that I would be able to create more music videos with this kind of visual quality and included some interesting comparison shots. This was also the first music video I ever made that included dialogue informing the narrative (not counting my failed experiment in my AMV <i>Brother</i>). This is a trend that I would continue and improve upon in future music videos.</p>
                                             

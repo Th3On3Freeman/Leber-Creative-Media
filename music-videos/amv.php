@@ -179,7 +179,7 @@
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=206248" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="https://fanarttheater.com/" target="_blank">Fan Art Theater</a> contest in 2019. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Expo</a> Contest in 2020.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="https://fanarttheater.com/" target="_blank">Fan Art Theater</a> contest in 2019. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Expo</a> Contest in 2020.</p>
                                             
                                             <p class="mediaDesc">I was inspired to make this video one time when I was watching the <a href="https://www.youtube.com/watch?v=HZ7PAyCDwEg" target="_blank">Hobbs and Shaw trailer</a>, and I knew it was the perfect tone for a Dragonball Z (DBZ) video. In the past I'd only done <a href="https://www.youtube.com/watch?v=BzwUEYyrPWE" target="_blank">this video</a> a couple years earlier, but that was a parody/homage. This was my first actual attempt at making a DBZ video taken seriously.</p>
                                             
@@ -226,7 +226,7 @@
                                             <!--
                                             <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
                                             -->
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Masters</a> Contest in 2019.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Masters</a> Contest in 2019.</p>
                                             
                                             <p class="mediaDesc">This is the first video I've made that feels like a spiritual sequel to <a href="https://www.youtube.com/watch?v=qzPjsh7ODRE" target="_blank">On the Other Side</a>, due to the skit-like nature of the way the video is organized. Though this is a more focused version of that idea it's still very experimental and definitely skew more towards Drama and Horror rather than Comedy.</p>
                                             
@@ -303,7 +303,7 @@
                                             <!--
                                             <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
                                             -->
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.fanarttheater.com/" target="_blank">Youmacon's</a> Fan Art Theater contest in 2017 and it won the <i>Best in Show</i> Award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Masters</a> Contest in 2017.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.fanarttheater.com/" target="_blank">Youmacon's</a> Fan Art Theater contest in 2017 and it won the <i>Best in Show</i> Award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Masters</a> Contest in 2017.</p>
                                             
                                             <p class="mediaDesc">This is the third video that I have made using a song from the Nier soundtrack since I began making Nier videos back in 2012 (the other two are <a href="https://www.youtube.com/watch?v=7cLub-nNiWs" target="_blank">A Fullmetal World</a> and <a href="https://www.youtube.com/watch?v=dFkLO1p-8bw" target="_blank">God of a New World</a>). While there is no direct connection between these three videos, I feel that it is the final piece in what I originally wanted to accomplish when I first heard the <a href="https://en.wikipedia.org/wiki/Nier_(video_game)" target="_blank">Nier</a> soundtrack.</p>
                                             
@@ -505,7 +505,7 @@
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203060" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2017 and it was a joke entry.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2017 and it was a joke entry.</p>
                                             
                                             <p class="mediaDesc">In the 1990s, it became very common in AMV contests for people to pair a popular fighting anime called Dragonball Z with songs from Linkin Park. Since my early editing years were filled with Fullmetal Alchemist, I never had even considered making one of these videos.</p>
 
@@ -611,7 +611,7 @@
                                             
                                             
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
                                             <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened.</p>
 
@@ -669,7 +669,7 @@
                                             
                                             <p class="centerText">Click to see larger version</p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best Artistic Endeavor</i> Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> (AWA) <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2014 and <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2016. It won the <i>Best Artistic Endeavor</i> Award at AWA and the <i>Shaken Not Stirred</i> award at Youmacon.</p>
                                             
                                             <p class="mediaDesc">I began this video about a year beforehand with the concept for the climax roughly completed long before the rest of the video. Later on closer to the contest deadline I got most of it finished in a single weekend before getting some reactions to it and tightening other aspects of it up to submit to AWA for the premiere.</p>
 
@@ -712,7 +712,7 @@
                                             
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201573" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://awa-con.com/events/vat/" target="_blank">Professional Awards</a> Contest in 2014. Most of this was an experiment in seeing how exactly I could mimic each shot from the trailer.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2014. Most of this was an experiment in seeing how exactly I could mimic each shot from the trailer.</p>
                                                 <br>
                                             <div class="row">
                                                 <div class="col-lg-2"></div>
