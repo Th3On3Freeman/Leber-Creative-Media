@@ -59,6 +59,8 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2020 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#twdCovid" class="fullWidthDropdown twdCovid">Do you know what's going on?</a></li>
+                                            <li><a data-toggle="pill" href="#fs" class="fullWidthDropdown fSociety">F Society</a></li>
                                             <li><a data-toggle="pill" href="#mw" class="fullWidthDropdown marvelousWorld">Marvelous World</a></li>
                                             <li><a data-toggle="pill" href="#ob" class="fullWidthDropdown toxicOrphans">Toxic Orphans</a></li>
                                             <li><a data-toggle="pill" href="#hb" class="fullWidthDropdown madness">Madness</a></li>
@@ -89,6 +91,137 @@
                                     <p class="mediaDesc">There's a division in the audience between those who watch the original japanese (frequently referred to as <i>subs</i> because of the subtitles that go along with this method of watching) and those who watch the english (frequently referred to as <i>dubs</i> because of the <i>dubbing</i> that english voice actors provide), and fans of the subs will frequently chastise most dubs for bad acting or inaccurate translations. The difference in a live action video is that, at least in my case, the original language is english and because of the style I've incorporated with enhancing the narrative with trailer-esque or short stories my approach has been more accepted.</p>
                                     
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="twdCovid" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="covidVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Do you know what's going on? (2020)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2020 Pro Best Video/Best Live Action/Best Artistic Endeavor && Momocon 2021 Most Intriguing</span>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> event in 2020. It won the Best Video, Best Live Action and <i>Best Artistic Endeavor</i> Awards.</p>
+                                            
+                                            <p class="centerText">This was a transformation of <a href="https://www.imdb.com/title/tt1520211/" target="_blank">The Walking Dead</a> && <a href="https://www.imdb.com/title/tt3743822/" target="_blank">Fear the Walking Dead</a> into a story about COVID-19 (suggested by my fiance) using the theme from my favorite film <a href="https://www.imdb.com/title/tt0289043/" target="_blank">28 Days Later</a>.</p>
+                                            
+                                            <p class="centerText">There were several things I wanted to accomplish with this video, including:</p>
+                                            
+                                            <p class="centerText">1. Telling a compelling story about the times we're living in without including a single zombie. In order to accomplish that I had to replace zombie attacks with the consequences and conflicts that resulted from the virus and still have it be impactful.</p> 
+
+                                            <p class="centerText">2. Framing the story as a documentary (also suggested by my fiance). In order to accomplish this I had to incorporate a plugin called <a href="https://www.maxon.net/en/red-giant-complete/universe/tools/" target="_blank">Big Red Giant</a> (suggested to me by <i>maboroshistudio</i>) in order to utilize the powerful and highly customizable VHS effect available in that tool suite. This is primarily featured at the beginning and end of the video, in addition to all the handheld camera footage.</p>
+
+                                            <p class="centerText">The title actually comes from a mantra that is repeated three times throughout the video: <i>Hey Mister, you even know what's going on?</i> at <a href="https://youtu.be/oFcMN6F1ZiU?t=9" target="_blank">the beginning</a>, <a href="https://youtu.be/oFcMN6F1ZiU?t=82" target="_blank">the middle</a> and <a href="https://youtu.be/oFcMN6F1ZiU?t=244" target="_blank">the end</a>; which is meant to be talking about the people who haven't been taking the pandemic seriously.</p>
+                                            
+                                            <p class="centerText">There are several things I did throughout the beginning to disorient the viewer, including the <a href="https://youtu.be/oFcMN6F1ZiU?t=10" target="_blank">tape starting effect</a> at the beginning, the <a href=" https://youtu.be/oFcMN6F1ZiU?t=13" target="_blank">upside-down clock</a>, the cut from <a href="https://youtu.be/oFcMN6F1ZiU?t=17" target="_blank">older Rick to younger Rick</a> and the <a href="https://youtu.be/oFcMN6F1ZiU?t=22" target="_blank">tape degradation/skip</a> when panning over the dead bodies.</p>
+                                            
+                                            <p class="centerText">The biggest thing I spent time on though by far was the dialogue. I rewatched huge chunks of the show picking out lines here and there and saving them in my notes with timestamps. Then I gathered all those pieces and picked the best parts to put the puzzle together. I've taken this approach before with <a href="https://www.youtube.com/watch?v=2bDG_4Y20IE" target="_blank">Convergence</a>, but this is definitely the most successful video that I've attempted this strategy with. The biggest challenge with this was making it sound like natural conversations, which I spent a lot of time on.</p>
+                                            
+                                            <p class="centerText">One of the moments I like the best is the <a href="https://www.youtube.com/watch?v=oFcMN6F1ZiU&t=42s" target="_blank">transition from the vhs footage filter to the higher quality look</a> as Rick says <i>Starting right now we have to live in the <b>real</b> world.</i> with this transition completing just as the word real is said.</p>
+                                            
+                                            <p class="centerText">There are also some moments where I tried some more complicated effects like masking at <a href="https://www.youtube.com/watch?v=oFcMN6F1ZiU&t=55s" target="_blank">0:55</a> and <a href="https://www.youtube.com/watch?v=oFcMN6F1ZiU&t=108s" target="_blank">1:48</a>. I'm not as experienced with this so I feel like I did okay but I could definitely improve here. </p>
+                                            
+                                            <p class="centerText">I took a personal challenge when I was making this video not to show a single zombie in order to make it truer to the pandemic and to prevent taking the easy way out of all of the dramatic moments just being zombie attacks. This forced me to look for other ways to compel the viewer.</p>
+                                            
+                                            <p class="centerText">My favorite part of the video is definitely the <a href="https://youtu.be/oFcMN6F1ZiU?t=115" target="_blank">Hershel's speech</a> montage:</p> 
+
+                                            <p class="centerText"><i>"You step outside...you risk your life. You take a drink of water...you risk your life. And nowadays you breathe...and you risk your life. Every moment now...you don't have a choice. The only thing you can choose is what you're risking it for."</i></p>
+                                            
+                                            <p class="centerText">There's a lot going on here: the shots of Beth sitting with the baby against the door, Negan hitting the baseball bat on the table and the shots correlating to Hershel's dialogue (Sasha coughing, the blood water, etc.). I spent a lot of time figuring out the timing for all of this so that everything landed the way I wanted it to.</p>
+                                            
+                                            <p class="centerText">A shot I knew I wanted in the video from the moment I started making it was this <a href="https://youtu.be/oFcMN6F1ZiU?t=163" target="_blank">extended shot of Rick running as he looks at his injured hand</a>. Originally I tried to make this a set of effects shots with his wife and children showing up in the imagery for motivation but it became too busy and people didn't like it because it was the only shot like that in the video. Eventually taking it out turned out to be the better call, it's a lot smoother as one continuous shot.</p>
+                                            
+                                            <p class="centerText">One of the elements that helped save the video later in the editing process was <a href="https://youtu.be/oFcMN6F1ZiU?t=171" target="_blank">bringing back the character of Morgan</a>. Moments like <a href="https://youtu.be/oFcMN6F1ZiU?t=176" target="_blank"><i>you know what it is</i></a> and the <a href="https://youtu.be/oFcMN6F1ZiU?t=204" target="_blank">conflict in the climax</a> were definitely things that made the back half of the video work significantly better after I figured those moments out.</p>
+                                            
+                                            <p class="centerText">I knew I wanted to include scenes from <a href="https://youtu.be/oFcMN6F1ZiU?t=192" target="_blank">the CDC</a> arc of <a href="https://www.imdb.com/title/tt1520211/" target="_blank">The Walking Dead</a> the moment this became a COVID-19 video. My fiance had a lot of recommendations of segments of the show to use and this was one of the best. Jenner's lines helped a lot to sell the drama I was trying to show and the prison sickness arc was also a huge assist in terms of showing disease symptoms throughout.</p>
+                                            
+                                            <p class="centerText">Another speech that I knew I wanted to include early on is <a href="https://youtu.be/oFcMN6F1ZiU?t=225" target="_blank">Negan's</a></p>
+                                            
+                                            <p class="centerText"><i>Bet you thought you were all gonna grow old together...sitting around the table at Sunday dinner in the happily ever after. No...doesn't work like that Rick...not anymore.</i></p>
+                                            
+                                            <p class="centerText">Beyond the obvious allusions to COVID-19 here, I also tried to show what Rick had lost between Carl and Judith (perceived loss for the video), as well as the brief clip with Maggie grieving Glenn. There's also a brief interaction at the end of this segment where Rick is walking with Carl and Morgan looks outside and there's a quick cut of them holding hands that I liked a lot.</p>
+                                            
+                                            <p class="centerText">After this I bring back <a href="https://youtu.be/oFcMN6F1ZiU?t=244" target="_blank">the VHS filter</a> from the beginning to close out the video with the mostly documentary style footage. The dialogue here works to bring the viewer into the story braking the 4th wall (though not for the first time as earlier dialogue does this as well). The <a href="https://youtu.be/oFcMN6F1ZiU?t=264" target="_blank">2nd to last line</a> that Tyreese says further supplements the title choice for the video.</p>
+                                            
+                                            <p class="centerText">The <a href="https://youtu.be/oFcMN6F1ZiU?t=267" target="_blank">final vhs filtered shot</a> includes a timestamp that correlates to the US election date from 2020, encouraging others to take action to help get a leader into office that could handle the COVID-19 crisis better than Donald Trump managed to. As the video stops here and pans out it also brings to mind the viewer watching the video as it finishes, further supporting the idea that the video is speaking directly to the viewer.</p>
+                                           
+                                            <p class="centerText">Overall in a year when I didn't even plan to make a video initially this turned out to be one of my most ambitious videos I've ever created. I think it turned out particularly well and is among my best work to date.</p>
+                                                
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/ST2H8FWDvEA" target="_blank"><p class="list-group-item-text">John Murphy - In the House, In a Heartbeat</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt1520211/" target="_blank"><p class="list-group-item-text">The Walking Dead</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt3743822/" target="_blank"><p class="list-group-item-text">Fear the Walking Dead</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="fs" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="societyVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>F Society (2020)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2020 Pro Best Live Action Nomination</span>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> event in 2020.</p>
+                                            
+                                            <p class="centerText">This verdict is not justice, it's accountability.</p>
+
+                                            <p class="centerText">Those were the words heard around the world after the George Floyd verdict was announced and the first time a white police officer has ever been successfully convicted for killing a Black man. On May 25th, 2020 <a href="https://youtu.be/YCwrURHW2C0?t=75" target="_blank">George was arrested, pinned down and then held down by the officer's knee until he died from lack of oxygen.</a></p>
+                                            
+                                            <p class="centerText">But the story didn't start there. On February 26th, 2012 <a href="https://youtu.be/YCwrURHW2C0?t=4" target="_blank">Trayvon Martin was shot and killed by a member of the neighborhood watch</a>, George Zimmerman. Over time the movement grew until it climaxed in the summer of 2020 with the <a href="https://youtu.be/YCwrURHW2C0?t=8" target="_blank">George</a> <a href="https://youtu.be/YCwrURHW2C0?t=72" target="_blank">Floyd</a> <a href="https://youtu.be/YCwrURHW2C0?t=171" target="_blank">protests</a>.</p> 
+
+                                            <p class="centerText">Ethnic minorities have always been <a href="https://youtu.be/YCwrURHW2C0?t=67" target="_blank">mistreated by the police</a> in America. They've even been <a href="https://youtu.be/YCwrURHW2C0?t=78" target="_blank">attacked in their homes like Fred Hampton and Breonna Taylor</a>, sometimes for political reasons and sometimes because of gross negligence and misinformation. Whatever the reasons are, it's time for us to <a href="https://youtu.be/YCwrURHW2C0?t=194" target="_blank">wake up</a> and ask ourselves <i>do we know what's going on?</i></p>
+                                            
+                                            <p class="centerText">This was the first time I attempted a current events video based in politics and a movement such as this. I think the song perfectly encapsulates the problems highlighted above just as it did over 20 years ago. In addition to Black Lives Matter I also made other references to the <a href="https://youtu.be/YCwrURHW2C0?t=11" target="_blank">Trump</a> <a href="https://youtu.be/YCwrURHW2C0?t=87" target="_blank">administration</a> <a href="https://youtu.be/YCwrURHW2C0?t=221" target="_blank">throughout</a> given the political landscape at the time of the recent riots.</p>
+                                            
+                                            <p class="centerText">I also experimented with special effects here a little more than usual with the <a href="https://youtu.be/YCwrURHW2C0?t=43" target="_blank">color correction work I did on the staircase scene</a>. This is also a much faster paced video than I typically do with the live action format, a trend I began doing more recently with <a href="https://youtu.be/zQvXwGxU6wc" target="_blank">Toxic Orphans</a> back in 2019.</p>
+                                            
+                                            <p class="centerText">I even incorporated elements of my own life at the time given my <a href="https://youtu.be/YCwrURHW2C0?t=111" target="_blank">recent engagement and upcoming wedding</a> in 2022.</p>
+                                            
+                                            <p class="centerText">This video may not have won any awards but I'm proud of what I was able to accomplish here and as a political video it feels like a good first attempt.</p>
+                                            
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/wauzrPn0cfg" target="_blank"><p class="list-group-item-text">Rage Against the Machine - Wake Up</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt4158110/" target="_blank"><p class="list-group-item-text">Mr. Robot</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="mw" class="tab-pane fade">

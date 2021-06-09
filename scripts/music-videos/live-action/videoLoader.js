@@ -5,6 +5,8 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var twdCovidCheck = 0; 
+var fSocietyCheck = 0; 
 var marvelousWorldCheck = 0; 
 var toxicOrphansCheck = 0; 
 var madnessCheck = 0; 
@@ -18,6 +20,30 @@ var aPrimalNightCheck = 0;
 var honorAndVengeanceCheck = 0; 
 var itAintLikeItWasBeforeCheck = 0; 
 var aTaleOfTwoMenCheck = 0; 
+
+//Do you know what's going on?
+$(document).on("click", ".twdCovid", function() {
+    
+   if(fSocietyCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/twdCovid.js", function () {
+            console.log("Covid video loaded");
+            twdCovidCheck = 1;
+        });
+   } //end if
+});
+
+//F Society
+$(document).on("click", ".fSociety", function() {
+    
+   if(fSocietyCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/fSociety.js", function () {
+            console.log("Society video loaded");
+            fSocietyCheck = 1;
+        });
+   } //end if
+});
 
 //Marvelous World
 $(document).on("click", ".marvelousWorld", function() {
