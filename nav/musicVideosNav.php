@@ -31,6 +31,9 @@
                             <li id="laRow" class="menu-item subIndent">
                               <a href="/music-videos/live-action.php">- Live Action</a>
                             </li>
+                            <li id="laRow" class="menu-item subIndent">
+                              <a href="/music-videos/lightning-bear-studios.php">- Lightning Bear Studios</a>
+                            </li>
                         <?php        
                             } //end if
                             else
@@ -45,6 +48,9 @@
                                     </li>
                                     <li class="menu-item submenu">
                                         <a href="/music-videos/live-action.php">Live Action</a>
+                                    </li>
+                                    <li class="menu-item submenu">
+                                        <a href="/music-videos/lightning-bear-studios.php">Lightning Bear Studios</a>
                                     </li>
                                 </ul>
                             </li>   

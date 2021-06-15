@@ -246,18 +246,19 @@
                             <img src="/images/home/live-action.jpg" class="img-responsive" alt="Live Action Music Videos with an actress from 'Person of Interest' on CBS holding a gun">
                         </a>
                     </div>
-                    <!--
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#musicVideosModal3" class="portfolio-link">
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 portfolio-item">
+                        <a href="/music-videos/lightning-bear-studios.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
-                            <img src="http://<?php //echo $_SERVER['SERVER_NAME']; ?>/images/filmedTEST.png" class="img-responsive" alt="">
+                            <img src="/images/home/lightning-bear-studios.jpg" class="img-responsive" alt="Lightning Bear Studios Music Videos with our studio logo of a bear surrounded by electrical imagery">
                         </a>
                     </div>
-                    -->
+                   
                 </div>
             </div>
         </section>
