@@ -56,6 +56,21 @@
                             <div class="pillContainer">
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
+                                    <li class="dropdown">
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
+                                        <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown twdCovid">Aichi</a></li>
+                                            <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown fSociety">Dexter</a></li>
+                                            <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown marvelousWorld">HiddenWhiteFang</a></li>
+                                            <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown toxicOrphans">Lord Rae</a></li>
+                                            <li><a data-toggle="pill" href="#piyushK" class="fullWidthDropdown madness">Piyush K</a></li>
+                                            <li><a data-toggle="pill" href="#rivkah" class="fullWidthDropdown oneThatIWant">Rivkah</a></li>
+                                            <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown theButterfly">SasukeChanX</a></li>
+                                            <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown alone">Speedy180</a></li>
+                                            <li><a data-toggle="pill" href="#daze" class="fullWidthDropdown collisionVision">TheLazyDaze</a></li>
+                                            <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown shadesOfReality">TwigglyFiggly</a></li>
+                                        </ul>
+                                    </li>
                                 </ul>
                             </div>
                                 <br>
@@ -69,6 +84,226 @@
                                     <p class="mediaDesc">Then at Anime Weekend Atlanta they had an event called the Thunderdome and you had to have a team name for that. The first year we had Sarah Sannoune (SasukeChanx) among other former team members. Then the year after that Will Whaley (Speedy180) joined and we all started talking after that.</p>
 
                                     <p class="mediaDesc">Finally in 2019 we recruited Parker Doss (TwigglyFiggly) and decided to announce the creation of the studio at the con and we won the Thunderdome that year too.</p>
+                                </div>
+                                
+                                <div id="aichi" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="aichiVideo??????????"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Aichi (2021)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="dex" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="dexVideoDoYouKnowWhatsGoingOn"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Dexter (2016)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Founder</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="hwf" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="hwfVideo7years"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>HiddenWhiteFang (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="lordRae" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="lordRae????????"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Lord Rae (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="piyushK" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="pkVideo????????????????"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Piyush K (2020)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="rivkah" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="rivkahVideoBangBangBang"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Rivkah (2021)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="sarah" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="sarahVideoPerfectBlue"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>SasukeChanX (2016)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Founding Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="speedy" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="speedyVideo????????????"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Speedy180 (2017)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Our Fearless Leader</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="daze" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="speedyVideo????????????"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>TheLazyDaze (2020)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="twig" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="twigVideoBreakdown"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>TwigglyFiggly (2019)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+
+                                        </div>
+                                    </div>      
                                 </div>
                             </div>
                         </div>
