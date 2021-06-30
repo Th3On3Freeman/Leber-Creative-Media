@@ -91,7 +91,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="aichiVideo??????????"></div>
+                                                <div id="aichiVideoHeroman"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -245,7 +245,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="speedyVideo????????????"></div>
+                                                <div id="speedyVideoTinMan"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -267,7 +267,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="speedyVideo????????????"></div>
+                                                <div id="dazeVideoTruckKun"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
