@@ -59,7 +59,7 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown twdCovid">Aichi</a></li>
+                                            <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown twdCovid">Aichi Starburst</a></li>
                                             <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown fSociety">Dexter</a></li>
                                             <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown marvelousWorld">HiddenWhiteFang</a></li>
                                             <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown toxicOrphans">Lord Rae</a></li>
@@ -100,9 +100,11 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Aichi (2021)</h2>
+                                            <h2>Aichi Starburst (2021)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/aichi.jpg" class="img-responsive" alt="Aichi Starburst's profile picture">
 
                                         </div>
                                     </div>      
@@ -125,6 +127,8 @@
                                             <h2>Dexter (2016)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Founder</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/dexter.jpg" class="img-responsive" alt="Dexter's profile picture">
 
                                         </div>
                                     </div>      
@@ -147,6 +151,8 @@
                                             <h2>HiddenWhiteFang (2019)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/hiddenWhiteFang.jpg" class="img-responsive" alt="HiddenWhiteFang's profile picture">
 
                                         </div>
                                     </div>      
@@ -169,6 +175,8 @@
                                             <h2>Lord Rae (2019)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/lordRae.jpg" class="img-responsive" alt="Lord Rae's profile picture">
 
                                         </div>
                                     </div>      
@@ -191,6 +199,8 @@
                                             <h2>Piyush K (2020)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/piyushK.jpg" class="img-responsive" alt="Piyush K's profile picture">
 
                                         </div>
                                     </div>      
@@ -213,6 +223,8 @@
                                             <h2>Rivkah (2021)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/rivkah.jpg" class="img-responsive" alt="Rivkah's profile picture">
 
                                         </div>
                                     </div>      
@@ -235,6 +247,8 @@
                                             <h2>SasukeChanX (2016)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Founding Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/sasukeChanX.jpg" class="img-responsive" alt="SasukeChanX's profile picture">
 
                                         </div>
                                     </div>      
@@ -257,6 +271,8 @@
                                             <h2>Speedy180 (2017)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Our Fearless Leader</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/speedy180.jpg" class="img-responsive" alt="Speedy180's profile picture">
 
                                         </div>
                                     </div>      
@@ -279,6 +295,8 @@
                                             <h2>TheLazyDaze (2020)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
 
                                         </div>
                                     </div>      
@@ -301,6 +319,8 @@
                                             <h2>TwigglyFiggly (2019)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/twig.jpg" class="img-responsive" alt="TwigglyFiggly's profile picture">
 
                                         </div>
                                     </div>      
