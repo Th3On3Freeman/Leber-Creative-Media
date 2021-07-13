@@ -24,7 +24,7 @@ var aTaleOfTwoMenCheck = 0;
 //Do you know what's going on?
 $(document).on("click", ".twdCovid", function() {
     
-   if(fSocietyCheck == 0)
+   if(twdCovidCheck == 0)
    {
         $.getScript("/scripts/music-videos/live-action/twdCovid.js", function () {
             console.log("Covid video loaded");

@@ -59,16 +59,16 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
-                                            <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown twdCovid">Aichi Starburst</a></li>
-                                            <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown fSociety">Dexter</a></li>
-                                            <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown marvelousWorld">HiddenWhiteFang</a></li>
-                                            <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown toxicOrphans">Lord Rae</a></li>
-                                            <li><a data-toggle="pill" href="#piyushK" class="fullWidthDropdown madness">Piyush K</a></li>
-                                            <li><a data-toggle="pill" href="#rivkah" class="fullWidthDropdown oneThatIWant">Rivkah</a></li>
-                                            <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown theButterfly">SasukeChanX</a></li>
-                                            <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown alone">Speedy180</a></li>
-                                            <li><a data-toggle="pill" href="#daze" class="fullWidthDropdown collisionVision">TheLazyDaze</a></li>
-                                            <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown shadesOfReality">TwigglyFiggly</a></li>
+                                            <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown aichi">Aichi Starburst</a></li>
+                                            <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown dex">Dexter</a></li>
+                                            <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown hwf">HiddenWhiteFang</a></li>
+                                            <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown lordRae">Lord Rae</a></li>
+                                            <li><a data-toggle="pill" href="#pk" class="fullWidthDropdown pk">Piyush K</a></li>
+                                            <li><a data-toggle="pill" href="#rivkah" class="fullWidthDropdown rivkah">Rivkah</a></li>
+                                            <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown sarah">SasukeChanX</a></li>
+                                            <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown speedy">Speedy180</a></li>
+                                            <li><a data-toggle="pill" href="#daze" class="fullWidthDropdown daze">TheLazyDaze</a></li>
+                                            <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown twig">TwigglyFiggly</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -91,7 +91,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="aichiVideoHeroman"></div>
+                                                <div id="aichiVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -115,7 +115,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="dexVideoDoYouKnowWhatsGoingOn"></div>
+                                                <div id="dexVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -139,7 +139,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="hwfVideo7years"></div>
+                                                <div id="hwfVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -163,7 +163,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="lordRae????????"></div>
+                                                <div id="lordRaeVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -182,12 +182,12 @@
                                     </div>      
                                 </div>
                                 
-                                <div id="piyushK" class="tab-pane fade">
+                                <div id="pk" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="pkVideo????????????????"></div>
+                                                <div id="pkVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -211,7 +211,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="rivkahVideoBangBangBang"></div>
+                                                <div id="rivkahVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -235,7 +235,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="sarahVideoPerfectBlue"></div>
+                                                <div id="sarahVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -259,7 +259,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="speedyVideoTinMan"></div>
+                                                <div id="speedyVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -283,7 +283,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="dazeVideoTruckKun"></div>
+                                                <div id="dazeVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -307,7 +307,7 @@
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="twigVideoBreakdown"></div>
+                                                <div id="twigVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -339,11 +339,11 @@
             //Highlight nav row
             $("#aRow").addClass("selectedRow");
         </script>
-        <!--
+       
         <script type="text/javascript">
             function downloadJSAtOnload() {
                 var element = document.createElement("script");
-                element.src = "/scripts/music-videos/amv/videoLoader.js?d=<?php echo time(); ?>";
+                element.src = "/scripts/music-videos/lightning-bear-studios/videoLoader.js?d=<?php echo time(); ?>";
                 document.body.appendChild(element);
             }
             if (window.addEventListener)
@@ -352,7 +352,7 @@
                 window.attachEvent("onload", downloadJSAtOnload);
             else window.onload = downloadJSAtOnload;
         </script>
-        -->
+      
     </body>
     
 </html>
