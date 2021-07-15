@@ -16,6 +16,10 @@ var speedyCheck = 0;
 var dazeCheck = 0;
 var twigCheck = 0;
 
+var zwordCheck = 0; 
+var androgynyCheck = 0; 
+var inboundCheck = 0; 
+
 
 //Aichi - Mood be like
 $(document).on("click", ".aichi", function() {
@@ -135,4 +139,43 @@ $(document).on("click", ".twig", function() {
             twigCheck = 1;
         });
    } //end if
+});
+
+//AWA THUNDERDOME
+
+//2019 - We're not using the Z-Word!
+$(document).on("click", ".zword", function() {
+    
+   if(zwordCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/zword.js", function () {
+            console.log("Zword video loaded");
+            zwordCheck = 1;
+        });
+   } //end if
+});
+
+//2017 - Androgyny
+$(document).on("click", ".androgyny", function() {
+    
+   if(androgynyCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/androgyny.js", function () {
+            console.log("Androgyny video loaded");
+            androgynyCheck = 1;
+        });
+   } //end if
+});
+
+//2016 - Inbound
+$(document).on("click", ".inbound", function() {
+    
+    if(inboundCheck == 0)
+    {
+       $.getScript("/scripts/music-videos/lightning-bear-studios/inbound.js", function () {
+            console.log("Inbound video loaded");
+            inboundCheck = 1;        
+       });
+    } //end if
+   
 });

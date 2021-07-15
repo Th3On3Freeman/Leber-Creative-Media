@@ -9,9 +9,7 @@ var themCheck = 0;
 var dynamicStruggleCheck = 0;
 var convergenceCheck = 0;
 var theHeartCheck = 0; 
-var androgynyCheck = 0; 
 var linkinParkDBZCheck = 0;
-var inboundCheck = 0; 
 var arsonistLullabyCheck = 0; 
 var genesisSkyfallCheck = 0;
 var codeOfSwordsCheck = 0; 
@@ -86,18 +84,6 @@ $(document).on("click", ".theHeart", function() {
    } //end if
 });
 
-//Androgyny
-$(document).on("click", ".androgyny", function() {
-    
-   if(androgynyCheck == 0)
-   {
-        $.getScript("/scripts/music-videos/amv/androgyny.js", function () {
-            console.log("Androgyny video loaded");
-            androgynyCheck = 1;
-        });
-   } //end if
-});
-
 //Linkin Park DBZ
 $(document).on("click", ".linkinParkDBZ", function() {
     
@@ -108,19 +94,6 @@ $(document).on("click", ".linkinParkDBZ", function() {
             linkinParkDBZCheck = 1;
         });
    } //end if
-});
-
-//Inbound
-$(document).on("click", ".inbound", function() {
-    
-    if(inboundCheck == 0)
-    {
-       $.getScript("/scripts/music-videos/amv/inbound.js", function () {
-            console.log("Inbound video loaded");
-            inboundCheck = 1;        
-       });
-    } //end if
-   
 });
 
 //Arsonist's Lullabye

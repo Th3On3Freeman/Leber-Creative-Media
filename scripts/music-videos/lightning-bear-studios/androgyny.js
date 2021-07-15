@@ -11,7 +11,7 @@ try {
 
 // create player
 function create_ytplayer() {
-    arsonistLullaby = new YT.Player('androgynyVideo', {
+    androgyny = new YT.Player('androgynyVideo', {
             width: '1280',
             height: '720',   
             videoId: 'r8oNGRbMMcE',  

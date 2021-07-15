@@ -32,7 +32,7 @@
                               <a href="/music-videos/live-action.php">- Live Action</a>
                             </li>
                             <li id="laRow" class="menu-item subIndent">
-                              <a href="/music-videos/lightning-bear-studios.php">- Lightning Bear Studios</a>
+                              <a href="/music-videos/lightning-bear-studios.php">- LBS</a>
                             </li>
                         <?php        
                             } //end if
@@ -50,7 +50,7 @@
                                         <a href="/music-videos/live-action.php">Live Action</a>
                                     </li>
                                     <li class="menu-item submenu">
-                                        <a href="/music-videos/lightning-bear-studios.php">Lightning Bear Studios</a>
+                                        <a href="/music-videos/lightning-bear-studios.php">LBS</a>
                                     </li>
                                 </ul>
                             </li>   

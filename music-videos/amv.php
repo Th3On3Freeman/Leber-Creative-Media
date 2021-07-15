@@ -63,9 +63,7 @@
                                             <li><a data-toggle="pill" href="#ds" class="fullWidthDropdown dynamicStruggle">Dynamic Struggle</a></li>
                                             <li><a data-toggle="pill" href="#conv" class="fullWidthDropdown convergence">Convergence</a></li>
                                             <li><a data-toggle="pill" href="#ht" class="fullWidthDropdown theHeart">The Heart</a></li>
-                                            <li><a data-toggle="pill" href="#a" class="fullWidthDropdown androgyny">Androgyny</a></li>
                                             <li><a data-toggle="pill" href="#lpdbz" class="fullWidthDropdown linkinParkDBZ">Linkin Park DBZ</a></li>
-                                            <li><a data-toggle="pill" href="#i" class="fullWidthDropdown inbound">Inbound</a></li>
                                             <li><a data-toggle="pill" href="#al" class="fullWidthDropdown arsonistLullaby">Arsonist's Lullabye</a></li>
                                             <li><a data-toggle="pill" href="#gs" class="fullWidthDropdown genesisSkyfall">Genesis Skyfall</a></li>
                                             <li><a data-toggle="pill" href="#cos" class="fullWidthDropdown codeOfSwords">Code of Swords</a></li>
@@ -440,51 +438,6 @@
                                     </div>      
                                 </div>
                                 
-                                <div id="a" class="tab-pane fade">
-                                    <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="androgynyVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
-                                    </div>    
-                                        <br>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            
-                                            <h2>Androgyny (2017)</h2>
-                                            <hr class="star-light">
-                                            <span class="skills">AWA Thunderdome 2017-Team Lightning Bear</span>
-                                            
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=203132" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2017 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">Speedy180</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=46" target="_blank">SailorDeath</a>.</p>
-
-                                            <p class="mediaDesc">So we originally had a completely different idea for this video, it was purely going to be a Cowboy Bebop video with a different song. However, due to some hidden contest rules we ended up with this one instead. I did what I could with my portion. SailorDeath decided to get more creative and integrated some live action that made it a more humorous video, which was fine since are whole plan got shot to sunshine anyways.</p>
-                                            
-                                            <p class="mediaDesc">Overall, an interesting combination and experiment in damage control when plans go awry.</p>
-                                            
-                                            <p>This AMV features music from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hVs6Fekh0RY" target="_blank"><p class="list-group-item-text">Garbage - Androgyny</p></a></li>
-                                            </ul>
-                                            
-                                            <p>This AMV features footage from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt0062622/" target="_blank"><p class="list-group-item-text">2001: A Space Odyssey</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
-                                                <li class="list-group-item"><a href="http://www.imdb.com/title/tt1288558/" target="_blank"><p class="list-group-item-text">Evil Dead</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=10216" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist: Brotherhood</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=166" target="_blank"><p class="list-group-item-text">Serial Experiments Lain</p></a></li> 
-                                            </ul>
-                                        </div>
-                                    </div>      
-                                </div>
-                                
                                 <div id="lpdbz" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
@@ -524,56 +477,6 @@
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14887" target="_blank"><p class="list-group-item-text">Dragon Ball Z: Battle of Gods</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.animenewsnetwork.com/encyclopedia/anime.php?id=16549" target="_blank"><p class="list-group-item-text">Dragon Ball Z: Resurrection 'F'</p></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>      
-                                </div>
-                                
-                                <div id="i" class="tab-pane fade">
-                                    <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="inboundVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
-                                    </div>    
-                                        <br>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            
-                                            <h2>Inbound (2016)</h2>
-                                            <hr class="star-light">
-                                            <span class="skills">AWA Thunderdome 2016-Team Lightning Bear</span>
-                                            
-                                            <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=201575" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <p class="mediaDesc">This was a video that I made for <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="http://thunderdome.videoarttrack.com/" target="_blank">Thunderdome Event</a> in 2016 with <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">SasukeChanX</a>, <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=712944" target="_blank">Hamstar138</a>, Troubleclef and <a href="http://www.animemusicvideos.org/members/members_myprofile.php?user_id=1020675" target="_blank">Potato Baron</a>.</p>
-
-                                            <p class="mediaDesc">As per the rules, four of us were given one hour each alone in the Thunderdome to work on the video. Since the event coordinator allowed me to suggest a song, I decided upon a compilation of the opening theme from <a href="https://www.blackmesasource.com/" target="_blank">Black Mesa</a>, for a mod that updated the game <a href="https://en.wikipedia.org/wiki/Half-Life_(video_game)" target="_blank">Half-Life</a>. And to make it a little more interesting we decided that we would not discuss the theme or the anime that we would use in the video so that each of our own styles and ideas could proliferate instead. Afterwards, our fifth team member had two hours to try and pull it all together. It's rough, and could definitely use some improvement in places (give or take the several <b>4:3</b> shots that should have been scaled in on to fill the <b>16:9</b> video; as well as some miscommunication about intentional cuts to black); but overall I'm proud of what our team was able to accomplish.</p>
-                                            
-                                            <p>This AMV features music from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=SFKBP5hWuSA" target="_blank"><p class="list-group-item-text">Joel Nielsen - Inbound Part 1</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=JgXret8NA-4" target="_blank"><p class="list-group-item-text">Joel Nielsen - Inbound Part 2</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=gCI43CkUrnQ" target="_blank"><p class="list-group-item-text">Joel Nielsen - Inbound Part 3</p></a></li>
-                                            </ul>
-                                            
-                                            <p>This AMV features footage from: </p>
-                                            
-                                            <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=13" target="_blank"><p class="list-group-item-text">Cowboy Bebop</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8420" target="_blank"><p class="list-group-item-text">Evangelion 1.0 You Are (Not) Alone</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421" target="_blank"><p class="list-group-item-text">Evangelion 2.0 You Can (Not) Advance</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8422" target="_blank"><p class="list-group-item-text">Evangelion 3.0 You Can (Not) Redo</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=2960" target="_blank"><p class="list-group-item-text">Fullmetal Alchemist (2003)</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=465" target="_blank"><p class="list-group-item-text">Ghost in the Shell (1996)</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=180" target="_blank"><p class="list-group-item-text">Nausicaä of the Valley of the Wind</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=14195" target="_blank"><p class="list-group-item-text">Psycho-Pass</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=17360" target="_blank"><p class="list-group-item-text">Re:Zero-Starting Life in Another World</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=166" target="_blank"><p class="list-group-item-text">Serial Experiments Lain</p></a></li> 
                                             </ul>
                                         </div>
                                     </div>      
