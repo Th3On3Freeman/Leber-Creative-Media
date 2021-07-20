@@ -87,6 +87,8 @@
                                     <h2>About Lightning Bear Studios</h2>
                                     <hr class="star-light">
                                     
+                                    <p class="centerText"><a href="/pdf/music-videos/lightning-bear-studios/Lightning_Bear_Studios_2020_Update.pdf" target="_blank">2020 update</a></p>
+                                    
                                     <p class="mediaDesc">I had a college study group 10 years ago in my Discrete Structures class and we came up with the name Team Lightning Bear.</p>
 
                                     <p class="mediaDesc">Then at Anime Weekend Atlanta they had an event called the Thunderdome and you had to have a team name for that. The first year we had Sarah Sannoune (SasukeChanx) among other former team members. Then the year after that Will Whaley (Speedy180) joined and we all started talking after that.</p>
@@ -502,9 +504,17 @@
                                         </div>
                                     </div>      
                                 </div>   
+                                        <br>
+                                    
+                                    <?php
+                                        //MIA-mi Social Links
+                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/lightning-bear-studios.php");
+                                    ?>
                                 
                                 
                             </div>
+                            
+                            
                         </div>
                     </div>
                 </div>
