@@ -31,7 +31,7 @@
                             <li id="laRow" class="menu-item subIndent">
                               <a href="/music-videos/live-action.php">- Live Action</a>
                             </li>
-                            <li id="laRow" class="menu-item subIndent">
+                            <li id="lbsRow" class="menu-item subIndent">
                               <a href="/music-videos/lightning-bear-studios.php">- LBS</a>
                             </li>
                         <?php        
@@ -57,10 +57,10 @@
                         <?php
                             } //end else
                         ?>
-                <!--
+
                 <li>
                     <a href="/#popSpectrum">Pop Spectrum</a>
-                </li>-->
+                </li>
                 <li>
                     <a href="/#blog">Blog</a>
                 </li>

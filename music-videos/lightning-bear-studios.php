@@ -12,7 +12,7 @@
 
         <meta property="og:site_name" content="Leber Creative Media"/>
         <meta property="og:title" content="Lightning Bear Studios"/>
-        <meta property="og:description" name="description" content="Currently I edit AMVs with Adobe Creative Cloud's version of Adobe Premiere." />
+        <meta property="og:description" name="description" content="I had a college study group 10 years ago in my Discrete Structures class and we came up with the name Team Lightning Bear." />
         <meta property="og:image" content="/images/music-videos/lightning-bear-studios/thumbnail.jpg">
         <meta property="og:image:height" content="448">
         <meta property="og:image:width" content="800">

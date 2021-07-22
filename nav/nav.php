@@ -18,10 +18,11 @@
                 <li>
                     <a href="#musicVideos">Music Videos</a>
                 </li>
-        <!--
+        
                 <li>
                     <a href="#popSpectrum">Pop Spectrum</a>
-                </li>-->
+                </li>
+                
                 <li>
                     <a href="#blog">Blog</a>
                 </li>

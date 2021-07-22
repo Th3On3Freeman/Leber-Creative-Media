@@ -57,10 +57,9 @@
                         <li class="page-scroll">
                             <a href="#musicVideos">Music Videos</a>
                         </li>
-                        <!--
                         <li class="page-scroll">
                             <a href="#popSpectrum">Pop Spectrum</a>
-                        </li>-->
+                        </li>
                         <li class="page-scroll">
                             <a href="#blog">Blog</a>
                         </li>
@@ -263,7 +262,7 @@
             </div>
         </section>
         
-        <!--Pop Spectrum
+        <!--Pop Spectrum-->
         <section id="popSpectrum" class="portfolio">
             <div class="container">
                 <div class="row">
@@ -274,7 +273,7 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-6 portfolio-item">
-                        <a href="#popSpectrumModal1" class="portfolio-link">
+                        <a href="/pop-spectrum/reviews.php" class="portfolio-link">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class="fa fa-search-plus fa-3x"></i>
@@ -296,7 +295,7 @@
                 </div>
             </div>
         </section>
-        -->
+
         <!--Blog-->
         <section id="blog" class="portfolio">
             <div class="container">
