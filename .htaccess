@@ -43,9 +43,16 @@ AddOutputFilterByType DEFLATE application/rss+xml
 AddOutputFilterByType DEFLATE application/javascript
 AddOutputFilterByType DEFLATE application/x-javascript
 
-Redirect 301 /Blog/Best-of-Television/2016.php https://lebercreativemedia.com/blog/best-of-television/2016.php
-Redirect 301 /Film/feature-films.php https://lebercreativemedia.com/film/feature-films.php
-Redirect 301 /Film/trailers.php https://lebercreativemedia.com/film/trailers.php
-Redirect 301 /Film/short-films.php https://lebercreativemedia.com/film/short-films.php
+#Redirect 301 /Blog/Best-of-Television/2016.php https://lebercreativemedia.com/blog/best-of-television/2016.php
+#Redirect 301 /Film/feature-films.php https://lebercreativemedia.com/film/feature-films.php
+#Redirect 301 /Film/trailers.php https://lebercreativemedia.com/film/trailers.php
+#Redirect 301 /Film/short-films.php https://lebercreativemedia.com/film/short-films.php
 
 Options -Indexes
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php82” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php82___lsphp .php .php8 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
