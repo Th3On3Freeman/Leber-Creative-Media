@@ -1576,7 +1576,9 @@
                                             
                                             <p class="centerText">This is an AMV that I submitted to the <a href="https://www.facebook.com/JACONconvention/" target="_blank">JACON</a> AMV Contest in 2006.</p>
                                             
-                                            <p class="mediaDesc">One of my few older videos that has merit to it, this is a video that actually has a semblance of a story to it. Though it uses a cringe-worthy cover of the song "Brothers" from Fullmetal Alchemist by Vic Mignogna (also the voice actor for Ed in the Fullmetal Alchemist dub).</p>
+                                            <p class="mediaDesc">One of my few older videos that has merit to it, this is a video that actually has a semblance of a story to it. Though it uses a cringe-worthy cover of the song "Brothers" from Fullmetal Alchemist by Vic Mignogna 
+                                                                 (also the voice actor for Ed in the Fullmetal Alchemist dub) 
+                                                                 [<a href="https://variety.com/2019/gaming/news/vic-mignogna-sues-funimation-1203193225/" target="_blank">also has been cancelled at this point for morally reprehensible actions</a>].</p>
                                             
                                             <p class="mediaDesc">The insertion of the dub voices halfway through was a mistake, but the rest of the video is at least coherent.</p>
                                             
