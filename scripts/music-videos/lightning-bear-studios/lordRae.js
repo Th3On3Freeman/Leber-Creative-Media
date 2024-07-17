@@ -12,7 +12,7 @@ function create_ytplayer() {
     lordRae = new YT.Player('lordRaeVideo', {  
                height: '1280',  
                width: '720',  
-               videoId: 'DyoHhStcDoU', 
+               videoId: '6sOqhgL2eF8', 
                events: {  
                    'onReady': onPlayerReadyLordRae
                }  

@@ -12,7 +12,7 @@ function create_ytplayer() {
     aichi = new YT.Player('aichiVideo', {  
                height: '1280',  
                width: '720',  
-               videoId: '4pJuOmKhI8g', 
+               videoId: 'kXUMes_Wgmo', 
                events: {  
                    'onReady': onPlayerReadyAichi
                }  
