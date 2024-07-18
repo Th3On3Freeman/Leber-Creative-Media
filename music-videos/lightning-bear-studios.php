@@ -138,7 +138,7 @@
                                             
                                             <h2>Dexter (2016)</h2>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Founder</span>
+                                            <span class="skills">Founding Member</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1061037" target="_blank">AMV.org Link</a></p>
                                             
@@ -289,7 +289,7 @@
                                             
                                             <h2>Speedy180 (2017)</h2>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Our Fearless Leader</span>
+                                            <span class="skills">Founding Member</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">AMV.org Link</a></p>
                                             
