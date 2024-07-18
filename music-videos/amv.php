@@ -1724,13 +1724,8 @@
                                 
                                 <div id="fm" class="tab-pane fade">
                                     <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-4by3">
-                                                <div id="fullmetalMemoriesVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
+                                        <img src="/images/music-videos/video_takedown.jpg" class="img-responsive" alt="Photo of Edward Elric looking frustrated">
+                                        <p class="centerText">No video embed available due to copyright claim by Sony - check it out at the AMV.org link below</p>
                                     </div>    
                                         <br>
                                     <div class="row">

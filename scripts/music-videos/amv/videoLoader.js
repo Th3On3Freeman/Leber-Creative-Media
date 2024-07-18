@@ -28,7 +28,6 @@ var brotherCheck = 0;
 var deathCheck = 0; 
 var wrathCheck = 0; 
 var deathToTheHomunculiCheck = 0; 
-var fullmetalMemoriesCheck = 0; 
 var royMustangCheck = 0; 
 var theFacesOfEvilCheck = 0; 
 var winryRizaIzumiCheck = 0; 
@@ -308,18 +307,6 @@ $(document).on("click", ".deathToTheHomunculi", function() {
         $.getScript("/scripts/music-videos/amv/deathToTheHomunculi.js", function () {
             console.log("Death to the Homunculi video loaded");
             deathToTheHomunculiCheck = 1;
-        });
-   } //end if
-});
-
-//Fullmetal Memories
-$(document).on("click", ".fullmetalMemories", function() {
-    
-   if(fullmetalMemoriesCheck == 0)
-   {
-        $.getScript("/scripts/music-videos/amv/fullmetalMemories.js", function () {
-            console.log("Fullmetal Memories video loaded");
-            fullmetalMemoriesCheck = 1;
         });
    } //end if
 });
