@@ -1,10 +1,10 @@
 <p>Follow The Tailor's Apprentice on these media platforms:</p>
                                     
-<!--Official Website-->
+<!--Official Website
 <div class="www">
     <a class="btn btn-social-icon btn-lg" target="_blank" href="http://www.tailorsapprentice.com/" style="background: url(/images/icons/www.png) no-repeat 0 0;">
     </a>
-</div>
+</div>-->
 
 <!--Facebook-->
 <a class="btn btn-social-icon btn-lg btn-facebook" target="_blank" href="https://www.facebook.com/TailorsApprentice/?fref=ts">
