@@ -92,7 +92,7 @@
                                     
                                     <?php
                                         //MIA-mi Social Links
-                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
+                                        require ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
                                     ?>
                                     
                                 </div>
@@ -120,7 +120,7 @@
                                         <br>
                                     <?php
                                         //MIA-mi Social Links
-                                        require_once ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
+                                        require ($_SERVER["DOCUMENT_ROOT"]."/social-links/miami.php");
                                     ?>
                                     
                                 </div>
