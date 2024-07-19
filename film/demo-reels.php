@@ -133,7 +133,7 @@
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt3512652/" target="_blank"><p class="list-group-item-text">MIA-mi (2015)</p></a></li>
                                                 <li class="list-group-item"><a href="http://www.imdb.com/title/tt2195998/" target="_blank"><p class="list-group-item-text">The Tailor's Apprentice (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/195050184" target="_blank"><p class="list-group-item-text">Wedding: Phil & Laurel (2014)</p></a></li>
-                                                <li class="list-group-item"><a href="https://seawayfilm.wordpress.com/crew/"><p class="list-group-item-text">Seaway (2014)</p></a></li>
+                                                <li class="list-group-item"><a href="https://seawayfilm.wordpress.com/crew/" target="_blank"><p class="list-group-item-text">Seaway (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/194995594" target="_blank"><p class="list-group-item-text">Wedding: John & Gretchen</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=stgnvkLCNEk" target="_blank"><p class="list-group-item-text">Bsteps Revolution (2014)</p></a></li>
                                                 <li class="list-group-item"><a href="https://vimeo.com/192630228" target="_blank"><p class="list-group-item-text">The Book & The Black Dove (2012)</p></a></li>
