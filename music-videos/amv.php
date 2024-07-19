@@ -1278,7 +1278,7 @@
                                             <p>This AMV features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Vun29HO1nbk" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Gods Bound By Rules</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=_NwYIkPiCus" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Gods Bound By Rules</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
