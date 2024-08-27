@@ -10,6 +10,7 @@ var dexCheck = 0;
 var hwfCheck = 0;
 var lordRaeCheck = 0;
 var pkCheck = 0;
+var resyCheck = 0;
 var rivkahCheck = 0;
 var sarahCheck = 0;
 var speedyCheck = 0;
@@ -21,7 +22,7 @@ var androgynyCheck = 0;
 var inboundCheck = 0; 
 
 
-//Aichi - Mood be like
+//Aichi - Eminence in Shadow
 $(document).on("click", ".aichi", function() {
     
    if(aichiCheck == 0)
@@ -57,7 +58,7 @@ $(document).on("click", ".hwf", function() {
    } //end if
 });
 
-//Lord Rae - The Joker
+//Lord Rae - Fatalism vs Determinism
 $(document).on("click", ".lordRae", function() {
     
    if(lordRaeCheck == 0)
@@ -77,6 +78,18 @@ $(document).on("click", ".pk", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/pk.js", function () {
             console.log("pk video loaded");
             pkCheck = 1;
+        });
+   } //end if
+});
+
+//Resy - Rising Waves Drown
+$(document).on("click", ".resy", function() {
+    
+   if(resyCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/resy.js", function () {
+            console.log("Resy video loaded");
+            resyCheck = 1;
         });
    } //end if
 });

@@ -60,14 +60,17 @@
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown aichi">Aichi Starburst</a></li>
+                                            <li><a data-toggle="pill" href="#des" class="fullWidthDropdown des">Destinee</a></li>
                                             <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown dex">Dexter</a></li>
                                             <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown hwf">HiddenWhiteFang</a></li>
+                                            <li><a data-toggle="pill" href="#hv" class="fullWidthDropdown hv">Hilovids</a></li>
+                                            <li><a data-toggle="pill" href="#kk" class="fullWidthDropdown kk">Krispykorean</a></li>
+                                            <li><a data-toggle="pill" href="#leg" class="fullWidthDropdown leg">Legato2400</a></li>
                                             <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown lordRae">Lord Rae</a></li>
-                                            <li><a data-toggle="pill" href="#pk" class="fullWidthDropdown pk">Piyush K</a></li>
-                                            <li><a data-toggle="pill" href="#rivkah" class="fullWidthDropdown rivkah">Rivkah</a></li>
+                                            <li><a data-toggle="pill" href="#rs" class="fullWidthDropdown rs">RaikiriShadow</a></li>
+                                            <li><a data-toggle="pill" href="#resy" class="fullWidthDropdown resy">Resy</a></li>
                                             <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown sarah">SasukeChanX</a></li>
                                             <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown speedy">Speedy180</a></li>
-                                            <li><a data-toggle="pill" href="#daze" class="fullWidthDropdown daze">TheLazyDaze</a></li>
                                             <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown twig">TwigglyFiggly</a></li>
                                         </ul>
                                     </li>
@@ -117,6 +120,32 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1189510" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/aichi.jpg" class="img-responsive" alt="Aichi Starburst's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="des" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="desVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Destinee (2021)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/piyushK.jpg" class="img-responsive" alt="Piyush K's profile picture">
 
                                         </div>
                                     </div>      
@@ -173,6 +202,84 @@
                                     </div>      
                                 </div>
                                 
+                                <div id="hv" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="hvVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Hilovids (2023)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/rivkah.jpg" class="img-responsive" alt="Rivkah's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="kk" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="kkVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>KrispyKorean (2023)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="leg" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="legVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Legato2400 (2023)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
                                 <div id="lordRae" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
@@ -199,12 +306,12 @@
                                     </div>      
                                 </div>
                                 
-                                <div id="pk" class="tab-pane fade">
+                                <div id="rs" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="pkVideo"></div>
+                                                <div id="rsVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -213,22 +320,24 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Piyush K (2020)</h2>
+                                            <h2>RaikiriShadow (2023)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
-                                            <img src="/images/music-videos/lightning-bear-studios/piyushK.jpg" class="img-responsive" alt="Piyush K's profile picture">
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
 
                                         </div>
                                     </div>      
                                 </div>
                                 
-                                <div id="rivkah" class="tab-pane fade">
+                                <div id="resy" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="rivkahVideo"></div>
+                                                <div id="resyVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -237,11 +346,13 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Rivkah (2021)</h2>
+                                            <h2>ResyAMV (2024)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
-                                            <img src="/images/music-videos/lightning-bear-studios/rivkah.jpg" class="img-responsive" alt="Rivkah's profile picture">
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1215057" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/resy.jpg" class="img-responsive" alt="ResyAMV's profile picture">
 
                                         </div>
                                     </div>      
@@ -294,32 +405,6 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/speedy180.jpg" class="img-responsive" alt="Speedy180's profile picture">
-
-                                        </div>
-                                    </div>      
-                                </div>
-                                
-                                <div id="daze" class="tab-pane fade">
-                                    <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="dazeVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
-                                    </div>    
-                                        <br>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            
-                                            <h2>TheLazyDaze (2020)</h2>
-                                            <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
-                                            
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
 
                                         </div>
                                     </div>      
