@@ -14,7 +14,7 @@ var resyCheck = 0;
 var rivkahCheck = 0;
 var sarahCheck = 0;
 var speedyCheck = 0;
-var dazeCheck = 0;
+var desCheck = 0;
 var twigCheck = 0;
 
 var zwordCheck = 0; 
@@ -130,14 +130,14 @@ $(document).on("click", ".speedy", function() {
    } //end if
 });
 
-//TheLazyDaze - Truck-Kun x Train-Chan: Get Wrecked
-$(document).on("click", ".daze", function() {
+//TheDestineeAMV - Thru Our Fire
+$(document).on("click", ".des", function() {
     
-   if(dazeCheck == 0)
+   if(desCheck == 0)
    {
-        $.getScript("/scripts/music-videos/lightning-bear-studios/daze.js", function () {
-            console.log("Daze video loaded");
-            dazeCheck = 1;
+        $.getScript("/scripts/music-videos/lightning-bear-studios/des.js", function () {
+            console.log("TheDestineeAMV video loaded");
+            desCheck = 1;
         });
    } //end if
 });

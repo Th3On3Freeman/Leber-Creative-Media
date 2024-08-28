@@ -60,7 +60,6 @@
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown aichi">Aichi Starburst</a></li>
-                                            <li><a data-toggle="pill" href="#des" class="fullWidthDropdown des">Destinee</a></li>
                                             <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown dex">Dexter</a></li>
                                             <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown hwf">HiddenWhiteFang</a></li>
                                             <li><a data-toggle="pill" href="#hv" class="fullWidthDropdown hv">Hilovids</a></li>
@@ -68,9 +67,10 @@
                                             <li><a data-toggle="pill" href="#leg" class="fullWidthDropdown leg">Legato2400</a></li>
                                             <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown lordRae">Lord Rae</a></li>
                                             <li><a data-toggle="pill" href="#rs" class="fullWidthDropdown rs">RaikiriShadow</a></li>
-                                            <li><a data-toggle="pill" href="#resy" class="fullWidthDropdown resy">Resy</a></li>
+                                            <li><a data-toggle="pill" href="#resy" class="fullWidthDropdown resy">ResyAMV</a></li>
                                             <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown sarah">SasukeChanX</a></li>
                                             <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown speedy">Speedy180</a></li>
+                                            <li><a data-toggle="pill" href="#des" class="fullWidthDropdown des">TheDestineeAMV</a></li>
                                             <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown twig">TwigglyFiggly</a></li>
                                         </ul>
                                     </li>
@@ -120,32 +120,6 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1189510" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/aichi.jpg" class="img-responsive" alt="Aichi Starburst's profile picture">
-
-                                        </div>
-                                    </div>      
-                                </div>
-                                
-                                <div id="des" class="tab-pane fade">
-                                    <div class="row">
-                                        <div class="col-lg-2"></div>
-                                        <div class="col-lg-8">
-                                            <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="desVideo"></div>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-2"></div>
-                                    </div>    
-                                        <br>
-                                    <div class="row">
-                                        <div class="col-lg-12">
-                                            
-                                            <h2>Destinee (2021)</h2>
-                                            <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
-                                            
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <img src="/images/music-videos/lightning-bear-studios/piyushK.jpg" class="img-responsive" alt="Piyush K's profile picture">
 
                                         </div>
                                     </div>      
@@ -352,7 +326,7 @@
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1215057" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/lightning-bear-studios/resy.jpg" class="img-responsive" alt="ResyAMV's profile picture">
+                                            <img src="/images/music-videos/lightning-bear-studios/resyAmv.jpg" class="img-responsive" alt="ResyAMV's profile picture">
 
                                         </div>
                                     </div>      
@@ -405,6 +379,32 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/speedy180.jpg" class="img-responsive" alt="Speedy180's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="des" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="desVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>TheDestineeAMV (2021)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Standard Member</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1154578" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/theDestineeAmv.jpg" class="img-responsive" alt="TheDestineeAMV's profile picture">
 
                                         </div>
                                     </div>      
