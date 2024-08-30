@@ -113,7 +113,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Aichi Starburst (2021)</h2>
+                                            <span class="skills">Aichi Starburst (2021)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -139,7 +139,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Dexter (2016)</h2>
+                                            <span class="skills">Dexter (2016)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Founding Member</span>
                                             
@@ -166,7 +166,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>HiddenWhiteFang (2019)</h2>
+                                            <span class="skills">HiddenWhiteFang (2019)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -190,13 +190,11 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Hilovids (2023)</h2>
+                                        <span class="skills">hilovids (2023)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <img src="/images/music-videos/lightning-bear-studios/rivkah.jpg" class="img-responsive" alt="Rivkah's profile picture">
+                                            <img src="/images/music-videos/lightning-bear-studios/hilovids.jpg" class="img-responsive" alt="hilovids' profile picture">
 
                                         </div>
                                     </div>      
@@ -216,7 +214,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>KrispyKorean (2023)</h2>
+                                            <span class="skills">KrispyKorean (2023)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -242,7 +240,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Legato2400 (2023)</h2>
+                                            <span class="skills">Legato2400 (2023)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -268,7 +266,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Lord Rae (2019)</h2>
+                                            <span class="skills">Lord Rae (2019)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -294,7 +292,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>RaikiriShadow (2023)</h2>
+                                            <span class="skills">RaikiriShadow (2023)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -320,7 +318,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>ResyAMV (2024)</h2>
+                                            <span class="skills">ResyAMV (2024)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -346,7 +344,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>SasukeChanX (2016)</h2>
+                                            <span class="skills">SasukeChanX (2016)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Founding Member</span>
                                             
@@ -372,7 +370,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>Speedy180 (2017)</h2>
+                                            <span class="skills">Speedy180 (2017)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Founding Member</span>
                                             
@@ -398,7 +396,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>TheDestineeAMV (2021)</h2>
+                                            <span class="skills">TheDestineeAMV (2021)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
@@ -424,7 +422,7 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <h2>TwigglyFiggly (2019)</h2>
+                                            <span class="skills">TwigglyFiggly (2019)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             

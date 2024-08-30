@@ -8,6 +8,7 @@ firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 var aichiCheck = 0; 
 var dexCheck = 0;
 var hwfCheck = 0;
+var hvCheck = 0;
 var lordRaeCheck = 0;
 var pkCheck = 0;
 var resyCheck = 0;
@@ -54,6 +55,18 @@ $(document).on("click", ".hwf", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/hwf.js", function () {
             console.log("HWF video loaded");
             hwfCheck = 1;
+        });
+   } //end if
+});
+
+//hilovids - sunshine
+$(document).on("click", ".hv", function() {
+    
+   if(hvCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/hv.js", function () {
+            console.log("HV video loaded");
+            hvCheck = 1;
         });
    } //end if
 });
