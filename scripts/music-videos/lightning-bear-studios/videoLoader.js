@@ -9,6 +9,7 @@ var aichiCheck = 0;
 var dexCheck = 0;
 var hwfCheck = 0;
 var hvCheck = 0;
+var legCheck = 0;
 var lordRaeCheck = 0;
 var pkCheck = 0;
 var resyCheck = 0;
@@ -67,6 +68,18 @@ $(document).on("click", ".hv", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/hv.js", function () {
             console.log("HV video loaded");
             hvCheck = 1;
+        });
+   } //end if
+});
+
+//Legato2400 - Deep Freeze
+$(document).on("click", ".leg", function() {
+    
+   if(legCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/leg.js", function () {
+            console.log("Leg video loaded");
+            legCheck = 1;
         });
    } //end if
 });

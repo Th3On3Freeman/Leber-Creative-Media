@@ -244,9 +244,9 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1056542" target="_blank">AMV.org Link</a></p>
                                             
-                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
+                                            <img src="/images/music-videos/lightning-bear-studios/legato2400.jpg" class="img-responsive" alt="Legato2400's profile picture">
 
                                         </div>
                                     </div>      
