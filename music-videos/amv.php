@@ -1052,7 +1052,7 @@
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=Alegof-51pU" target="_blank"><p class="list-group-item-text">DJ Shadow - Outsider Intro</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=bqksRIE-_8g" target="_blank"><p class="list-group-item-text">Aya Hirano, Emiri Katou, Kaori Fukuhara, Aya Endo - Motteke Sailor Fuku</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=wS3yQMvzNhA" target="_blank"><p class="list-group-item-text">Jason Graves - Titan Station Elementary</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/qfBCn93YI30?t=2m4s" target="_blank"><p class="list-group-item-text">Daniel Licht - Untitled Dexter Music</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=1QmpQi_7oBM" target="_blank"><p class="list-group-item-text">Daniel Licht - Untitled Dexter Music</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=d4WlqxPzQ28" target="_blank"><p class="list-group-item-text">Clutch - The Regulator</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=9bZkp7q19f0" target="_blank"><p class="list-group-item-text">PSY - Gangnam Style</p></a></li>
                                                 <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ohq_j5jsbYc" target="_blank"><p class="list-group-item-text">Jason Graves - You go to my Head</p></a></li>
@@ -1062,7 +1062,7 @@
                                             <p>This AMV features a monologue voiceover from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://youtu.be/qfBCn93YI30?t=1m28s" target="_blank"><p class="list-group-item-text">Michael C. Hall - Dexter Season 1: Episode 7-Circle of Friends</p></a></li>
+                                                <li class="list-group-item"><a href="https://iframe.tvfanatic.com/quotes/shows/dexter/season-1/page-3.html" target="_blank"><p class="list-group-item-text">Michael C. Hall - Dexter Season 1: Episode 7-Circle of Friends</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
@@ -1124,7 +1124,7 @@
                                             
                                             <p class="mediaDesc">Also, at <a href="https://youtu.be/dFkLO1p-8bw?t=2m3s" target="_blank">2:03</a> I cut out 30 seconds to simplify the video between when it initially premiered at <a href="https://twitter.com/floridaanime?lang=en" target="_blank">Florida Anime Experience (FAE)</a> and when I had submitted it to <a href="http://floridasupercon.com/" target="_blank">Florida Supercon (FSC)</a>.</p>
                                             
-                                            <p class="mediaDesc">The whole point of the first half is to lull the viewer into a false sense of security, and then to upend the rug on them when the White-Note Remix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank">2:41</a>; and by the time the Sound mix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=3m24s" target="_blank">3:24</a>, its a roller coaster.</p>
+                                            <p class="mediaDesc">The whole point of the first half is to lull the viewer into a false sense of security, and then to upend the rug on them when the White-Note Remix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=2m41s" target="_blank">2:41</a>; and by the time the Sound mix kicks in at <a href="https://youtu.be/dFkLO1p-8bw?t=3m24s" target="_blank">3:24</a>, it's a roller coaster.</p>
                                             
                                             <p class="mediaDesc">I worked closely with an anonymous (by his wishes) friend of mine who helped me combine the two songs together to create a harmony between the piano and the choir for the finale. Most of it is simply combining the two songs so that it sounds seamless, however there's a few portions where I specifically had things done to emphasize the piano, such as the moment at <a href="https://youtu.be/dFkLO1p-8bw?t=3m36s" target="_blank">3:36</a> when I sped up the video and brought the piano to the forefront.</p> 
                                                 
@@ -1179,8 +1179,8 @@
                                             <p>This AMV features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=0IEbfDtDaUc" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=lrwvtyWiicI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord White-Note Remix</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=9vZUbyM5PxY" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hsO1-9v68as" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Shadowlord White-Note Remix</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
