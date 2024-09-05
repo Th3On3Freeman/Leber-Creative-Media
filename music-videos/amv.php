@@ -133,7 +133,7 @@
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_videoinfo.php?v=206250" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.webconlive.com/" target="_blank">Webcon's</a> <a href="https://youtube.com/playlist?list=PLt1RS-qW_0QiW5SndPhRx_oTC3edQrMtV" target="_blank">AMV contest</a> in 2020 and it won the <i>Best Trailer</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://www.instagram.com/webcon_2020/?hl=fr" target="_blank">Webcon's</a> <a href="https://youtube.com/playlist?list=PLt1RS-qW_0QiW5SndPhRx_oTC3edQrMtV" target="_blank">AMV contest</a> in 2020 and it won the <i>Best Trailer</i> Award.</p>
                                             
                                             <p class="mediaDesc">So this is actually a subset of a previous video I made <a href="https://youtu.be/2bDG_4Y20IE" target="_blank">Convergence</a>, that I extracted for multiple reasons. First off, it works perfectly great on its own as a standalone piece, especially compared to the far more experimental nature of the video it was originally a part of. Second, I was told by more than one person that it was the most compelling part of <i>Convergence</i> and who am I to deny that? Finally, more than one person has mentioned that Convergence as it is is quite long, so much so that I was unable to submit it to a lot of contests back in 2020 so I had to create this almost out of necessity in order to compete.</p>
                                             
@@ -416,11 +416,11 @@
                                             <p>This AMV features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=PUfkJrt4dLI" target="_blank"><p class="list-group-item-text">Keiichi Okabe - The Dark Colossus Destroys All</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=hS--hp1mFYA" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Hollow Dreams</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=ady--PNMsfI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Fate</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=iXlPt8mFkNI" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Atonement</p></a></li>
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=5cT2HJ-afmY" target="_blank"><p class="list-group-item-text">Keiichi Okabe - Hacking Track-Song of the Ancients: Atonement</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=sh0k6SUE4Ow" target="_blank"><p class="list-group-item-text">Keiichi Okabe - The Dark Colossus Destroys All</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=V8geJKhhIQ4" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Hollow Dreams</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=5FaEtvA_11A" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Fate</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=QNmui0Prrls" target="_blank"><p class="list-group-item-text">Keiichi Okabe & Emi Evans - Song of the Ancients: Atonement</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=m1oFz-dDIXM" target="_blank"><p class="list-group-item-text">Keiichi Okabe - Hacking Track-Song of the Ancients: Atonement</p></a></li>
                                             </ul>
                                             
                                             <p>This AMV features footage from: </p>
@@ -514,7 +514,7 @@
                                             
                                             
                                             
-                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV that I submitted to <a href="https://x.com/agamacon" target="_blank">Agamacon's</a> AMV Contest in 2017 and it won the <i>Best Drama</i> award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2016 and it was nominated for the <i>Best Character Profile</i> Award.</p>
                                             
                                             <p class="mediaDesc">I've had this idea in mind ever since I first heard this song in the <a href="https://www.youtube.com/watch?v=Va1UPrFXHKA" target="_blank">Walking Dead Comic Con trailer for season six</a>, and I thought it was the perfect fit for a Mustang video. Originally it was going to be more about the Ishval war, but as I began incorporating Hughes, I realized the emotional core of the video clearly had to be about the friendship between Mustang and Hughes, and how Mustang dealt with his guilt after the tragedy of what happened.</p>
 
