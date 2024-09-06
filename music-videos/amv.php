@@ -134,7 +134,7 @@
                                             
                                             <p class="centerText"><a href="" target="_blank">AMV.org Link</a></p>
                                             
-                                            <p class="mediaDesc">This is an AMV I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2021 and it was nominated for the <i>Best Drama</i> Award.</p>
+                                            <p class="mediaDesc">This is an AMV I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> Contest in 2021 and it was nominated for the <i>Best Drama</i> Award.</p>
                                             
                                             <p class="mediaDesc"></p>
 
