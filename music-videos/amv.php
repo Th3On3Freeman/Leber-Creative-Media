@@ -57,8 +57,9 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2020 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2011-2021 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">   
+                                            <li><a data-toggle="pill" href="#tbyo" class="fullWidthDropdown theBloodYouOwe">The Blood You Owe</a></li>
                                             <li><a data-toggle="pill" href="#tm" class="fullWidthDropdown them">Them</a></li>
                                             <li><a data-toggle="pill" href="#ds" class="fullWidthDropdown dynamicStruggle">Dynamic Struggle</a></li>
                                             <li><a data-toggle="pill" href="#conv" class="fullWidthDropdown convergence">Convergence</a></li>
@@ -111,6 +112,48 @@
                                     <p class="mediaDesc">One thing you will notice here is that in addition to the youtube links I will provide, there are also links to a site called <a href="http://www.animemusicvideos.org/home/home.php" target="_blank">AnimeMusicVideos.org</a>. This is the primary hub and community for AMVs and I'm an active member within this community. You must have an account in order to access videos from this site, but it is the central location where most people put their AMVs online.</p>
                                     
                                     <p class="centerText">Currently I edit AMVs with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
+                                </div>
+                                
+                                <div id="tbyo" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="theBloodYouOweVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>The Blood You Owe (2021)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2021 Pro-Best Drama Nomination</span>
+                                            
+                                            <p class="centerText"><a href="" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <p class="mediaDesc">This is an AMV I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> Contest in 2021 and it was nominated for the <i>Best Drama</i> Award.</p>
+                                            
+                                            <p class="mediaDesc"></p>
+
+                                            <p>This AMV features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=BboMpayJomw" target="_blank"><p class="list-group-item-text">Billie Eilish - No Time To Die</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This AMV features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8423" target="_blank"><p class="list-group-item-text">Evangelion: 3.0+1.0 Thrice Upon a Time</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8422" target="_blank"><p class="list-group-item-text">Evangelion: 3.0 You Can (Not) Redo</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8421" target="_blank"><p class="list-group-item-text">Evangelion: 2.0 You Can (Not) Advance</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.animenewsnetwork.com/encyclopedia/anime.php?id=8420" target="_blank"><p class="list-group-item-text">Evangelion: 1.0 You Are (Not) Alone</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
                                 </div>
                                 
                                 <div id="tm" class="tab-pane fade">

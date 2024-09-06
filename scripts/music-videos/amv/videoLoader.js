@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var theBloodYouOweCheck = 0;
 var themCheck = 0;
 var dynamicStruggleCheck = 0;
 var convergenceCheck = 0;
@@ -34,6 +35,18 @@ var winryRizaIzumiCheck = 0;
 var summaryOfFMACheck = 0;
 var accidentallyInLoveCheck = 0; 
 var noGivingUpCheck = 0; 
+
+//The Blood you Owe
+$(document).on("click", ".theBloodYouOwe", function() {
+    
+    if(theBloodYouOweCheck == 0)
+    {
+         $.getScript("/scripts/music-videos/amv/theBloodYouOwe.js", function () {
+             console.log("The Blood You Owe video loaded");
+             theBloodYouOweCheck = 1;
+         });
+    } //end if
+ });
 
 //Them
 $(document).on("click", ".them", function() {
