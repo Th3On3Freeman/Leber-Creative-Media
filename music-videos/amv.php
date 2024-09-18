@@ -137,9 +137,28 @@
                                             <p class="mediaDesc">This is an AMV I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> Contest in 2021 and it was nominated for the <i>Best Drama</i> Award.</p>
                                             
                                             <p class="mediaDesc">I first thought about making a sequel to <i>Genesis Skyfall</i> when Billie Eilish put out her contribution to the Bond canon in late 2020. However, I knew though that in order for it to have any chance of working the as of yet unreleased ending to the Evangelion franchise (<i>3.0+1.0 Thrice Upon a Time</i>) would have to deliver something that would end up matching the far more downbeat tone that this song had compared to Skyfall. Turns out I got lucky.</p>
+                                            
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-01.jpg" class="img-responsive" alt="">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-02.jpg" class="img-responsive" alt="">
+                                                </div>
+                                            </div>
 
                                             <p class="mediaDesc">Hideaki Anno (the creator of the Evangelion franchise and subsequent rebuild films) had delivered exactly what I was hoping for - a melancholic reactionary aftermath to the chaos of the previous entries. I was able to capitalize on this and lean into this tone with shots like the ones at <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=28" target="_blank">0:28</a> and <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=40" target="_blank">0:40</a> that show these characters struggling to come to terms with the hand they've been dealt. That same hand ends up being a callback (at 0:48-0:54) to a similar thematic moment I had in my previous video (at <a href="https://youtu.be/CWKH3O7qgGI?si=obVtfwDEggDlBK87&t=176" target="_blank">2:56-3:02</a>) which became the title of this subsequent entry (<i>The Blood You Owe</i>).</p>
-
+                                                
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-01.jpg" class="img-responsive" alt="">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-02.jpg" class="img-responsive" alt="">
+                                                </div>
+                                            </div>
                                             <p class="mediaDesc">Speaking of callbacks, there are a few to my original video throughout this; these were how I went about making this a sequel to <i>Genesis Skyfall</i>, in addition to continuing the storyline and the thematic linkage of both videos being done to 007 opening songs. These callbacks include the following:</p>
                                             
                                             <ul class="list-group">
