@@ -136,40 +136,61 @@
                                             
                                             <p class="mediaDesc">This is an AMV I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> Contest in 2021 and it was nominated for the <i>Best Drama</i> Award.</p>
                                             
-                                            <p class="mediaDesc">I first thought about making a sequel to <i>Genesis Skyfall</i> when Billie Eilish put out her contribution to the Bond canon in late 2020. However, I knew though that in order for it to have any chance of working the as of yet unreleased ending to the Evangelion franchise (<i>3.0+1.0 Thrice Upon a Time</i>) would have to deliver something that would end up matching the far more downbeat tone that this song had compared to Skyfall. Turns out I got lucky.</p>
+                                            <p class="mediaDesc">I first thought about making a sequel to <a href="https://www.youtube.com/watch?v=vbYEhhlzYHw" target="_blank"><i>Genesis Skyfall</i></a> when Billie Eilish put out her contribution to the Bond canon in late 2020. However, I knew though that in order for it to have any chance of working the as of yet unreleased ending to the Evangelion franchise (<i>3.0+1.0 Thrice Upon a Time</i>) would have to deliver something that would end up matching the far more downbeat tone that this song had compared to Skyfall. Turns out I got lucky.</p>
                                             
                                             <div class="row">
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-01.jpg" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-01.jpg" class="img-responsive" alt="Shinji in shadow looking downtrodden in front of a city on a sunset background. ">
                                                 </div>
                                                 
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-02.jpg" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/melancholy-02.jpg" class="img-responsive" alt="Rei laying in the grass looking depressed in the shade">
                                                 </div>
                                             </div>
 
-                                            <p class="mediaDesc">Hideaki Anno (the creator of the Evangelion franchise and subsequent rebuild films) had delivered exactly what I was hoping for - a melancholic reactionary aftermath to the chaos of the previous entries. I was able to capitalize on this and lean into this tone with shots like the ones at <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=28" target="_blank">0:28</a> and <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=40" target="_blank">0:40</a> that show these characters struggling to come to terms with the hand they've been dealt. That same hand ends up being a callback (at 0:48-0:54) to a similar thematic moment I had in my previous video (at <a href="https://youtu.be/CWKH3O7qgGI?si=obVtfwDEggDlBK87&t=176" target="_blank">2:56-3:02</a>) which became the title of this subsequent entry (<i>The Blood You Owe</i>).</p>
+                                            <p class="mediaDesc">Hideaki Anno (the creator of the Evangelion franchise and subsequent rebuild films) had delivered exactly what I was hoping for - a melancholic reactionary aftermath to the chaos of the previous entries. I was able to capitalize on this and lean into this tone with shots like the ones at <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=28" target="_blank">0:28</a> and <a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=40" target="_blank">0:40</a> that show these characters struggling to come to terms with the hand they've been dealt. That same hand ends up being a callback (at <a href="https://youtu.be/CWKH3O7qgGI?si=obVtfwDEggDlBK87&t=48" target="_blank">0:48-0:54</a>) to a similar thematic moment I had in my previous video (at <a href="https://youtu.be/vbYEhhlzYHw?si=-hCDdHAYZgA0jY8J&t=176" target="_blank">2:56-3:02</a>) which became the title of this subsequent entry (<i>The Blood You Owe</i>).</p>
                                                 
                                             <div class="row">
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-01.jpg" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-01.jpg" class="img-responsive" alt="Shinji's hand with blood on it in front of Rei's injured body">
                                                 </div>
                                                 
                                                 <div class="col-lg-6">
-                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-02.jpg" class="img-responsive" alt="">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/hand-02.jpg" class="img-responsive" alt="Shinji's hand with blood on it in front of a wasteland covered in smoke with the same framing as the previous image">
                                                 </div>
                                             </div>
+
                                             <p class="mediaDesc">Speaking of callbacks, there are a few to my original video throughout this; these were how I went about making this a sequel to <i>Genesis Skyfall</i>, in addition to continuing the storyline and the thematic linkage of both videos being done to 007 opening songs. These callbacks include the following:</p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=3" target="_blank"><p class="list-group-item-text">Climax (original) callback during the intro (sequel) [0:03-0:13]</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=pZRPmGI5pInD32XC&t=56" target="_blank"><p class="list-group-item-text">Shinji/Rei relationship (original) callback against Gendo/Yui (sequel) [0:56-1:02]</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=HEG9R7OR80CboYxz&t=122" target="_blank"><p class="list-group-item-text">Key moments (original) callback against emotional climax (sequel) [2:02-2:12]</p></a></li> 
+                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=A8BYjwPosiqzDawE&t=3" target="_blank"><p class="list-group-item-text">Climax callback during the intro [0:03-0:13]</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=pZRPmGI5pInD32XC&t=56" target="_blank"><p class="list-group-item-text">Shinji/Rei relationship callback against Gendo/Yui [0:56-1:02]</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/CWKH3O7qgGI?si=HEG9R7OR80CboYxz&t=122" target="_blank"><p class="list-group-item-text">Key moments callback against emotional climax [2:02-2:12]</p></a></li> 
                                             </ul>
 
                                             <p class="mediaDesc">The emotional climax of the video (from <a href="https://youtu.be/CWKH3O7qgGI?si=obVtfwDEggDlBK87&t=120" target="_blank">2:00-2:14</a>) may come across as a spoiler but I feel it's justified as it's relevant to the story I'm trying to tell. I also incorporated an emotional callback here as mentioned above to further drive the point home.</p>
 
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/drawn-01.jpg" class="img-responsive" alt="Shinji sitting on a beach looking longingly at the sky in a hand drawn black and white image">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/drawn-02.jpg" class="img-responsive" alt="Shinji sitting on a beach looking longingly at the sky in a full color final render image">
+                                                </div>
+                                            </div>
+
                                             <p class="mediaDesc">Other elements I integrated throughout include transitioning between scenes that were replicated in a hand drawn style without color to the fully finished and colorized final product (many of these shots and transitions are included throughout the video). There was also an interesting light flicker that occurred in a couple shots (from <a href="https://youtu.be/CWKH3O7qgGI?si=aIKndOjXtscrwSQ7&t=81" target="_blank">1:21-1:25</a>) that matched the flow of the song. In addition to that, there was also a very memorable shot from End of Evangelion that was referenced in <i>3.0+1.0</i> that I wanted to show (at <a href="https://youtu.be/CWKH3O7qgGI?si=aIKndOjXtscrwSQ7&t=163" target="_blank">2:43</a>). Finally, the video ends just as it began (but in reverse) with the shot of the ocean wave receding as it decolorizes.</p>
+
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/head-01.jpg" class="img-responsive" alt="Rei's giant split in half head from End of Evangelion laying against a bloody wasteland">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/amv/the-blood-you-owe/head-02.jpg" class="img-responsive" alt="Shinji's body and face laying against a peaceful image with a piano and tree with the same framing as the previous image">
+                                                </div>
+                                            </div>
 
                                             <p class="mediaDesc">One other thing to note is that <i>3.0+1.0</i> has an aspect ratio (AR) of 2.39:1 and since it was the primary source material for this video I ended up conforming the other films to match this AR so that there would be consistency throughout the video.</p>
 
