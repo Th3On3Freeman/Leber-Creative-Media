@@ -665,11 +665,11 @@
                                             <p class="mediaDesc">I came up with this idea when I first heard this song in the <a href="https://www.youtube.com/watch?v=Q0o3C8i6Ugw" target="_blank">Homeland trailer for season three</a>, and I thought it was the perfect fit for a <i>Breaking Bad</i> video. The lyrics fit extremely well with what I ended up putting together, including the following sequences below:</p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=25s" target="_blank"><p class="list-group-item-text">Walt walking through his ruined home crosscut with sequences earlier in his life (0:25-0:57)</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=1m32s" target="_blank"><p class="list-group-item-text">Walt showing his child what he's done for her <i>building a home</i> (1:32-1:42)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=25s" target="_blank"><p class="list-group-item-text">Walt's ruined home crosscut with earlier in his life (0:25-0:57)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=1m32s" target="_blank"><p class="list-group-item-text">Walt showing his child <i>building a home</i> (1:32-1:42)</p></a></li>
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=1m48s" target="_blank"><p class="list-group-item-text">Walt's wife is leaving him (1:48-2:04)</p></a></li> 
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=2m46s" target="_blank"><p class="list-group-item-text"><i>Planting the seeds</i> crosscut with Walt's bug bomb tents (2:46-2:53)</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=3m12s" target="_blank"><p class="list-group-item-text"><i>Ground had arose and past it's knees</i> crosscut with the money actually going up to Walt and Skyler's knees (3:12-3:20)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=3m12s" target="_blank"><p class="list-group-item-text"><i>Ground had arose and past its knees</i> (3:12-3:20)</p></a></li>
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=3m28s" target="_blank"><p class="list-group-item-text">Jesse attempting to climb out of his prison <i>to see the world</i> (3:28-3:38)</p></a></li>
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=3m47s" target="_blank"><p class="list-group-item-text"><i>Held on as tightly as you held onto me</i> (3:47-4:03)</p></a></li>
                                             </ul>
@@ -678,7 +678,7 @@
                                             
                                             <ul class="list-group">
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=1m43s" target="_blank"><p class="list-group-item-text">Jesse and Walt's joy contrasted with their arguments (1:43-1:48)</p></a></li>
-                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=2m24s" target="_blank"><p class="list-group-item-text">Jesse's <i>incredible</i> speech coupled with the montage I put together (2:24-2:46)</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=2m24s" target="_blank"><p class="list-group-item-text">Jesse's <i>incredible</i> speech w/the montage I made (2:24-2:46)</p></a></li>
                                                 <li class="list-group-item"><a href="https://youtu.be/I_qZNU-K1eE?t=5m20s" target="_blank"><p class="list-group-item-text">Walt's plea to his wife (5:20-5:48)</p></a></li> 
                                             </ul>
                                             
@@ -730,7 +730,7 @@
                                             <p>This Music Video features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=riInR-BeQLc" target="_blank"><p class="list-group-item-text">Rolfe Kent & Michael C. Hall - Tonight's the Night (Ice Truckers remix)</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.youtube.com/watch?v=5atZk-a5jBk" target="_blank"><p class="list-group-item-text">Rolfe Kent & Michael C. Hall - Tonight's the Night (Ice Truckers remix)</p></a></li>
                                             </ul>
                                             
                                             <p>This Music Video features footage from: </p>
@@ -873,7 +873,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#aRow").addClass("selectedRow");
+            $("#laRow").addClass("selectedRow");
         </script>
         
         <script type="text/javascript">

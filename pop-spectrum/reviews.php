@@ -59,7 +59,7 @@
                                     <li class="dropdown">
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Reviews <span class="caret"></span></a>
                                         <ul class="dropdown-menu">   
-                                            <li><a data-toggle="pill" href="#hs02s" class="fullWidthDropdown hs02s">Hannibal Season 2 Spoiler Discussion</a></li>
+                                            <li><a data-toggle="pill" href="#hs02s" class="fullWidthDropdown hs02s">Hannibal Season 2 (Spoilers)</a></li>
                                             <li><a data-toggle="pill" href="#hs02" class="fullWidthDropdown hs02">Hannibal Season 2</a></li>
                                             <li><a data-toggle="pill" href="#hs01" class="fullWidthDropdown hs01">Hannibal Season 1</a></li>
                                             <li><a data-toggle="pill" href="#eg" class="fullWidthDropdown eg">Ender's Game</a></li>
@@ -1979,7 +1979,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#aRow").addClass("selectedRow");
+            $("#revRow").addClass("selectedRow");
         </script>
         
         <script type="text/javascript">

@@ -43,10 +43,10 @@
                             <li id="bt16Row" class="menu-item subIndent">
                               <a href="/blog/best-of-television/2016.php">- TV 2016</a>
                             </li>
-                            <li id="bt16Row" class="menu-item subIndent">
+                            <li id="bt17Row" class="menu-item subIndent">
                               <a href="/blog/best-of-television/2017.php">- TV 2017</a>
                             </li>
-                            <li id="bt16Row" class="menu-item subIndent">
+                            <li id="bf21Row" class="menu-item subIndent">
                               <a href="/blog/best-of-film/21st-century.php">- Film</a>
                             </li>
                             

@@ -609,7 +609,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#aRow").addClass("selectedRow");
+            $("#lbsRow").addClass("selectedRow");
         </script>
        
         <script type="text/javascript">

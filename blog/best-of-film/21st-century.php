@@ -943,7 +943,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#bt16Row").addClass("selectedRow");
+            $("#bf21Row").addClass("selectedRow");
         </script>
 
     </body>

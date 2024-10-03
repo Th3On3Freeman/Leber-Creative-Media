@@ -16,7 +16,7 @@
                     <a href="/#videography">Videography</a>
                 </li>
                 <li>
-                    <a href="/#musicVideos">Videography</a>
+                    <a href="/#musicVideos">Music Videos</a>
                 </li>
                     <?php 
                     

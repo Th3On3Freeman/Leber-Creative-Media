@@ -1333,7 +1333,7 @@
         ?>
         <script>
             //Highlight nav row
-            $("#bt16Row").addClass("selectedRow");
+            $("#bt17Row").addClass("selectedRow");
         </script>
         
         <script type="text/javascript">
