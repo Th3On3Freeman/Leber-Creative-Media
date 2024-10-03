@@ -395,11 +395,13 @@
                                             <h2>The Heart (2017)</h2>
                                             <hr class="star-light">                                            
                                             <span class="skills">Youmacon 2017 - Best in Show && AWA 2017 Masters Entry</span>
-                                            
+
                                             <p class="centerText"><a href="http://www.animemusicvideos.org/members/members_videoinfo.php?v=203066" target="_blank">AMV.org Link</a></p>
-                                            <!--
-                                            <img src="/images/music-videos/amv/afo-2013-best-drama.jpg" class="img-responsive" alt="Anime Festival Orlando 'Best Drama' award plaque for 'God of a New World' in 2013">
-                                            -->
+                                            
+                                            <a href="/pdf/music-videos/amv/best-of-show-2017.pdf" target="_blank">
+                                                <img src="/images/music-videos/amv/the-heart/best-of-show-2017.jpg" class="img-responsive" alt="Youmacon 'Best in Show' award photo from Fan Art Theater for 'The Heart' in 2017">
+                                            </a>
+
                                             <p class="mediaDesc">This is an AMV that I submitted to <a href="http://www.fanarttheater.com/" target="_blank">Youmacon's</a> Fan Art Theater contest in 2017 and it won the <i>Best in Show</i> Award. I also submitted this to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Masters</a> Contest in 2017.</p>
                                             
                                             <p class="mediaDesc">This is the third video that I have made using a song from the Nier soundtrack since I began making Nier videos back in 2012 (the other two are <a href="https://www.youtube.com/watch?v=7cLub-nNiWs" target="_blank">A Fullmetal World</a> and <a href="https://www.youtube.com/watch?v=dFkLO1p-8bw" target="_blank">God of a New World</a>). While there is no direct connection between these three videos, I feel that it is the final piece in what I originally wanted to accomplish when I first heard the <a href="https://en.wikipedia.org/wiki/Nier_(video_game)" target="_blank">Nier</a> soundtrack.</p>

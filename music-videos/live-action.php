@@ -466,9 +466,9 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">Agamacon 2018 - Honorable Mention && AWA 2017 Pro Entry</span>
                                             
-                                            <img src="/images/music-videos/amv/agamacon-2018-honorable-mention.jpg" class="img-responsive" alt="Agamacon 'Honorable Mention' award plaque for 'The Butterfly' in 2018">
+                                            <img src="/images/music-videos/live-action/agamacon-2018-honorable-mention.jpg" class="img-responsive" alt="Agamacon 'Honorable Mention' award plaque for 'The Butterfly' in 2018">
                                            
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2017, <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2018.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2017, <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2017 and <a href="https://x.com/agamacon" target="_blank">Agamacon's</a> Music Video Contest in 2018.</p>
                                             
                                             <p class="mediaDesc"><i>The 100</i> is a TV show that has a cast that first and foremost centers around rebellious teenagers. I first heard this song in the season two finale of <a href="http://www.imdb.com/title/tt2699128/" target="_blank">The Leftovers</a>, and one time when I was listening to it I realized just how perfectly it matched these characters.</p>
                                             
