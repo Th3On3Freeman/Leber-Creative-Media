@@ -66,7 +66,7 @@
                                             <li><a data-toggle="pill" href="#kk" class="fullWidthDropdown kk">Krispykorean</a></li>
                                             <li><a data-toggle="pill" href="#leg" class="fullWidthDropdown leg">Legato2400</a></li>
                                             <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown lordRae">Lord Rae</a></li>
-                                            <li><a data-toggle="pill" href="#rs" class="fullWidthDropdown rs">RaikiriShadow</a></li>
+                                            <li><a data-toggle="pill" href="#raiksha" class="fullWidthDropdown raiksha">RaikiriShadow</a></li>
                                             <li><a data-toggle="pill" href="#resy" class="fullWidthDropdown resy">ResyAMV</a></li>
                                             <li><a data-toggle="pill" href="#sarah" class="fullWidthDropdown sarah">SasukeChanX</a></li>
                                             <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown speedy">Speedy180</a></li>
@@ -278,12 +278,12 @@
                                     </div>      
                                 </div>
                                 
-                                <div id="rs" class="tab-pane fade">
+                                <div id="raiksha" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
                                         <div class="col-lg-8">
                                             <div class="embed-responsive embed-responsive-16by9">
-                                                <div id="rsVideo"></div>
+                                                <div id="raikshaVideo"></div>
                                             </div>
                                         </div>
                                         <div class="col-lg-2"></div>
@@ -292,13 +292,11 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                            <span class="skills">RaikiriShadow (2023)</span>
+                                            <span class="skills">RaikiriShadow (2024)</span>
                                             <hr class="star-light">                                            
                                             <span class="skills">Standard Member</span>
                                             
-                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1198348" target="_blank">AMV.org Link</a></p>
-                                            
-                                            <img src="/images/music-videos/lightning-bear-studios/theLazyDaze.jpg" class="img-responsive" alt="TheLazyDaze's profile picture">
+                                            <img src="/images/music-videos/lightning-bear-studios/raikiriShadow.jpg" class="img-responsive" alt="RaikiriShadow's profile picture">
 
                                         </div>
                                     </div>      

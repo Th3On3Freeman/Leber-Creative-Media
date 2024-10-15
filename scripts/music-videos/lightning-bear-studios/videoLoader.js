@@ -12,6 +12,7 @@ var hvCheck = 0;
 var legCheck = 0;
 var lordRaeCheck = 0;
 var pkCheck = 0;
+var raikshaCheck = 0;
 var resyCheck = 0;
 var rivkahCheck = 0;
 var sarahCheck = 0;
@@ -104,6 +105,18 @@ $(document).on("click", ".pk", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/pk.js", function () {
             console.log("pk video loaded");
             pkCheck = 1;
+        });
+   } //end if
+});
+
+//RaikiriShadow - Bocchi The Rock
+$(document).on("click", ".raiksha", function() {
+    
+   if(raikshaCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/raiksha.js", function () {
+            console.log("RaikiriShadow video loaded");
+            raikshaCheck = 1;
         });
    } //end if
 });
