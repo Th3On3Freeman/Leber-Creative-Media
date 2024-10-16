@@ -313,7 +313,7 @@
 
                                             <p class="mediaDesc">While featuring some brief cameos from the following clones:</p>
 
-                                            <p class="mediaDesc"><b>Beth</b> - (seen briefly in the opening montage, intercut w/Sarah)</p>
+                                            <p class="centerText"><b>Beth</b> - (seen briefly in the opening montage, intercut w/Sarah)</p>
 
                                             <p class="centerText"><b>Krystal</b> - (Intercut w/Sarah at 1:10)</p>
 
@@ -358,9 +358,9 @@
                                             
                                             <p class="mediaDesc">A wise man once said: <i>"It's a lot harder to convince people you're sane than it is to convince them you're crazy."</i></p>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2019 and <a href="http://agamacon.com/" target="_blank">Agamacon's</a> Music Video Contest in 2020. It was nominated for the <i>Best Horror/Best Character Profile/Best Live Action/Best Storytelling</i> awards at AWA and won the <i>Best Horror/Judge's Choice</i> awards at Agamacon.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Professional Awards</a> contest in 2019 and <a href="https://x.com/agamacon" target="_blank">Agamacon's</a> Music Video Contest in 2020. It was nominated for the <i>Best Horror/Best Character Profile/Best Live Action/Best Storytelling</i> awards at AWA and won the <i>Best Horror/Judge's Choice</i> awards at Agamacon.</p>
                                             
-                                            <p class="mediaDesc">I first heard this song when I was playing the first portion of the <a href="https://store.steampowered.com/app/235780/MINERVA/" target="_blank"><i>Minerva</i></a> Half-Life 2 mod titled <i>Metastatis</i> (or <i>Carcinogenesis</i>) in 2007. There was a song that would play in it titled <a href="https://youtu.be/QoUC23vl0y8" target="_blank"><i>Absconditus</i></a> that stuck with me. So much so that when I knew I wanted to create a Hannibal music video, it suddenly clicked that this was the perfect song.</p>
+                                            <p class="mediaDesc">I first heard this song when I was playing the first portion of the <a href="https://store.steampowered.com/app/235780/MINERVA/" target="_blank"><i>Minerva</i></a> Half-Life 2 mod titled <i>Metastatis</i> (or <i>Carcinogenesis</i>) in 2007. There was a song that would play in it titled <a href="https://youtu.be/tDGCJrOO4II?si=kbK14mqMx9lg9ZAR" target="_blank"><i>Absconditus</i></a> that stuck with me. So much so that when I knew I wanted to create a Hannibal music video, it suddenly clicked that this was the perfect song.</p>
                                             
                                             <p class="mediaDesc">In 2015, Hannibal, one of the darkest, most artistic television shows ever made came to a close. It captivated my attention while it was on, and it hasn't left my mind since.</p>
                                             
@@ -387,7 +387,7 @@
                                             <p>This Music Video features music from: </p>
                                             
                                             <ul class="list-group">
-                                                <li class="list-group-item"><a href="https://youtu.be/QoUC23vl0y8" target="_blank"><p class="list-group-item-text">ZhayTee - Absconditus</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/tDGCJrOO4II?si=kbK14mqMx9lg9ZAR" target="_blank"><p class="list-group-item-text">ZhayTee - Absconditus</p></a></li>
                                             </ul>
                                             
                                             <p>This Music Video features footage from: </p>
@@ -417,7 +417,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">Agamacon 2019 entry</span>
                                            
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://agamacon.com/" target="_blank">Agamacon</a> 2019.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="https://x.com/agamacon" target="_blank">Agamacon</a> 2019.</p>
                                             
                                             <p class="mediaDesc">This video was initially inspired by the love of my life. She has always loved <a href="https://www.imdb.com/title/tt0077631/" target="_blank">Grease</a>, but neither of us had heard this cover until it was used on <a href="https://www.imdb.com/title/tt2699128/" target="_blank">The Leftovers</a>. She didn't care much for that show, but she loved that cover; so I kept that in mind.</p>
                                             
