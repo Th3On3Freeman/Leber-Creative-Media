@@ -1,4 +1,4 @@
-var marvelous; 
+var hpLotr; 
 
 // create youtube player if API is loaded
 try {
@@ -9,12 +9,12 @@ try {
 
 // create player
 function create_ytplayer() {
-    marvelous = new YT.Player('marvelousVideo', {  
-               height: '848',  
-               width: '480',  
-               videoId: 'sf-M99Isoxs', 
+    hpLotr = new YT.Player('hpLotrVideo', {  
+               height: '1280',  
+               width: '720',  
+               videoId: 'wgYmz1MdXuI', 
                events: {  
-                   'onReady': onPlayerReadyMW
+                   'onReady': onPlayerReadyHpLotr
                }  
     });     
 }
@@ -25,6 +25,6 @@ function onYouTubeIframeAPIReady() {
 }
 
 // 3. The API will call this function when the video player is ready. 
-function onPlayerReadyMW(event) {  
-    marvelous.setPlaybackQuality('hd480'); 
+function onPlayerReadyHpLotr(event) {  
+    hpLotr.setPlaybackQuality('hd720'); 
 }

@@ -57,8 +57,9 @@
                                 <ul class="nav nav-pills center-pills">
                                     <li class="active"><a data-toggle="pill" href="#intro" class="btn btn-default pillTabs">About</a></li>
                                     <li class="dropdown">
-                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2020 <span class="caret"></span></a>
+                                        <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">2012-2023 <span class="caret"></span></a>
                                         <ul class="dropdown-menu">
+                                            <li><a data-toggle="pill" href="#hpLotr" class="fullWidthDropdown hpLotr">Nightmare</a></li>
                                             <li><a data-toggle="pill" href="#twdCovid" class="fullWidthDropdown twdCovid">Do you know what's going on?</a></li>
                                             <li><a data-toggle="pill" href="#fs" class="fullWidthDropdown fSociety">F Society</a></li>
                                             <li><a data-toggle="pill" href="#mw" class="fullWidthDropdown marvelousWorld">Marvelous World</a></li>
@@ -93,6 +94,54 @@
                                     <p class="centerText">Currently I edit Live-Action Music Videos with <a href="http://www.adobe.com/creativecloud.html" target="_blank">Adobe Creative Cloud's</a> version of Adobe Premiere.</p>
                                 </div>
                                 
+                                <div id="hpLotr" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="hpLotrVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <h2>Nightmare (2022)</h2>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">AWA 2022 Accolades Best Horror/Best Storytelling && Youmacon 2022 - That Wasn't Weed, Shaggy</span>
+                                            
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Accolades</a> event in 2022. It won the <i>Best Horror</i> and <i>Best Storytelling</i> Awards. It also won the <i>That Wasn't Weed, Shaggy</i> award at <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2022</p>
+
+                                            <p>This Music Video features music from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://youtu.be/cfVYbWadn3w" target="_blank"><p class="list-group-item-text">Mark Korven - A Witch Stole Sam</p></a></li>
+                                                <li class="list-group-item"><a href="https://youtu.be/bVjHlbmqXHU" target="_blank"><p class="list-group-item-text">Jason Graves - Lacrimosa</p></a></li>
+                                            </ul>
+                                            
+                                            <p>This Music Video features footage from: </p>
+                                            
+                                            <ul class="list-group">
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0120737/" target="_blank"><p class="list-group-item-text">The Lord of the Rings: The Fellowship of the Ring</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0167261/" target="_blank"><p class="list-group-item-text">The Lord of the Rings: The Two Towers</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0167260/" target="_blank"><p class="list-group-item-text">The Lord of the Rings: The Return of the King</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0241527/" target="_blank"><p class="list-group-item-text">Harry Potter and the Sorceror's Stone</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0295297/" target="_blank"><p class="list-group-item-text">Harry Potter and the Chamber of Secrets</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0304141/" target="_blank"><p class="list-group-item-text">Harry Potter and the Prisoner of Azkaban</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0330373/" target="_blank"><p class="list-group-item-text">Harry Potter and the Goblet of Fire</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0373889/" target="_blank"><p class="list-group-item-text">Harry Potter and the Order of the Phoenix</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0417741/" target="_blank"><p class="list-group-item-text">Harry Potter and the Half-Blood Prince</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt0926084/" target="_blank"><p class="list-group-item-text">Harry Potter and the Deathly Hallows: Part 1</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt1201607/" target="_blank"><p class="list-group-item-text">Harry Potter and the Deathly Hallows: Part 2</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt1170358/" target="_blank"><p class="list-group-item-text">The Hobbit: The Desolation of Smaug</p></a></li>
+                                                <li class="list-group-item"><a href="https://www.imdb.com/title/tt4123432/" target="_blank"><p class="list-group-item-text">Fantastic Beasts: The Secrets of Dumbledore</p></a></li>
+                                            </ul>
+                                        </div>
+                                    </div>      
+                                </div>
+                                
                                 <div id="twdCovid" class="tab-pane fade">
                                     <div class="row">
                                         <div class="col-lg-2"></div>
@@ -111,7 +160,7 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2020 Pro Best Video/Best Live Action/Best Artistic Endeavor && Momocon 2021 Most Intriguing</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> event in 2020. It won the Best Video, Best Live Action and <i>Best Artistic Endeavor</i> Awards. It also won the <i>Most Intriguing</i> award at <a href="https://www.momocon.com/" target="_blank">Momocon's</a> <a href="https://www.momocon.com/amv/" target="_blank">Music Video Contest</a> in 2021.</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Peer Review Online (PRO)</a> event in 2020. It won the <i>Best Video, Best Live Action</i> and <i>Best Artistic Endeavor</i> Awards. It also won the <i>Most Intriguing</i> award at <a href="https://www.momocon.com/" target="_blank">Momocon's</a> <a href="https://www.momocon.com/amv/" target="_blank">Music Video Contest</a> in 2021.</p>
                                             
                                             <p class="centerText">This was a transformation of <a href="https://www.imdb.com/title/tt1520211/" target="_blank">The Walking Dead</a> && <a href="https://www.imdb.com/title/tt3743822/" target="_blank">Fear the Walking Dead</a> into a story about COVID-19 (suggested by my fiance) using the theme from my favorite film <a href="https://www.imdb.com/title/tt0289043/" target="_blank">28 Days Later</a>.</p>
                                             

@@ -5,6 +5,7 @@ tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];  
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var hpLotrCheck = 0; 
 var twdCovidCheck = 0; 
 var fSocietyCheck = 0; 
 var marvelousWorldCheck = 0; 
@@ -20,6 +21,18 @@ var aPrimalNightCheck = 0;
 var honorAndVengeanceCheck = 0; 
 var itAintLikeItWasBeforeCheck = 0; 
 var aTaleOfTwoMenCheck = 0; 
+
+//Nightmare
+$(document).on("click", ".hpLotr", function() {
+    
+   if(hpLotrCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/live-action/hpLotr.js", function () {
+            console.log("Nightmare video loaded");
+            hpLotrCheck = 1;
+        });
+   } //end if
+});
 
 //Do you know what's going on?
 $(document).on("click", ".twdCovid", function() {
