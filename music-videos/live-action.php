@@ -112,7 +112,9 @@
                                             <hr class="star-light">                                            
                                             <span class="skills">AWA 2022 Accolades Best Horror/Best Storytelling && Youmacon 2022 - That Wasn't Weed, Shaggy</span>
                                             
-                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Accolades</a> event in 2022. It won the <i>Best Horror</i> and <i>Best Storytelling</i> Awards. It also won the <i>That Wasn't Weed, Shaggy</i> award at <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2022</p>
+                                            <p class="centerText">This is a music video that I submitted to <a href="http://awa-con.com/" target="_blank">Anime Weekend Atlanta's</a> <a href="https://awa-con.com/the-video-art-track/" target="_blank">Accolades</a> event in 2022. It won the <i>Best Horror</i> and <i>Best Storytelling</i> Awards. It also won the <i>That Wasn't Weed, Shaggy</i> award at <a href="http://www.youmacon.com/" target="_blank">Youmacon's</a> <a href="http://www.fanarttheater.com/" target="_blank">Fan Art Theater Contest</a> in 2022.</p>
+
+                                            <p class="centerText">This was genre-swap conversion of <a href="https://www.imdb.com/list/ls072049366/" target="_blank">Harry Potter</a> and <a href="https://www.imdb.com/list/ls055713151/" target="_blank">Lord of the Rings</a> from fantasy to horror using a combination of a theme from <a href="https://www.imdb.com/title/tt4263482/" target="_blank">The Witch</a> and another longer theme from <a href="https://www.imdb.com/title/tt1697062/" target="_blank">Dead Space 2</a>.</p>
 
                                             <p>This Music Video features music from: </p>
                                             
