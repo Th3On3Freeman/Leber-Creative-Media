@@ -6,6 +6,6 @@
 </a>
 
 <!--Twitter-->
-<a class="btn btn-social-icon btn-lg btn-twitter" target="_blank" href="https://twitter.com/LightningBearS3">
+<a class="btn btn-social-icon btn-lg btn-twitter" target="_blank" href="https://bsky.app/profile/lightningbears.bsky.social">
     <span class="fa fa-twitter"></span>
 </a>

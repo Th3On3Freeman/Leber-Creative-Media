@@ -62,7 +62,7 @@
                                             <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown aichi">Aichi Starburst</a></li>
                                             <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown dex">Dexter</a></li>
                                             <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown hwf">HiddenWhiteFang</a></li>
-                                            <li><a data-toggle="pill" href="#hv" class="fullWidthDropdown hv">Hilovids</a></li>
+                                            <li><a data-toggle="pill" href="#hv" class="fullWidthDropdown hv">hilovids</a></li>
                                             <li><a data-toggle="pill" href="#kk" class="fullWidthDropdown kk">Krispykorean</a></li>
                                             <li><a data-toggle="pill" href="#leg" class="fullWidthDropdown leg">Legato2400</a></li>
                                             <li><a data-toggle="pill" href="#lordRae" class="fullWidthDropdown lordRae">Lord Rae</a></li>
@@ -115,7 +115,7 @@
                                             
                                             <span class="skills">Aichi Starburst (2021)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Nakama</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1189510" target="_blank">AMV.org Link</a></p>
                                             
@@ -141,7 +141,7 @@
                                             
                                             <span class="skills">Dexter (2016)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Founding Member</span>
+                                            <span class="skills">Founder</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1061037" target="_blank">AMV.org Link</a></p>
                                             
@@ -168,7 +168,7 @@
                                             
                                             <span class="skills">HiddenWhiteFang (2019)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Nakama</span>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/hiddenWhiteFang.jpg" class="img-responsive" alt="HiddenWhiteFang's profile picture">
 
@@ -190,9 +190,9 @@
                                     <div class="row">
                                         <div class="col-lg-12">
                                             
-                                        <span class="skills">hilovids (2023)</span>
+                                        <span class="skills">hilovids (2022)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Newbie</span>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/hilovids.jpg" class="img-responsive" alt="hilovids' profile picture">
 
@@ -216,7 +216,7 @@
                                             
                                             <span class="skills">KrispyKorean (2023)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Newbie</span>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/krispyKorean.jpg" class="img-responsive" alt="KrispyKorean's profile picture">
 
@@ -240,7 +240,7 @@
                                             
                                             <span class="skills">Legato2400 (2023)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Newbie</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1056542" target="_blank">AMV.org Link</a></p>
                                             
@@ -266,7 +266,7 @@
                                             
                                             <span class="skills">Lord Rae (2019)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Nakama</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1108" target="_blank">AMV.org Link</a></p>
                                             
@@ -292,7 +292,7 @@
                                             
                                             <span class="skills">RaikiriShadow (2024)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Newbie</span>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/raikiriShadow.jpg" class="img-responsive" alt="RaikiriShadow's profile picture">
 
@@ -316,7 +316,7 @@
                                             
                                             <span class="skills">ResyAMV (2024)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Newbie</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1215057" target="_blank">AMV.org Link</a></p>
                                             
@@ -342,7 +342,7 @@
                                             
                                             <span class="skills">SasukeChanX (2016)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Founding Member</span>
+                                            <span class="skills">Founder</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1087909" target="_blank">AMV.org Link</a></p>
                                             
@@ -368,7 +368,7 @@
                                             
                                             <span class="skills">Speedy180 (2017)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Founding Member</span>
+                                            <span class="skills">Founder</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1117120" target="_blank">AMV.org Link</a></p>
                                             
@@ -394,7 +394,7 @@
                                             
                                             <span class="skills">TheDestineeAMV (2021)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Nakama</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1154578" target="_blank">AMV.org Link</a></p>
                                             
@@ -420,7 +420,7 @@
                                             
                                             <span class="skills">TwigglyFiggly (2019)</span>
                                             <hr class="star-light">                                            
-                                            <span class="skills">Standard Member</span>
+                                            <span class="skills">Nakama</span>
                                             
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1170422" target="_blank">AMV.org Link</a></p>
                                             
