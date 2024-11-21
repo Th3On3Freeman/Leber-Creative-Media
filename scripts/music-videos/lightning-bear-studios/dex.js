@@ -12,7 +12,7 @@ function create_ytplayer() {
     dex = new YT.Player('dexVideo', {  
                height: '1280',  
                width: '720',  
-               videoId: 'oFcMN6F1ZiU', 
+               videoId: 'hdSvv32Dodk', 
                events: {  
                    'onReady': onPlayerReadyDex
                }  

@@ -9,6 +9,7 @@ var aichiCheck = 0;
 var dexCheck = 0;
 var hwfCheck = 0;
 var hvCheck = 0;
+var kkCheck = 0;
 var legCheck = 0;
 var lordRaeCheck = 0;
 var pkCheck = 0;
@@ -37,7 +38,7 @@ $(document).on("click", ".aichi", function() {
    } //end if
 });
 
-//Dexter - Do you know what's going on?
+//Dexter - Don't Worry
 $(document).on("click", ".dex", function() {
     
    if(dexCheck == 0)
@@ -69,6 +70,18 @@ $(document).on("click", ".hv", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/hv.js", function () {
             console.log("HV video loaded");
             hvCheck = 1;
+        });
+   } //end if
+});
+
+//Krispy Korean - Blonde Fragility
+$(document).on("click", ".kk", function() {
+    
+   if(kkCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/kk.js", function () {
+            console.log("KK video loaded");
+            kkCheck = 1;
         });
    } //end if
 });
