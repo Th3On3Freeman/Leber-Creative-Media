@@ -116,6 +116,8 @@
 
                                             <p class="centerText">This was genre-swap conversion of <a href="https://www.imdb.com/list/ls072049366/" target="_blank">Harry Potter</a> and <a href="https://www.imdb.com/list/ls055713151/" target="_blank">Lord of the Rings</a> from fantasy to horror using a combination of a theme from <a href="https://www.imdb.com/title/tt4263482/" target="_blank">The Witch</a> and another longer theme from <a href="https://www.imdb.com/title/tt1697062/" target="_blank">Dead Space 2</a>.</p>
 
+                                            <p class="centerText">There was a lot of common threads between <a href="https://www.imdb.com/list/ls072049366/" target="_blank">Harry Potter</a> and <a href="https://www.imdb.com/list/ls055713151/" target="_blank">Lord of the Rings</a> that made m want to make this video such as the concept of the dark lord (Voldemort/Sauron), the corruption aspect of the ring/locket, Shelob (Spider)/Nagini (Snake), Kreacher/Inferi vs Gollum/Smeagol, Ringwraiths (Nazgul) vs Dementors, Gandalf/Dumbledore falling, the drowning in the lake</p>
+
                                             <p>This Music Video features music from: </p>
                                             
                                             <ul class="list-group">
