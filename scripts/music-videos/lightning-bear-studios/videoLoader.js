@@ -6,6 +6,7 @@ var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
 var aichiCheck = 0; 
+var bleachCheck = 0;
 var dexCheck = 0;
 var hwfCheck = 0;
 var hvCheck = 0;
@@ -20,6 +21,7 @@ var sarahCheck = 0;
 var speedyCheck = 0;
 var desCheck = 0;
 var twigCheck = 0;
+var zeonicCheck = 0;
 
 var zwordCheck = 0; 
 var androgynyCheck = 0; 
@@ -37,6 +39,19 @@ $(document).on("click", ".aichi", function() {
         });
    } //end if
 });
+
+//BleachShippu5678 - Pieces
+$(document).on("click", ".bleach", function() {
+    
+    if(bleachCheck == 0)
+    {
+         $.getScript("/scripts/music-videos/lightning-bear-studios/bleach.js", function () {
+             console.log("Bleach video loaded");
+             bleachCheck = 1;
+         });
+    } //end if
+ });
+
 
 //Dexter - Don't Worry
 $(document).on("click", ".dex", function() {
@@ -202,6 +217,18 @@ $(document).on("click", ".twig", function() {
         $.getScript("/scripts/music-videos/lightning-bear-studios/twig.js", function () {
             console.log("Twig video loaded");
             twigCheck = 1;
+        });
+   } //end if
+});
+
+//ZeonicFreak - A Thousand Bops
+$(document).on("click", ".zeonic", function() {
+    
+   if(zeonicCheck == 0)
+   {
+        $.getScript("/scripts/music-videos/lightning-bear-studios/zeonic.js", function () {
+            console.log("Zeonic video loaded");
+            zeonicCheck = 1;
         });
    } //end if
 });

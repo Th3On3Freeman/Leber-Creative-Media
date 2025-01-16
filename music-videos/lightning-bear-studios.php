@@ -60,6 +60,7 @@
                                         <a class="dropdown-toggle btn btn-default pillTabs" data-toggle="dropdown" href="#">Members<span class="caret"></span></a>
                                         <ul class="dropdown-menu">
                                             <li><a data-toggle="pill" href="#aichi" class="fullWidthDropdown aichi">Aichi Starburst</a></li>
+                                            <li><a data-toggle="pill" href="#bleach" class="fullWidthDropdown bleach">BleachShippu5678</a></li>
                                             <li><a data-toggle="pill" href="#dex" class="fullWidthDropdown dex">Dexter</a></li>
                                             <li><a data-toggle="pill" href="#hwf" class="fullWidthDropdown hwf">HiddenWhiteFang</a></li>
                                             <li><a data-toggle="pill" href="#hv" class="fullWidthDropdown hv">hilovids</a></li>
@@ -72,6 +73,7 @@
                                             <li><a data-toggle="pill" href="#speedy" class="fullWidthDropdown speedy">Speedy180</a></li>
                                             <li><a data-toggle="pill" href="#des" class="fullWidthDropdown des">TheDestineeAMV</a></li>
                                             <li><a data-toggle="pill" href="#twig" class="fullWidthDropdown twig">TwigglyFiggly</a></li>
+                                            <li><a data-toggle="pill" href="#zeonic" class="fullWidthDropdown zeonic">ZeonicFreak</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown">
@@ -120,6 +122,32 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1189510" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/aichi.jpg" class="img-responsive" alt="Aichi Starburst's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+                                
+                                <div id="bleach" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="bleachVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <span class="skills">BleachShippu5678 (2024)</span>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Newbie</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1148706" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/bleachShippu5678.jpg" class="img-responsive" alt="BleachShippu5678's profile picture">
 
                                         </div>
                                     </div>      
@@ -425,6 +453,32 @@
                                             <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=1170422" target="_blank">AMV.org Link</a></p>
                                             
                                             <img src="/images/music-videos/lightning-bear-studios/twig.jpg" class="img-responsive" alt="TwigglyFiggly's profile picture">
+
+                                        </div>
+                                    </div>      
+                                </div>
+
+                                <div id="zeonic" class="tab-pane fade">
+                                    <div class="row">
+                                        <div class="col-lg-2"></div>
+                                        <div class="col-lg-8">
+                                            <div class="embed-responsive embed-responsive-16by9">
+                                                <div id="zeonicVideo"></div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-2"></div>
+                                    </div>    
+                                        <br>
+                                    <div class="row">
+                                        <div class="col-lg-12">
+                                            
+                                            <span class="skills">ZeonicFreak (2020)</span>
+                                            <hr class="star-light">                                            
+                                            <span class="skills">Nakama</span>
+                                            
+                                            <p class="centerText"><a href="https://www.animemusicvideos.org/members/members_myprofile.php?user_id=464243" target="_blank">AMV.org Link</a></p>
+                                            
+                                            <img src="/images/music-videos/lightning-bear-studios/zeonicFreak.jpg" class="img-responsive" alt="ZeonicFreak's profile picture">
 
                                         </div>
                                     </div>      
