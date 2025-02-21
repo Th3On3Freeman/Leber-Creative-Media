@@ -117,6 +117,25 @@
                                             <p class="centerText">This was genre-swap conversion of <a href="https://www.imdb.com/list/ls072049366/" target="_blank">Harry Potter</a> and <a href="https://www.imdb.com/list/ls055713151/" target="_blank">Lord of the Rings</a> from fantasy to horror using a combination of a theme from <a href="https://www.imdb.com/title/tt4263482/" target="_blank">The Witch</a> and another longer theme from <a href="https://www.imdb.com/title/tt1697062/" target="_blank">Dead Space 2</a>.</p>
 
                                             <p class="centerText">There was a lot of common threads between <a href="https://www.imdb.com/list/ls072049366/" target="_blank">Harry Potter</a> and <a href="https://www.imdb.com/list/ls055713151/" target="_blank">Lord of the Rings</a> that made m want to make this video such as the concept of the dark lord (Voldemort/Sauron), the corruption aspect of the ring/locket, Shelob (Spider) vs Nagini/Basilisk (Snake), Kreacher/Inferi vs Gollum/Smeagol, Ringwraiths (Nazgul) vs Dementors, Gandalf/Dumbledore falling, the drowning in the lake </p>
+                                            
+                                            the concept of the dark lord (Voldemort/Sauron), 
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/the-dark-lord-1.jpg" class="img-responsive" alt="Voldemort looking at the camera with his hands on the side of his hand in the misty darkness.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/the-dark-lord-2.jpg" class="img-responsive" alt="Sauron in his steel helmet lit up by an orange glow in a cavern.">
+                                                </div>
+                                            </div>
+                                            the corruption aspect of the ring/locket, 
+                                            Shelob (Spider) vs Nagini/Basilisk (Snake), 
+                                            Kreacher/Inferi vs Gollum/Smeagol, 
+                                            Ringwraiths (Nazgul) vs Dementors, 
+                                            Gandalf/Dumbledore falling, 
+                                            the drowning in the lake
+
+                                            
 
                                             <p>This Music Video features music from: </p>
                                             
