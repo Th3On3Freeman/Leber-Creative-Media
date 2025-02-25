@@ -128,14 +128,71 @@
                                                     <img src="/images/music-videos/live-action/Nightmare/the-dark-lord-2.jpg" class="img-responsive" alt="Sauron in his steel helmet lit up by an orange glow in a cavern.">
                                                 </div>
                                             </div>
-                                            the corruption aspect of the ring/locket, 
-                                            Shelob (Spider) vs Nagini/Basilisk (Snake), 
-                                            Kreacher/Inferi vs Gollum/Smeagol, 
-                                            Ringwraiths (Nazgul) vs Dementors, 
-                                            Gandalf/Dumbledore falling, 
-                                            the drowning in the lake
-
-                                            
+                                            the corruption aspect of the ring/locket,  
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/corruption-1.jpg" class="img-responsive" alt="A pink sweater with a snake collar along with a gold shining necklace.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/corruption-2.jpg" class="img-responsive" alt="A gold ring reflecting the surface it is laying against with a vivid reflection and a visible glow.">
+                                                </div>
+                                            </div>
+                                            Shelob (Spider) vs Nagini/Basilisk (Snake),   
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/creature-1.jpg" class="img-responsive" alt="A giant snake head baring soaked teeth facing the camera surrounded by a stone brick chamber">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/creature-2.jpg" class="img-responsive" alt="A giant spider head baring its teeth along with its legs against a cave surface.">
+                                                </div>
+                                            </div>
+                                            Kreacher/Inferi vs Gollum/Smeagol,   
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/corrupted-1.jpg" class="img-responsive" alt="Several of the Inferi (gangly creatures with almost no meat on the bone) are clinging to a lit surface staring angrily towards the camera.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/corrupted-2.jpg" class="img-responsive" alt="The creature Gollum stares with insanity towards the camera outstretching his hand appearing to hold a pile of dirt with thin strands of hair resting against the face.">
+                                                </div>
+                                            </div> 
+                                            Ringwraiths (Nazgul) vs Dementors,   
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/wraith-1.jpg" class="img-responsive" alt="A skeletal hand of the Dementor holding a door with a backdrop of sun soaked fogged windows.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/wraith-2.jpg" class="img-responsive" alt="A darkly cloaked Nazgul (with no visible body other than the cloak) stares towards the camera against a backdrop of trees with low light.">
+                                                </div>
+                                            </div>  
+                                            the drowning in the lake   
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/drown-1.jpg" class="img-responsive" alt="The boy who lived struggles underwater as the Inferi pulls him downwards to his doom.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/drown-2.jpg" class="img-responsive" alt="The ringbearer has resigned himself to suffering as he stares upwards surrounded by a ghostly green ghoul baring teeth and the whites of their eyes.">
+                                                </div>
+                                            </div> 
+                                            Gandalf/Dumbledore falling,   
+                                            <div class="row">
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/fall-1.jpg" class="img-responsive" alt="Dumbledore falls from Hogwarts' Astronomy tower staring towards the camera with white hair and a long white beard tied at this midpoint with his arms outstretched.">
+                                                </div>
+                                                
+                                                <div class="col-lg-6">
+                                                    <img src="/images/music-videos/live-action/Nightmare/fall-3.jpg" class="img-responsive" alt="Gandalf looks shocked towards the camera with messy lit grey hair and arms covered by a brown cloak.">
+                                                </div>
+                                            </div>   
+                                            <div class="row">
+                                                <div class="col-lg-12">
+                                                    <img src="/images/music-videos/live-action/Nightmare/fall-2.jpg" class="img-responsive" alt="The creature Gollum smiles as he joyfully falls into the pit of a fiery volcano (Mount Doom)">
+                                                </div>
+                                            </div>
 
                                             <p>This Music Video features music from: </p>
                                             
